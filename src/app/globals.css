@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+:root {
+  --color-background: #ffffff;
+  --color-foreground: #171717;
+  --color-high-confidence: #22c55e;
+  --color-moderate-confidence: #eab308;
+  --color-low-confidence: #f97316;
+  --color-very-low-confidence: #ef4444;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #0a0a0a;
+    --color-foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Mapbox overrides */
+.mapboxgl-popup-content {
+  padding: 12px 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.mapboxgl-ctrl-attrib {
+  font-size: 10px;
+}
+
+/* Custom scrollbar for side panel */
+.atlas-panel::-webkit-scrollbar {
+  width: 6px;
+}
+
+.atlas-panel::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.atlas-panel::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+}

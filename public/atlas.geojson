@@ -1,0 +1,692 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "Palm Beach International Airport, FL",
+        "display_name": "Palm Beach International Airport, FL",
+        "events": [
+          {
+            "event_id": "566f8d1ee614511a",
+            "event_title": "Border crossing - travel from Palm Beach to St. Thomas via aircraft N212JE",
+            "event_type": "presence",
+            "description": "Border crossing - travel from Palm Beach to St. Thomas via aircraft N212JE",
+            "date_start": "2018-11-28",
+            "date_end": null,
+            "date_precision": "exact_time",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein named as passenger on border crossing record from Palm Beach to St. Thomas.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 469911707 11/28/2018 15:27 N212JE KPBI TIST PASSENGER",
+                "summary": "Border crossing - travel from Palm Beach to St. Thomas via aircraft N212JE",
+                "confidence": 0.7,
+                "date_start": "2018-11-28",
+                "fragment_id": "3941f46efa552bfd",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf"
+              }
+            ],
+            "location_name": "Palm Beach International Airport, FL"
+          },
+          {
+            "event_id": "8baea65eed803b81",
+            "event_title": "Border crossing - departure from Palm Beach to St. Thomas via aircraft N212JE",
+            "event_type": "presence",
+            "description": "Border crossing - departure from Palm Beach to St. Thomas via aircraft N212JE",
+            "date_start": "2018-12-14",
+            "date_end": null,
+            "date_precision": "exact_time",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein named as passenger on border crossing record from Palm Beach to St. Thomas.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 469911707 12/14/2018 08:49 N212JE KPBI TIST PASSENGER CUSTOMS",
+                "summary": "Border crossing - departure from Palm Beach to St. Thomas via aircraft N212JE",
+                "confidence": 0.7,
+                "date_start": "2018-12-14",
+                "fragment_id": "69543168718e20f2",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf"
+              }
+            ],
+            "location_name": "Palm Beach International Airport, FL"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "Paris Le Bourget Airport, France",
+        "display_name": "Paris Le Bourget Airport, France",
+        "events": [
+          {
+            "event_id": "5e093e6ef12b29d3",
+            "event_title": "Border crossing - travel from Paris Le Bourget to Teterboro via aircraft N212JE",
+            "event_type": "presence",
+            "description": "Border crossing - travel from Paris Le Bourget to Teterboro via aircraft N212JE",
+            "date_start": "2018-10-30",
+            "date_end": "2018-11-02",
+            "date_precision": "exact_day",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein named as passenger on border crossing records from Paris Le Bourget to Teterboro.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 469911707 11/02/2018 N212JE LFPB KTEB PASSENGER",
+                "summary": "Border crossing - travel from Paris Le Bourget to Teterboro via aircraft N212JE",
+                "confidence": 0.7,
+                "date_start": "2018-11-02",
+                "fragment_id": "8117b7752bbc373d",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf"
+              },
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 547017616 10/30/2018 15:36 PASSENGER",
+                "summary": "Border crossing - passenger travel record",
+                "confidence": 0.7,
+                "date_start": "2018-10-30",
+                "fragment_id": "11d4f45b67e87357",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf"
+              }
+            ],
+            "location_name": "Paris Le Bourget Airport, France"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "701 Clematis Street, West Palm Beach, FL",
+        "display_name": "701 Clematis Street, West Palm Beach, FL",
+        "events": [
+          {
+            "event_id": "390f9145e473c405",
+            "event_title": "FBI Special Agent testimony before Federal Grand Jury in Operation Leap Year investigation",
+            "event_type": "presence",
+            "description": "FBI Special Agent testimony before Federal Grand Jury in Operation Leap Year investigation",
+            "date_start": "2007-05-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.7,
+            "people": [],
+            "presence_type": "direct",
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "FBI testimony in Operation Leap Year investigation (about Epstein case) but not about Epstein's physical presence.",
+            "evidence": [
+              {
+                "file": "EFTA00009512.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "The sworn testimony was taken before the Federal Grand Jury, West Palm Beach Division, 701 Clematis Street, West Palm Beach, Palm Beach County, State of Florida, on the 15th day of May, 2007.",
+                "summary": "FBI Special Agent testimony before Federal Grand Jury in Operation Leap Year investigation",
+                "confidence": 0.7,
+                "date_start": "2007-05-15",
+                "fragment_id": "47c8bb872a4d87b9",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009512.pdf"
+              }
+            ],
+            "location_name": "701 Clematis Street, West Palm Beach, FL"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "Metropolitan Correctional Center, New York, NY",
+        "display_name": "Metropolitan Correctional Center, New York, NY",
+        "events": [
+          {
+            "event_id": "71cbddff2444b7bd",
+            "event_title": "Epstein assigned to Special Housing Unit (SHU) at Metropolitan Correctional Center",
+            "event_type": "presence",
+            "description": "Epstein assigned to Special Housing Unit (SHU) at Metropolitan Correctional Center",
+            "date_start": "2019-07-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein explicitly named as being assigned to Special Housing Unit at Metropolitan Correctional Center.",
+            "evidence": [
+              {
+                "file": "EFTA00039025.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "Epstein was assigned to a cell in the SHU on July 7 due to media coverage of his case and inmate awareness of his notoriety. SHU inmates are securely separated from general population inmates and kept locked in their cells for approximately 23 hours a day.",
+                "summary": "Epstein assigned to Special Housing Unit (SHU) at Metropolitan Correctional Center",
+                "confidence": 0.7,
+                "date_start": "2019-07-07",
+                "fragment_id": "018802bcadcdc467",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf"
+              }
+            ],
+            "location_name": "Metropolitan Correctional Center, New York, NY"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "New York, NY",
+        "display_name": "New York, NY",
+        "events": [
+          {
+            "event_id": "bd1ef8cef20a3f4e",
+            "event_title": "Travel notification: Epstein traveling from NYC to Palm Beach (Sept 30), planned return to USVI (Oct 13)",
+            "event_type": "presence",
+            "description": "Travel notification: Epstein traveling from NYC to Palm Beach (Sept 30), planned return to USVI (Oct 13)",
+            "date_start": "2018-09-30",
+            "date_end": "2018-10-13",
+            "date_precision": "exact_day",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Travel notification explicitly about Mr. Epstein's movements between New York, Palm Beach, and U.S. Virgin Islands.",
+            "evidence": [
+              {
+                "file": "EFTA01263156.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "Mr. Epstein will travel today from his vacation home in New York, New York to his vacation home in Palm Beach, Florida where he expects to stay until October 13, 2018. On October 13, 2018, Mr. Epstein plans to return from his vacation home in Palm Beach, Florida to his permanent residence in the U.S Virgin Islands",
+                "summary": "Travel notification: Epstein traveling from NYC to Palm Beach (Sept 30), planned return to USVI (Oct 13)",
+                "confidence": 0.7,
+                "date_start": "2018-09-30",
+                "fragment_id": "8743ad1ed1fd2262",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263156.pdf"
+              }
+            ],
+            "location_name": "New York, NY"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "501 Northlake Blvd, North Palm Beach, FL",
+        "display_name": "501 Northlake Blvd, North Palm Beach, FL",
+        "events": [
+          {
+            "event_id": "b7da19fd5056f212",
+            "event_title": "Purchase of novelty items at Adult Video Warehouse totaling $213.96",
+            "event_type": "presence",
+            "description": "Purchase of novelty items at Adult Video Warehouse totaling $213.96",
+            "date_start": "2005-07-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.7,
+            "people": [],
+            "presence_type": "direct",
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Receipt from Adult Video Warehouse found in Epstein DOJ files, payment via credit card, but no name on receipt.",
+            "evidence": [
+              {
+                "file": "EFTA00006072.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "ADULT VIDEO WAREHOUS 501 NORTHLAKE BLVD. InvN: 679654 EmpN:jill! 07/23/05 5:07:38 pm Store . 12.99 NOVELTY 12.99 NOVELTY 19.99 NOVELTY 69.99 NOVELTY 7.99 NOVELTY 6.99 NOVELTY 19.99 NOVELTY 5.99 NOVELTY 21.99 NOVELTY 21.99 NOVELTY Sub: 200.90 Tax: 13.06 Tot: 213.96 Tendered: MasterCard/Visa",
+                "summary": "Purchase of novelty items at Adult Video Warehouse totaling $213.96",
+                "confidence": 0.7,
+                "date_start": "2005-07-23",
+                "fragment_id": "f2e5d2cf55411db0",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00006072.pdf"
+              }
+            ],
+            "location_name": "501 Northlake Blvd, North Palm Beach, FL"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "Teterboro Airport, NJ",
+        "display_name": "Teterboro Airport, NJ",
+        "events": [
+          {
+            "event_id": "2f1912d5ce179022",
+            "event_title": "Border crossing - travel from Teterboro to Paris Le Bourget via aircraft N212JE",
+            "event_type": "presence",
+            "description": "Border crossing - travel from Teterboro to Paris Le Bourget via aircraft N212JE",
+            "date_start": "2018-11-18",
+            "date_end": null,
+            "date_precision": "exact_time",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein named as passenger on border crossing from Teterboro to Paris Le Bourget via aircraft N212JE.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 469911707 11/11/2018 08:24 N212JE KTEB LFPB PASSENGER INS",
+                "summary": "Border crossing - travel from Teterboro to Paris Le Bourget via aircraft N212JE",
+                "confidence": 0.7,
+                "date_start": "2018-11-18",
+                "fragment_id": "e49d16471cc56595",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf"
+              }
+            ],
+            "location_name": "Teterboro Airport, NJ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "501 Northlake Blvd, North Palm Beach, FL 33408",
+        "display_name": "501 Northlake Blvd, North Palm Beach, FL 33408",
+        "events": [
+          {
+            "event_id": "f728ce53b2fbc2f2",
+            "event_title": "Purchase of novelty items at Adult Video Warehouse",
+            "event_type": "presence",
+            "description": "Purchase of novelty items at Adult Video Warehouse",
+            "date_start": "2005-07-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.7,
+            "people": [],
+            "presence_type": "direct",
+            "epstein_nexus": "pending",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00006072.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "ADULT VIDEO WAREHOUS\n501 NORTHLAKE BLVD.\n\nMPB. Fi 33408\n07/23/05\n5:07:38 pm",
+                "summary": "Purchase of novelty items at Adult Video Warehouse",
+                "confidence": 0.7,
+                "date_start": "2005-07-23",
+                "fragment_id": "740340381edb9fb8",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00006072.pdf"
+              }
+            ],
+            "location_name": "501 Northlake Blvd, North Palm Beach, FL 33408"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "Adult Video Warehouse, 501 Northlake Blvd, North Palm Beach, FL",
+        "display_name": "Adult Video Warehouse, 501 Northlake Blvd, North Palm Beach, FL",
+        "events": [
+          {
+            "event_id": "4a75c28c61beeb73",
+            "event_title": "Jeff Epstein filling out video club membership application at Adult Video Warehouse",
+            "event_type": "presence",
+            "description": "Jeff Epstein filling out video club membership application at Adult Video Warehouse",
+            "date_start": "2005-12-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "pending",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00006072.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "ADULT VIDEO WAREHOUSE VIDEO CLUB APPLICATION MEMBER NO. N15331\n\nDATE 12/20/05 CLERK INITIALS <signature>\n\nNAME JEFF EPSTEIN",
+                "summary": "Jeff Epstein filling out video club membership application at Adult Video Warehouse",
+                "confidence": 0.7,
+                "date_start": "2005-12-20",
+                "fragment_id": "ca95fe0863bd4782",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00006072.pdf"
+              },
+              {
+                "file": "EFTA00006072.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "ADULT VIDEO WAREH\n501 NORTH LAKE BLVD.\nN PALM BEACH FL 33069\n\nAuth. Only\n\n[Redacted]\n[Redacted]\n\n04-19280\n54\n\nDate: 07/08\nAmount: $ 20.00\n\nIssued under the terms\nagreement if credit card used.\n\n<signature>\nJEFFREY",
+                "summary": "Jeffrey making a $20 purchase at Adult Video Warehouse",
+                "confidence": 0.7,
+                "date_start": null,
+                "fragment_id": "c5bbfd34d95ff2e9",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00006072.pdf"
+              }
+            ],
+            "location_name": "Adult Video Warehouse, 501 Northlake Blvd, North Palm Beach, FL"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "9 East 71st Street, New York, NY",
+        "display_name": "9 East 71st Street, New York, NY",
+        "events": [
+          {
+            "event_id": "d5a8269a596426cb",
+            "event_title": "Testimony describing Epstein's Manhattan residence at 9 East 71st Street near Central Park",
+            "event_type": "presence",
+            "description": "Testimony describing Epstein's Manhattan residence at 9 East 71st Street near Central Park",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "pending",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00008744.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "Turning to the next slide, did he maintain an address in Manhattan located at 9 East 71st Street? A. Yes. Q. Can you please describe that property for the grand jury? A. It's a seven-story home. It's located near Central Park. It's reportedly the largest residence in Manhattan.",
+                "summary": "Testimony describing Epstein's Manhattan residence at 9 East 71st Street near Central Park",
+                "confidence": 0.7,
+                "date_start": null,
+                "fragment_id": "429042931e67f1ee",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf"
+              },
+              {
+                "file": "EFTA00008744.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "During the course of this investigation have you learned where Epstein maintained properties in the 1990s? A. Yes. Q. Where did he maintain properties? A. New York, Palm Beach, and New Mexico.",
+                "summary": "Testimony about Epstein maintaining properties in New York, Palm Beach, and New Mexico during the 1990s",
+                "confidence": 0.7,
+                "date_start": null,
+                "fragment_id": "786fda67cdf499bc",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf"
+              }
+            ],
+            "location_name": "9 East 71st Street, New York, NY"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "358 El Brillo Way, Palm Beach, FL",
+        "display_name": "358 El Brillo Way, Palm Beach, FL",
+        "events": [
+          {
+            "event_id": "871b7c10edb03484",
+            "event_title": "Testimony describing Epstein's Palm Beach waterfront estate at 358 El Brillo Way",
+            "event_type": "presence",
+            "description": "Testimony describing Epstein's Palm Beach waterfront estate at 358 El Brillo Way",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "pending",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00008744.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "Did he maintain an address in Palm Beach, Florida, located at 358 El Brillo Way? A. Yes. Q. Turning to the next slide. Does this slide fairly and accurately depict the residence? A. Yes, it does. Q. Could you please describe that property for the grand jury? A. It's a water-front estate.",
+                "summary": "Testimony describing Epstein's Palm Beach waterfront estate at 358 El Brillo Way",
+                "confidence": 0.7,
+                "date_start": null,
+                "fragment_id": "eef914be8fbd70c6",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf"
+              }
+            ],
+            "location_name": "358 El Brillo Way, Palm Beach, FL"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "49 Zorro Ranch Road, Stanley, NM",
+        "display_name": "49 Zorro Ranch Road, Stanley, NM",
+        "events": [
+          {
+            "event_id": "df652147a45957e3",
+            "event_title": "Testimony confirming Epstein owned a ranch at 49 Zorro Ranch Road in Stanley, New Mexico",
+            "event_type": "presence",
+            "description": "Testimony confirming Epstein owned a ranch at 49 Zorro Ranch Road in Stanley, New Mexico",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "pending",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00008744.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "Did Epstein also own a ranch in New Mexico? A. Yes, he did. Q. And turning to the next slide, was that a property located at 49 Zorro Ranch Road in Stanley, New Mexico? A. Yes.",
+                "summary": "Testimony confirming Epstein owned a ranch at 49 Zorro Ranch Road in Stanley, New Mexico",
+                "confidence": 0.7,
+                "date_start": null,
+                "fragment_id": "fd83d78aa3d1b139",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf"
+              }
+            ],
+            "location_name": "49 Zorro Ranch Road, Stanley, NM"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095,
+          26.683
+        ]
+      },
+      "properties": {
+        "location_name": "Manhattan Federal Courthouse",
+        "display_name": "Manhattan Federal Courthouse",
+        "events": [
+          {
+            "event_id": "e5c9b0b84a154431",
+            "event_title": "court appearance",
+            "event_type": "presence",
+            "description": "court appearance",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.7,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "pending",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00009654.pdf",
+                "source_type": "doj_efta",
+                "doc_type": "court_filing",
+                "excerpt": "Epstein was present at the courthouse",
+                "summary": "court appearance",
+                "confidence": 0.7,
+                "date_start": null,
+                "fragment_id": "EFTA00009654_001"
+              }
+            ],
+            "location_name": "Manhattan Federal Courthouse"
+          }
+        ]
+      }
+    }
+  ]
+}

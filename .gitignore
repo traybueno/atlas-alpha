@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+.next/
+
+# env files
+.env.local
+.env*.local
+
+# vercel
+.vercel
+
+# misc
+*.tsbuildinfo

@@ -1,0 +1,248 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0047,
+          40.7133
+        ]
+      },
+      "properties": {
+        "id": "b199974614c01715",
+        "location_name": "United States District Court SDNY",
+        "location_address": "500 Pearl Street, New York, NY 10007",
+        "location_description": "Federal courthouse for the Southern District of New York in Lower Manhattan.",
+        "canonical_name": "b199974614c0",
+        "region": "",
+        "property_type": "event",
+        "display_name": "United States District Court SDNY",
+        "location_descriptor": "Federal courthouse for the Southern District of New York in Lower Manhattan.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-07-02",
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA01263024.pdf",
+        "presence_type": "direct",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "Federal courthouse for the Southern District of New York in Lower Manhattan.",
+        "events": [
+          {
+            "event_id": "6313432eb3ed24ac",
+            "event_title": "Federal grand jury indictment returned against Epstein (Jul 2, 2019)",
+            "event_type": "presence",
+            "description": "On July 2, 2019, a federal grand jury in the Southern District of New York returned an indictment charging Jeffrey Epstein with sex trafficking of minors (18 USC 1591) and sex trafficking conspiracy (18 USC 371).",
+            "date_start": "2019-07-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Indictment charging Epstein with federal sex trafficking crimes.",
+            "evidence": [
+              {
+                "file": "EFTA01263024.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "On or about July 2, 2019, a grand jury in the Southern District of New York returned an Indictment charging JEFFREY EPSTEIN with violations of Title 18, United States Code, Section 1591 (sex trafficking of minors); and Title 18, United States Code, Section 371 (sex trafficking conspiracy).",
+                "summary": "Grand jury in SDNY returned indictment charging Epstein with sex trafficking of minors and conspiracy",
+                "confidence": 0.7,
+                "date_start": "2019-07-02",
+                "fragment_id": "daddab59e9c92412",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263024.pdf"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA01263024",
+            "file": "EFTA01263024.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0022,
+          40.7143
+        ]
+      },
+      "properties": {
+        "id": "385bdf22b247c3d6",
+        "location_name": "Metropolitan Correctional Center",
+        "location_address": "150 Park Row, New York, NY 10007",
+        "location_description": "Federal detention facility in Lower Manhattan (closed in 2021).",
+        "canonical_name": "385bdf22b247",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Metropolitan Correctional Center",
+        "location_descriptor": "Federal detention facility in Lower Manhattan (closed in 2021).",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-08-10",
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA01263024.pdf",
+        "presence_type": "direct",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "Federal detention facility in Lower Manhattan (closed in 2021).",
+        "events": [
+          {
+            "event_id": "d63b0941c78e23a6",
+            "event_title": "Epstein death at Metropolitan Correctional Center (Aug 10, 2019)",
+            "event_type": "presence",
+            "description": "On August 10, 2019, the Bureau of Prisons confirmed that Jeffrey Epstein had been found unresponsive in his cell at the Metropolitan Correctional Center that morning and was pronounced dead shortly thereafter.",
+            "date_start": "2019-08-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein found dead in his MCC cell.",
+            "evidence": [
+              {
+                "file": "EFTA01263024.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "On or about August 10, 2019, the Bureau of Prisons confirmed that JEFFREY EPSTEIN had been found unresponsive in his cell at the MCC that morning, and was pronounced dead shortly thereafter.",
+                "summary": "Epstein found unresponsive in his MCC cell and pronounced dead",
+                "confidence": 0.7,
+                "date_start": "2019-08-10",
+                "fragment_id": "27858b1683177c8d",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263024.pdf"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA01263024",
+            "file": "EFTA01263024.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8256,
+          18.2999
+        ]
+      },
+      "properties": {
+        "id": "32aca5195cbab655",
+        "location_name": "Little St. James Island",
+        "location_address": "U.S. Virgin Islands",
+        "location_description": "Private island owned by Jeffrey Epstein in the U.S. Virgin Islands, approximately 75 acres.",
+        "canonical_name": "32aca5195cba",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Little St. James Island",
+        "location_descriptor": "Private island owned by Jeffrey Epstein in the U.S. Virgin Islands, approximately 75 acres.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-08-12",
+        "date_end": null,
+        "people": [
+          {
+            "name": "FBI",
+            "role": "other"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA01263024.pdf",
+        "presence_type": "direct",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "Private island owned by Jeffrey Epstein in the U.S. Virgin Islands, approximately 75 acres.",
+        "events": [
+          {
+            "event_id": "a3d8dd3f607a6155",
+            "event_title": "FBI seizure of electronic devices from Little St. James (Aug 12, 2019)",
+            "event_type": "presence",
+            "description": "On August 12, 2019, FBI agents recovered 27 electronic devices during a search of Little Saint James, an approximately 75-acre private island in the U.S. Virgin Islands located four miles off the southeast coast of St. Thomas.",
+            "date_start": "2019-08-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "FBI",
+                "role": "other"
+              }
+            ],
+            "presence_type": "direct",
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "FBI search of Epstein's private island property following his death.",
+            "evidence": [
+              {
+                "file": "EFTA01263024.pdf",
+                "source_type": "doj_efta",
+                "doc_type": null,
+                "excerpt": "The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands, known as Little Saint James, which is an approximately 75 acre island located approximately four miles off the southeast coast of St. Thomas Island on or about August 12, 2019.",
+                "summary": "FBI recovered 27 electronic devices from search of Little Saint James Island",
+                "confidence": 0.7,
+                "date_start": "2019-08-12",
+                "fragment_id": "934bd389e14d9684",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263024.pdf"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA01263024",
+            "file": "EFTA01263024.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    }
+  ]
+}
