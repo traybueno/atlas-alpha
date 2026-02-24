@@ -15,12 +15,12 @@
         "name": "Cyril E. King Airport",
         "location_name": "Cyril E. King Airport",
         "location_address": "St. Thomas, Saint Thomas, US Virgin Islands",
-        "location_description": "The main commercial airport serving St. Thomas in the U.S. Virgin Islands, handling domestic and international flights.",
+        "location_description": "The main commercial and general aviation airport serving the U.S. Virgin Islands, located on the island of St. Thomas near Charlotte Amalie.",
         "canonical_name": "Cyril E. King Airport, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
         "region": "",
         "property_type": "event",
         "display_name": "Cyril E. King Airport",
-        "location_descriptor": "The main commercial airport serving St. Thomas in the U.S. Virgin Islands, handling domestic and international flights.",
+        "location_descriptor": "The main commercial and general aviation airport serving the U.S. Virgin Islands, located on the island of St. Thomas near Charlotte Amalie.",
         "event_count": 5,
         "evidence_count": 8,
         "primary_event_type": "travel",
@@ -47,10 +47,10 @@
           }
         ],
         "source_count": 4,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, , EFTA02215836.pdf",
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215836.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
-        "event_description": "The main commercial airport serving St. Thomas in the U.S. Virgin Islands, handling domestic and international flights.",
+        "event_description": "The main commercial and general aviation airport serving the U.S. Virgin Islands, located on the island of St. Thomas near Charlotte Amalie.",
         "events": [
           {
             "event_id": "78ceea395b360291",
@@ -74,7 +74,7 @@
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "January 2017\n 15                16            17              18                  19                 20                 21\n\n                                                                   Outbound TIST -\n                                                                   Inbound TEB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
                 "confidence": 0.7
               }
             ]
@@ -101,21 +101,21 @@
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "March 2017\n5        6                            8                  9                   10               11\n\n                  Outbound TIST - ,\n                                                                                            Outbound TIST -\n                  Inbound\n                                                                                            Inbound KBAF\n                  St Barthelemy",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "March 2017\n                                                                                            Outbound TIST -\n                                                                                            Inbound KBAF",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA01263197.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  03/08/2017 13:03  *GA  N331JE  I  APIS  PASSENGER CUSTOMS  TIST TFFJ",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01263197.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
                 "confidence": 0.7
               }
             ]
@@ -142,14 +142,14 @@
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "April 2017\n                  10        11          12                  13                14             15\n\n                                      Outbound TIST -\n                                      Inbound KISP",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "April 2017\n    16            17        18         19                   20                21             22\n\nOutbound 'FIST\nInbound PBI",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
                 "confidence": 0.7
               }
             ]
@@ -158,7 +158,7 @@
             "event_id": "f676c06bffdc447e",
             "event_title": "Lesley Groff Books Russian Associate on AA 936 from St. Thomas to JFK, April 27, 2017",
             "event_type": "travel",
-            "description": "Epstein personal assistant Lesley Groff booked a Russian citizen on AA 936 from St. Thomas to JFK on April 27, 2017.",
+            "description": "Epstein personal assistant Lesley Groff booked a Russian citizen on American Airlines flight AA 936 from St. Thomas (Cyril E. King Airport) to JFK New York on April 27, 2017, via American Express Centurion Travel.",
             "date_start": "2017-04-27",
             "date_end": null,
             "date_precision": "exact_day",
@@ -174,13 +174,13 @@
               }
             ],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Arranged by Lesley Groff",
+            "nexus_reasoning": "The ticket was arranged by Lesley Groff, Epstein's personal assistant, for a Russian associate departing from Epstein's primary Caribbean base at St. Thomas.",
             "evidence": [
               {
-                "file": "",
+                "file": "EFTA02212885.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Origin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDate 27 Apr 2017",
-                "document_url": "",
+                "excerpt": "Origin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDate 27 Apr 2017\nFlight/Class AA 936 Q Economy Class\nDeparting 02:15 PM\nArriving 06:32 PM\nCITIZENS OF RUSSIAN FEDERATION MUST CARRY A VALID PASSPORT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212885.pdf",
                 "confidence": 0.7
               }
             ]
@@ -230,7 +230,7 @@
           },
           {
             "doc_id": "EFTA02212885",
-            "file": "",
+            "file": "EFTA02212885.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -255,12 +255,12 @@
         "name": "Teterboro Airport",
         "location_name": "Teterboro Airport",
         "location_address": "Teterboro, New Jersey, United States",
-        "location_description": "A general aviation airport in northern New Jersey primarily serving business and charter aircraft for the New York metropolitan area.",
+        "location_description": "A general aviation airport in Bergen County, New Jersey, approximately 12 miles west of Midtown Manhattan, one of the busiest private-aviation airports in the United States.",
         "canonical_name": "Teterboro Airport, Teterboro, NJ, New Jersey",
         "region": "",
         "property_type": "event",
         "display_name": "Teterboro Airport",
-        "location_descriptor": "A general aviation airport in northern New Jersey primarily serving business and charter aircraft for the New York metropolitan area.",
+        "location_descriptor": "A general aviation airport in Bergen County, New Jersey, approximately 12 miles west of Midtown Manhattan, one of the busiest private-aviation airports in the United States.",
         "event_count": 5,
         "evidence_count": 5,
         "primary_event_type": "presence",
@@ -286,7 +286,7 @@
         "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A general aviation airport in northern New Jersey primarily serving business and charter aircraft for the New York metropolitan area.",
+        "event_description": "A general aviation airport in Bergen County, New Jersey, approximately 12 miles west of Midtown Manhattan, one of the busiest private-aviation airports in the United States.",
         "events": [
           {
             "event_id": "f9c150b30015adfa",
@@ -310,7 +310,7 @@
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "February 2017\n                                                      Outbound TEB -      Outbound TEB -\n                                                      Inbound France      Inbound France",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
                 "confidence": 0.7
               }
             ]
@@ -341,7 +341,7 @@
                 "file": "EFTA01263197.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  01/27/2016 16:39  *GA  N120JE  I  AIDD OSTEN, LINDA  APIS  PASSENGER  KTEB CYYR",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01263197.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
                 "confidence": 0.7
               }
             ]
@@ -368,7 +368,7 @@
                 "file": "EFTA01263197.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  07/29/2018 13:18  \"GA  N212JE  I  APIS  PASSENGER INS  KTEB LFPB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01263197.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
                 "confidence": 0.7
               }
             ]
@@ -395,7 +395,7 @@
                 "file": "EFTA01263197.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  04/09/2018 13:22  \"GA  N212JE  I  APIS  PASSENGER INS  KTEB LFPB\nEPSTEIN  JEFFREY  01/20/1953  P  469911707  03/31/2018 00.00  \"GA  N212JE  0  APIS  PASSENGER  LFPB KTEB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01263197.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
                 "confidence": 0.7
               }
             ]
@@ -426,7 +426,7 @@
                 "file": "EFTA01263197.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  09/22/2018 17:52  *GA  NI2OJE  I  A100 SHARIFIPOUR, I3AKTAJ  APIS  PASSENGER INS  KTEB TIST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01263197.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
                 "confidence": 0.7
               }
             ]
@@ -457,18 +457,18 @@
       },
       "properties": {
         "id": "fb461ab0a97b3da5",
-        "name": "Jeffrey Epstein's Manhattan Townhouse",
-        "location_name": "Jeffrey Epstein's Manhattan Townhouse",
+        "name": "9 East 71st Street (Epstein Manhattan Mansion)",
+        "location_name": "9 East 71st Street (Epstein Manhattan Mansion)",
         "location_address": "9 East 71st Street, New York City, New York 10021, United States",
-        "location_description": "A seven-story, approximately 21,000-square-foot townhouse on the Upper East Side of Manhattan, one of the largest private residences in New York City.",
+        "location_description": "A seven-story Beaux-Arts limestone townhouse on Manhattan's Upper East Side, one of the largest private residences in New York City.",
         "canonical_name": "9 East 71st Street, New York, NY, New York City",
         "region": "",
         "property_type": "event",
-        "display_name": "Jeffrey Epstein's Manhattan Townhouse",
-        "location_descriptor": "A seven-story, approximately 21,000-square-foot townhouse on the Upper East Side of Manhattan, one of the largest private residences in New York City.",
+        "display_name": "9 East 71st Street (Epstein Manhattan Mansion)",
+        "location_descriptor": "A seven-story Beaux-Arts limestone townhouse on Manhattan's Upper East Side, one of the largest private residences in New York City.",
         "event_count": 3,
-        "evidence_count": 8,
-        "primary_event_type": "presence",
+        "evidence_count": 5,
+        "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2001",
@@ -483,23 +483,23 @@
             "role": "victim"
           },
           {
-            "name": "Leon Black",
+            "name": "Ghislaine Maxwell",
             "role": "associate"
           },
           {
-            "name": "victim (minor)",
+            "name": "unnamed minor victim",
             "role": "victim"
           },
           {
-            "name": "Ghislaine Maxwell",
+            "name": "Leon Black",
             "role": "associate"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731488.pdf, EFTA02731168.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731488.pdf",
         "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A seven-story, approximately 21,000-square-foot townhouse on the Upper East Side of Manhattan, one of the largest private residences in New York City.",
+        "event_type": "travel",
+        "event_description": "A seven-story Beaux-Arts limestone townhouse on Manhattan's Upper East Side, one of the largest private residences in New York City.",
         "events": [
           {
             "event_id": "ca009deaad766dd9",
@@ -527,23 +527,50 @@
                 "file": "EFTA01262805.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "Between approximately 2002 and 2005, EPSTEIN sexually abused Victim-1 on multiple occasions in the Subject Premises. This sexual abuse all occurred when Victim-1 was under the age of 18.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01262805.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA01262805.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, EPSTEIN sexually abused numerous minor victims at the Subject Premises. In particular, and as alleged in the Indictment, when a victim arrived at the Subject Premises, she would be escorted to a room inside the Subject Premises with a massage table, where she would perform a massage on EPSTEIN.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01262805.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
+            "event_id": "688c88e69ed642d3",
+            "event_title": "14-Year-Old Victim Travels to Epstein's Manhattan Mansion with Epstein and Maxwell",
+            "event_type": "travel",
+            "description": "Minor victim traveled with Epstein and Maxwell to New York City and stayed at Epstein's Manhattan mansion; Maxwell and Epstein took her shopping and Epstein sexually abused her during the trip.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "unnamed minor victim",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present and directly participated in the New York trips where he sexually abused the minor victim.",
+            "evidence": []
+          },
+          {
             "event_id": "62a6347a7bd3dd3f",
             "event_title": "Leon Black Raped Victim at Epstein's Manhattan Townhouse, 2001-2002",
             "event_type": "travel",
-            "description": "Leon Black raped a victim at Epstein's Manhattan townhouse around 2001-2002, with the victim describing excruciating pain while on a massage table at 9 East 71st Street.; A 16-year-old minor sent to give Leon Black a massage at Epstein's townhouse was violently raped by Black; after bleeding rectally, Epstein's associates flew her out of New York the next day instead of seeking medical care.; Victim was driven to Epstein's Manhattan townhouse to be introduced to Leon Black; after the assault, the victim spent the next few years in Palm Beach, Florida or the U.S. Virgin Islands.",
+            "description": "Leon Black raped a victim at Epstein's Manhattan townhouse around 2001-2002, with the victim describing excruciating pain while on a massage table at 9 East 71st Street.",
             "date_start": "2001",
             "date_end": null,
             "date_precision": "range",
@@ -559,76 +586,27 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "The rape occurred at Epstein's own Manhattan townhouse (9 East 71st Street) where the victim was brought to give massages to Epstein and Black.",
+            "nexus_reasoning": "The rape occurred at Epstein's own Manhattan townhouse where the victim was brought to give massages.",
             "evidence": [
               {
                 "file": "EFTA02731488.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Victim said Black raped her around 20 years ago (2001 or 2002) in Epstein's townhouse\n\u2022 Victim described it, felt pain (like insertion of something sharp in her vagina), on massage table with head on floor and legs on his shoulders; excruciating",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731488.pdf",
+                "excerpt": "Victim said Black raped her around 20 years ago (2001 or 2002) in Epstein's townhouse",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA02731488.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Minor victim, at Epstein's townhouse and was told to give Leon Black a massage, violently raped by black\n\u2022 16 years old when raped by Black\n\n\u2022 Black used adult sex toys in victim's rectum and vagina. Victim felt severe pinching in her vagina and began bleeding from her rectum; Black and others at Epstein's house would not take her to the doctor and instead flew her out of NY the next day",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731488.pdf",
+                "excerpt": "Minor victim, at Epstein's townhouse and was told to give Leon Black a massage, violently raped by black",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA02731488.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "next few years was in Palm Beach or US Virgin Islands\n\n\u2022 Driven from. to Epstein's townhouse to meet Epstein's special friend named Leon Black; brought to Manhattan townhouse",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731488.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b0489bec14d7acb3",
-            "event_title": "14-Year-Old Victim Travels to Epstein's Manhattan Mansion with Epstein and Maxwell",
-            "event_type": "presence",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "victim (minor)",
-                "role": "victim"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein physically present and directly abused the minor victim during repeated NYC trips.",
-            "evidence": [
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Beginning when was approximately 14, she began to travel with Epstein and Maxwell to New York City on occasion. During what believes was an early trip, she stayed at Epstein's mansion, and Maxwell and Epstein took her shopping.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Epstein periodically flew to New York, where she would stay with him (and sometimes Maxwell) at his house in Manhattan. recalls that Epstein sexually abused her during the trips to New York",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "In the summer of a few months before she turned 18, moved to New York City. She maintained contact with Epstein during that year in New York, and he continued to abuse her at his New York townhome.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731168.pdf",
+                "excerpt": "Driven from. to Epstein's townhouse to meet Epstein's special friend named Leon Black; brought to Manhattan townhouse",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
                 "confidence": 0.7
               }
             ]
@@ -643,11 +621,6 @@
           {
             "doc_id": "EFTA02731488",
             "file": "EFTA02731488.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02731168",
-            "file": "EFTA02731168.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -667,12 +640,12 @@
         "name": "Thurgood Marshall U.S. Courthouse",
         "location_name": "Thurgood Marshall U.S. Courthouse",
         "location_address": "40 Centre Street, New York City, New York 10007, United States",
-        "location_description": "A federal courthouse in Lower Manhattan, New York, that serves as the principal courthouse for the U.S. District Court for the Southern District of New York.",
+        "location_description": "A federal courthouse at 40 Foley Square in lower Manhattan's Civic Center district, housing the U.S. Court of Appeals for the Second Circuit and the U.S. District Court for the Southern District of New York.",
         "canonical_name": "Thurgood Marshall U.S. Courthouse, 40 Foley Square, New York, NY, New York City",
         "region": "",
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
-        "location_descriptor": "A federal courthouse in Lower Manhattan, New York, that serves as the principal courthouse for the U.S. District Court for the Southern District of New York.",
+        "location_descriptor": "A federal courthouse at 40 Foley Square in lower Manhattan's Civic Center district, housing the U.S. Court of Appeals for the Second Circuit and the U.S. District Court for the Southern District of New York.",
         "event_count": 3,
         "evidence_count": 3,
         "primary_event_type": "presence",
@@ -702,7 +675,7 @@
         "sources_preview": "EFTA01262805.pdf, EFTA00008744.pdf, EFTA00005740.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A federal courthouse in Lower Manhattan, New York, that serves as the principal courthouse for the U.S. District Court for the Southern District of New York.",
+        "event_description": "A federal courthouse at 40 Foley Square in lower Manhattan's Civic Center district, housing the U.S. Court of Appeals for the Second Circuit and the U.S. District Court for the Southern District of New York.",
         "events": [
           {
             "event_id": "a48f10aa264d44f1",
@@ -726,7 +699,7 @@
                 "file": "EFTA01262805.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "On or about July 2, 2019, a grand jury in this District returned an Indictment charging JEFFREY EPSTEIN with the Subject Offenses.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01262805.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
                 "confidence": 0.7
               }
             ]
@@ -757,7 +730,7 @@
                 "file": "EFTA00008744.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "UNITED STATES GRAND JURY\nSOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA v. GHISLAINE MAXWELL\nUnited States Courthouse\nFoley Square\nNew York, New York\nMarch 29, 2021\n10:05 a.m.\n\ncalled as a witness, having been duly sworn by the Foreperson of the Grand Jury, was examined and testified as follows",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00008744.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf",
                 "confidence": 0.7
               }
             ]
@@ -784,7 +757,7 @@
                 "file": "EFTA00005740.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "Grand Jury Subpoena\nSOUTHERN DISTRICT OF NEW YORK\nWE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York\n\nAppearance Date: July 24, 2019\nAppearance Time: 10:00 a.m.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005740.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005740.pdf",
                 "confidence": 0.7
               }
             ]
@@ -823,12 +796,12 @@
         "name": "Little St. James Island",
         "location_name": "Little St. James Island",
         "location_address": "Little St. James Island, U.S. Virgin Islands",
-        "location_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
+        "location_description": "A private island of approximately 72 acres in the U.S. Virgin Islands, located off the southeastern coast of St. Thomas near Great St. James Island.",
         "canonical_name": "Little St. James Island, U.S. Virgin Islands",
         "region": "",
         "property_type": "event",
         "display_name": "Little St. James Island",
-        "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
+        "location_descriptor": "A private island of approximately 72 acres in the U.S. Virgin Islands, located off the southeastern coast of St. Thomas near Great St. James Island.",
         "event_count": 3,
         "evidence_count": 3,
         "primary_event_type": "presence",
@@ -862,7 +835,7 @@
         "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA02212921.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
+        "event_description": "A private island of approximately 72 acres in the U.S. Virgin Islands, located off the southeastern coast of St. Thomas near Great St. James Island.",
         "events": [
           {
             "event_id": "1f103c36b6bec13a",
@@ -886,7 +859,7 @@
                 "file": "EFTA02731488.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "US Virgin Islands, in late 2020 and early 2021, officials were trying to interview underage girls who had been on the island; victim was interviewed/participated in around two meetings with a lawyer",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731488.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
                 "confidence": 0.7
               }
             ]
@@ -917,7 +890,7 @@
                 "file": "EFTA01263024.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands. The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands, known as Little Saint James, approximately 75 acres, located four miles off the southeast coast of St. Thomas Island. Multiple structures including a main residence, pool house, sheds, beach house, office, and cabanas.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01263024.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263024.pdf",
                 "confidence": 0.7
               }
             ]
@@ -991,12 +964,12 @@
         "name": "Palm Beach International Airport",
         "location_name": "Palm Beach International Airport",
         "location_address": "Flamingo Park, West Palm Beach, Florida, United States",
-        "location_description": "The primary commercial service airport for Palm Beach County, Florida, located in West Palm Beach and serving the southeastern Florida Gold Coast region.",
+        "location_description": "A commercial and general aviation airport serving Palm Beach County, Florida, located in West Palm Beach approximately 3 miles west of the island of Palm Beach.",
         "canonical_name": "Palm Beach International Airport, West Palm Beach, FL, Florida",
         "region": "",
         "property_type": "event",
         "display_name": "Palm Beach International Airport",
-        "location_descriptor": "The primary commercial service airport for Palm Beach County, Florida, located in West Palm Beach and serving the southeastern Florida Gold Coast region.",
+        "location_descriptor": "A commercial and general aviation airport serving Palm Beach County, Florida, located in West Palm Beach approximately 3 miles west of the island of Palm Beach.",
         "event_count": 2,
         "evidence_count": 2,
         "primary_event_type": "travel",
@@ -1014,7 +987,7 @@
         "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
-        "event_description": "The primary commercial service airport for Palm Beach County, Florida, located in West Palm Beach and serving the southeastern Florida Gold Coast region.",
+        "event_description": "A commercial and general aviation airport serving Palm Beach County, Florida, located in West Palm Beach approximately 3 miles west of the island of Palm Beach.",
         "events": [
           {
             "event_id": "8fb9bb0dff3337ee",
@@ -1038,7 +1011,7 @@
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "November 2017\n                  6          7                8                    9                   10                 11\n                           Outbound PB1 -\n                           Inbound TIST\n                           Outbound TIST -\n                           Inbound TEB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1065,7 +1038,7 @@
                 "file": "EFTA01263197.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  12/14/2018 08:49  *GA  N212JE  I  A523 BADAS JOSEPH APIS  PASSENGER CUSTOMS  KPBI TIST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01263197.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1099,12 +1072,12 @@
         "name": "Adult Video Warehouse",
         "location_name": "Adult Video Warehouse",
         "location_address": "501 Northlake Boulevard, North Palm Beach, Florida 33408, United States",
-        "location_description": "An adult retail store located at 501 Northlake Boulevard in North Palm Beach, Florida.",
+        "location_description": "An adult entertainment retail store located at 501 Northlake Boulevard in North Palm Beach, Florida.",
         "canonical_name": "501 Northlake Blvd, North Palm Beach, FL 33408, Florida",
         "region": "",
         "property_type": "event",
         "display_name": "Adult Video Warehouse",
-        "location_descriptor": "An adult retail store located at 501 Northlake Boulevard in North Palm Beach, Florida.",
+        "location_descriptor": "An adult entertainment retail store located at 501 Northlake Boulevard in North Palm Beach, Florida.",
         "event_count": 2,
         "evidence_count": 2,
         "primary_event_type": "presence",
@@ -1122,7 +1095,7 @@
         "sources_preview": "EFTA00006072.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "An adult retail store located at 501 Northlake Boulevard in North Palm Beach, Florida.",
+        "event_description": "An adult entertainment retail store located at 501 Northlake Boulevard in North Palm Beach, Florida.",
         "events": [
           {
             "event_id": "9853aa61e132355c",
@@ -1146,7 +1119,7 @@
                 "file": "EFTA00006072.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "ADULT VIDEO WAREHOUSE VIDEO CLUB APPLICATION MEMBER NO. N15331\n\nDATE 12/20/05 CLERK INITIALS <signature>\n\nNAME JEFF EPSTEIN\n\nADDRESS 305 MEADOWVIEW CA\n\nCITY/STATE/ZIP MONT CLAIRE, PA 19453)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00006072.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00006072.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1173,7 +1146,7 @@
                 "file": "EFTA00006072.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "N15-331\n\nAuth. Only\n\nDate: 07/08\nAmount: $ 20.00\n\n<signature>\nJEFFREY\n\nMerchant Copy\nSTORE CREDIT ONLY",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00006072.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00006072.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1202,12 +1175,12 @@
         "name": "Long Island MacArthur Airport",
         "location_name": "Long Island MacArthur Airport",
         "location_address": "Morocco",
-        "location_description": "A public airport located in Ronkonkoma, Suffolk County, Long Island, New York, serving commercial and charter flight traffic east of New York City.",
+        "location_description": "A public airport located in Islip, Suffolk County, New York, serving the eastern Long Island region with commercial and general aviation operations.",
         "canonical_name": "Morocco",
         "region": "",
         "property_type": "event",
         "display_name": "Long Island MacArthur Airport",
-        "location_descriptor": "A public airport located in Ronkonkoma, Suffolk County, Long Island, New York, serving commercial and charter flight traffic east of New York City.",
+        "location_descriptor": "A public airport located in Islip, Suffolk County, New York, serving the eastern Long Island region with commercial and general aviation operations.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -1225,7 +1198,7 @@
         "sources_preview": "EFTA00005994.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
-        "event_description": "A public airport located in Ronkonkoma, Suffolk County, Long Island, New York, serving commercial and charter flight traffic east of New York City.",
+        "event_description": "A public airport located in Islip, Suffolk County, New York, serving the eastern Long Island region with commercial and general aviation operations.",
         "events": [
           {
             "event_id": "0e5a28d1c8d8271d",
@@ -1249,7 +1222,7 @@
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "April 2017\n    2             3         4          5                    6                 7              8\n                                                          Outbound Morocco\n                                                          - Inbound KISP",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1275,15 +1248,15 @@
       },
       "properties": {
         "id": "2afc5f89ba545002",
-        "name": "Barnes Regional Airport",
-        "location_name": "Barnes Regional Airport",
+        "name": "Westfield-Barnes Regional Airport",
+        "location_name": "Westfield-Barnes Regional Airport",
         "location_address": "Westfield, Massachusetts, United States",
-        "location_description": "A public airport in Westfield, Massachusetts, offering general aviation services and limited scheduled service in western New England.",
+        "location_description": "A public airport in Westfield, Massachusetts, also known as Barnes Regional Airport (KBAF), serving western New England with general aviation and limited commercial operations.",
         "canonical_name": "Barnes Regional Airport, Westfield, MA, Massachusetts",
         "region": "",
         "property_type": "event",
-        "display_name": "Barnes Regional Airport",
-        "location_descriptor": "A public airport in Westfield, Massachusetts, offering general aviation services and limited scheduled service in western New England.",
+        "display_name": "Westfield-Barnes Regional Airport",
+        "location_descriptor": "A public airport in Westfield, Massachusetts, also known as Barnes Regional Airport (KBAF), serving western New England with general aviation and limited commercial operations.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -1301,7 +1274,7 @@
         "sources_preview": "EFTA01263197.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A public airport in Westfield, Massachusetts, offering general aviation services and limited scheduled service in western New England.",
+        "event_description": "A public airport in Westfield, Massachusetts, also known as Barnes Regional Airport (KBAF), serving western New England with general aviation and limited commercial operations.",
         "events": [
           {
             "event_id": "9ba7e3d7df897a70",
@@ -1325,7 +1298,7 @@
                 "file": "EFTA01263197.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  03/11/2017 06:17  N212JE  I  PASSENGER CUSTOMS  KBAF TIST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01263197.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1345,21 +1318,234 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.038566,
+          26.693374
+        ]
+      },
+      "properties": {
+        "id": "92217ebd1b4a1687",
+        "name": "Epstein Palm Beach Mansion (358 El Brillo Way)",
+        "location_name": "Epstein Palm Beach Mansion (358 El Brillo Way)",
+        "location_address": "358 El Brillo Way, Palm Beach, Florida 33480, United States",
+        "location_description": "A waterfront estate at 358 El Brillo Way on the southern portion of Palm Beach island, Florida, that served as Jeffrey Epstein's primary Florida residence.",
+        "canonical_name": "358 El Brillo Way, Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Epstein Palm Beach Mansion (358 El Brillo Way)",
+        "location_descriptor": "A waterfront estate at 358 El Brillo Way on the southern portion of Palm Beach island, Florida, that served as Jeffrey Epstein's primary Florida residence.",
+        "event_count": 1,
+        "evidence_count": 4,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1993",
+        "date_end": "1993",
+        "people": [
+          {
+            "name": "Juan Alessi",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "unnamed minor victim",
+            "role": "victim"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02731168.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A waterfront estate at 358 El Brillo Way on the southern portion of Palm Beach island, Florida, that served as Jeffrey Epstein's primary Florida residence.",
+        "events": [
+          {
+            "event_id": "e4f9b42bcaefc5d6",
+            "event_title": "Victim and Mother First Visit Epstein's Palm Beach House for Tea",
+            "event_type": "presence",
+            "description": "Minor victim and her mother visited Epstein's Palm Beach house and had tea with Epstein by his pool after being invited by Epstein's office; Epstein told them he mentored young talented individuals.; Minor victim regularly spent time at Epstein's Palm Beach house from ages 14 to 17; Epstein gave her $200-300 in cash per visit and Maxwell and Epstein groomed her for sexual abuse.; Juan Alessi, Epstein's house manager, was directed by Epstein and Maxwell to pick up the minor victim from her home and drive her to Epstein's Palm Beach house; he also drove Epstein, Maxwell, and the victim to the movies.",
+            "date_start": "1993",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Juan Alessi",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "unnamed minor victim",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his Palm Beach house during the visit and personally spoke with the victim and her mother.",
+            "evidence": [
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Several weeks later, when was home from camp, she recalls someone from Epstein's office calling her house and inviting her to come to Epstein's house in Palm Beach for tea. and her mother went to the house, where they had tea with Epstein by his pool.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "subsequently began regularly spending time at Epstein's house in Palm Beach, beginning at age 14, and continuing until she was 17, when she relocated to New York City. During those visits, Epstein regularly gave her $200-300 in cash",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alessi remembers being sent by both Epstein and Maxwell to pick up from her house and drive her to Epstein's house, and he recalls the specific neighborhood where she lived. He recalls Maxwell and Epstein spending time with at the Palm Beach house, and he also remembers being sent to buy movie tickets, and driving Maxwell, and Epstein to the movies.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In approximately 1993, Maxwell began coming to the house in Palm Beach, and became in charge of the whole house. Epstein told Alessi to go to Maxwell for his orders, and he began taking directions from Maxwell about house operations.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02731168",
+            "file": "EFTA02731168.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.977697,
+          35.147641
+        ]
+      },
+      "properties": {
+        "id": "86028436d75ad1df",
+        "name": "Zorro Ranch",
+        "location_name": "Zorro Ranch",
+        "location_address": "Stanley, New Mexico, United States",
+        "location_description": "A sprawling ranch property of approximately 10,000 acres near Stanley, New Mexico, located about 30 miles southeast of Santa Fe in the high desert of the Estancia Valley.",
+        "canonical_name": "Zorro Ranch, Stanley, NM, New Mexico",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Zorro Ranch",
+        "location_descriptor": "A sprawling ranch property of approximately 10,000 acres near Stanley, New Mexico, located about 30 miles southeast of Santa Fe in the high desert of the Estancia Valley.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "unnamed minor victim",
+            "role": "victim"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02731168.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A sprawling ranch property of approximately 10,000 acres near Stanley, New Mexico, located about 30 miles southeast of Santa Fe in the high desert of the Estancia Valley.",
+        "events": [
+          {
+            "event_id": "cbc2663138ecafa2",
+            "event_title": "Victim Travels with Epstein and Maxwell to Zorro Ranch in New Mexico",
+            "event_type": "travel",
+            "description": "Victim traveled with Epstein and Maxwell to Epstein's ranch in New Mexico; she has few specific memories from these trips and does not recall whether abuse occurred at that location.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "unnamed minor victim",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his New Mexico ranch during these trips with the minor victim and Maxwell.",
+            "evidence": [
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "also recalls traveling to Epstein's ranch in New Mexico with Epstein and Maxwell. She has few specific memories from these trips, and does not recall whether Epstein abused her at that location.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02731168",
+            "file": "EFTA02731168.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -96.799759,
           32.781339
         ]
       },
       "properties": {
         "id": "af4a49fc0d866968",
-        "name": "FlightSafety International \u2013 Dallas",
-        "location_name": "FlightSafety International \u2013 Dallas",
+        "name": "FlightSafety International \u2014 Dallas",
+        "location_name": "FlightSafety International \u2014 Dallas",
         "location_address": "Dallas, Texas, United States",
-        "location_description": "A FlightSafety International aviation training center in the Dallas, Texas area providing simulator-based recurrent training for business and commercial pilots.",
+        "location_description": "A professional aviation training facility operated by FlightSafety International in the Dallas, Texas metropolitan area, offering simulator-based type-rating and recurrent training for various aircraft.",
         "canonical_name": "FlightSafety International, Dallas, TX, Texas",
         "region": "",
         "property_type": "event",
-        "display_name": "FlightSafety International \u2013 Dallas",
-        "location_descriptor": "A FlightSafety International aviation training center in the Dallas, Texas area providing simulator-based recurrent training for business and commercial pilots.",
+        "display_name": "FlightSafety International \u2014 Dallas",
+        "location_descriptor": "A professional aviation training facility operated by FlightSafety International in the Dallas, Texas metropolitan area, offering simulator-based type-rating and recurrent training for various aircraft.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -1381,7 +1567,7 @@
         "sources_preview": "EFTA02215855.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
-        "event_description": "A FlightSafety International aviation training center in the Dallas, Texas area providing simulator-based recurrent training for business and commercial pilots.",
+        "event_description": "A professional aviation training facility operated by FlightSafety International in the Dallas, Texas metropolitan area, offering simulator-based type-rating and recurrent training for various aircraft.",
         "events": [
           {
             "event_id": "b7eb37371ee573fb",
@@ -1435,15 +1621,15 @@
       },
       "properties": {
         "id": "3a638c23dc6f9c05",
-        "name": "FlightSafety International \u2013 Wilmington",
-        "location_name": "FlightSafety International \u2013 Wilmington",
+        "name": "FlightSafety International \u2014 Wilmington",
+        "location_name": "FlightSafety International \u2014 Wilmington",
         "location_address": "Wilmington, Delaware, United States",
-        "location_description": "A FlightSafety International training facility in Wilmington, Delaware, offering initial and recurrent type-rating courses for Gulfstream aircraft pilots.",
+        "location_description": "A FlightSafety International aviation training center located at Wilmington Airport (KILG) in Delaware, providing initial and recurrent type-rating courses for business jet aircraft.",
         "canonical_name": "FlightSafety International, Wilmington, DE, Delaware",
         "region": "",
         "property_type": "event",
-        "display_name": "FlightSafety International \u2013 Wilmington",
-        "location_descriptor": "A FlightSafety International training facility in Wilmington, Delaware, offering initial and recurrent type-rating courses for Gulfstream aircraft pilots.",
+        "display_name": "FlightSafety International \u2014 Wilmington",
+        "location_descriptor": "A FlightSafety International aviation training center located at Wilmington Airport (KILG) in Delaware, providing initial and recurrent type-rating courses for business jet aircraft.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -1469,7 +1655,7 @@
         "sources_preview": "EFTA02215855.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
-        "event_description": "A FlightSafety International training facility in Wilmington, Delaware, offering initial and recurrent type-rating courses for Gulfstream aircraft pilots.",
+        "event_description": "A FlightSafety International aviation training center located at Wilmington Airport (KILG) in Delaware, providing initial and recurrent type-rating courses for business jet aircraft.",
         "events": [
           {
             "event_id": "b93a4110dc5331a2",
@@ -1521,127 +1707,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.038566,
-          26.693374
-        ]
-      },
-      "properties": {
-        "id": "92217ebd1b4a1687",
-        "name": "Epstein's Palm Beach Estate",
-        "location_name": "Epstein's Palm Beach Estate",
-        "location_address": "358 El Brillo Way, Palm Beach, Florida 33480, United States",
-        "location_description": "A private oceanfront mansion at 358 El Brillo Way in Palm Beach, Florida, originally built in the 1950s and used by Epstein as his primary Florida residence.",
-        "canonical_name": "358 El Brillo Way, Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Epstein's Palm Beach Estate",
-        "location_descriptor": "A private oceanfront mansion at 358 El Brillo Way in Palm Beach, Florida, originally built in the 1950s and used by Epstein as his primary Florida residence.",
-        "event_count": 1,
-        "evidence_count": 4,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "1993",
-        "date_end": "1993",
-        "people": [
-          {
-            "name": "Juan Alessi",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "unnamed minor victim",
-            "role": "victim"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02731168.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A private oceanfront mansion at 358 El Brillo Way in Palm Beach, Florida, originally built in the 1950s and used by Epstein as his primary Florida residence.",
-        "events": [
-          {
-            "event_id": "e4f9b42bcaefc5d6",
-            "event_title": "Victim and Mother First Visit Epstein's Palm Beach House for Tea",
-            "event_type": "presence",
-            "description": "Minor victim and her mother visited Epstein's Palm Beach house and had tea with Epstein by his pool after being invited by Epstein's office; Epstein told them he mentored young talented individuals.; Minor victim regularly spent time at Epstein's Palm Beach house from ages 14 to 17; Epstein gave her $200-300 in cash per visit and Maxwell and Epstein groomed her for sexual abuse.; Juan Alessi, Epstein's house manager, was directed by Epstein and Maxwell to pick up the minor victim from her home and drive her to Epstein's Palm Beach house; he also drove Epstein, Maxwell, and the victim to the movies.",
-            "date_start": "1993",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Juan Alessi",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "unnamed minor victim",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at his Palm Beach house during the visit and personally spoke with the victim and her mother.",
-            "evidence": [
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Several weeks later, when was home from camp, she recalls someone from Epstein's office calling her house and inviting her to come to Epstein's house in Palm Beach for tea. and her mother went to the house, where they had tea with Epstein by his pool.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "subsequently began regularly spending time at Epstein's house in Palm Beach, beginning at age 14, and continuing until she was 17, when she relocated to New York City. During those visits, Epstein regularly gave her $200-300 in cash",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Alessi remembers being sent by both Epstein and Maxwell to pick up from her house and drive her to Epstein's house, and he recalls the specific neighborhood where she lived. He recalls Maxwell and Epstein spending time with at the Palm Beach house, and he also remembers being sent to buy movie tickets, and driving Maxwell, and Epstein to the movies.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "In approximately 1993, Maxwell began coming to the house in Palm Beach, and became in charge of the whole house. Epstein told Alessi to go to Maxwell for his orders, and he began taking directions from Maxwell about house operations.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731168.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02731168",
-            "file": "EFTA02731168.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.005994,
           40.712749
         ]
@@ -1651,12 +1716,12 @@
         "name": "Martha's Vineyard",
         "location_name": "Martha's Vineyard",
         "location_address": "New York City, New York, United States",
-        "location_description": "An island off the coast of Cape Cod, Massachusetts, known as an affluent summer destination for political and celebrity figures.",
+        "location_description": "An island off the southwestern coast of Cape Cod in Massachusetts, known as a popular summer resort destination for affluent residents and tourists from the northeastern United States.",
         "canonical_name": "New York, NY, New York City",
         "region": "",
         "property_type": "event",
         "display_name": "Martha's Vineyard",
-        "location_descriptor": "An island off the coast of Cape Cod, Massachusetts, known as an affluent summer destination for political and celebrity figures.",
+        "location_descriptor": "An island off the southwestern coast of Cape Cod in Massachusetts, known as a popular summer resort destination for affluent residents and tourists from the northeastern United States.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -1690,7 +1755,7 @@
         "sources_preview": "EFTA02731465.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "An island off the coast of Cape Cod, Massachusetts, known as an affluent summer destination for political and celebrity figures.",
+        "event_description": "An island off the southwestern coast of Cape Cod in Massachusetts, known as a popular summer resort destination for affluent residents and tourists from the northeastern United States.",
         "events": [
           {
             "event_id": "ef44d10ad6213f75",
@@ -1730,7 +1795,7 @@
                 "file": "EFTA02731465.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "In a plane on a yacht in NY, in DC, at the vineyard.\nOn the island. In palm beach.\nIt doesnt matter.\nDisgusting pigs like Allen Douschewitz and Mr. Caruthers and even Mr. Islam will hurt you\nespecially if Ghislaine is busy or not with you!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731465.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1759,12 +1824,12 @@
         "name": "Florida",
         "location_name": "Florida",
         "location_address": "Florida, United States",
-        "location_description": "A southeastern U.S. state where Epstein maintained his primary residence in Palm Beach; referenced in victim accounts of abuse across multiple locations.",
+        "location_description": "A southeastern U.S. state occupying a peninsula between the Atlantic Ocean and the Gulf of Mexico, known for its warm climate, beaches, and major cities including Miami, Orlando, and Palm Beach.",
         "canonical_name": "Florida, United States",
         "region": "",
         "property_type": "event",
         "display_name": "Florida",
-        "location_descriptor": "A southeastern U.S. state where Epstein maintained his primary residence in Palm Beach; referenced in victim accounts of abuse across multiple locations.",
+        "location_descriptor": "A southeastern U.S. state occupying a peninsula between the Atlantic Ocean and the Gulf of Mexico, known for its warm climate, beaches, and major cities including Miami, Orlando, and Palm Beach.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -1786,7 +1851,7 @@
         "sources_preview": "EFTA02731465.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
-        "event_description": "A southeastern U.S. state where Epstein maintained his primary residence in Palm Beach; referenced in victim accounts of abuse across multiple locations.",
+        "event_description": "A southeastern U.S. state occupying a peninsula between the Atlantic Ocean and the Gulf of Mexico, known for its warm climate, beaches, and major cities including Miami, Orlando, and Palm Beach.",
         "events": [
           {
             "event_id": "3d9825602351d8da",
@@ -1814,7 +1879,7 @@
                 "file": "EFTA02731465.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "I will never be able to forgive myself for not being able to tell you what Ms. Vicki does and what really happens in FL and CA.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731465.pdf",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1834,24 +1899,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.977697,
-          35.147641
+          -70.616667,
+          41.4
         ]
       },
       "properties": {
-        "id": "86028436d75ad1df",
-        "name": "Zorro Ranch",
-        "location_name": "Zorro Ranch",
-        "location_address": "Stanley, New Mexico, United States",
-        "location_description": "A roughly 8,000-acre private ranch outside Stanley, New Mexico, owned by Epstein and one of his primary properties alongside homes in New York and Palm Beach.",
-        "canonical_name": "Zorro Ranch, Stanley, NM, New Mexico",
+        "id": "1fa61310585630f7",
+        "name": "Oak Bluffs Harbor",
+        "location_name": "Oak Bluffs Harbor",
+        "location_address": "Martha's Vineyard, Massachusetts, United States",
+        "location_description": "A historic harbor on the northeastern coast of Martha's Vineyard, Massachusetts, known for its Victorian gingerbread cottages, active ferry terminal, and summer resort atmosphere.",
+        "canonical_name": "Oak Bluffs Harbor, Martha's Vineyard, MA, Massachusetts",
         "region": "",
         "property_type": "event",
-        "display_name": "Zorro Ranch",
-        "location_descriptor": "A roughly 8,000-acre private ranch outside Stanley, New Mexico, owned by Epstein and one of his primary properties alongside homes in New York and Palm Beach.",
+        "display_name": "Oak Bluffs Harbor",
+        "location_descriptor": "A historic harbor on the northeastern coast of Martha's Vineyard, Massachusetts, known for its Victorian gingerbread cottages, active ferry terminal, and summer resort atmosphere.",
         "event_count": 1,
         "evidence_count": 1,
-        "primary_event_type": "travel",
+        "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": null,
@@ -1862,25 +1927,25 @@
             "role": "subject"
           },
           {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
+            "name": "young woman with blond hair",
+            "role": "victim"
           },
           {
-            "name": "unnamed minor victim",
-            "role": "victim"
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
           }
         ],
         "source_count": 1,
-        "sources_preview": "EFTA02731168.pdf",
+        "sources_preview": "EFTA02731490.pdf",
         "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A roughly 8,000-acre private ranch outside Stanley, New Mexico, owned by Epstein and one of his primary properties alongside homes in New York and Palm Beach.",
+        "event_type": "presence",
+        "event_description": "A historic harbor on the northeastern coast of Martha's Vineyard, Massachusetts, known for its Victorian gingerbread cottages, active ferry terminal, and summer resort atmosphere.",
         "events": [
           {
-            "event_id": "cbc2663138ecafa2",
-            "event_title": "Victim Travels with Epstein and Maxwell to Zorro Ranch in New Mexico",
-            "event_type": "travel",
-            "description": "Victim traveled with Epstein and Maxwell to Epstein's ranch in New Mexico; she has few specific memories from these trips and does not recall whether abuse occurred at that location.",
+            "event_id": "195d4cb342a2a381",
+            "event_title": "Epstein and Young Woman Photographed on Boat at Oak Bluffs Harbor, Martha's Vineyard",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein photographed at the side of a boat with a young blonde woman at Oak Bluffs harbor on Martha's Vineyard; Ghislaine Maxwell reportedly took the four photos during an overnight stay.",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
@@ -1891,22 +1956,22 @@
                 "role": "subject"
               },
               {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
+                "name": "young woman with blond hair",
+                "role": "victim"
               },
               {
-                "name": "unnamed minor victim",
-                "role": "victim"
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at his New Mexico ranch during these trips with the minor victim and Maxwell.",
+            "nexus_reasoning": "Epstein was physically present on the boat at Oak Bluffs harbor, photographed with a young woman.",
             "evidence": [
               {
-                "file": "EFTA02731168.pdf",
+                "file": "EFTA02731490.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "also recalls traveling to Epstein's ranch in New Mexico with Epstein and Maxwell. She has few specific memories from these trips, and does not recall whether Epstein abused her at that location.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731168.pdf",
+                "excerpt": "The original photo was taken at a distance.\nAttached are photos where we try to zoom in -JE at the side of the boat with a young woman with\nblond hair (pink arrow pointing to him in first photo).\n\n\n\nOur client said that it was Maxwell who took these four photos. She said they stayed overnight just\none night. We believe this is summer-\nIt is clearly Oak Bluffs harbor on MV.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731490.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1914,8 +1979,8 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA02731168",
-            "file": "EFTA02731168.pdf",
+            "doc_id": "EFTA02731490",
+            "file": "EFTA02731490.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -1935,12 +2000,12 @@
         "name": "John F. Kennedy International Airport",
         "location_name": "John F. Kennedy International Airport",
         "location_address": "Queens, New York, United States",
-        "location_description": "One of New York City's major international airports, located in Queens, serving as a primary hub for domestic and international air travel.",
+        "location_description": "A major international airport in Queens, New York, one of the busiest airports in North America and a primary hub for transatlantic and transpacific commercial air travel.",
         "canonical_name": "John F. Kennedy International Airport, Queens, NY, New York City, New York",
         "region": "",
         "property_type": "event",
         "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "One of New York City's major international airports, located in Queens, serving as a primary hub for domestic and international air travel.",
+        "location_descriptor": "A major international airport in Queens, New York, one of the busiest airports in North America and a primary hub for transatlantic and transpacific commercial air travel.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -1962,7 +2027,7 @@
         "sources_preview": "EFTA02212949.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
-        "event_description": "One of New York City's major international airports, located in Queens, serving as a primary hub for domestic and international air travel.",
+        "event_description": "A major international airport in Queens, New York, one of the busiest airports in North America and a primary hub for transatlantic and transpacific commercial air travel.",
         "events": [
           {
             "event_id": "eb83fb2a2da9f336",
@@ -2016,15 +2081,15 @@
       },
       "properties": {
         "id": "3e43c656e5192f93",
-        "name": "Newark Liberty International Airport",
-        "location_name": "Newark Liberty International Airport",
+        "name": "Paris (Charles de Gaulle Airport area)",
+        "location_name": "Paris (Charles de Gaulle Airport area)",
         "location_address": "Paris, France",
-        "location_description": "A major international airport serving the New York\u2013New Jersey metropolitan area, located in Newark, New Jersey, one of the busiest airports on the U.S. East Coast.",
+        "location_description": "The capital and largest city of France, served internationally by Charles de Gaulle Airport, located approximately 23 kilometers north-northeast of the city center.",
         "canonical_name": "Paris, France",
         "region": "",
         "property_type": "event",
-        "display_name": "Newark Liberty International Airport",
-        "location_descriptor": "A major international airport serving the New York\u2013New Jersey metropolitan area, located in Newark, New Jersey, one of the busiest airports on the U.S. East Coast.",
+        "display_name": "Paris (Charles de Gaulle Airport area)",
+        "location_descriptor": "The capital and largest city of France, served internationally by Charles de Gaulle Airport, located approximately 23 kilometers north-northeast of the city center.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -2050,7 +2115,7 @@
         "sources_preview": "EFTA02215836.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
-        "event_description": "A major international airport serving the New York\u2013New Jersey metropolitan area, located in Newark, New Jersey, one of the busiest airports on the U.S. East Coast.",
+        "event_description": "The capital and largest city of France, served internationally by Charles de Gaulle Airport, located approximately 23 kilometers north-northeast of the city center.",
         "events": [
           {
             "event_id": "2ec922dd5dc8a94b",
@@ -2111,12 +2176,12 @@
         "name": "Stockholm",
         "location_name": "Stockholm",
         "location_address": "Stockholm, Stockholm, Sweden",
-        "location_description": "The capital and largest city of Sweden, situated on the country's southeast coast across fourteen islands where Lake M\u00e4laren meets the Baltic Sea.",
+        "location_description": "The capital and largest city of Sweden, spread across 14 islands where Lake M\u00e4laren meets the Baltic Sea, known as a major Scandinavian financial and cultural hub.",
         "canonical_name": "Stockholm, Sweden",
         "region": "",
         "property_type": "event",
         "display_name": "Stockholm",
-        "location_descriptor": "The capital and largest city of Sweden, situated on the country's southeast coast across fourteen islands where Lake M\u00e4laren meets the Baltic Sea.",
+        "location_descriptor": "The capital and largest city of Sweden, spread across 14 islands where Lake M\u00e4laren meets the Baltic Sea, known as a major Scandinavian financial and cultural hub.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -2138,7 +2203,7 @@
         "sources_preview": "EFTA02212966.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
-        "event_description": "The capital and largest city of Sweden, situated on the country's southeast coast across fourteen islands where Lake M\u00e4laren meets the Baltic Sea.",
+        "event_description": "The capital and largest city of Sweden, spread across 14 islands where Lake M\u00e4laren meets the Baltic Sea, known as a major Scandinavian financial and cultural hub.",
         "events": [
           {
             "event_id": "d29017fadf7e3918",
@@ -2195,12 +2260,12 @@
         "name": "Midtown Manhattan",
         "location_name": "Midtown Manhattan",
         "location_address": "Midtown, New York City, New York, United States",
-        "location_description": "The central business and cultural district of Manhattan, New York City, home to major corporate offices, hotels, and entertainment venues.",
+        "location_description": "The central commercial and business district of Manhattan, New York City, home to landmarks including Rockefeller Center, the Empire State Building, and Times Square.",
         "canonical_name": "Midtown Manhattan, New York, NY, New York City",
         "region": "",
         "property_type": "event",
         "display_name": "Midtown Manhattan",
-        "location_descriptor": "The central business and cultural district of Manhattan, New York City, home to major corporate offices, hotels, and entertainment venues.",
+        "location_descriptor": "The central commercial and business district of Manhattan, New York City, home to landmarks including Rockefeller Center, the Empire State Building, and Times Square.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -2226,7 +2291,7 @@
         "sources_preview": "EFTA02212889.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
-        "event_description": "The central business and cultural district of Manhattan, New York City, home to major corporate offices, hotels, and entertainment venues.",
+        "event_description": "The central commercial and business district of Manhattan, New York City, home to landmarks including Rockefeller Center, the Empire State Building, and Times Square.",
         "events": [
           {
             "event_id": "4e6a46c23efda4c7",
