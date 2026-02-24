@@ -15,12 +15,12 @@
         "name": "Cyril E. King Airport",
         "location_name": "Cyril E. King Airport",
         "location_address": "St. Thomas, Saint Thomas, US Virgin Islands",
-        "location_description": "The main commercial and general aviation airport serving the U.S. Virgin Islands, located on the island of St. Thomas near Charlotte Amalie.",
+        "location_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "canonical_name": "Cyril E. King Airport, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
         "region": "",
         "property_type": "event",
         "display_name": "Cyril E. King Airport",
-        "location_descriptor": "The main commercial and general aviation airport serving the U.S. Virgin Islands, located on the island of St. Thomas near Charlotte Amalie.",
+        "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 5,
         "evidence_count": 8,
         "primary_event_type": "travel",
@@ -50,7 +50,7 @@
         "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215836.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
-        "event_description": "The main commercial and general aviation airport serving the U.S. Virgin Islands, located on the island of St. Thomas near Charlotte Amalie.",
+        "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "events": [
           {
             "event_id": "78ceea395b360291",
@@ -255,12 +255,12 @@
         "name": "Teterboro Airport",
         "location_name": "Teterboro Airport",
         "location_address": "Teterboro, New Jersey, United States",
-        "location_description": "A general aviation airport in Bergen County, New Jersey, approximately 12 miles west of Midtown Manhattan, one of the busiest private-aviation airports in the United States.",
+        "location_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
         "canonical_name": "Teterboro Airport, Teterboro, NJ, New Jersey",
         "region": "",
         "property_type": "event",
         "display_name": "Teterboro Airport",
-        "location_descriptor": "A general aviation airport in Bergen County, New Jersey, approximately 12 miles west of Midtown Manhattan, one of the busiest private-aviation airports in the United States.",
+        "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
         "event_count": 5,
         "evidence_count": 5,
         "primary_event_type": "presence",
@@ -286,7 +286,7 @@
         "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A general aviation airport in Bergen County, New Jersey, approximately 12 miles west of Midtown Manhattan, one of the busiest private-aviation airports in the United States.",
+        "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
         "events": [
           {
             "event_id": "f9c150b30015adfa",
@@ -451,186 +451,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.966473,
-          40.771541
-        ]
-      },
-      "properties": {
-        "id": "fb461ab0a97b3da5",
-        "name": "9 East 71st Street (Epstein Manhattan Mansion)",
-        "location_name": "9 East 71st Street (Epstein Manhattan Mansion)",
-        "location_address": "9 East 71st Street, New York City, New York 10021, United States",
-        "location_description": "A seven-story Beaux-Arts limestone townhouse on Manhattan's Upper East Side, one of the largest private residences in New York City.",
-        "canonical_name": "9 East 71st Street, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "9 East 71st Street (Epstein Manhattan Mansion)",
-        "location_descriptor": "A seven-story Beaux-Arts limestone townhouse on Manhattan's Upper East Side, one of the largest private residences in New York City.",
-        "event_count": 3,
-        "evidence_count": 5,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2001",
-        "date_end": "2002",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Victim-1",
-            "role": "victim"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "unnamed minor victim",
-            "role": "victim"
-          },
-          {
-            "name": "Leon Black",
-            "role": "associate"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731488.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A seven-story Beaux-Arts limestone townhouse on Manhattan's Upper East Side, one of the largest private residences in New York City.",
-        "events": [
-          {
-            "event_id": "ca009deaad766dd9",
-            "event_title": "Epstein Sexually Abused Victim-1 at 9 East 71st St, New York (2002-2005)",
-            "event_type": "presence",
-            "description": "Epstein sexually abused Victim-1 on multiple occasions at his 9 East 71st Street New York residence between approximately 2002 and 2005, when Victim-1 was under 18.; Epstein sexually abused numerous minor victims ages as young as 14 at his Manhattan residence, 9 East 71st Street, with victims escorted to a massage room where Epstein escalated physical contact to include sex acts.",
-            "date_start": "2002",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Victim-1",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein directly and personally sexually abused Victim-1 at his New York residence, as stated in the FBI affidavit.",
-            "evidence": [
-              {
-                "file": "EFTA01262805.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Between approximately 2002 and 2005, EPSTEIN sexually abused Victim-1 on multiple occasions in the Subject Premises. This sexual abuse all occurred when Victim-1 was under the age of 18.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA01262805.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, EPSTEIN sexually abused numerous minor victims at the Subject Premises. In particular, and as alleged in the Indictment, when a victim arrived at the Subject Premises, she would be escorted to a room inside the Subject Premises with a massage table, where she would perform a massage on EPSTEIN.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "688c88e69ed642d3",
-            "event_title": "14-Year-Old Victim Travels to Epstein's Manhattan Mansion with Epstein and Maxwell",
-            "event_type": "travel",
-            "description": "Minor victim traveled with Epstein and Maxwell to New York City and stayed at Epstein's Manhattan mansion; Maxwell and Epstein took her shopping and Epstein sexually abused her during the trip.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "unnamed minor victim",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present and directly participated in the New York trips where he sexually abused the minor victim.",
-            "evidence": []
-          },
-          {
-            "event_id": "62a6347a7bd3dd3f",
-            "event_title": "Leon Black Raped Victim at Epstein's Manhattan Townhouse, 2001-2002",
-            "event_type": "travel",
-            "description": "Leon Black raped a victim at Epstein's Manhattan townhouse around 2001-2002, with the victim describing excruciating pain while on a massage table at 9 East 71st Street.",
-            "date_start": "2001",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Leon Black",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The rape occurred at Epstein's own Manhattan townhouse where the victim was brought to give massages.",
-            "evidence": [
-              {
-                "file": "EFTA02731488.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Victim said Black raped her around 20 years ago (2001 or 2002) in Epstein's townhouse",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731488.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Minor victim, at Epstein's townhouse and was told to give Leon Black a massage, violently raped by black",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731488.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Driven from. to Epstein's townhouse to meet Epstein's special friend named Leon Black; brought to Manhattan townhouse",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA01262805",
-            "file": "EFTA01262805.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02731488",
-            "file": "EFTA02731488.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.002663,
           40.713878
         ]
@@ -640,12 +460,12 @@
         "name": "Thurgood Marshall U.S. Courthouse",
         "location_name": "Thurgood Marshall U.S. Courthouse",
         "location_address": "40 Centre Street, New York City, New York 10007, United States",
-        "location_description": "A federal courthouse at 40 Foley Square in lower Manhattan's Civic Center district, housing the U.S. Court of Appeals for the Second Circuit and the U.S. District Court for the Southern District of New York.",
+        "location_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "canonical_name": "Thurgood Marshall U.S. Courthouse, 40 Foley Square, New York, NY, New York City",
         "region": "",
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
-        "location_descriptor": "A federal courthouse at 40 Foley Square in lower Manhattan's Civic Center district, housing the U.S. Court of Appeals for the Second Circuit and the U.S. District Court for the Southern District of New York.",
+        "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 3,
         "evidence_count": 3,
         "primary_event_type": "presence",
@@ -675,7 +495,7 @@
         "sources_preview": "EFTA01262805.pdf, EFTA00008744.pdf, EFTA00005740.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A federal courthouse at 40 Foley Square in lower Manhattan's Civic Center district, housing the U.S. Court of Appeals for the Second Circuit and the U.S. District Court for the Southern District of New York.",
+        "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "events": [
           {
             "event_id": "a48f10aa264d44f1",
@@ -796,12 +616,12 @@
         "name": "Little St. James Island",
         "location_name": "Little St. James Island",
         "location_address": "Little St. James Island, U.S. Virgin Islands",
-        "location_description": "A private island of approximately 72 acres in the U.S. Virgin Islands, located off the southeastern coast of St. Thomas near Great St. James Island.",
+        "location_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "canonical_name": "Little St. James Island, U.S. Virgin Islands",
         "region": "",
         "property_type": "event",
         "display_name": "Little St. James Island",
-        "location_descriptor": "A private island of approximately 72 acres in the U.S. Virgin Islands, located off the southeastern coast of St. Thomas near Great St. James Island.",
+        "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 3,
         "evidence_count": 3,
         "primary_event_type": "presence",
@@ -835,7 +655,7 @@
         "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA02212921.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A private island of approximately 72 acres in the U.S. Virgin Islands, located off the southeastern coast of St. Thomas near Great St. James Island.",
+        "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "events": [
           {
             "event_id": "1f103c36b6bec13a",
@@ -964,12 +784,12 @@
         "name": "Palm Beach International Airport",
         "location_name": "Palm Beach International Airport",
         "location_address": "Flamingo Park, West Palm Beach, Florida, United States",
-        "location_description": "A commercial and general aviation airport serving Palm Beach County, Florida, located in West Palm Beach approximately 3 miles west of the island of Palm Beach.",
+        "location_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
         "canonical_name": "Palm Beach International Airport, West Palm Beach, FL, Florida",
         "region": "",
         "property_type": "event",
         "display_name": "Palm Beach International Airport",
-        "location_descriptor": "A commercial and general aviation airport serving Palm Beach County, Florida, located in West Palm Beach approximately 3 miles west of the island of Palm Beach.",
+        "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
         "event_count": 2,
         "evidence_count": 2,
         "primary_event_type": "travel",
@@ -987,7 +807,7 @@
         "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
-        "event_description": "A commercial and general aviation airport serving Palm Beach County, Florida, located in West Palm Beach approximately 3 miles west of the island of Palm Beach.",
+        "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
         "events": [
           {
             "event_id": "8fb9bb0dff3337ee",
@@ -1053,6 +873,193 @@
           {
             "doc_id": "EFTA01263197",
             "file": "EFTA01263197.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966473,
+          40.771541
+        ]
+      },
+      "properties": {
+        "id": "fb461ab0a97b3da5",
+        "name": "9 East 71st Street",
+        "location_name": "9 East 71st Street",
+        "location_address": "9 East 71st Street, New York City, New York 10021, United States",
+        "location_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
+        "canonical_name": "9 East 71st Street, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "9 East 71st Street",
+        "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
+        "event_count": 2,
+        "evidence_count": 8,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2001",
+        "date_end": "2002",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Victim-1",
+            "role": "victim"
+          },
+          {
+            "name": "unnamed minor victim",
+            "role": "victim"
+          },
+          {
+            "name": "Leon Black",
+            "role": "associate"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA02731488.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
+        "events": [
+          {
+            "event_id": "ca009deaad766dd9",
+            "event_title": "Epstein Sexually Abused Victim-1 at 9 East 71st St, New York (2002-2005)",
+            "event_type": "presence",
+            "description": "Epstein sexually abused Victim-1 on multiple occasions at his 9 East 71st Street New York residence between approximately 2002 and 2005, when Victim-1 was under 18.; Epstein sexually abused numerous minor victims ages as young as 14 at his Manhattan residence, 9 East 71st Street, with victims escorted to a massage room where Epstein escalated physical contact to include sex acts.",
+            "date_start": "2002",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Victim-1",
+                "role": "victim"
+              },
+              {
+                "name": "unnamed minor victim",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein directly and personally sexually abused Victim-1 at his New York residence, as stated in the FBI affidavit.",
+            "evidence": [
+              {
+                "file": "EFTA01262805.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Between approximately 2002 and 2005, EPSTEIN sexually abused Victim-1 on multiple occasions in the Subject Premises. This sexual abuse all occurred when Victim-1 was under the age of 18.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262805.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, EPSTEIN sexually abused numerous minor victims at the Subject Premises. In particular, and as alleged in the Indictment, when a victim arrived at the Subject Premises, she would be escorted to a room inside the Subject Premises with a massage table, where she would perform a massage on EPSTEIN.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Beginning when was approximately 14, she began to travel with Epstein and Maxwell to New York City on occasion. During what believes was an early trip, she stayed at Epstein's mansion, and Maxwell and Epstein took her shopping.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein periodically flew to New York, where she would stay with him (and sometimes Maxwell) at his house in Manhattan. recalls that Epstein sexually abused her during the trips to New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In the summer of a few months before she turned 18, moved to New York City. She maintained contact with Epstein during that year in New York, and he continued to abuse her at his New York townhome.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "62a6347a7bd3dd3f",
+            "event_title": "Leon Black Raped Victim at Epstein's Manhattan Townhouse, 2001-2002",
+            "event_type": "travel",
+            "description": "Leon Black raped a victim at Epstein's Manhattan townhouse around 2001-2002, with the victim describing excruciating pain while on a massage table at 9 East 71st Street.; A 16-year-old minor sent to give Leon Black a massage at Epstein's townhouse was violently raped by Black; after bleeding rectally, Epstein's associates flew her out of New York the next day instead of seeking medical care.; Victim was driven to Epstein's Manhattan townhouse to be introduced to Leon Black; after the assault, the victim spent the next few years in Palm Beach, Florida or the U.S. Virgin Islands.",
+            "date_start": "2001",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The rape occurred at Epstein's own Manhattan townhouse (9 East 71st Street) where the victim was brought to give massages to Epstein and Black.",
+            "evidence": [
+              {
+                "file": "EFTA02731488.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Victim said Black raped her around 20 years ago (2001 or 2002) in Epstein's townhouse\n\u2022 Victim described it, felt pain (like insertion of something sharp in her vagina), on massage table with head on floor and legs on his shoulders; excruciating",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731488.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Minor victim, at Epstein's townhouse and was told to give Leon Black a massage, violently raped by black\n\u2022 16 years old when raped by Black\n\n\u2022 Black used adult sex toys in victim's rectum and vagina. Victim felt severe pinching in her vagina and began bleeding from her rectum; Black and others at Epstein's house would not take her to the doctor and instead flew her out of NY the next day",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731488.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "next few years was in Palm Beach or US Virgin Islands\n\n\u2022 Driven from. to Epstein's townhouse to meet Epstein's special friend named Leon Black; brought to Manhattan townhouse",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA01262805",
+            "file": "EFTA01262805.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02731168",
+            "file": "EFTA02731168.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02731488",
+            "file": "EFTA02731488.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -1172,15 +1179,15 @@
       },
       "properties": {
         "id": "b675f5df5fe68da1",
-        "name": "Long Island MacArthur Airport",
-        "location_name": "Long Island MacArthur Airport",
+        "name": "Morocco",
+        "location_name": "Morocco",
         "location_address": "Morocco",
-        "location_description": "A public airport located in Islip, Suffolk County, New York, serving the eastern Long Island region with commercial and general aviation operations.",
+        "location_description": "A country in North Africa bordered by the Atlantic Ocean and Mediterranean Sea, with Casablanca and Rabat as its major cities.",
         "canonical_name": "Morocco",
         "region": "",
         "property_type": "event",
-        "display_name": "Long Island MacArthur Airport",
-        "location_descriptor": "A public airport located in Islip, Suffolk County, New York, serving the eastern Long Island region with commercial and general aviation operations.",
+        "display_name": "Morocco",
+        "location_descriptor": "A country in North Africa bordered by the Atlantic Ocean and Mediterranean Sea, with Casablanca and Rabat as its major cities.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -1198,7 +1205,7 @@
         "sources_preview": "EFTA00005994.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
-        "event_description": "A public airport located in Islip, Suffolk County, New York, serving the eastern Long Island region with commercial and general aviation operations.",
+        "event_description": "A country in North Africa bordered by the Atlantic Ocean and Mediterranean Sea, with Casablanca and Rabat as its major cities.",
         "events": [
           {
             "event_id": "0e5a28d1c8d8271d",
@@ -1248,15 +1255,15 @@
       },
       "properties": {
         "id": "2afc5f89ba545002",
-        "name": "Westfield-Barnes Regional Airport",
-        "location_name": "Westfield-Barnes Regional Airport",
+        "name": "Barnes Regional Airport",
+        "location_name": "Barnes Regional Airport",
         "location_address": "Westfield, Massachusetts, United States",
-        "location_description": "A public airport in Westfield, Massachusetts, also known as Barnes Regional Airport (KBAF), serving western New England with general aviation and limited commercial operations.",
+        "location_description": "A regional airport located in Westfield, Massachusetts, serving western New England and historically used as a National Guard base.",
         "canonical_name": "Barnes Regional Airport, Westfield, MA, Massachusetts",
         "region": "",
         "property_type": "event",
-        "display_name": "Westfield-Barnes Regional Airport",
-        "location_descriptor": "A public airport in Westfield, Massachusetts, also known as Barnes Regional Airport (KBAF), serving western New England with general aviation and limited commercial operations.",
+        "display_name": "Barnes Regional Airport",
+        "location_descriptor": "A regional airport located in Westfield, Massachusetts, serving western New England and historically used as a National Guard base.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -1274,7 +1281,7 @@
         "sources_preview": "EFTA01263197.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A public airport in Westfield, Massachusetts, also known as Barnes Regional Airport (KBAF), serving western New England with general aviation and limited commercial operations.",
+        "event_description": "A regional airport located in Westfield, Massachusetts, serving western New England and historically used as a National Guard base.",
         "events": [
           {
             "event_id": "9ba7e3d7df897a70",
@@ -1324,15 +1331,15 @@
       },
       "properties": {
         "id": "92217ebd1b4a1687",
-        "name": "Epstein Palm Beach Mansion (358 El Brillo Way)",
-        "location_name": "Epstein Palm Beach Mansion (358 El Brillo Way)",
+        "name": "Jeffrey Epstein Palm Beach Mansion",
+        "location_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_address": "358 El Brillo Way, Palm Beach, Florida 33480, United States",
-        "location_description": "A waterfront estate at 358 El Brillo Way on the southern portion of Palm Beach island, Florida, that served as Jeffrey Epstein's primary Florida residence.",
+        "location_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "canonical_name": "358 El Brillo Way, Palm Beach, FL, Florida",
         "region": "",
         "property_type": "event",
-        "display_name": "Epstein Palm Beach Mansion (358 El Brillo Way)",
-        "location_descriptor": "A waterfront estate at 358 El Brillo Way on the southern portion of Palm Beach island, Florida, that served as Jeffrey Epstein's primary Florida residence.",
+        "display_name": "Jeffrey Epstein Palm Beach Mansion",
+        "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 1,
         "evidence_count": 4,
         "primary_event_type": "presence",
@@ -1362,7 +1369,7 @@
         "sources_preview": "EFTA02731168.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A waterfront estate at 358 El Brillo Way on the southern portion of Palm Beach island, Florida, that served as Jeffrey Epstein's primary Florida residence.",
+        "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "events": [
           {
             "event_id": "e4f9b42bcaefc5d6",
@@ -1445,15 +1452,15 @@
       },
       "properties": {
         "id": "86028436d75ad1df",
-        "name": "Zorro Ranch",
-        "location_name": "Zorro Ranch",
+        "name": "Epstein's Zorro Ranch",
+        "location_name": "Epstein's Zorro Ranch",
         "location_address": "Stanley, New Mexico, United States",
-        "location_description": "A sprawling ranch property of approximately 10,000 acres near Stanley, New Mexico, located about 30 miles southeast of Santa Fe in the high desert of the Estancia Valley.",
+        "location_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
         "canonical_name": "Zorro Ranch, Stanley, NM, New Mexico",
         "region": "",
         "property_type": "event",
-        "display_name": "Zorro Ranch",
-        "location_descriptor": "A sprawling ranch property of approximately 10,000 acres near Stanley, New Mexico, located about 30 miles southeast of Santa Fe in the high desert of the Estancia Valley.",
+        "display_name": "Epstein's Zorro Ranch",
+        "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -1479,7 +1486,7 @@
         "sources_preview": "EFTA02731168.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
-        "event_description": "A sprawling ranch property of approximately 10,000 acres near Stanley, New Mexico, located about 30 miles southeast of Santa Fe in the high desert of the Estancia Valley.",
+        "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
         "events": [
           {
             "event_id": "cbc2663138ecafa2",
@@ -1537,15 +1544,15 @@
       },
       "properties": {
         "id": "af4a49fc0d866968",
-        "name": "FlightSafety International \u2014 Dallas",
-        "location_name": "FlightSafety International \u2014 Dallas",
+        "name": "FlightSafety International (Dallas)",
+        "location_name": "FlightSafety International (Dallas)",
         "location_address": "Dallas, Texas, United States",
-        "location_description": "A professional aviation training facility operated by FlightSafety International in the Dallas, Texas metropolitan area, offering simulator-based type-rating and recurrent training for various aircraft.",
+        "location_description": "A flight training facility operated by FlightSafety International in the Dallas, Texas area, offering type-rating and recurrent training for business aircraft.",
         "canonical_name": "FlightSafety International, Dallas, TX, Texas",
         "region": "",
         "property_type": "event",
-        "display_name": "FlightSafety International \u2014 Dallas",
-        "location_descriptor": "A professional aviation training facility operated by FlightSafety International in the Dallas, Texas metropolitan area, offering simulator-based type-rating and recurrent training for various aircraft.",
+        "display_name": "FlightSafety International (Dallas)",
+        "location_descriptor": "A flight training facility operated by FlightSafety International in the Dallas, Texas area, offering type-rating and recurrent training for business aircraft.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -1567,7 +1574,7 @@
         "sources_preview": "EFTA02215855.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
-        "event_description": "A professional aviation training facility operated by FlightSafety International in the Dallas, Texas metropolitan area, offering simulator-based type-rating and recurrent training for various aircraft.",
+        "event_description": "A flight training facility operated by FlightSafety International in the Dallas, Texas area, offering type-rating and recurrent training for business aircraft.",
         "events": [
           {
             "event_id": "b7eb37371ee573fb",
@@ -1621,15 +1628,15 @@
       },
       "properties": {
         "id": "3a638c23dc6f9c05",
-        "name": "FlightSafety International \u2014 Wilmington",
-        "location_name": "FlightSafety International \u2014 Wilmington",
+        "name": "FlightSafety International (Wilmington)",
+        "location_name": "FlightSafety International (Wilmington)",
         "location_address": "Wilmington, Delaware, United States",
-        "location_description": "A FlightSafety International aviation training center located at Wilmington Airport (KILG) in Delaware, providing initial and recurrent type-rating courses for business jet aircraft.",
+        "location_description": "A FlightSafety International training center in Wilmington, Delaware, providing initial and recurrent type-rating courses for corporate and business jets.",
         "canonical_name": "FlightSafety International, Wilmington, DE, Delaware",
         "region": "",
         "property_type": "event",
-        "display_name": "FlightSafety International \u2014 Wilmington",
-        "location_descriptor": "A FlightSafety International aviation training center located at Wilmington Airport (KILG) in Delaware, providing initial and recurrent type-rating courses for business jet aircraft.",
+        "display_name": "FlightSafety International (Wilmington)",
+        "location_descriptor": "A FlightSafety International training center in Wilmington, Delaware, providing initial and recurrent type-rating courses for corporate and business jets.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -1655,7 +1662,7 @@
         "sources_preview": "EFTA02215855.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
-        "event_description": "A FlightSafety International aviation training center located at Wilmington Airport (KILG) in Delaware, providing initial and recurrent type-rating courses for business jet aircraft.",
+        "event_description": "A FlightSafety International training center in Wilmington, Delaware, providing initial and recurrent type-rating courses for corporate and business jets.",
         "events": [
           {
             "event_id": "b93a4110dc5331a2",
@@ -1713,15 +1720,15 @@
       },
       "properties": {
         "id": "40381f481fa298d6",
-        "name": "Martha's Vineyard",
-        "location_name": "Martha's Vineyard",
+        "name": "New York City",
+        "location_name": "New York City",
         "location_address": "New York City, New York, United States",
-        "location_description": "An island off the southwestern coast of Cape Cod in Massachusetts, known as a popular summer resort destination for affluent residents and tourists from the northeastern United States.",
+        "location_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "canonical_name": "New York, NY, New York City",
         "region": "",
         "property_type": "event",
-        "display_name": "Martha's Vineyard",
-        "location_descriptor": "An island off the southwestern coast of Cape Cod in Massachusetts, known as a popular summer resort destination for affluent residents and tourists from the northeastern United States.",
+        "display_name": "New York City",
+        "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -1755,7 +1762,7 @@
         "sources_preview": "EFTA02731465.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "An island off the southwestern coast of Cape Cod in Massachusetts, known as a popular summer resort destination for affluent residents and tourists from the northeastern United States.",
+        "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "events": [
           {
             "event_id": "ef44d10ad6213f75",
@@ -1824,12 +1831,12 @@
         "name": "Florida",
         "location_name": "Florida",
         "location_address": "Florida, United States",
-        "location_description": "A southeastern U.S. state occupying a peninsula between the Atlantic Ocean and the Gulf of Mexico, known for its warm climate, beaches, and major cities including Miami, Orlando, and Palm Beach.",
+        "location_description": "A southeastern U.S. state known for its coastline along the Atlantic Ocean and Gulf of Mexico, bordered by Georgia and Alabama to the north.",
         "canonical_name": "Florida, United States",
         "region": "",
         "property_type": "event",
         "display_name": "Florida",
-        "location_descriptor": "A southeastern U.S. state occupying a peninsula between the Atlantic Ocean and the Gulf of Mexico, known for its warm climate, beaches, and major cities including Miami, Orlando, and Palm Beach.",
+        "location_descriptor": "A southeastern U.S. state known for its coastline along the Atlantic Ocean and Gulf of Mexico, bordered by Georgia and Alabama to the north.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -1851,7 +1858,7 @@
         "sources_preview": "EFTA02731465.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
-        "event_description": "A southeastern U.S. state occupying a peninsula between the Atlantic Ocean and the Gulf of Mexico, known for its warm climate, beaches, and major cities including Miami, Orlando, and Palm Beach.",
+        "event_description": "A southeastern U.S. state known for its coastline along the Atlantic Ocean and Gulf of Mexico, bordered by Georgia and Alabama to the north.",
         "events": [
           {
             "event_id": "3d9825602351d8da",
@@ -1908,12 +1915,12 @@
         "name": "Oak Bluffs Harbor",
         "location_name": "Oak Bluffs Harbor",
         "location_address": "Martha's Vineyard, Massachusetts, United States",
-        "location_description": "A historic harbor on the northeastern coast of Martha's Vineyard, Massachusetts, known for its Victorian gingerbread cottages, active ferry terminal, and summer resort atmosphere.",
+        "location_description": "A harbor town on the northeastern shore of Martha's Vineyard, Massachusetts, known for its Victorian gingerbread cottages and ferry terminal.",
         "canonical_name": "Oak Bluffs Harbor, Martha's Vineyard, MA, Massachusetts",
         "region": "",
         "property_type": "event",
         "display_name": "Oak Bluffs Harbor",
-        "location_descriptor": "A historic harbor on the northeastern coast of Martha's Vineyard, Massachusetts, known for its Victorian gingerbread cottages, active ferry terminal, and summer resort atmosphere.",
+        "location_descriptor": "A harbor town on the northeastern shore of Martha's Vineyard, Massachusetts, known for its Victorian gingerbread cottages and ferry terminal.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -1939,7 +1946,7 @@
         "sources_preview": "EFTA02731490.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A historic harbor on the northeastern coast of Martha's Vineyard, Massachusetts, known for its Victorian gingerbread cottages, active ferry terminal, and summer resort atmosphere.",
+        "event_description": "A harbor town on the northeastern shore of Martha's Vineyard, Massachusetts, known for its Victorian gingerbread cottages and ferry terminal.",
         "events": [
           {
             "event_id": "195d4cb342a2a381",
@@ -2000,12 +2007,12 @@
         "name": "John F. Kennedy International Airport",
         "location_name": "John F. Kennedy International Airport",
         "location_address": "Queens, New York, United States",
-        "location_description": "A major international airport in Queens, New York, one of the busiest airports in North America and a primary hub for transatlantic and transpacific commercial air travel.",
+        "location_description": "The largest airport in New York City, located in the borough of Queens, serving as a major international gateway to the United States.",
         "canonical_name": "John F. Kennedy International Airport, Queens, NY, New York City, New York",
         "region": "",
         "property_type": "event",
         "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "A major international airport in Queens, New York, one of the busiest airports in North America and a primary hub for transatlantic and transpacific commercial air travel.",
+        "location_descriptor": "The largest airport in New York City, located in the borough of Queens, serving as a major international gateway to the United States.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -2027,7 +2034,7 @@
         "sources_preview": "EFTA02212949.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
-        "event_description": "A major international airport in Queens, New York, one of the busiest airports in North America and a primary hub for transatlantic and transpacific commercial air travel.",
+        "event_description": "The largest airport in New York City, located in the borough of Queens, serving as a major international gateway to the United States.",
         "events": [
           {
             "event_id": "eb83fb2a2da9f336",
@@ -2081,15 +2088,15 @@
       },
       "properties": {
         "id": "3e43c656e5192f93",
-        "name": "Paris (Charles de Gaulle Airport area)",
-        "location_name": "Paris (Charles de Gaulle Airport area)",
+        "name": "Paris",
+        "location_name": "Paris",
         "location_address": "Paris, France",
-        "location_description": "The capital and largest city of France, served internationally by Charles de Gaulle Airport, located approximately 23 kilometers north-northeast of the city center.",
+        "location_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "canonical_name": "Paris, France",
         "region": "",
         "property_type": "event",
-        "display_name": "Paris (Charles de Gaulle Airport area)",
-        "location_descriptor": "The capital and largest city of France, served internationally by Charles de Gaulle Airport, located approximately 23 kilometers north-northeast of the city center.",
+        "display_name": "Paris",
+        "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -2115,7 +2122,7 @@
         "sources_preview": "EFTA02215836.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
-        "event_description": "The capital and largest city of France, served internationally by Charles de Gaulle Airport, located approximately 23 kilometers north-northeast of the city center.",
+        "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "events": [
           {
             "event_id": "2ec922dd5dc8a94b",
@@ -2176,12 +2183,12 @@
         "name": "Stockholm",
         "location_name": "Stockholm",
         "location_address": "Stockholm, Stockholm, Sweden",
-        "location_description": "The capital and largest city of Sweden, spread across 14 islands where Lake M\u00e4laren meets the Baltic Sea, known as a major Scandinavian financial and cultural hub.",
+        "location_description": "The capital and largest city of Sweden, built across 14 islands at the confluence of Lake M\u00e4laren and the Baltic Sea.",
         "canonical_name": "Stockholm, Sweden",
         "region": "",
         "property_type": "event",
         "display_name": "Stockholm",
-        "location_descriptor": "The capital and largest city of Sweden, spread across 14 islands where Lake M\u00e4laren meets the Baltic Sea, known as a major Scandinavian financial and cultural hub.",
+        "location_descriptor": "The capital and largest city of Sweden, built across 14 islands at the confluence of Lake M\u00e4laren and the Baltic Sea.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -2203,7 +2210,7 @@
         "sources_preview": "EFTA02212966.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
-        "event_description": "The capital and largest city of Sweden, spread across 14 islands where Lake M\u00e4laren meets the Baltic Sea, known as a major Scandinavian financial and cultural hub.",
+        "event_description": "The capital and largest city of Sweden, built across 14 islands at the confluence of Lake M\u00e4laren and the Baltic Sea.",
         "events": [
           {
             "event_id": "d29017fadf7e3918",
@@ -2260,12 +2267,12 @@
         "name": "Midtown Manhattan",
         "location_name": "Midtown Manhattan",
         "location_address": "Midtown, New York City, New York, United States",
-        "location_description": "The central commercial and business district of Manhattan, New York City, home to landmarks including Rockefeller Center, the Empire State Building, and Times Square.",
+        "location_description": "The central business and commercial district of Manhattan, New York City, home to major skyscrapers, corporate headquarters, and cultural institutions.",
         "canonical_name": "Midtown Manhattan, New York, NY, New York City",
         "region": "",
         "property_type": "event",
         "display_name": "Midtown Manhattan",
-        "location_descriptor": "The central commercial and business district of Manhattan, New York City, home to landmarks including Rockefeller Center, the Empire State Building, and Times Square.",
+        "location_descriptor": "The central business and commercial district of Manhattan, New York City, home to major skyscrapers, corporate headquarters, and cultural institutions.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -2291,7 +2298,7 @@
         "sources_preview": "EFTA02212889.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
-        "event_description": "The central commercial and business district of Manhattan, New York City, home to landmarks including Rockefeller Center, the Empire State Building, and Times Square.",
+        "event_description": "The central business and commercial district of Manhattan, New York City, home to major skyscrapers, corporate headquarters, and cultural institutions.",
         "events": [
           {
             "event_id": "4e6a46c23efda4c7",
