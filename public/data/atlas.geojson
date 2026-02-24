@@ -6,6 +6,297 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.8256,
+          18.2999
+        ]
+      },
+      "properties": {
+        "id": "32aca5195cbab655",
+        "name": "Little St. James Island",
+        "location_name": "Little St. James Island",
+        "location_address": "Little St. James Island, U.S. Virgin Islands",
+        "location_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
+        "canonical_name": "Little St. James Island, U.S. Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Little St. James Island",
+        "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
+        "event_count": 6,
+        "evidence_count": 8,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2005-12",
+        "date_end": "2020",
+        "people": [
+          {
+            "name": "victim",
+            "role": "victim"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Paul Byrne",
+            "role": "legal"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          },
+          {
+            "name": "Walter Cronkite",
+            "role": "associate"
+          }
+        ],
+        "source_count": 7,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA02212921.pdf, EFTA00005091.pdf, EFTA00004250.pdf, ... (+2 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
+        "events": [
+          {
+            "event_id": "1f103c36b6bec13a",
+            "event_title": "USVI Officials Interview Trafficking Victims Who Had Been on Epstein's Island \u2014 Late 2020-Early 2021",
+            "event_type": "presence",
+            "description": "USVI officials interviewed underage girls who had been on Epstein's island in late 2020 and early 2021; a trafficking victim participated in approximately two meetings with attorneys about her abuse on the island.",
+            "date_start": "2020",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "victim",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The interviews are of victims who were on Epstein's Little St. James Island; while Epstein was dead, the investigators were probing activities at his property.",
+            "evidence": [
+              {
+                "file": "EFTA02731488.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "US Virgin Islands, in late 2020 and early 2021, officials were trying to interview underage girls who had been on the island; victim was interviewed/participated in around two meetings with a lawyer",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "22f6f8f6af5b4bb6",
+            "event_title": "FBI Seizes 27 Electronic Devices from Little St. James Island \u2014 August 12, 2019",
+            "event_type": "presence",
+            "description": "FBI Task Force Officer Paul Byrne executed search warrant on Epstein's private island Little Saint James, USVI, seizing 27 electronic devices from multiple structures including main residence, pool house, and beach house on August 12, 2019.",
+            "date_start": "2019-08-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Paul Byrne",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Search targeted Epstein's own private island Little Saint James, seizing 27 electronic devices as evidence of his sex trafficking crimes.",
+            "evidence": [
+              {
+                "file": "EFTA01263024.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands. The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands, known as Little Saint James, approximately 75 acres, located four miles off the southeast coast of St. Thomas Island. Multiple structures including a main residence, pool house, sheds, beach house, office, and cabanas.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263024.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "567a9126fc0f4938",
+            "event_title": "Epstein Requests Karyna Shuliak Booked to 'The Island' (Little St. James) \u2014 May 2017",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein personally requested Lesley Groff book associate Karyna Shuliak for travel to Little St. James Island for Thursday or Friday (around May 25-26, 2017), contingent on Shuliak's visa appointment outcome.",
+            "date_start": "2017-05-20",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally directed the travel arrangements for an associate traveling to his private island, as explicitly stated in the email ('Jeffrey asked to also book').",
+            "evidence": [
+              {
+                "file": "EFTA02212921.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Lesley, Jeffrey asked to also book for Friday if possible please, but keep Thursday for now.\n\nMy current flight to the island is booked for Thursday as you asked, should we rebook for Friday? since my visa appointment is on Wednesday and I will most likely be able to pick up my passport next day",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212921.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "78f7f9669f8bc4b5",
+            "event_title": "Epstein Group at Little St. James for Christmas 2005 (Multiple Photo Discs)",
+            "event_type": "presence",
+            "description": "Epstein and associates gathered at Little St. James Island for Christmas 2005, documented across multiple photo discs labeled LSJ XMAS05.",
+            "date_start": "2005-12",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "LSJ (Little St. James) is Epstein's private island; Christmas gathering there is directly connected to him.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ XMAS05 DISK3\n- LSJ XMAS05-DISK2\n- LSJ XMAS05-DISK1\n\t- LSJ XMAS05 SUTON",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6eca02ec414b67ef",
+            "event_title": "Walter Cronkite Visits Little St. James Island with Epstein (January 2007)",
+            "event_type": "presence",
+            "description": "Walter Cronkite visited Jeffrey Epstein at Little St. James Island in January 2007, documented in seized photo discs.",
+            "date_start": "2007-01",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Walter Cronkite",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Walter Cronkite was photographed at Epstein's private island Little St. James in January 2007.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WALTER\nCRONKITE 1/07",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "862753620a743ada",
+            "event_title": "Epstein Group Jet Skiing at Little St. James Island",
+            "event_type": "presence",
+            "description": "Epstein and associates participated in jet ski activities at Little St. James Island, documented in seized photo discs.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jet ski photos at LSJ were seized from Epstein property as evidence.",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ Aerials= jet ski\n\nDSCF0022_1.TIF  DSCF0023_1.TIF",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ boat view\n\nDSCF0001_1.TIF DSCF0002_1.TIF",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004663.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004348.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ\n\nLSJ00.JPG  LSJ01.JPG  LSJ02.JPG\n...\nLSJ79.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004348.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02731488",
+            "file": "EFTA02731488.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263024",
+            "file": "EFTA01263024.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212921",
+            "file": "EFTA02212921.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004663",
+            "file": "EFTA00004663.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004348",
+            "file": "EFTA00004348.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.97552,
           18.342445
         ]
@@ -451,6 +742,320 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.966473,
+          40.771541
+        ]
+      },
+      "properties": {
+        "id": "fb461ab0a97b3da5",
+        "name": "9 East 71st Street",
+        "location_name": "9 East 71st Street",
+        "location_address": "9 East 71st Street, New York City, New York 10021, United States",
+        "location_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
+        "canonical_name": "9 East 71st Street, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "9 East 71st Street",
+        "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
+        "event_count": 5,
+        "evidence_count": 12,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2001",
+        "date_end": "2019-07-06",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Victim-1",
+            "role": "victim"
+          },
+          {
+            "name": "unnamed minor victim",
+            "role": "victim"
+          },
+          {
+            "name": "Leon Black",
+            "role": "associate"
+          },
+          {
+            "name": "law enforcement officers",
+            "role": "other"
+          },
+          {
+            "name": "Stephen Hanson",
+            "role": "associate"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          }
+        ],
+        "source_count": 6,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA02731488.pdf, EFTA02212899.pdf, ... (+1 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
+        "events": [
+          {
+            "event_id": "ca009deaad766dd9",
+            "event_title": "Epstein Sexually Abused Victim-1 at 9 East 71st St, New York (2002-2005)",
+            "event_type": "presence",
+            "description": "Epstein sexually abused Victim-1 on multiple occasions at his 9 East 71st Street New York residence between approximately 2002 and 2005, when Victim-1 was under 18.; Epstein sexually abused numerous minor victims ages as young as 14 at his Manhattan residence, 9 East 71st Street, with victims escorted to a massage room where Epstein escalated physical contact to include sex acts.",
+            "date_start": "2002",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Victim-1",
+                "role": "victim"
+              },
+              {
+                "name": "unnamed minor victim",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein directly and personally sexually abused Victim-1 at his New York residence, as stated in the FBI affidavit.",
+            "evidence": [
+              {
+                "file": "EFTA01262805.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Between approximately 2002 and 2005, EPSTEIN sexually abused Victim-1 on multiple occasions in the Subject Premises. This sexual abuse all occurred when Victim-1 was under the age of 18.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262805.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, EPSTEIN sexually abused numerous minor victims at the Subject Premises. In particular, and as alleged in the Indictment, when a victim arrived at the Subject Premises, she would be escorted to a room inside the Subject Premises with a massage table, where she would perform a massage on EPSTEIN.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Beginning when was approximately 14, she began to travel with Epstein and Maxwell to New York City on occasion. During what believes was an early trip, she stayed at Epstein's mansion, and Maxwell and Epstein took her shopping.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein periodically flew to New York, where she would stay with him (and sometimes Maxwell) at his house in Manhattan. recalls that Epstein sexually abused her during the trips to New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In the summer of a few months before she turned 18, moved to New York City. She maintained contact with Epstein during that year in New York, and he continued to abuse her at his New York townhome.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262965.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "One of the victims identified in paragraph 22 of Exhibit A is Victim-I. As part of the FBI's investigation of EPSTEIN, other law enforcement officers and I have interviewed Victim-1. During those interviews, Victim-1 has said, in substance and in part, that EPSTEIN sexually abused Victim-1 on multiple occasions between approximately 2002 and 2005 in the New York Residence. This sexual abuse all occurred when Victim-I was under the age of 18.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262965.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "62a6347a7bd3dd3f",
+            "event_title": "Leon Black Raped Victim at Epstein's Manhattan Townhouse, 2001-2002",
+            "event_type": "travel",
+            "description": "Leon Black raped a victim at Epstein's Manhattan townhouse around 2001-2002, with the victim describing excruciating pain while on a massage table at 9 East 71st Street.; A 16-year-old minor sent to give Leon Black a massage at Epstein's townhouse was violently raped by Black; after bleeding rectally, Epstein's associates flew her out of New York the next day instead of seeking medical care.; Victim was driven to Epstein's Manhattan townhouse to be introduced to Leon Black; after the assault, the victim spent the next few years in Palm Beach, Florida or the U.S. Virgin Islands.",
+            "date_start": "2001",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The rape occurred at Epstein's own Manhattan townhouse (9 East 71st Street) where the victim was brought to give massages to Epstein and Black.",
+            "evidence": [
+              {
+                "file": "EFTA02731488.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Victim said Black raped her around 20 years ago (2001 or 2002) in Epstein's townhouse\n\u2022 Victim described it, felt pain (like insertion of something sharp in her vagina), on massage table with head on floor and legs on his shoulders; excruciating",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731488.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Minor victim, at Epstein's townhouse and was told to give Leon Black a massage, violently raped by black\n\u2022 16 years old when raped by Black\n\n\u2022 Black used adult sex toys in victim's rectum and vagina. Victim felt severe pinching in her vagina and began bleeding from her rectum; Black and others at Epstein's house would not take her to the doctor and instead flew her out of NY the next day",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731488.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "next few years was in Palm Beach or US Virgin Islands\n\n\u2022 Driven from. to Epstein's townhouse to meet Epstein's special friend named Leon Black; brought to Manhattan townhouse",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "96272336b9a89cc8",
+            "event_title": "FBI Search Team Executes Warrant at Epstein NY Residence (July 6, 2019, 6PM)",
+            "event_type": "presence",
+            "description": "FBI-led Search Team executed a search warrant signed by Judge Barbara Moses at Epstein's 9 East 71st Street New York residence on July 6, 2019 at approximately 6 PM.",
+            "date_start": "2019-07-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "law enforcement officers",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The search warrant was executed at Epstein's own residence in connection with the federal sex trafficking investigation.",
+            "evidence": [
+              {
+                "file": "EFTA01262965.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On or about July 6, 2019, the Honorable Barbara Moses, United States Magistrate Judge, signed a search warrant authorizing a search of the New York Residence. [...] At approximately 6 p.m. on or about July 6, 2019, law enforcement officers (the \"Search Team\") commenced executing the search warrant at the New York Residence.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262965.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e1074b4d9ef2942b",
+            "event_title": "Stephen Hanson Visits Jeffrey Epstein at NY Residence (May 19, 2017)",
+            "event_type": "presence",
+            "description": "Stephen Hanson visited Jeffrey Epstein at his New York home on May 19, 2017; meeting time adjusted from 7pm to 4pm at Epstein's request because 7:30pm was too late for him.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Stephen Hanson",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein was physically at his NY home to meet with Stephen Hanson on May 19, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02212899.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Well, I spoke to soon! Jeffrey just called me and said 7:30pm is too late...can you come see him at 4pm? He says he should be home by then",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212899.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0b773e8f9f424543",
+            "event_title": "Epstein Briefly in New York (May 9-10, 2017) \u2014 G550 Aircraft Paint Coordination",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein was scheduled to be at his 9 East 71st Street New York home on May 9, 2017.",
+            "date_start": "2017-05-09",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Email confirms Epstein at NY residence May 9, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02212908.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be in NY tomorrow but leaves again on Wed",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212908.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA01262805",
+            "file": "EFTA01262805.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02731168",
+            "file": "EFTA02731168.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262965",
+            "file": "EFTA01262965.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02731488",
+            "file": "EFTA02731488.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212899",
+            "file": "EFTA02212899.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212908",
+            "file": "EFTA02212908.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.002663,
           40.713878
         ]
@@ -607,174 +1212,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.8256,
-          18.2999
-        ]
-      },
-      "properties": {
-        "id": "32aca5195cbab655",
-        "name": "Little St. James Island",
-        "location_name": "Little St. James Island",
-        "location_address": "Little St. James Island, U.S. Virgin Islands",
-        "location_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "canonical_name": "Little St. James Island, U.S. Virgin Islands",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Little St. James Island",
-        "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "event_count": 3,
-        "evidence_count": 3,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-20",
-        "date_end": "2020",
-        "people": [
-          {
-            "name": "victim",
-            "role": "victim"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Paul Byrne",
-            "role": "legal"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Karyna Shuliak",
-            "role": "associate"
-          }
-        ],
-        "source_count": 3,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA02212921.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "events": [
-          {
-            "event_id": "1f103c36b6bec13a",
-            "event_title": "USVI Officials Interview Trafficking Victims Who Had Been on Epstein's Island \u2014 Late 2020-Early 2021",
-            "event_type": "presence",
-            "description": "USVI officials interviewed underage girls who had been on Epstein's island in late 2020 and early 2021; a trafficking victim participated in approximately two meetings with attorneys about her abuse on the island.",
-            "date_start": "2020",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "victim",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The interviews are of victims who were on Epstein's Little St. James Island; while Epstein was dead, the investigators were probing activities at his property.",
-            "evidence": [
-              {
-                "file": "EFTA02731488.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "US Virgin Islands, in late 2020 and early 2021, officials were trying to interview underage girls who had been on the island; victim was interviewed/participated in around two meetings with a lawyer",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "22f6f8f6af5b4bb6",
-            "event_title": "FBI Seizes 27 Electronic Devices from Little St. James Island \u2014 August 12, 2019",
-            "event_type": "presence",
-            "description": "FBI Task Force Officer Paul Byrne executed search warrant on Epstein's private island Little Saint James, USVI, seizing 27 electronic devices from multiple structures including main residence, pool house, and beach house on August 12, 2019.",
-            "date_start": "2019-08-12",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Paul Byrne",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Search targeted Epstein's own private island Little Saint James, seizing 27 electronic devices as evidence of his sex trafficking crimes.",
-            "evidence": [
-              {
-                "file": "EFTA01263024.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands. The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands, known as Little Saint James, approximately 75 acres, located four miles off the southeast coast of St. Thomas Island. Multiple structures including a main residence, pool house, sheds, beach house, office, and cabanas.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263024.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "567a9126fc0f4938",
-            "event_title": "Epstein Requests Karyna Shuliak Booked to 'The Island' (Little St. James) \u2014 May 2017",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein personally requested Lesley Groff book associate Karyna Shuliak for travel to Little St. James Island for Thursday or Friday (around May 25-26, 2017), contingent on Shuliak's visa appointment outcome.",
-            "date_start": "2017-05-20",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Karyna Shuliak",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally directed the travel arrangements for an associate traveling to his private island, as explicitly stated in the email ('Jeffrey asked to also book').",
-            "evidence": [
-              {
-                "file": "EFTA02212921.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Lesley, Jeffrey asked to also book for Friday if possible please, but keep Thursday for now.\n\nMy current flight to the island is booked for Thursday as you asked, should we rebook for Friday? since my visa appointment is on Wednesday and I will most likely be able to pick up my passport next day",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212921.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02731488",
-            "file": "EFTA02731488.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263024",
-            "file": "EFTA01263024.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212921",
-            "file": "EFTA02212921.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.054155,
           26.696207
         ]
@@ -883,28 +1320,204 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.966473,
-          40.771541
+          -80.038566,
+          26.693374
         ]
       },
       "properties": {
-        "id": "fb461ab0a97b3da5",
-        "name": "9 East 71st Street",
-        "location_name": "9 East 71st Street",
-        "location_address": "9 East 71st Street, New York City, New York 10021, United States",
-        "location_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "canonical_name": "9 East 71st Street, New York, NY, New York City",
+        "id": "92217ebd1b4a1687",
+        "name": "Jeffrey Epstein Palm Beach Mansion",
+        "location_name": "Jeffrey Epstein Palm Beach Mansion",
+        "location_address": "358 El Brillo Way, Palm Beach, Florida 33480, United States",
+        "location_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
+        "canonical_name": "358 El Brillo Way, Palm Beach, FL, Florida",
         "region": "",
         "property_type": "event",
-        "display_name": "9 East 71st Street",
-        "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
+        "display_name": "Jeffrey Epstein Palm Beach Mansion",
+        "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 2,
-        "evidence_count": 8,
+        "evidence_count": 6,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2001",
-        "date_end": "2002",
+        "date_start": "1993",
+        "date_end": "2004",
+        "people": [
+          {
+            "name": "Juan Alessi",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "unnamed minor victim",
+            "role": "victim"
+          },
+          {
+            "name": "Jane Doe number 4",
+            "role": "victim"
+          },
+          {
+            "name": "Jane Doe number 3",
+            "role": "victim"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
+        "events": [
+          {
+            "event_id": "e4f9b42bcaefc5d6",
+            "event_title": "Victim and Mother First Visit Epstein's Palm Beach House for Tea",
+            "event_type": "presence",
+            "description": "Minor victim and her mother visited Epstein's Palm Beach house and had tea with Epstein by his pool after being invited by Epstein's office; Epstein told them he mentored young talented individuals.; Minor victim regularly spent time at Epstein's Palm Beach house from ages 14 to 17; Epstein gave her $200-300 in cash per visit and Maxwell and Epstein groomed her for sexual abuse.; Juan Alessi, Epstein's house manager, was directed by Epstein and Maxwell to pick up the minor victim from her home and drive her to Epstein's Palm Beach house; he also drove Epstein, Maxwell, and the victim to the movies.",
+            "date_start": "1993",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Juan Alessi",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "unnamed minor victim",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his Palm Beach house during the visit and personally spoke with the victim and her mother.",
+            "evidence": [
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Several weeks later, when was home from camp, she recalls someone from Epstein's office calling her house and inviting her to come to Epstein's house in Palm Beach for tea. and her mother went to the house, where they had tea with Epstein by his pool.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "subsequently began regularly spending time at Epstein's house in Palm Beach, beginning at age 14, and continuing until she was 17, when she relocated to New York City. During those visits, Epstein regularly gave her $200-300 in cash",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alessi remembers being sent by both Epstein and Maxwell to pick up from her house and drive her to Epstein's house, and he recalls the specific neighborhood where she lived. He recalls Maxwell and Epstein spending time with at the Palm Beach house, and he also remembers being sent to buy movie tickets, and driving Maxwell, and Epstein to the movies.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In approximately 1993, Maxwell began coming to the house in Palm Beach, and became in charge of the whole house. Epstein told Alessi to go to Maxwell for his orders, and he began taking directions from Maxwell about house operations.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a1365d708939e657",
+            "event_title": "Jane Doe #3 (Age 16) Performs Massages for Epstein at Palm Beach Home, Spring 2004",
+            "event_type": "presence",
+            "description": "Jane Doe #3, age 16-17, performed massages for Jeffrey Epstein at his Palm Beach residence starting in spring 2004 prior to her 17th birthday, sexual activity occurred while she was under 18.; Jane Doe #4, a high school junior, visited Jeffrey Epstein at his Palm Beach residence in spring 2004 along with Jane Doe #3, both friends who visited Epstein for massage appointments.",
+            "date_start": "2004",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jane Doe number 4",
+                "role": "victim"
+              },
+              {
+                "name": "Jane Doe number 3",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his Palm Beach home where Jane Doe #3 performed massages for him starting at age 16.",
+            "evidence": [
+              {
+                "file": "EFTA00009512.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jane Doe number 3 [...] went there earlier, much earlier [...] they both went in the spring of 04, prior to [...] 17th birthday, so [redacted] did start giving mr. Epstein massages when she was 16, she performed a few massages for Mr. Epstein",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009512.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00009512.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jane Doe number 4 [...] they were good friends and they both went in the spring of '04 [...] she was in [...] high school and that [...] and her were in the [school]",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009512.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02731168",
+            "file": "EFTA02731168.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009512",
+            "file": "EFTA00009512.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.977697,
+          35.147641
+        ]
+      },
+      "properties": {
+        "id": "86028436d75ad1df",
+        "name": "Epstein's Zorro Ranch",
+        "location_name": "Epstein's Zorro Ranch",
+        "location_address": "Stanley, New Mexico, United States",
+        "location_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
+        "canonical_name": "Zorro Ranch, Stanley, NM, New Mexico",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Epstein's Zorro Ranch",
+        "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -915,32 +1528,24 @@
             "role": "associate"
           },
           {
-            "name": "Victim-1",
-            "role": "victim"
-          },
-          {
             "name": "unnamed minor victim",
             "role": "victim"
-          },
-          {
-            "name": "Leon Black",
-            "role": "associate"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA02731488.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA02731168.pdf, EFTA00004250.pdf",
         "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
+        "event_type": "travel",
+        "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
         "events": [
           {
-            "event_id": "ca009deaad766dd9",
-            "event_title": "Epstein Sexually Abused Victim-1 at 9 East 71st St, New York (2002-2005)",
-            "event_type": "presence",
-            "description": "Epstein sexually abused Victim-1 on multiple occasions at his 9 East 71st Street New York residence between approximately 2002 and 2005, when Victim-1 was under 18.; Epstein sexually abused numerous minor victims ages as young as 14 at his Manhattan residence, 9 East 71st Street, with victims escorted to a massage room where Epstein escalated physical contact to include sex acts.",
-            "date_start": "2002",
+            "event_id": "cbc2663138ecafa2",
+            "event_title": "Victim Travels with Epstein and Maxwell to Zorro Ranch in New Mexico",
+            "event_type": "travel",
+            "description": "Victim traveled with Epstein and Maxwell to Epstein's ranch in New Mexico; she has few specific memories from these trips and does not recall whether abuse occurred at that location.",
+            "date_start": null,
             "date_end": null,
-            "date_precision": "range",
+            "date_precision": "none",
             "confidence": 0.75,
             "people": [
               {
@@ -952,95 +1557,45 @@
                 "role": "associate"
               },
               {
-                "name": "Victim-1",
-                "role": "victim"
-              },
-              {
                 "name": "unnamed minor victim",
                 "role": "victim"
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein directly and personally sexually abused Victim-1 at his New York residence, as stated in the FBI affidavit.",
+            "nexus_reasoning": "Epstein was physically present at his New Mexico ranch during these trips with the minor victim and Maxwell.",
             "evidence": [
               {
-                "file": "EFTA01262805.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Between approximately 2002 and 2005, EPSTEIN sexually abused Victim-1 on multiple occasions in the Subject Premises. This sexual abuse all occurred when Victim-1 was under the age of 18.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA01262805.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, EPSTEIN sexually abused numerous minor victims at the Subject Premises. In particular, and as alleged in the Indictment, when a victim arrived at the Subject Premises, she would be escorted to a room inside the Subject Premises with a massage table, where she would perform a massage on EPSTEIN.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
-                "confidence": 0.7
-              },
-              {
                 "file": "EFTA02731168.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Beginning when was approximately 14, she began to travel with Epstein and Maxwell to New York City on occasion. During what believes was an early trip, she stayed at Epstein's mansion, and Maxwell and Epstein took her shopping.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Epstein periodically flew to New York, where she would stay with him (and sometimes Maxwell) at his house in Manhattan. recalls that Epstein sexually abused her during the trips to New York",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "In the summer of a few months before she turned 18, moved to New York City. She maintained contact with Epstein during that year in New York, and he continued to abuse her at his New York townhome.",
+                "excerpt": "also recalls traveling to Epstein's ranch in New Mexico with Epstein and Maxwell. She has few specific memories from these trips, and does not recall whether Epstein abused her at that location.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "62a6347a7bd3dd3f",
-            "event_title": "Leon Black Raped Victim at Epstein's Manhattan Townhouse, 2001-2002",
-            "event_type": "travel",
-            "description": "Leon Black raped a victim at Epstein's Manhattan townhouse around 2001-2002, with the victim describing excruciating pain while on a massage table at 9 East 71st Street.; A 16-year-old minor sent to give Leon Black a massage at Epstein's townhouse was violently raped by Black; after bleeding rectally, Epstein's associates flew her out of New York the next day instead of seeking medical care.; Victim was driven to Epstein's Manhattan townhouse to be introduced to Leon Black; after the assault, the victim spent the next few years in Palm Beach, Florida or the U.S. Virgin Islands.",
-            "date_start": "2001",
+            "event_id": "92443ccf5ea5df96",
+            "event_title": "Epstein Group at Zorro Ranch, New Mexico (Photo Disc)",
+            "event_type": "presence",
+            "description": "Epstein and associates visited Zorro Ranch in New Mexico, documented in photo disc labeled Zorro/Vegas/Aspen.",
+            "date_start": null,
             "date_end": null,
-            "date_precision": "range",
+            "date_precision": "none",
             "confidence": 0.75,
             "people": [
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
-              },
-              {
-                "name": "Leon Black",
-                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "The rape occurred at Epstein's own Manhattan townhouse (9 East 71st Street) where the victim was brought to give massages to Epstein and Black.",
+            "nexus_reasoning": "Zorro Ranch is Epstein New Mexico property; photos seized from his possession.",
             "evidence": [
               {
-                "file": "EFTA02731488.pdf",
+                "file": "EFTA00004250.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Victim said Black raped her around 20 years ago (2001 or 2002) in Epstein's townhouse\n\u2022 Victim described it, felt pain (like insertion of something sharp in her vagina), on massage table with head on floor and legs on his shoulders; excruciating",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731488.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Minor victim, at Epstein's townhouse and was told to give Leon Black a massage, violently raped by black\n\u2022 16 years old when raped by Black\n\n\u2022 Black used adult sex toys in victim's rectum and vagina. Victim felt severe pinching in her vagina and began bleeding from her rectum; Black and others at Epstein's house would not take her to the doctor and instead flew her out of NY the next day",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731488.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "next few years was in Palm Beach or US Virgin Islands\n\n\u2022 Driven from. to Epstein's townhouse to meet Epstein's special friend named Leon Black; brought to Manhattan townhouse",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
+                "excerpt": "Zorro/Vegas/Aspen IMG_6122.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1048,18 +1603,305 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA01262805",
-            "file": "EFTA01262805.pdf",
-            "source_type": "doj_efta"
-          },
-          {
             "doc_id": "EFTA02731168",
             "file": "EFTA02731168.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02731488",
-            "file": "EFTA02731488.pdf",
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "40381f481fa298d6",
+        "name": "New York City",
+        "location_name": "New York City",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
+        "canonical_name": "New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "New York City",
+        "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-05",
+        "date_end": "2017-05-05",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Mr. Islam",
+            "role": "other"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Alan Dershowitz",
+            "role": "other"
+          },
+          {
+            "name": "Mr. Caruthers",
+            "role": "other"
+          },
+          {
+            "name": "Matthew Hiltzik",
+            "role": "associate"
+          },
+          {
+            "name": "Ben Sosenko",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02731465.pdf, EFTA02212893.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
+        "events": [
+          {
+            "event_id": "ef44d10ad6213f75",
+            "event_title": "Victim Diary: Epstein Network Abuse at Multiple Locations \u2014 NY, DC, Vineyard, Island, Palm Beach",
+            "event_type": "presence",
+            "description": "Victim diary describes being sexually abused in multiple locations including a plane, yacht in New York, Washington DC, Martha's Vineyard, Little St. James Island, and Palm Beach by Epstein, Maxwell, and associates.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Mr. Islam",
+                "role": "other"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Alan Dershowitz",
+                "role": "other"
+              },
+              {
+                "name": "Mr. Caruthers",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The diary explicitly names Jeffrey Epstein and Ghislaine Maxwell as present and complicit in abuse at multiple locations including Epstein's known properties.",
+            "evidence": [
+              {
+                "file": "EFTA02731465.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In a plane on a yacht in NY, in DC, at the vineyard.\nOn the island. In palm beach.\nIt doesnt matter.\nDisgusting pigs like Allen Douschewitz and Mr. Caruthers and even Mr. Islam will hurt you\nespecially if Ghislaine is busy or not with you!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cb3abc9382b91b7b",
+            "event_title": "Matthew Hilfzik and Ben Sosenko Meet with Epstein in New York (May 5, 2017)",
+            "event_type": "presence",
+            "description": "Matthew Hilfzik and his colleague Ben Sosenko met with Jeffrey Epstein in New York at 4:30pm on May 5, 2017, following prior scheduling difficulties.",
+            "date_start": "2017-05-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Matthew Hiltzik",
+                "role": "associate"
+              },
+              {
+                "name": "Ben Sosenko",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The calendar entry confirms Epstein personally met with Matthew Hilfzik and Ben Sosenko in New York on this date.",
+            "evidence": [
+              {
+                "file": "EFTA02212893.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He and his colleague, Ben Sosenko, are confirmed to come see you at 4:30pm on Friday May 5th..\n\nFri. May 5, 2017 NY\n\n4:30pm [Matthew Hilfzik] and his colleague, Ben Sosenko",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212893.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02731465",
+            "file": "EFTA02731465.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212893",
+            "file": "EFTA02212893.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348392,
+          48.853495
+        ]
+      },
+      "properties": {
+        "id": "3e43c656e5192f93",
+        "name": "Paris",
+        "location_name": "Paris",
+        "location_address": "Paris, France",
+        "location_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
+        "canonical_name": "Paris, France",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris",
+        "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
+        "event_count": 2,
+        "evidence_count": 3,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-17",
+        "date_end": "2017-06-17",
+        "people": [
+          {
+            "name": "associate (unnamed female)",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
+        "events": [
+          {
+            "event_id": "2ec922dd5dc8a94b",
+            "event_title": "Associate Flies Paris to Newark, Then Private with Epstein to St. Thomas \u2014 June 17, 2017",
+            "event_type": "travel",
+            "description": "Lesley Groff arranged for a female associate to fly commercial Paris to Newark on June 17, 2017, then join Jeffrey Epstein on a private flight from Newark to St. Thomas, U.S. Virgin Islands.",
+            "date_start": "2017-06-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "associate (unnamed female)",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally flew with the associate on his private aircraft from Newark to St. Thomas, as directed by his assistant Lesley Groff.",
+            "evidence": [
+              {
+                "file": "EFTA02215836.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Morning natasha! We now need to fly from Paris to Newark this sat June 17. It must be a Newark flight then fly private with Jeffrey to St Thomas.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215836.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e30f47aebf71bd5b",
+            "event_title": "Witness Traveled with Epstein to Paris; Photos Taken There",
+            "event_type": "travel",
+            "description": "Witness traveled with Epstein to Paris; photographs were taken there documenting the trip.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Witness describes personally traveling with Epstein to Paris, with photos taken as evidence.",
+            "evidence": [
+              {
+                "file": "EFTA00004070.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Handwritten document describing photos taken in Paris, witness traveled there with Epstein.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Prague72.JPG  to Paris00.JPG  to Paris01.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02215836",
+            "file": "EFTA02215836.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004070",
+            "file": "EFTA00004070.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -1325,219 +2167,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.038566,
-          26.693374
-        ]
-      },
-      "properties": {
-        "id": "92217ebd1b4a1687",
-        "name": "Jeffrey Epstein Palm Beach Mansion",
-        "location_name": "Jeffrey Epstein Palm Beach Mansion",
-        "location_address": "358 El Brillo Way, Palm Beach, Florida 33480, United States",
-        "location_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
-        "canonical_name": "358 El Brillo Way, Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Jeffrey Epstein Palm Beach Mansion",
-        "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
-        "event_count": 1,
-        "evidence_count": 4,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "1993",
-        "date_end": "1993",
-        "people": [
-          {
-            "name": "Juan Alessi",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "unnamed minor victim",
-            "role": "victim"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02731168.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
-        "events": [
-          {
-            "event_id": "e4f9b42bcaefc5d6",
-            "event_title": "Victim and Mother First Visit Epstein's Palm Beach House for Tea",
-            "event_type": "presence",
-            "description": "Minor victim and her mother visited Epstein's Palm Beach house and had tea with Epstein by his pool after being invited by Epstein's office; Epstein told them he mentored young talented individuals.; Minor victim regularly spent time at Epstein's Palm Beach house from ages 14 to 17; Epstein gave her $200-300 in cash per visit and Maxwell and Epstein groomed her for sexual abuse.; Juan Alessi, Epstein's house manager, was directed by Epstein and Maxwell to pick up the minor victim from her home and drive her to Epstein's Palm Beach house; he also drove Epstein, Maxwell, and the victim to the movies.",
-            "date_start": "1993",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Juan Alessi",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "unnamed minor victim",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at his Palm Beach house during the visit and personally spoke with the victim and her mother.",
-            "evidence": [
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Several weeks later, when was home from camp, she recalls someone from Epstein's office calling her house and inviting her to come to Epstein's house in Palm Beach for tea. and her mother went to the house, where they had tea with Epstein by his pool.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "subsequently began regularly spending time at Epstein's house in Palm Beach, beginning at age 14, and continuing until she was 17, when she relocated to New York City. During those visits, Epstein regularly gave her $200-300 in cash",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Alessi remembers being sent by both Epstein and Maxwell to pick up from her house and drive her to Epstein's house, and he recalls the specific neighborhood where she lived. He recalls Maxwell and Epstein spending time with at the Palm Beach house, and he also remembers being sent to buy movie tickets, and driving Maxwell, and Epstein to the movies.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "In approximately 1993, Maxwell began coming to the house in Palm Beach, and became in charge of the whole house. Epstein told Alessi to go to Maxwell for his orders, and he began taking directions from Maxwell about house operations.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02731168",
-            "file": "EFTA02731168.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.977697,
-          35.147641
-        ]
-      },
-      "properties": {
-        "id": "86028436d75ad1df",
-        "name": "Epstein's Zorro Ranch",
-        "location_name": "Epstein's Zorro Ranch",
-        "location_address": "Stanley, New Mexico, United States",
-        "location_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
-        "canonical_name": "Zorro Ranch, Stanley, NM, New Mexico",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Epstein's Zorro Ranch",
-        "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "unnamed minor victim",
-            "role": "victim"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02731168.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
-        "events": [
-          {
-            "event_id": "cbc2663138ecafa2",
-            "event_title": "Victim Travels with Epstein and Maxwell to Zorro Ranch in New Mexico",
-            "event_type": "travel",
-            "description": "Victim traveled with Epstein and Maxwell to Epstein's ranch in New Mexico; she has few specific memories from these trips and does not recall whether abuse occurred at that location.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "unnamed minor victim",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at his New Mexico ranch during these trips with the minor victim and Maxwell.",
-            "evidence": [
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "also recalls traveling to Epstein's ranch in New Mexico with Epstein and Maxwell. She has few specific memories from these trips, and does not recall whether Epstein abused her at that location.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02731168",
-            "file": "EFTA02731168.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -96.799759,
           32.781339
         ]
@@ -1704,114 +2333,6 @@
           {
             "doc_id": "EFTA02215855",
             "file": "EFTA02215855.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.005994,
-          40.712749
-        ]
-      },
-      "properties": {
-        "id": "40381f481fa298d6",
-        "name": "New York City",
-        "location_name": "New York City",
-        "location_address": "New York City, New York, United States",
-        "location_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "canonical_name": "New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "New York City",
-        "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Mr. Islam",
-            "role": "other"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "Alan Dershowitz",
-            "role": "other"
-          },
-          {
-            "name": "Mr. Caruthers",
-            "role": "other"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02731465.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "events": [
-          {
-            "event_id": "ef44d10ad6213f75",
-            "event_title": "Victim Diary: Epstein Network Abuse at Multiple Locations \u2014 NY, DC, Vineyard, Island, Palm Beach",
-            "event_type": "presence",
-            "description": "Victim diary describes being sexually abused in multiple locations including a plane, yacht in New York, Washington DC, Martha's Vineyard, Little St. James Island, and Palm Beach by Epstein, Maxwell, and associates.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Mr. Islam",
-                "role": "other"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "Alan Dershowitz",
-                "role": "other"
-              },
-              {
-                "name": "Mr. Caruthers",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The diary explicitly names Jeffrey Epstein and Ghislaine Maxwell as present and complicit in abuse at multiple locations including Epstein's known properties.",
-            "evidence": [
-              {
-                "file": "EFTA02731465.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "In a plane on a yacht in NY, in DC, at the vineyard.\nOn the island. In palm beach.\nIt doesnt matter.\nDisgusting pigs like Allen Douschewitz and Mr. Caruthers and even Mr. Islam will hurt you\nespecially if Ghislaine is busy or not with you!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02731465",
-            "file": "EFTA02731465.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -2082,98 +2603,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.348392,
-          48.853495
-        ]
-      },
-      "properties": {
-        "id": "3e43c656e5192f93",
-        "name": "Paris",
-        "location_name": "Paris",
-        "location_address": "Paris, France",
-        "location_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "canonical_name": "Paris, France",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Paris",
-        "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-06-17",
-        "date_end": "2017-06-17",
-        "people": [
-          {
-            "name": "associate (unnamed female)",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02215836.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "events": [
-          {
-            "event_id": "2ec922dd5dc8a94b",
-            "event_title": "Associate Flies Paris to Newark, Then Private with Epstein to St. Thomas \u2014 June 17, 2017",
-            "event_type": "travel",
-            "description": "Lesley Groff arranged for a female associate to fly commercial Paris to Newark on June 17, 2017, then join Jeffrey Epstein on a private flight from Newark to St. Thomas, U.S. Virgin Islands.",
-            "date_start": "2017-06-17",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "associate (unnamed female)",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally flew with the associate on his private aircraft from Newark to St. Thomas, as directed by his assistant Lesley Groff.",
-            "evidence": [
-              {
-                "file": "EFTA02215836.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Morning natasha! We now need to fly from Paris to Newark this sat June 17. It must be a Newark flight then fly private with Jeffrey to St Thomas.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215836.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02215836",
-            "file": "EFTA02215836.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           18.06902,
           59.324337
         ]
@@ -2340,6 +2769,1694 @@
           {
             "doc_id": "EFTA02212889",
             "file": "EFTA02212889.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.055685,
+          41.294856
+        ]
+      },
+      "properties": {
+        "id": "8ef41e6f4b07432a",
+        "name": "Spain",
+        "location_name": "Spain",
+        "location_address": "Spain",
+        "location_description": "A sovereign nation in southwestern Europe occupying most of the Iberian Peninsula, bordering France, Portugal, and the Mediterranean Sea.",
+        "canonical_name": "Spain",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Spain",
+        "location_descriptor": "A sovereign nation in southwestern Europe occupying most of the Iberian Peninsula, bordering France, Portugal, and the Mediterranean Sea.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2003",
+        "date_end": "2003",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004070.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A sovereign nation in southwestern Europe occupying most of the Iberian Peninsula, bordering France, Portugal, and the Mediterranean Sea.",
+        "events": [
+          {
+            "event_id": "1802a1dd37d18cb3",
+            "event_title": "Witness Traveled with Epstein to Spain, Turned 18 There (2003)",
+            "event_type": "travel",
+            "description": "Witness traveled with Epstein to Spain in 2003 and turned 18 years old while there.",
+            "date_start": "2003",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Witness describes personally traveling with Epstein to Spain in 2003.",
+            "evidence": [
+              {
+                "file": "EFTA00004070.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Handwritten document describing witness account of traveling to Spain in 2003, noting they turned 18 there.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004070",
+            "file": "EFTA00004070.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.432915,
+          -1.160171
+        ]
+      },
+      "properties": {
+        "id": "2ca26c60fe0238a7",
+        "name": "Ecuador",
+        "location_name": "Ecuador",
+        "location_address": "Ecuador",
+        "location_description": "A country on the northwestern coast of South America, bordering Colombia and Peru, straddling the equator.",
+        "canonical_name": "Ecuador",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Ecuador",
+        "location_descriptor": "A country on the northwestern coast of South America, bordering Colombia and Peru, straddling the equator.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004070.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A country on the northwestern coast of South America, bordering Colombia and Peru, straddling the equator.",
+        "events": [
+          {
+            "event_id": "23f72ddf7d97425b",
+            "event_title": "Witness Traveled with Epstein in Ecuador",
+            "event_type": "travel",
+            "description": "Witness traveled with Epstein to Ecuador, as described in witness interview notes.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Witness personally traveled with Epstein to Ecuador.",
+            "evidence": [
+              {
+                "file": "EFTA00004070.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Handwritten document describing witness traveling with Epstein in Ecuador.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004070",
+            "file": "EFTA00004070.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.431366,
+          28.500307
+        ]
+      },
+      "properties": {
+        "id": "a4d11386a379aa80",
+        "name": "Walt Disney World Resort",
+        "location_name": "Walt Disney World Resort",
+        "location_address": "Florida Center North, Orlando, Florida, United States",
+        "location_description": "A major theme park and resort complex located in Orange and Osceola Counties near Orlando, Florida, opened in 1971.",
+        "canonical_name": "Walt Disney World, Orlando, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Walt Disney World Resort",
+        "location_descriptor": "A major theme park and resort complex located in Orange and Osceola Counties near Orlando, Florida, opened in 1971.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004070.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "A major theme park and resort complex located in Orange and Osceola Counties near Orlando, Florida, opened in 1971.",
+        "events": [
+          {
+            "event_id": "7c0757011a75385c",
+            "event_title": "Disney World Trip in Florida Referenced in Witness Account",
+            "event_type": "presence",
+            "description": "Witness account references a Disney World trip in Florida connected to Epstein.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Disney World trip is referenced in the context of Epstein-related witness interview notes.",
+            "evidence": [
+              {
+                "file": "EFTA00004070.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Handwritten document describing a Disney World trip in Florida referenced in witness account.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004070",
+            "file": "EFTA00004070.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.34558,
+          26.649456
+        ]
+      },
+      "properties": {
+        "id": "38860ca82ed4bdcf",
+        "name": "Puerto Rico",
+        "location_name": "Puerto Rico",
+        "location_address": "Puerto Rico, Texas, United States",
+        "location_description": "A U.S. territory in the northeastern Caribbean Sea, consisting of the main island and several smaller islands, with San Juan as its capital.",
+        "canonical_name": "Puerto Rico, U.S. Territory, Linn, Texas",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Puerto Rico",
+        "location_descriptor": "A U.S. territory in the northeastern Caribbean Sea, consisting of the main island and several smaller islands, with San Juan as its capital.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2005",
+        "date_end": "2005",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jean-Luc Brunel",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A U.S. territory in the northeastern Caribbean Sea, consisting of the main island and several smaller islands, with San Juan as its capital.",
+        "events": [
+          {
+            "event_id": "b4a0e8640db7e651",
+            "event_title": "Jean-Luc Brunel Photographs Epstein Group in Puerto Rico (2005)",
+            "event_type": "presence",
+            "description": "Jean-Luc Brunel photographed Epstein's group during a 2005 trip to Puerto Rico, documented in over 100 photographs.",
+            "date_start": "2005",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jean-Luc Brunel",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jean-Luc Brunel was a known Epstein associate and the photographer is labeled as him in Epstein's seized evidence.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ/PUERTO RICO/GUANA\n\nPuerto Rico 05\n\nPicture jl 001.jpg\n...\nphotg.jean luc,",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.359561,
+          18.526903
+        ]
+      },
+      "properties": {
+        "id": "bdf7834e20f35d8b",
+        "name": "Necker Island",
+        "location_name": "Necker Island",
+        "location_address": "Necker Island, British Virgin Islands",
+        "location_description": "A private island in the British Virgin Islands owned by Richard Branson, located in the North Sound of Virgin Gorda.",
+        "canonical_name": "Necker Island, British Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Necker Island",
+        "location_descriptor": "A private island in the British Virgin Islands owned by Richard Branson, located in the North Sound of Virgin Gorda.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2005-12",
+        "date_end": "2005-12",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A private island in the British Virgin Islands owned by Richard Branson, located in the North Sound of Virgin Gorda.",
+        "events": [
+          {
+            "event_id": "507369817183dfdf",
+            "event_title": "Epstein Group at Necker Island (Branson) for Christmas 2005",
+            "event_type": "presence",
+            "description": "Epstein and associates visited Necker Island during Christmas 2005, documented in multiple photo folders.",
+            "date_start": "2005-12",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Photos labeled as Epstein group activities at Necker Island during Christmas 2005 were seized from Epstein's property.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "xmas 05/necker\n\nIMG_2056.JPG\n...\nphotg.gm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.619789,
+          -9.588903
+        ]
+      },
+      "properties": {
+        "id": "07f62b021771d3cf",
+        "name": "Brazil",
+        "location_name": "Brazil",
+        "location_address": "Brazil",
+        "location_description": "The largest country in South America and the fifth-largest in the world, bordered by the Atlantic Ocean and nearly every other South American country.",
+        "canonical_name": "Brazil",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Brazil",
+        "location_descriptor": "The largest country in South America and the fifth-largest in the world, bordered by the Atlantic Ocean and nearly every other South American country.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2006-12",
+        "date_end": "2006-12",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "The largest country in South America and the fifth-largest in the world, bordered by the Atlantic Ocean and nearly every other South American country.",
+        "events": [
+          {
+            "event_id": "a3e615cf4ed9cdad",
+            "event_title": "Epstein Group Travels to Brazil (December 2006)",
+            "event_type": "travel",
+            "description": "Epstein and associates traveled to Brazil in December 2006, documented in seized photo discs.",
+            "date_start": "2006-12",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Brazil trip in December 2006 is documented among Epstein's seized photographic evidence.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "BRAZIL,\nMISC 12/06",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.398385,
+          43.331055
+        ]
+      },
+      "properties": {
+        "id": "5d5abbcd79132791",
+        "name": "Saint-Barth\u00e9lemy",
+        "location_name": "Saint-Barth\u00e9lemy",
+        "location_address": "Saint-Barth\u00e9lemy, Marseille, Bouches-du-Rh\u00f4ne, France",
+        "location_description": "A French Caribbean island collectivity known as St. Barts, located in the Leeward Islands about 230 km southeast of Puerto Rico.",
+        "canonical_name": "Saint-Barth\u00e9lemy, Caribbean, Marseille, Bouches-du-Rh\u00f4ne",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Saint-Barth\u00e9lemy",
+        "location_descriptor": "A French Caribbean island collectivity known as St. Barts, located in the Leeward Islands about 230 km southeast of Puerto Rico.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A French Caribbean island collectivity known as St. Barts, located in the Leeward Islands about 230 km southeast of Puerto Rico.",
+        "events": [
+          {
+            "event_id": "43c649f3e63f7cc7",
+            "event_title": "Epstein Group at Saint-Barth\u00e9lemy and French Chateaux (Multiple Visits)",
+            "event_type": "presence",
+            "description": "Epstein and associates visited Saint-Barth\u00e9lemy in the Caribbean, documented in seized photo discs.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "St. Barts trip is documented among Epstein's seized photographic evidence.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ST. BARTS.\nCHATEAU\nVILLETE\n\nCHATEAU\nGUERAMENTES",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.94143,
+          49.04055
+        ]
+      },
+      "properties": {
+        "id": "86c3098b05cd0fe5",
+        "name": "Ch\u00e2teau de Villette",
+        "location_name": "Ch\u00e2teau de Villette",
+        "location_address": "Cond\u00e9court, Val-d'Oise, France",
+        "location_description": "A 17th-century French ch\u00e2teau located in Cond\u00e9court, Val-d'Oise, France, designed by Jules Hardouin-Mansart and surrounded by extensive grounds.",
+        "canonical_name": "Ch\u00e2teau de Villette, Cond\u00e9court, France, Val-d'Oise",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Ch\u00e2teau de Villette",
+        "location_descriptor": "A 17th-century French ch\u00e2teau located in Cond\u00e9court, Val-d'Oise, France, designed by Jules Hardouin-Mansart and surrounded by extensive grounds.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A 17th-century French ch\u00e2teau located in Cond\u00e9court, Val-d'Oise, France, designed by Jules Hardouin-Mansart and surrounded by extensive grounds.",
+        "events": [
+          {
+            "event_id": "a67ebb32d6206a7b",
+            "event_title": "Epstein Group at Ch\u00e2teau Villette, France",
+            "event_type": "presence",
+            "description": "Epstein and associates visited Ch\u00e2teau Villette in France, documented in seized photo discs.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Ch\u00e2teau Villette visit is documented among Epstein's seized photographic evidence.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "CHATEAU\nVILLETE",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.449734,
+          36.596212
+        ]
+      },
+      "properties": {
+        "id": "004a6feb5c74d1aa",
+        "name": "Taos Ski Valley",
+        "location_name": "Taos Ski Valley",
+        "location_address": "Taos Ski Valley, New Mexico, United States",
+        "location_description": "A mountain village and ski resort in the Sangre de Cristo Mountains of northern New Mexico, elevation approximately 9,207 feet.",
+        "canonical_name": "Taos Ski Valley, Taos County, NM, New Mexico",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Taos Ski Valley",
+        "location_descriptor": "A mountain village and ski resort in the Sangre de Cristo Mountains of northern New Mexico, elevation approximately 9,207 feet.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A mountain village and ski resort in the Sangre de Cristo Mountains of northern New Mexico, elevation approximately 9,207 feet.",
+        "events": [
+          {
+            "event_id": "da6055b28bb8158f",
+            "event_title": "Epstein Group Skiing at Taos, New Mexico",
+            "event_type": "presence",
+            "description": "Epstein and associates went skiing at Taos, New Mexico, documented in seized photo discs.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Taos skiing trip is documented among Epstein's seized photographic evidence.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TAOS SKIING",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.381096,
+          19.295036
+        ]
+      },
+      "properties": {
+        "id": "70f47a94804b8021",
+        "name": "George Town",
+        "location_name": "George Town",
+        "location_address": "George Town, George Town, Cayman Islands",
+        "location_description": "The capital and largest city of the Cayman Islands, located on the western coast of Grand Cayman, a major offshore financial center.",
+        "canonical_name": "George Town, Grand Cayman, Cayman Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "George Town",
+        "location_descriptor": "The capital and largest city of the Cayman Islands, located on the western coast of Grand Cayman, a major offshore financial center.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jean-Luc Brunel",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The capital and largest city of the Cayman Islands, located on the western coast of Grand Cayman, a major offshore financial center.",
+        "events": [
+          {
+            "event_id": "63d24dc646be67ff",
+            "event_title": "Epstein Yacht \"Huntress\" at George Town, Cayman Islands",
+            "event_type": "presence",
+            "description": "Epstein's vessel \"Huntress\" photographed by Jean-Luc Brunel at George Town, Grand Cayman, Cayman Islands.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jean-Luc Brunel",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The Huntress vessel associated with Epstein was photographed at George Town by Brunel, a known Epstein associate.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Huntress\nGeorge Town, C.I.\n\nPicture jl1 004.jpg\n\nHuntress\nGeorge Town, CJ.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.422954,
+          50.08584
+        ]
+      },
+      "properties": {
+        "id": "e8b3ed7306ccb5fe",
+        "name": "Prague",
+        "location_name": "Prague",
+        "location_address": "Prague, Prague, Czech Republic",
+        "location_description": "The capital and largest city of the Czech Republic, situated on the Vltava River, known for its medieval Old Town and historic Baroque architecture.",
+        "canonical_name": "Prague, Czech Republic",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Prague",
+        "location_descriptor": "The capital and largest city of the Czech Republic, situated on the Vltava River, known for its medieval Old Town and historic Baroque architecture.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jean-Luc Brunel",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004250.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "The capital and largest city of the Czech Republic, situated on the Vltava River, known for its medieval Old Town and historic Baroque architecture.",
+        "events": [
+          {
+            "event_id": "c50dd6c139f78548",
+            "event_title": "Epstein Group Visits Prague, Czech Republic (Jean-Luc Brunel Photography)",
+            "event_type": "travel",
+            "description": "Epstein and associates traveled to Prague, Czech Republic; over 70 photos document the trip, stored on seized discs.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jean-Luc Brunel",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Prague trip photos were seized from Epstein's property and labeled alongside known Epstein associate Jean-Luc Brunel.",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Prague/Clouds\n\nPrague01.JPG  Prague02.JPG\n...\nPrague72.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Prague/Clouds Prague01.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.14062,
+          36.169213
+        ]
+      },
+      "properties": {
+        "id": "1e0ebd2d5cbe954f",
+        "name": "Las Vegas",
+        "location_name": "Las Vegas",
+        "location_address": "Las Vegas, Nevada, United States",
+        "location_description": "A city in southern Nevada, USA, known as an entertainment hub for its casinos, hotels, and shows along the Las Vegas Strip.",
+        "canonical_name": "Las Vegas, NV, Nevada",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Las Vegas",
+        "location_descriptor": "A city in southern Nevada, USA, known as an entertainment hub for its casinos, hotels, and shows along the Las Vegas Strip.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jean-Luc Brunel",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004250.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A city in southern Nevada, USA, known as an entertainment hub for its casinos, hotels, and shows along the Las Vegas Strip.",
+        "events": [
+          {
+            "event_id": "ee12201f20ceea66",
+            "event_title": "Epstein and Jean-Luc Brunel in Las Vegas, Nevada",
+            "event_type": "presence",
+            "description": "Epstein and Jean-Luc Brunel visited Las Vegas, Nevada, documented in seized photo disc labeled Zorro/Vegas.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jean-Luc Brunel",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Las Vegas trip with Jean-Luc Brunel is documented in photos seized from Epstein's property.",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Z ORR O /VEG AS GAY JEAN LUC\n...\nZorro/Vegas/Aspen",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Z ORR O /VEG AS GAY JEAN LUC Zorro/Vegas/Aspen",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.819217,
+          39.190681
+        ]
+      },
+      "properties": {
+        "id": "95d00e1559130406",
+        "name": "Aspen",
+        "location_name": "Aspen",
+        "location_address": "Aspen, Colorado, United States",
+        "location_description": "An upscale mountain city in Pitkin County, Colorado, located in the Rocky Mountains and renowned as a luxury ski and resort destination.",
+        "canonical_name": "Aspen, CO, Colorado",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Aspen",
+        "location_descriptor": "An upscale mountain city in Pitkin County, Colorado, located in the Rocky Mountains and renowned as a luxury ski and resort destination.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004250.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "An upscale mountain city in Pitkin County, Colorado, located in the Rocky Mountains and renowned as a luxury ski and resort destination.",
+        "events": [
+          {
+            "event_id": "7ad644bf9924b827",
+            "event_title": "Epstein Group Visits Aspen, Colorado (Photo Disc)",
+            "event_type": "presence",
+            "description": "Epstein and associates visited Aspen, Colorado, documented in photo disc labeled Zorro/Vegas/Aspen.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Aspen visit is documented in photos seized from Epstein's property as part of the Zorro/Vegas/Aspen disc.",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Zorro/Vegas/Aspen",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Zorro/Vegas/Aspen Aspen",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.056804,
+          42.35888
+        ]
+      },
+      "properties": {
+        "id": "7dc37344cf41d155",
+        "name": "Boston",
+        "location_name": "Boston",
+        "location_address": "Boston, Massachusetts, United States",
+        "location_description": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
+        "canonical_name": "Boston, MA, Massachusetts",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Boston",
+        "location_descriptor": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2004-06",
+        "date_end": "2004-06",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004250.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
+        "events": [
+          {
+            "event_id": "0b9e328a0b3f1207",
+            "event_title": "Epstein Group in Boston, Massachusetts (June 2004)",
+            "event_type": "presence",
+            "description": "Epstein and associates visited Boston, Massachusetts in June 2004, documented in 16 photos in seized evidence.",
+            "date_start": "2004-06",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Boston trip photos from June 2004 were found in Epstein's seized miscellaneous pictures collection.",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mics pics 6/04\n\nBoston 16.JPG  Boston 17.JPG  Boston 18.JPG  Boston 19.JPG\n...\nBoston 31.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mics pics 6/04 Boston 16.JPG Boston 17.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.092441,
+          26.671414
+        ]
+      },
+      "properties": {
+        "id": "814325cb3bae1055",
+        "name": "Palm Beach County Sheriff's Office",
+        "location_name": "Palm Beach County Sheriff's Office",
+        "location_address": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
+        "location_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "canonical_name": "Palm Beach County Sheriffs Office, 3228 Gun Club Road, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach County Sheriff's Office",
+        "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2006-08-09",
+        "date_end": "2006-08-09",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00003868.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "events": [
+          {
+            "event_id": "410fa17a7fb8cb53",
+            "event_title": "PBSO Books Epstein for Photo Lineup (Booking ID 20060723017, August 9, 2006)",
+            "event_type": "presence",
+            "description": "Palm Beach County Sheriff's Office booked Jeffrey Epstein (Booking ID 20060723017) for a photo lineup on August 9, 2006, recording his physical description: 6 ft, 180 lbs, age 53.",
+            "date_start": "2006-08-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein was physically present at the Palm Beach Sheriff's Office for a photo lineup booking on this date.",
+            "evidence": [
+              {
+                "file": "EFTA00003868.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PALM BEACH SHERIFFS OFFICE  Date: 08/09/2006\nTime: 2:26 PM\nCase Number:\n    Line Up Information\nPage: 2 of 2\n\nJacket II: 0338617  Birth Date: 0120/1953  Hair Color: CRY\nFull Name: EPSTEIN JEFFREY  Age: 53  Facial Hair: N\nFirst Name: JEFFREY  Race: W  Eye Color: BRU\nLast Name: EPSTEIN  Marital Status SINGLE  Build: M\nBooking Id: 20060723017  Height: 6 ft. 0 in.  Weight: 180 lbs.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00003868.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00003868",
+            "file": "EFTA00003868.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.060281,
+          26.714063
+        ]
+      },
+      "properties": {
+        "id": "c53a7fe1a2108309",
+        "name": "Paul G. Rogers Federal Building and U.S. Courthouse",
+        "location_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
+        "location_address": "701 Clematis Street, West Palm Beach, Florida 33401, United States",
+        "location_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
+        "canonical_name": "Paul G. Rogers Federal Building and U.S. Courthouse, 701 Clematis Street, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
+        "location_descriptor": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "legal",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2007-05-15",
+        "date_end": "2007-05-15",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Special Agent",
+            "role": "witness"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00009512.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "legal",
+        "event_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
+        "events": [
+          {
+            "event_id": "a6336432d08ffc3f",
+            "event_title": "FBI Agent Testifies to Grand Jury in Operation Leap Year, West Palm Beach (May 15, 2007)",
+            "event_type": "legal",
+            "description": "FBI Special Agent testified to the Federal Grand Jury (Grand Jury #07-103) at West Palm Beach Division courthouse on May 15, 2007 regarding Operation Leap Year and evidence of Epstein's offenses against underage victims.",
+            "date_start": "2007-05-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Special Agent",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Grand jury testimony is directly about Jeffrey Epstein and his criminal offenses (Operation Leap Year investigation).",
+            "evidence": [
+              {
+                "file": "EFTA00009512.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The sworn testimony of [redacted] before the Federal Grand Jury, West Palm Beach Division, 701 Clematis Street, West Palm Beach, Palm Beach County, state of Florida, on the 15th day of May, 2007.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009512.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00009512",
+            "file": "EFTA00009512.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003979,
+          40.660308
+        ]
+      },
+      "properties": {
+        "id": "51ca0d23dd017391",
+        "name": "Metropolitan Detention Center Brooklyn",
+        "location_name": "Metropolitan Detention Center Brooklyn",
+        "location_address": "80 29th Street, Brooklyn, New York 11232, United States",
+        "location_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
+        "canonical_name": "Metropolitan Detention Center, 80 29th Street, Brooklyn, NY, New York City, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Metropolitan Detention Center Brooklyn",
+        "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2020-11-16",
+        "date_end": "2020-11-16",
+        "people": [
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Bobbi C. Sternheim",
+            "role": "legal"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00039875.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
+        "events": [
+          {
+            "event_id": "43e5574594cc6dad",
+            "event_title": "Ghislaine Maxwell Held at MDC Brooklyn Amid Heating/Water Disruption (Nov 2020)",
+            "event_type": "presence",
+            "description": "Ghislaine Maxwell (prisoner #02879-509) was held in isolation at MDC Brooklyn in November 2020; defense counsel sought cell transfer due to NYC scheduled heating and water shutoff.",
+            "date_start": "2020-11-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Bobbi C. Sternheim",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Ghislaine Maxwell is Epstein primary associate, detained at MDC Brooklyn in connection with Epstein-related charges.",
+            "evidence": [
+              {
+                "file": "EFTA00039875.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I am requesting that my client - Ghislaine Maxwell (02879-509) be moved from her present isolation cell with two exterior walls to an interior cell. [...] the MDC's assessment continues to be that Ms. Maxwell's current cell is the most appropriate placement for Ms. Maxwell both for her safety and the security of the institution.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039875.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00039875",
+            "file": "EFTA00039875.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984409,
+          40.77367
+        ]
+      },
+      "properties": {
+        "id": "ff18528f5635e113",
+        "name": "Vivian Beaumont Theater",
+        "location_name": "Vivian Beaumont Theater",
+        "location_address": "150 West 65th Street, New York City, New York 10023, United States",
+        "location_description": "A regional theater at Lincoln Center for the Performing Arts at 150 West 65th Street in Manhattan, New York City, home to Lincoln Center Theater productions.",
+        "canonical_name": "Vivian Beaumont Theater, 150 West 65th Street, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Vivian Beaumont Theater",
+        "location_descriptor": "A regional theater at Lincoln Center for the Performing Arts at 150 West 65th Street in Manhattan, New York City, home to Lincoln Center Theater productions.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-05",
+        "date_end": "2017-05-05",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02212893.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A regional theater at Lincoln Center for the Performing Arts at 150 West 65th Street in Manhattan, New York City, home to Lincoln Center Theater productions.",
+        "events": [
+          {
+            "event_id": "26f5248946195fe8",
+            "event_title": "Epstein Attends Opening Night of \"Oslo\" at Vivian Beaumont Theater (May 5, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein attended the opening night of the Broadway play \"Oslo\" (Lincoln Center Theater production) at the Vivian Beaumont Theater on May 5, 2017 at 7:00pm, with 4 seats reserved and driver Jojo.",
+            "date_start": "2017-05-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The calendar entry confirms Epstein personally attended the Oslo play at Lincoln Center with reserved seats on May 5, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02212893.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "6:30pm Doors Open for Terje's Opening of: Oslo\n\n7:00pm Performance of Oslo\n\nLincoln Center Theater's Broadway Production\n\nAt the Vivian Beaumont Theater at Lincoln Center\n\n150 West 6, Street (between Broadway & Amsterdam)\n\nYOU HAVE 4 SEATS\n\nJojo to drive you!!!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212893.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212893",
+            "file": "EFTA02212893.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.036503,
+          26.70222
+        ]
+      },
+      "properties": {
+        "id": "8098bc7741e43ffc",
+        "name": "Palm Beach",
+        "location_name": "Palm Beach",
+        "location_address": "Palm Beach, Florida, United States",
+        "location_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
+        "canonical_name": "Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach",
+        "location_descriptor": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "communication",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-03",
+        "date_end": "2017-06-03",
+        "people": [
+          {
+            "name": "Dr. Bard",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02212960.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "communication",
+        "event_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
+        "events": [
+          {
+            "event_id": "efc2925b122e768a",
+            "event_title": "Epstein Plans to Meet Dr. Bard and Wife in Florida (June 3, 2017)",
+            "event_type": "communication",
+            "description": "Jeffrey Epstein planned to meet Dr. Bard and his wife in Florida on June 3, 2017, contingent on them being there; communicated via email to assistant.",
+            "date_start": "2017-06-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Dr. Bard",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein himself sent this email confirming his planned presence in Florida to meet Dr. Bard on June 3, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02212960.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "tell her i will see them on jne 3 if they are n florida",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212960.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212960",
+            "file": "EFTA02212960.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.852216,
+          17.896217
+        ]
+      },
+      "properties": {
+        "id": "b8cc8f2c4c9eab5f",
+        "name": "Gustavia",
+        "location_name": "Gustavia",
+        "location_address": "Gustavia, Saint Barth\u00e9lemy",
+        "location_description": "The main port town and administrative capital of Saint-Barth\u00e9lemy, located on the island's southwestern coast in the Caribbean Sea.",
+        "canonical_name": "Gustavia, Saint-Barth\u00e9lemy, Caribbean, Saint Barth\u00e9lemy",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Gustavia",
+        "location_descriptor": "The main port town and administrative capital of Saint-Barth\u00e9lemy, located on the island's southwestern coast in the Caribbean Sea.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004012.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "The main port town and administrative capital of Saint-Barth\u00e9lemy, located on the island's southwestern coast in the Caribbean Sea.",
+        "events": [
+          {
+            "event_id": "eeee1351f9591324",
+            "event_title": "Epstein Group Has Photos Developed at Photo Fast Shop in Gustavia, St. Barts",
+            "event_type": "presence",
+            "description": "Epstein or his associates had photographs developed at Photo Fast photo shop in Gustavia, Saint-Barth\u00e9lemy, evidenced by a photo envelope found in seized materials.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Photo development envelope from Gustavia St. Barts was seized from Epstein's property, indicating his group's presence there.",
+            "evidence": [
+              {
+                "file": "EFTA00004012.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PHOTO FAST\nTEL. (590) 27.87.08\nGustavia\n97133 SAINT-BARTHELEMY F.W.I.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004012.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004012",
+            "file": "EFTA00004012.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.388818,
+          -27.678704
+        ]
+      },
+      "properties": {
+        "id": "9f455e69530dfe04",
+        "name": "Maxwell's Boeing 727 Aircraft",
+        "location_name": "Maxwell's Boeing 727 Aircraft",
+        "location_address": "727 Boeing Ridge Road, Russell Island Queensland 4184, Australia",
+        "location_description": "A Boeing 727 private aircraft associated with Ghislaine Maxwell, used for private travel; not a fixed geographic location.",
+        "canonical_name": "Maxwell Boeing 727 private aircraft, Russell Island, Queensland",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Maxwell's Boeing 727 Aircraft",
+        "location_descriptor": "A Boeing 727 private aircraft associated with Ghislaine Maxwell, used for private travel; not a fixed geographic location.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2003-01-20",
+        "date_end": "2003-01-20",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004348.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A Boeing 727 private aircraft associated with Ghislaine Maxwell, used for private travel; not a fixed geographic location.",
+        "events": [
+          {
+            "event_id": "a335350b63d0ab11",
+            "event_title": "Epstein's 50th Birthday Celebration Aboard Maxwell's Boeing 727 (Jan 2003)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein celebrated his 50th birthday aboard Ghislaine Maxwell's Boeing 727 private jet, photographed in January 2003.",
+            "date_start": "2003-01-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Photo disc labeled JE 50 Bday Max 727 documents Epstein's 50th birthday party aboard Maxwell's private jet.",
+            "evidence": [
+              {
+                "file": "EFTA00004348.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JE 50 Bday. Max. 727\n\nIMG_1940.JPG  IMG_1941.JPG  IMG_1942.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004348.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004348",
+            "file": "EFTA00004348.pdf",
             "source_type": "doj_efta"
           }
         ]

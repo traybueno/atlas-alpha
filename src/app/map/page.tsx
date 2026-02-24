@@ -6,19 +6,14 @@ import type {
   GeoJSONFeatureCollection,
   GeoJSONFeature,
   FilterState,
-  TimelineData,
 } from "@/lib/types";
 import {
   loadGeoJSON,
   filterFeatures,
-  computeTimeline,
-  getUniqueEventTypes,
-  getUniqueEvidenceTypes,
   getUniquePeople,
 } from "@/lib/data";
 import LocationDetail from "@/components/LocationDetail";
 import FilterPanel from "@/components/FilterPanel";
-import TimelineScrubber from "@/components/TimelineScrubber";
 import ContentWarning from "@/components/ContentWarning";
 import Disclaimer from "@/components/Disclaimer";
 
@@ -36,15 +31,9 @@ const AtlasMap = dynamic(() => import("@/components/AtlasMap"), {
 });
 
 const DEFAULT_FILTERS: FilterState = {
-  confidenceMin: 0.6,
-  sourceTypes: [],
-  dateRange: [null, null],
-  eventTypes: [],
-  evidenceTypes: [],
   people: [],
   searchQuery: "",
-  showMinimalPins: false,
-  showImplied: false,
+  nexusLevels: [],
 };
 
 export default function MapPage() {
@@ -77,24 +66,7 @@ export default function MapPage() {
     return { type: "FeatureCollection", features: filtered };
   }, [rawData, filters]);
 
-  // Timeline data (computed from all data, not filtered)
-  const timelineData = useMemo<TimelineData[]>(() => {
-    if (!rawData) return [];
-    // Apply non-date filters for timeline context
-    const nonDateFilters = { ...filters, dateRange: [null, null] as [string | null, string | null] };
-    const features = filterFeatures(rawData.features, nonDateFilters);
-    return computeTimeline(features);
-  }, [rawData, filters]);
-
   // Available filter options
-  const availableEventTypes = useMemo(
-    () => (rawData ? getUniqueEventTypes(rawData.features) : []),
-    [rawData]
-  );
-  const availableEvidenceTypes = useMemo(
-    () => (rawData ? getUniqueEvidenceTypes(rawData.features) : []),
-    [rawData]
-  );
   const availablePeople = useMemo(
     () => (rawData ? getUniquePeople(rawData.features) : []),
     [rawData]
@@ -109,13 +81,6 @@ export default function MapPage() {
       if (features.length > 0) {
         setSelectedFeature(features[0]);
       }
-    },
-    []
-  );
-
-  const handleDateRangeChange = useCallback(
-    (range: [string | null, string | null]) => {
-      setFilters((prev) => ({ ...prev, dateRange: range }));
     },
     []
   );
@@ -198,35 +163,7 @@ export default function MapPage() {
         <FilterPanel
           filters={filters}
           onFiltersChange={setFilters}
-          availableEventTypes={availableEventTypes}
-          availableEvidenceTypes={availableEvidenceTypes}
           availablePeople={availablePeople}
-        />
-
-        {/* Stats overlay — positioned above timeline widget */}
-        <div className="absolute bottom-20 left-4 z-10 bg-white/90 backdrop-blur-sm rounded-lg shadow-md px-3 py-2 text-xs text-gray-600">
-          <div className="flex items-center gap-4 flex-wrap">
-            <div className="flex items-center gap-1.5">
-              <span className="w-2 h-2 rounded-full bg-green-500"></span>
-              High (≥80%)
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2 h-2 rounded-full bg-yellow-500"></span>
-              Moderate (60-79%)
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2 h-2 rounded-full bg-orange-500"></span>
-              Low (40-59%)
-            </div>
-            {/* Implied indicator removed */}
-          </div>
-        </div>
-
-        {/* Timeline — compact floating widget at bottom of map */}
-        <TimelineScrubber
-          data={timelineData}
-          dateRange={filters.dateRange}
-          onDateRangeChange={handleDateRangeChange}
         />
 
         {/* Location detail panel — pass all raw features so detail can find all events at the location */}

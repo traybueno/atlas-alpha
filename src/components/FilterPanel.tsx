@@ -2,54 +2,42 @@
 
 import { useState } from "react";
 import type { FilterState } from "@/lib/types";
-import { EVIDENCE_TYPE_BADGES, getEvidenceTypeBadge } from "./EvidenceModal";
 
 interface FilterPanelProps {
   filters: FilterState;
   onFiltersChange: (filters: FilterState) => void;
-  availableEventTypes: string[];
-  availableEvidenceTypes: string[];
   availablePeople: string[];
 }
 
-// Event type labels removed from UI per directive
+const NEXUS_OPTIONS = [
+  { value: "direct", label: "Direct", description: "Epstein personally involved" },
+  { value: "implied", label: "Implied", description: "Known associates, network context" },
+  { value: "contextual", label: "Contextual", description: "Circumstantial connection" },
+];
 
 export default function FilterPanel({
   filters,
   onFiltersChange,
-  availableEventTypes,
-  availableEvidenceTypes,
   availablePeople,
 }: FilterPanelProps) {
   const [isOpen, setIsOpen] = useState(false);
   const [peopleSearch, setPeopleSearch] = useState("");
 
   const activeFilterCount = [
-    filters.confidenceMin > 0.6 ? 1 : 0,
-    filters.eventTypes.length > 0 ? 1 : 0,
-    filters.evidenceTypes.length > 0 ? 1 : 0,
+    filters.nexusLevels.length > 0 ? 1 : 0,
     filters.people.length > 0 ? 1 : 0,
     filters.searchQuery ? 1 : 0,
-    filters.showMinimalPins ? 1 : 0,
-    filters.showImplied ? 1 : 0,
   ].reduce((a, b) => a + b, 0);
 
   const update = (partial: Partial<FilterState>) => {
     onFiltersChange({ ...filters, ...partial });
   };
 
-  const toggleEventType = (type: string) => {
-    const types = filters.eventTypes.includes(type)
-      ? filters.eventTypes.filter((t) => t !== type)
-      : [...filters.eventTypes, type];
-    update({ eventTypes: types });
-  };
-
-  const toggleEvidenceType = (type: string) => {
-    const types = filters.evidenceTypes.includes(type)
-      ? filters.evidenceTypes.filter((t) => t !== type)
-      : [...filters.evidenceTypes, type];
-    update({ evidenceTypes: types });
+  const toggleNexus = (level: string) => {
+    const levels = filters.nexusLevels.includes(level)
+      ? filters.nexusLevels.filter((l) => l !== level)
+      : [...filters.nexusLevels, level];
+    update({ nexusLevels: levels });
   };
 
   const togglePerson = (person: string) => {
@@ -60,17 +48,7 @@ export default function FilterPanel({
   };
 
   const resetFilters = () => {
-    onFiltersChange({
-      confidenceMin: 0.6,
-      sourceTypes: [],
-      dateRange: [null, null],
-      eventTypes: [],
-      evidenceTypes: [],
-      people: [],
-      searchQuery: "",
-      showMinimalPins: false,
-      showImplied: false,
-    });
+    onFiltersChange({ people: [], searchQuery: "", nexusLevels: [] });
   };
 
   const filteredPeople = availablePeople.filter((p) =>
@@ -109,6 +87,7 @@ export default function FilterPanel({
       {isOpen && (
         <div className="mt-2 bg-white shadow-xl rounded-lg border border-gray-200 w-80 max-h-[70vh] overflow-y-auto">
           <div className="p-4 space-y-5">
+
             {/* Search */}
             <div>
               <label className="text-xs font-semibold text-gray-400 uppercase tracking-wider">
@@ -123,59 +102,31 @@ export default function FilterPanel({
               />
             </div>
 
-            {/* Confidence threshold */}
+            {/* Epstein Connection */}
             <div>
               <label className="text-xs font-semibold text-gray-400 uppercase tracking-wider">
-                Minimum Confidence
+                Epstein Connection
               </label>
-              <div className="flex items-center gap-3 mt-2">
-                <input
-                  type="range"
-                  min={0}
-                  max={100}
-                  value={filters.confidenceMin * 100}
-                  onChange={(e) =>
-                    update({ confidenceMin: parseInt(e.target.value) / 100 })
-                  }
-                  className="flex-1 h-1 bg-gray-200 rounded-lg appearance-none cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:w-4 [&::-webkit-slider-thumb]:h-4 [&::-webkit-slider-thumb]:bg-gray-900 [&::-webkit-slider-thumb]:rounded-full"
-                />
-                <span className="text-sm font-medium text-gray-700 w-10 text-right">
-                  {(filters.confidenceMin * 100).toFixed(0)}%
-                </span>
+              <div className="mt-2 space-y-1">
+                {NEXUS_OPTIONS.map(({ value, label, description }) => (
+                  <label
+                    key={value}
+                    className="flex items-start gap-2 py-1.5 cursor-pointer hover:bg-gray-50 rounded px-1"
+                  >
+                    <input
+                      type="checkbox"
+                      checked={filters.nexusLevels.includes(value)}
+                      onChange={() => toggleNexus(value)}
+                      className="mt-0.5 rounded border-gray-300 text-gray-900 focus:ring-gray-900"
+                    />
+                    <div>
+                      <span className="text-sm text-gray-700">{label}</span>
+                      <p className="text-[11px] text-gray-400 leading-tight">{description}</p>
+                    </div>
+                  </label>
+                ))}
               </div>
             </div>
-
-            {/* Event type filters removed */}
-
-            {/* Evidence Types (doc_type) */}
-            {availableEvidenceTypes.length > 0 && (
-              <div>
-                <label className="text-xs font-semibold text-gray-400 uppercase tracking-wider">
-                  Evidence Types
-                </label>
-                <div className="mt-2 space-y-1 max-h-36 overflow-y-auto">
-                  {availableEvidenceTypes.map((type) => {
-                    const badge = getEvidenceTypeBadge(type);
-                    return (
-                      <label
-                        key={type}
-                        className="flex items-center gap-2 py-1 cursor-pointer hover:bg-gray-50 rounded px-1"
-                      >
-                        <input
-                          type="checkbox"
-                          checked={filters.evidenceTypes.includes(type)}
-                          onChange={() => toggleEvidenceType(type)}
-                          className="rounded border-gray-300 text-gray-900 focus:ring-gray-900"
-                        />
-                        <span className="text-sm text-gray-700">
-                          {badge ? `${badge.emoji} ${badge.label}` : type}
-                        </span>
-                      </label>
-                    );
-                  })}
-                </div>
-              </div>
-            )}
 
             {/* People */}
             <div>
@@ -203,8 +154,8 @@ export default function FilterPanel({
                   ))}
                 </div>
               )}
-              <div className="mt-2 space-y-0.5 max-h-32 overflow-y-auto">
-                {filteredPeople.slice(0, 20).map((person) => (
+              <div className="mt-2 space-y-0.5 max-h-40 overflow-y-auto">
+                {filteredPeople.slice(0, 30).map((person) => (
                   <label
                     key={person}
                     className="flex items-center gap-2 py-0.5 cursor-pointer hover:bg-gray-50 rounded px-1"
@@ -218,48 +169,23 @@ export default function FilterPanel({
                     <span className="text-xs text-gray-700">{person}</span>
                   </label>
                 ))}
-                {filteredPeople.length > 20 && (
+                {filteredPeople.length > 30 && (
                   <p className="text-xs text-gray-400 pl-6">
-                    + {filteredPeople.length - 20} more
+                    +{filteredPeople.length - 30} more
                   </p>
                 )}
               </div>
             </div>
 
-            {/* Implied presence toggle removed */}
-
-            {/* Quality filter */}
-            <div>
-              <label className="text-xs font-semibold text-gray-400 uppercase tracking-wider">
-                Data Quality
-              </label>
-              <label className="flex items-center gap-2 mt-2 cursor-pointer hover:bg-gray-50 rounded px-1 py-1">
-                <input
-                  type="checkbox"
-                  checked={filters.showMinimalPins}
-                  onChange={(e) =>
-                    update({ showMinimalPins: e.target.checked })
-                  }
-                  className="rounded border-gray-300 text-gray-900 focus:ring-gray-900"
-                />
-                <div>
-                  <span className="text-sm text-gray-700">
-                    Show contact-network-only addresses
-                  </span>
-                  <p className="text-[10px] text-gray-400 leading-tight mt-0.5">
-                    Bare address pins with no documented events, people, or dates
-                  </p>
-                </div>
-              </label>
-            </div>
-
             {/* Reset */}
-            <button
-              onClick={resetFilters}
-              className="w-full py-2 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-md transition-colors"
-            >
-              Reset All Filters
-            </button>
+            {activeFilterCount > 0 && (
+              <button
+                onClick={resetFilters}
+                className="w-full py-2 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-md transition-colors"
+              >
+                Reset All Filters
+              </button>
+            )}
           </div>
         </div>
       )}

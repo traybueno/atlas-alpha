@@ -137,15 +137,9 @@ export type EventType =
   | "legal";
 
 export interface FilterState {
-  confidenceMin: number;
-  sourceTypes: string[];
-  dateRange: [string | null, string | null];
-  eventTypes: string[];
-  evidenceTypes: string[];
   people: string[];
   searchQuery: string;
-  showMinimalPins: boolean;
-  showImplied: boolean;
+  nexusLevels: string[];
 }
 
 export interface TimelineData {

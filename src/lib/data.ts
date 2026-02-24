@@ -94,37 +94,9 @@ export function filterFeatures(
   return features.filter((f) => {
     const p = f.properties;
 
-    // Confidence filter
-    if (p.confidence < filters.confidenceMin) return false;
-
-    // Source type filter
-    if (filters.sourceTypes.length > 0) {
-      // We check sources_preview for now since we don't store source_types array on features
-      // In production this would be a proper field
-    }
-
-    // Event type filter
-    if (
-      filters.eventTypes.length > 0 &&
-      !filters.eventTypes.includes(p.event_type)
-    )
-      return false;
-
-    // Evidence type filter (doc_type from sources)
-    if (filters.evidenceTypes && filters.evidenceTypes.length > 0) {
-      const sources = p.sources || [];
-      const hasMatchingEvidence = sources.some((s) =>
-        filters.evidenceTypes.includes(s.doc_type || "")
-      );
-      if (!hasMatchingEvidence) return false;
-    }
-
-    // Date range filter
-    if (filters.dateRange[0] && p.date_start) {
-      if (p.date_start < filters.dateRange[0]) return false;
-    }
-    if (filters.dateRange[1] && p.date_start) {
-      if (p.date_start > filters.dateRange[1]) return false;
+    // Nexus filter
+    if (filters.nexusLevels.length > 0) {
+      if (!filters.nexusLevels.includes(p.epstein_nexus)) return false;
     }
 
     // People filter
@@ -136,17 +108,6 @@ export function filterFeatures(
         })
       );
       if (!hasPerson) return false;
-    }
-
-    // Quality tier filter — hide minimal pins unless toggled on
-    if (!filters.showMinimalPins) {
-      const tier = inferQualityTier(f);
-      if (tier === "minimal") return false;
-    }
-
-    // Implied presence filter — hide implied events unless toggled on
-    if (!filters.showImplied) {
-      if (p.presence_type === "implied") return false;
     }
 
     // Search query
