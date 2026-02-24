@@ -22,12 +22,12 @@
         "display_name": "Epstein NYC Townhouse",
         "location_descriptor": "Jeffrey Epstein's seven-story townhouse on the Upper East Side of Manhattan.",
         "event_count": 4,
-        "evidence_count": 5,
+        "evidence_count": 10,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2018-04-09",
-        "date_end": "2019-05-02",
+        "date_end": "2019-07-06",
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -38,17 +38,79 @@
             "role": "staff"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA00000019.pdf, EFTA00004179.pdf",
+        "source_count": 7,
+        "sources_preview": "EFTA00000001.pdf, EFTA00000002.pdf, EFTA00000003.pdf, EFTA00000004.pdf, EFTA00000005.pdf, ... (+2 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "Jeffrey Epstein's seven-story townhouse on the Upper East Side of Manhattan.",
         "events": [
           {
-            "event_id": "0f5e2b63280318fb",
-            "event_title": "Jeffrey Epstein at 9 East 71st Street (2018-04-09)",
+            "event_id": "723c43fe78dec3a2",
+            "event_title": "FBI Evidence Photography at 9 E 71st St, Case 31E-NY-3027571",
             "event_type": "presence",
-            "description": "Water treatment and monthly maintenance performed on cooling tower system at Epstein property by contractor Merwin Dela Cruz, including PSR documentation with water levels and readings.",
+            "description": "FBI evidence photographer documented and photographed the interior of Epstein residence at 9 East 71st Street as part of case 31E-NY-3027571",
+            "date_start": "2019-07-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "FBI executed evidence collection at Epstein personal residence as part of his criminal case",
+            "evidence": [
+              {
+                "file": "EFTA00000001.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Date: 7/6/19\nCase ID: 31E-NY-3027571\nPhotographer: [Redacted]\nLocation: 9 East 71st St, New York, NY\nAgency: FBI",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000001.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00000002.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The image shows a large, ornate wooden double door set within a stone facade. A vintage lantern hangs above the door. To the left of the door, there is a smaller black door with a red sign that says \"HOLD YOUR HORSE\". To the right of the main door, there is a brass mail slot and a fire hydrant.",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000002.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00000003.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The image shows a building with large wooden doors, several windows with black grates, and trees in front of it. A dark-colored car is parked in the foreground.",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000003.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00000004.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The image shows the letters \"JE\" made of bronze, mounted on a light-colored stone wall. To the right of the wall is a wooden door.",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000004.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00000005.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A brass number 9 is mounted on a stone wall. To the left of the number 9, there is a metal intercom system with a keypad and speaker. To the left of the intercom, there is a light switch. A wooden door is visible on the left side of the image.",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000005.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00000027.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A wall-mounted organizer with several labeled pockets. The visible labels are: GSJ, LSJ, ZORRO, PB, and PARIS.",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000027.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0f5e2b63280318fb",
+            "event_title": "Cooling Tower Monthly Water Treatment Begins at 9 E 71st St (Apr 2018)",
+            "event_type": "presence",
+            "description": "Contractor Merwin Dela Cruz performed initial monthly cooling tower water treatment at Epstein townhouse including PSR with water levels and readings under job code 5135",
             "date_start": "2018-04-09",
             "date_end": null,
             "date_precision": "exact_day",
@@ -63,20 +125,20 @@
                 "role": "staff"
               }
             ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Maintenance records for property directly owned by Jeffrey Epstein, with his name on the service contract.",
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Routine property maintenance at Epstein residence by a contractor without Epstein direct involvement",
             "evidence": [
               {
                 "file": "EFTA00000019.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "5135 Merwin Dela Cruz-J.Epstein Water Treatment Cooling Tower-Monthly Maintenance perform water treatment on Cooling tower Include PSR with water levels and readings 09-Apr-2018",
+                "excerpt": "Job Code 5135, Client Name Merwin Dela Cruz-J.Epstein, Water Treatment, Cooling Tower-Monthly Maintenance, perform water treatment on Cooling tower Include PSR with water levels and readings, 09-Apr-2018",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000019.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA00000019.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "5136 Merwin Dela Cruz-J.Epstein Tower Cleaning Cleaning & Disinfection-Cooling Tower 25-Apr-2018",
+                "excerpt": "Job Code 5136, Client Name Merwin Dela Cruz-J.Epstein, Tower Cleaning, Cleaning & Disinfection-Cooling Tower, 25-Apr-2018",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000019.pdf",
                 "confidence": 0.7
               }
@@ -84,9 +146,9 @@
           },
           {
             "event_id": "b706f772cb72b75c",
-            "event_title": "Jeffrey Epstein at 9 East 71st Street (2018-05-23)",
+            "event_title": "90-Day Legionella Test and Cooling Tower Inspection at 9 E 71st St",
             "event_type": "presence",
-            "description": "Quarterly 90-day tower inspection and Legionella bacteria testing conducted on cooling tower system at Epstein property by contractor Merwin Dela Cruz.",
+            "description": "Contractor completed 90-day cooling tower inspection and legionella bacteria test at Epstein townhouse under job code 4849.1 as required maintenance",
             "date_start": "2018-05-23",
             "date_end": null,
             "date_precision": "exact_day",
@@ -101,13 +163,13 @@
                 "role": "staff"
               }
             ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Legionella inspection at Epstein's own property, contracted under his name.",
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Routine mandatory health/safety inspection at Epstein property by contractor",
             "evidence": [
               {
                 "file": "EFTA00000019.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "4849.1 Merwin Dela Cruz-J.Epstein Legionella Test Cooling Tower-Legionella did the 90 day tower inspection and legionella test. 23-May-2018",
+                "excerpt": "Job Code 4849.1, Client Name Merwin Dela Cruz-J.Epstein, Legionella Test, Cooling Tower-Legionella, did the 90 day tower inspection and legionella test, 23-May-2018",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000019.pdf",
                 "confidence": 0.7
               }
@@ -115,9 +177,9 @@
           },
           {
             "event_id": "56bdb2747413a381",
-            "event_title": "Jeffrey Epstein at 9 East 71st Street (2018-10-22)",
+            "event_title": "Annual Cooling Tower Inspection at 9 E 71st St (Oct 2018)",
             "event_type": "presence",
-            "description": "Annual cooling tower inspection performed at Epstein property by contractor Merwin Dela Cruz as part of mandatory compliance and maintenance schedule.",
+            "description": "Contractor Merwin Dela Cruz conducted annual cooling tower inspection at Epstein townhouse under job code 5137 as part of regulatory compliance",
             "date_start": "2018-10-22",
             "date_end": null,
             "date_precision": "exact_day",
@@ -132,56 +194,54 @@
                 "role": "staff"
               }
             ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Annual inspection at Epstein's property, contractor listed under J. Epstein.",
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Annual mandatory inspection at Epstein property by contractor without Epstein involvement",
             "evidence": [
               {
                 "file": "EFTA00000019.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "5137 Merwin Dela Cruz-J.Epstein Inspection Annual Cooling Tower-Inspection 22-Oct-2018",
+                "excerpt": "Job Code 5137, Client Name Merwin Dela Cruz-J.Epstein, Inspection, Annual Cooling Tower-Inspection, 22-Oct-2018",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000019.pdf",
                 "confidence": 0.7
               }
             ]
-          },
-          {
-            "event_id": "a4c16dbee9640e66",
-            "event_title": "Jeffrey Epstein at 9 East 71st Street (2019-05-02)",
-            "event_type": "presence",
-            "description": "Witness stated during FBI interview that all girls below 18 were brought to Jeffrey Epstein at his NYC townhouse at 9 East 71st Street as part of trafficking operation.",
-            "date_start": "2019-05-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI interview directly documenting Epstein's trafficking and travel to this location.",
-            "evidence": [
-              {
-                "file": "EFTA00004179.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "all girls below 18 went to Epstein New York location",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004179.pdf",
-                "confidence": 0.7
-              }
-            ]
           }
         ],
         "sources": [
+          {
+            "doc_id": "EFTA00000001",
+            "file": "EFTA00000001.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00000002",
+            "file": "EFTA00000002.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00000003",
+            "file": "EFTA00000003.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00000004",
+            "file": "EFTA00000004.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00000005",
+            "file": "EFTA00000005.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00000027",
+            "file": "EFTA00000027.pdf",
+            "source_type": "doj_efta"
+          },
           {
             "doc_id": "EFTA00000019",
             "file": "EFTA00000019.pdf",
             "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00004179",
-            "file": "EFTA00004179.pdf",
-            "source_type": "doj_efta"
           }
         ]
       }
@@ -191,89 +251,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.004198,
-          40.715494
+          -80.0364,
+          26.7056
         ]
       },
       "properties": {
-        "id": "acb82b817492b15d",
-        "name": "FBI New York Field Office",
-        "location_name": "FBI New York Field Office",
-        "location_address": "26 Lafayette Street, New York City, New York 10278, United States",
-        "location_description": "Federal Bureau of Investigation's New York Field Office, located at 26 Federal Plaza in lower Manhattan.",
-        "canonical_name": "26 Lafayette Street, New York City, New York 10278, United States",
+        "id": "85ea6976478cc7ec",
+        "name": "Epstein Palm Beach Residence",
+        "location_name": "Epstein Palm Beach Residence",
+        "location_address": "358 El Brillo Way, Palm Beach, FL 33480",
+        "location_description": "Jeffrey Epstein's waterfront estate in Palm Beach, Florida.",
+        "canonical_name": "Epstein Palm Beach Residence, 358 El Brillo Way, Palm Beach, FL",
         "region": "",
         "property_type": "event",
-        "display_name": "FBI New York Field Office",
-        "location_descriptor": "Federal Bureau of Investigation's New York Field Office, located at 26 Federal Plaza in lower Manhattan.",
-        "event_count": 2,
-        "evidence_count": 2,
-        "primary_event_type": "presence",
+        "display_name": "Epstein Palm Beach Residence",
+        "location_descriptor": "Jeffrey Epstein's waterfront estate in Palm Beach, Florida.",
+        "event_count": 3,
+        "evidence_count": 4,
+        "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2019-05-02",
-        "date_end": "2019-07-31",
+        "date_start": "2003",
+        "date_end": "2009-05-02",
         "people": [
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
-          },
-          {
-            "name": "Sammy Wong",
-            "role": "legal"
-          },
-          {
-            "name": "Gloria Allred",
-            "role": "legal"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA00004070.pdf, EFTA00004179.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA00003951.pdf, EFTA00004348.pdf, EFTA00004070.pdf, EFTA00004179.pdf",
         "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "Federal Bureau of Investigation's New York Field Office, located at 26 Federal Plaza in lower Manhattan.",
+        "event_type": "travel",
+        "event_description": "Jeffrey Epstein's waterfront estate in Palm Beach, Florida.",
         "events": [
           {
-            "event_id": "0d1e977acd289977",
-            "event_title": "Jeffrey Epstein at FBI New York Field Office (2019-07-31)",
+            "event_id": "7610d3ad108c2a3c",
+            "event_title": "Seized Photo Frame (Burlwood L70117) from Epstein Palm Beach Residence",
             "event_type": "presence",
-            "description": "FBI interview of witness represented by attorney Gloria Allred conducted at FBI New York Field Office on July 31, 2019, with paralegal Sammy Wong, documenting experiences with Epstein 2002-2004.",
-            "date_start": "2019-07-31",
+            "description": "Italian burlwood photo frame (model L70117, 8x10 inch) and numerous photographs seized as evidence from Epstein Palm Beach residence during police search",
+            "date_start": null,
             "date_end": null,
-            "date_precision": "exact_day",
+            "date_precision": "none",
             "confidence": 0.75,
             "people": [
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
-              },
-              {
-                "name": "Sammy Wong",
-                "role": "legal"
-              },
-              {
-                "name": "Gloria Allred",
-                "role": "legal"
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI witness interview directly describing Epstein's travel and abuse at this location.",
+            "nexus_reasoning": "Physical evidence seized from Epstein property as part of criminal investigation",
+            "evidence": [
+              {
+                "file": "EFTA00003951.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "burlwood Collection L70117 PHOTOFRAMES 8\" x 10\" in. 20x 25 cm. ITALIAN MOULDING MOULURE DALIENNE",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00003951.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004348.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PB girl PB girlO.TIF PB girll.TIF PB girl2.TIF PB girl3.TIF PB girl4.TIF PB girl5.TIF PB girl6.TIF PB girl7.TIF PB girl8.TIF",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004348.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7d17cb133e93fffc",
+            "event_title": "Grand Jury Handwritten Witness Notes re: Epstein Activities in FL, Paris, Spain",
+            "event_type": "travel",
+            "description": "Handwritten grand jury witness statement describing travel with Epstein to multiple locations including Florida, Paris, Hollywood, Spain, and Ecuador via private plane, with descriptions of activities at various residences",
+            "date_start": "2003",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Grand jury witness statement describing direct travel and activities with Epstein at multiple properties",
             "evidence": [
               {
                 "file": "EFTA00004070.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "ToBe Returned Yes No Receipt Given Yes No Grand Jury Material Disseminate Only Pursuant to Rule 6 (e) Federal Rules of Criminal Procedure",
+                "excerpt": "Grand Jury Material - Disseminate Only Pursuant to Rule 6 (e) Federal Rules of Criminal Procedure",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004070.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "b7790521aaedcb0e",
-            "event_title": "Jeffrey Epstein at FBI New York Field Office (2019-05-02)",
-            "event_type": "presence",
-            "description": "FBI New York Field Office interview (File 31E-NY-3027571) conducted May 2, 2019 documenting witness statements about underage girls brought to Jeffrey Epstein at New York residence.",
-            "date_start": "2019-05-02",
+            "event_id": "9d788edea6ed34af",
+            "event_title": "FBI Victim Interview Notes (Case 3D27571) re: Epstein Activities in Palm Beach",
+            "event_type": "travel",
+            "description": "FBI received handwritten interview notes (case 3D27571) containing victim witness statement describing Epstein activities including encounters with young girls at his Palm Beach residence and descriptions of massage sessions and travel",
+            "date_start": "2009-05-02",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
@@ -284,12 +362,12 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI interview directly documenting Epstein's trafficking and travel to this location.",
+            "nexus_reasoning": "FBI interview notes documenting direct witness testimony about Epstein activities at his properties",
             "evidence": [
               {
                 "file": "EFTA00004179.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "File Number 3D27571 Field Office Acquiring Evidence NY Date Received 5/2/9",
+                "excerpt": "FD-340c(4-11-03) File Number - 3D27571 Field Office Acquiring Evidence Date Received 5/2/9 Grand Stay Material - Disseminate Only Pursuant to Rule 6 (e) Federal Rules of Criminal Procedure",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004179.pdf",
                 "confidence": 0.7
               }
@@ -298,6 +376,16 @@
         ],
         "sources": [
           {
+            "doc_id": "EFTA00003951",
+            "file": "EFTA00003951.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004348",
+            "file": "EFTA00004348.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00004070",
             "file": "EFTA00004070.pdf",
             "source_type": "doj_efta"
@@ -305,82 +393,6 @@
           {
             "doc_id": "EFTA00004179",
             "file": "EFTA00004179.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2851,
-          48.8722
-        ]
-      },
-      "properties": {
-        "id": "bdbba3343caed39d",
-        "name": "Epstein Paris Apartment",
-        "location_name": "Epstein Paris Apartment",
-        "location_address": "22 Avenue Foch, 75116 Paris, France",
-        "location_description": "Luxury apartment near the Arc de Triomphe in Paris, owned by Epstein.",
-        "canonical_name": "22 Avenue Foch, Paris, France",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Epstein Paris Apartment",
-        "location_descriptor": "Luxury apartment near the Arc de Triomphe in Paris, owned by Epstein.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2002",
-        "date_end": "2002",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "Luxury apartment near the Arc de Triomphe in Paris, owned by Epstein.",
-        "events": [
-          {
-            "event_id": "6a9d49ae0f3a6afd",
-            "event_title": "Jeffrey Epstein at 22 Avenue Foch (2002)",
-            "event_type": "presence",
-            "description": "Witness interview notes reference photos taken in Paris and helicopter trips there, identifying it as one location where Epstein brought the witness before she turned 18.",
-            "date_start": "2002",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI witness interview directly describing Epstein's travel and abuse at this location.",
-            "evidence": [
-              {
-                "file": "EFTA00004070.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "photos taken in Paris helicopter trips there",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004070.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004070",
-            "file": "EFTA00004070.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -406,30 +418,121 @@
         "property_type": "event",
         "display_name": "Little St. James Island",
         "location_descriptor": "Private island in the U.S. Virgin Islands owned by Jeffrey Epstein.",
-        "event_count": 1,
-        "evidence_count": 1,
+        "event_count": 3,
+        "evidence_count": 6,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
+        "date_start": "2003",
+        "date_end": "2004-06",
         "people": [
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Paula",
+            "role": "associate"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA00000027.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA00004250.pdf, EFTA00004348.pdf, EFTA00004448.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "Private island in the U.S. Virgin Islands owned by Jeffrey Epstein.",
         "events": [
           {
-            "event_id": "862753620a743ada",
-            "event_title": "Jeffrey Epstein at Little St. James Island",
+            "event_id": "04f107823468c9dd",
+            "event_title": "Seized Digital Photo Archive: Folder Index for Epstein Properties (LSJ, Zorro, Paris, Prague)",
             "event_type": "presence",
-            "description": "Wall-mounted filing organizer at Epstein residence with labeled pockets for each major Epstein property: Great St. James, Little St. James, Zorro Ranch, Palm Beach, and Paris apartment, indicating centralized property management operations.",
+            "description": "Seized digital photo archive organized by Epstein property locations including LSJ (Little St. James), Zorro Ranch/Vegas, Paris, Prague, 71st Street, Boston, and Aspen, containing hundreds of photographs across multiple folders dated around June 2004; Collection of aerial photographs and jet ski images taken at Little St. James Island, Epstein private island in the U.S. Virgin Islands, comprising dozens of digital camera files",
+            "date_start": "2004-06",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Digital photo archive from Epstein properties seized as evidence in criminal investigation",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ZORRO/VEGAS GAY JEAN LUC LSJ AERIALS CLOUDS PRAGUE PAINTING PARIS MISC 6104",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004250.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ Aerials jet ski DSCF0022_1.TIF DSCF0023_1.TIF DSCF0024_1.TIF DSCF0025_1.TIF",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4302c51bb6a66a15",
+            "event_title": "Seized Photos: Epstein 50th Birthday Party with Maxwell, Boeing 727 (2003)",
+            "event_type": "presence",
+            "description": "Seized digital photo folder labeled JE 50 Bday, Max, 727 containing photographs of Epstein 50th birthday celebration in January 2003, with Ghislaine Maxwell, Paula, Boeing 727 aircraft stripe photos, helicopter images, and LSJ aerial photos; Collection of 21 or more photographs documenting the exterior stripe design of Epstein Boeing 727 aircraft along with LSJ aerial photos found on seized digital media; Collection of at least 5 photographs of Ghislaine Maxwell and individual named Paula at Little St. James Island found in same folder as Epstein 50th birthday photos",
+            "date_start": "2003",
+            "date_end": "2003-01",
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Paula",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Personal photographs of Epstein 50th birthday party with Maxwell and his Boeing 727 aircraft",
+            "evidence": [
+              {
+                "file": "EFTA00004348.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JE 50 Bday, Max, 727 IMG_1940.JPG IMG_1941.JPG IMG_1942.JPG Macintosh HD:Desk",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004348.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004348.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "727 stripe00.JPG 727 stripe01.JPG 727 stripe02.JPG 727 stripe03.JPG",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004348.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004348.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Max & PaulaO.JPG Max & Paulal.JPG Max & Paula2.JPG Max & Paula3.JPG Max & Paula4.JPG",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004348.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "862753620a743ada",
+            "event_title": "Seized Photos: 150+ Images of Little St. James Island (Archival Collection)",
+            "event_type": "presence",
+            "description": "Collection of over 150 photographs of Little St. James Island stored in archival preservers, seized as evidence from Epstein, including numbered TIF files and DSCF camera files",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
@@ -441,13 +544,13 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Photos from Epstein's private island Little St. James, from his personal DOJ evidence files.",
+            "nexus_reasoning": "Personal photographs of Epstein private island seized from his digital media collection as evidence",
             "evidence": [
               {
-                "file": "EFTA00000027.pdf",
+                "file": "EFTA00004448.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "A wall-mounted organizer with several labeled pockets. The visible labels are: GSJ, LSJ, ZORRO, PB, and PARIS.",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00000027.pdf",
+                "excerpt": "LSJ 15.TIF 16.TIF 18.TIF 19.TIF 20.TIF 23.TIF 25.TIF 26.TIF",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004448.pdf",
                 "confidence": 0.7
               }
             ]
@@ -455,8 +558,18 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00000027",
-            "file": "EFTA00000027.pdf",
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004348",
+            "file": "EFTA00004348.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004448",
+            "file": "EFTA00004448.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -487,16 +600,12 @@
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2004-06",
-        "date_end": "2004-06",
+        "date_start": null,
+        "date_end": null,
         "people": [
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
-          },
-          {
-            "name": "Jean-Luc Brunel",
-            "role": "associate"
           }
         ],
         "source_count": 1,
@@ -506,31 +615,27 @@
         "event_description": "Jeffrey Epstein's ranch property in rural New Mexico.",
         "events": [
           {
-            "event_id": "8cad030344c995d0",
-            "event_title": "Jean-Luc Brunel at Zorro Ranch (2004-06)",
+            "event_id": "aec302ac856dfa62",
+            "event_title": "Photo Collection from Zorro Ranch, Las Vegas, and Aspen",
             "event_type": "presence",
-            "description": "CD disc label from Epstein DOJ evidence lists photo categories including Zorro Ranch, Las Vegas, Jean-Luc Brunel, Little Saint James aerials, Prague, and Paris. Date MISC 6104 indicates June 2004.",
-            "date_start": "2004-06",
+            "description": "Collection of personal photographs from Zorro Ranch in New Mexico, Las Vegas, and Aspen, Colorado found in Epstein digital photo archive containing dozens of images",
+            "date_start": null,
             "date_end": null,
-            "date_precision": "month",
+            "date_precision": "none",
             "confidence": 0.75,
             "people": [
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
-              },
-              {
-                "name": "Jean-Luc Brunel",
-                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Photos from Epstein's personal collection at his owned/visited properties.",
+            "nexus_reasoning": "Personal photographs from Epstein properties and travel destinations in his digital archive",
             "evidence": [
               {
                 "file": "EFTA00004250.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "ZORRO/VEGAS GAY JEAN LUC LSJ AERIALS CLOUDS PRAGUE PAINTIN PARIS MISC 6104",
+                "excerpt": "Zorro/Vegas/Aspen IMG_6122.JPG IMG_6123.JPG IMG_6124.JPG IMG_6125.JPG",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004250.pdf",
                 "confidence": 0.7
               }
@@ -557,22 +662,22 @@
       },
       "properties": {
         "id": "f5ce216bf7bc278d",
-        "name": "Palm Beach",
-        "location_name": "Palm Beach",
+        "name": "Palm Beach County Sheriff's Office",
+        "location_name": "Palm Beach County Sheriff's Office",
         "location_address": "West Palm Beach, Florida, United States",
-        "location_description": "An affluent town on a barrier island in Palm Beach County, Florida, known for luxury estates.",
+        "location_description": "The main headquarters of the Palm Beach County Sheriff's Office, located on Gun Club Road in West Palm Beach, Florida.",
         "canonical_name": "West Palm Beach, Florida, United States",
         "region": "",
         "property_type": "event",
-        "display_name": "Palm Beach",
-        "location_descriptor": "An affluent town on a barrier island in Palm Beach County, Florida, known for luxury estates.",
+        "display_name": "Palm Beach County Sheriff's Office",
+        "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located on Gun Club Road in West Palm Beach, Florida.",
         "event_count": 1,
-        "evidence_count": 2,
+        "evidence_count": 3,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2006-08-09",
-        "date_end": "2006-08-09",
+        "date_end": "2006-08-11",
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -583,15 +688,15 @@
         "sources_preview": "EFTA00003868.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "An affluent town on a barrier island in Palm Beach County, Florida, known for luxury estates.",
+        "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located on Gun Club Road in West Palm Beach, Florida.",
         "events": [
           {
             "event_id": "df1e72c591c865a5",
-            "event_title": "Jeffrey Epstein at Palm Beach County Sheriff's Office (2006-08-09)",
+            "event_title": "PBSO Books Epstein (Jacket #0338617, Booking 20060723017) for Photo Lineup",
             "event_type": "presence",
-            "description": "Jeffrey Epstein (Jacket #0338617, Booking ID 20060723017) appeared in a photo lineup at the Palm Beach Sheriff's Office on August 9, 2006, as part of the criminal investigation. His booking record shows DOB 01/20/1953, age 53, 6 feet tall, 180 lbs.; Palm Beach Sheriff's Office conducted a photo lineup procedure at 2:26 PM on August 9, 2006, as part of the criminal investigation into Jeffrey Epstein, documented across 2 pages of lineup information.",
+            "description": "Palm Beach Sheriff's Office compiled photo lineup information for Jeffrey Epstein (Jacket #0338617, Booking ID 20060723017), listing him as white male, 53 years old, 6 ft 0 in, 180 lbs, single; Palm Beach Sheriff's Office assembled multiple six-person photo lineups at 2:22 PM on August 9, 2006 for victim identification of Jeffrey Epstein as suspect; Palm Beach Sheriff's Office administered follow-up photo lineup at 2:30 PM on August 11, 2006, two days after initial lineup compilation for Epstein case",
             "date_start": "2006-08-09",
-            "date_end": null,
+            "date_end": "2006-08-11",
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
@@ -601,19 +706,26 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally booked and identified in Palm Beach Sheriff photo lineup during criminal investigation.",
+            "nexus_reasoning": "Epstein was directly booked and included in PBSO photo lineup as a criminal suspect",
             "evidence": [
               {
                 "file": "EFTA00003868.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Jacket II: 0338617 Birth Date: 0120'1953 Hair Color: CRY Full Name: EPSTEINJEFFREY Age: 53 Facial Hair: N First Name: JEFFREY Race: W Eye Color: HUI Middle Name; Marital Status SINGLE Build: M Last Name: EPSTEIN Gender: M Complexion: FAR Booking Id: 20060723017 Height: 6 ft. 0 in. Weight: 180 lbs.",
+                "excerpt": "Jacket #: 0338617  Birth Date: 0120'1953  Hair Color: CRY\nFull Name: EPSTEINJEFFREY  Age: 53  Facial Hair: N\nFirst Name: JEFFREY  Race: W  Eye Color: HUI\nMarital Status SINGLE  Build: M\nLast Name: EPSTEIN  Gender: M  Complexion: FAR\nBooking Id: 20060723017  Height: 6 ft. 0 in.  Weight: 180 lbs.",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00003868.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA00003868.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "PALM BEACH SHERIFFS OFFICE Date: 08/09/2006 Time: 2:26 PM Case Number: Line Up Information Page: 2 of 2",
+                "excerpt": "PALM BEACH SHERIFFS OFFICE  Date: 08/09/2006  Time: 2:22 PM  Line Up  Page: I of I",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00003868.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00003868.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Photo Lineup - Sheriff - Date/Time 8/11/2006 2 30 20 PM",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00003868.pdf",
                 "confidence": 0.7
               }
@@ -634,21 +746,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.036503,
-          26.70222
+          -80.036054,
+          26.703568
         ]
       },
       "properties": {
-        "id": "fb4e57250508c93e",
-        "name": "Palm Beach",
-        "location_name": "Palm Beach",
-        "location_address": "Palm Beach, Florida, United States",
-        "location_description": "An affluent town on a barrier island in Palm Beach County, Florida, known for luxury estates.",
-        "canonical_name": "Palm Beach, Florida, United States",
+        "id": "943b33c7ca292869",
+        "name": "Town of Palm Beach Police Department",
+        "location_name": "Town of Palm Beach Police Department",
+        "location_address": "345 South County Road, Palm Beach, Florida 33480, United States",
+        "location_description": "The municipal police department of the Town of Palm Beach, located at 345 South County Road in Palm Beach, Florida.",
+        "canonical_name": "345 South County Road, Palm Beach, Florida 33480, United States",
         "region": "",
         "property_type": "event",
-        "display_name": "Palm Beach",
-        "location_descriptor": "An affluent town on a barrier island in Palm Beach County, Florida, known for luxury estates.",
+        "display_name": "Town of Palm Beach Police Department",
+        "location_descriptor": "The municipal police department of the Town of Palm Beach, located at 345 South County Road in Palm Beach, Florida.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -666,13 +778,13 @@
         "sources_preview": "EFTA00003951.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "An affluent town on a barrier island in Palm Beach County, Florida, known for luxury estates.",
+        "event_description": "The municipal police department of the Town of Palm Beach, located at 345 South County Road in Palm Beach, Florida.",
         "events": [
           {
-            "event_id": "4f505b8d8ebc3deb",
-            "event_title": "Jeffrey Epstein at Palm Beach Police Department",
+            "event_id": "889a654508322fec",
+            "event_title": "Palm Beach PD Evidence Collection at 358 El Brillo Way",
             "event_type": "presence",
-            "description": "Palm Beach Police Department evidence form documenting property seized during the Epstein investigation, including burlwood photo frames with Italian moulding and archival photo preservers from Orlando.",
+            "description": "Town of Palm Beach Police Department catalogued and bagged physical evidence items including photographs and photo frames seized from Epstein Palm Beach residence",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
@@ -684,78 +796,12 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Evidence seized directly from Epstein investigation by Palm Beach Police Department.",
+            "nexus_reasoning": "Police evidence collection directly related to Epstein criminal investigation at his Palm Beach property",
             "evidence": [
               {
                 "file": "EFTA00003951.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Town of Palm Beach Police Department EVIDENCE CASE PROPERTY Suspect: Officer: Date:",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00003951.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00003951",
-            "file": "EFTA00003951.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.379039,
-          28.54211
-        ]
-      },
-      "properties": {
-        "id": "02834177edb31fe5",
-        "name": "Orlando",
-        "location_name": "Orlando",
-        "location_address": "Orlando, Florida, United States",
-        "location_description": "A major city in central Florida, known as a hub for theme parks and tourism.",
-        "canonical_name": "Orlando, Florida, United States",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Orlando",
-        "location_descriptor": "A major city in central Florida, known as a hub for theme parks and tourism.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
-        "people": [],
-        "source_count": 1,
-        "sources_preview": "EFTA00003951.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "presence",
-        "event_description": "A major city in central Florida, known as a hub for theme parks and tourism.",
-        "events": [
-          {
-            "event_id": "e26da73044b82395",
-            "event_title": "at Orlando",
-            "event_type": "presence",
-            "description": "Archival photo preservers manufactured by a company in Orlando, FL (P.O. Box 407631, phone 407-414-4100) were among evidence items cataloged by Palm Beach Police in the Epstein investigation.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Manufacturer location of evidence items; Orlando company not directly connected to Epstein activities.",
-            "evidence": [
-              {
-                "file": "EFTA00003951.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "P.O BOX 407631 ORLANDO, FL 32460 (407)414-4100 STYLE NO. 110-01 ARCHIVAL PRESERVERS",
+                "excerpt": "Town of Palm Beach Police Department\nEVIDENCE\nCASE  PROPERTY\nCONTENTS\nItem Quantity  Description\neht ft 0 4140",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00003951.pdf",
                 "confidence": 0.7
               }
@@ -782,15 +828,15 @@
       },
       "properties": {
         "id": "2c051f9d2070ca86",
-        "name": "Gustavia, St. Barth",
-        "location_name": "Gustavia, St. Barth",
+        "name": "Gustavia, Saint-Barth\u00e9lemy",
+        "location_name": "Gustavia, Saint-Barth\u00e9lemy",
         "location_address": "Gustavia, Saint Barth\u00e9lemy",
-        "location_description": "The capital and main port of Saint-Barth\u00e9lemy, a French overseas collectivity in the Caribbean Sea.",
+        "location_description": "The capital and main port of Saint-Barth\u00e9lemy, a French Caribbean island in the Lesser Antilles.",
         "canonical_name": "Gustavia, Saint Barth\u00e9lemy",
         "region": "",
         "property_type": "event",
-        "display_name": "Gustavia, St. Barth",
-        "location_descriptor": "The capital and main port of Saint-Barth\u00e9lemy, a French overseas collectivity in the Caribbean Sea.",
+        "display_name": "Gustavia, Saint-Barth\u00e9lemy",
+        "location_descriptor": "The capital and main port of Saint-Barth\u00e9lemy, a French Caribbean island in the Lesser Antilles.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -806,15 +852,15 @@
         ],
         "source_count": 1,
         "sources_preview": "EFTA00004012.pdf",
-        "epstein_nexus": "direct",
+        "epstein_nexus": "implied",
         "event_type": "presence",
-        "event_description": "The capital and main port of Saint-Barth\u00e9lemy, a French overseas collectivity in the Caribbean Sea.",
+        "event_description": "The capital and main port of Saint-Barth\u00e9lemy, a French Caribbean island in the Lesser Antilles.",
         "events": [
           {
             "event_id": "166cfae2dd836e3d",
-            "event_title": "Jeffrey Epstein at Gustavia",
+            "event_title": "Photos Developed at Photo Fast, Gustavia, St. Barth\u00e9lemy (Seized as Evidence)",
             "event_type": "presence",
-            "description": "Photo processing envelope from PHOTO FAST 1h photo lab (Tel: 590-27-87-08) in Gustavia, Saint-Barth\u00e9lemy found among Epstein DOJ evidence files, indicating photographic activity during Caribbean visits.",
+            "description": "Photographs were developed at Photo Fast photo lab in Gustavia, Saint-Barth\u00e9lemy (tel 590-27-87-08), later seized as evidence in Epstein investigation along with numerous personal photographs",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
@@ -825,13 +871,13 @@
                 "role": "subject"
               }
             ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Photo lab receipt from location visited by Epstein, found in his personal files.",
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Photo envelope from St. Barts where Epstein had a known presence, seized from his property as evidence",
             "evidence": [
               {
                 "file": "EFTA00004012.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "PHOTO FAST TEL. (590) 27.87.08 Gustavia 97133 SAINT-BARTHELEMY F.W.I",
+                "excerpt": "PHOTO FAST TEL. (590) 27.87.08 Sujet : Gustavia 97133 SAINT-BARTHELEMY F.W.I Date :",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004012.pdf",
                 "confidence": 0.7
               }
@@ -852,326 +898,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.329544,
-          34.10161
-        ]
-      },
-      "properties": {
-        "id": "4a747ec8d02422d7",
-        "name": "Hollywood",
-        "location_name": "Hollywood",
-        "location_address": "Hollywood, Los Angeles, California, United States",
-        "location_description": "A neighborhood in Los Angeles, California, famous as the historical center of the American film industry.",
-        "canonical_name": "Hollywood, Los Angeles, California, United States",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Hollywood",
-        "location_descriptor": "A neighborhood in Los Angeles, California, famous as the historical center of the American film industry.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2002",
-        "date_end": "2002",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A neighborhood in Los Angeles, California, famous as the historical center of the American film industry.",
-        "events": [
-          {
-            "event_id": "2e7c6d134297cbe3",
-            "event_title": "Jeffrey Epstein at Hollywood (2002)",
-            "event_type": "travel",
-            "description": "Witness described having a profile in Hollywood and traveling back to the city during her association with Jeffrey Epstein and his network during approximately 2002.",
-            "date_start": "2002",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI witness interview directly describing Epstein's travel and abuse at this location.",
-            "evidence": [
-              {
-                "file": "EFTA00004070.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "had a profile in Hollywood she got al bast to city",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004070.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004070",
-            "file": "EFTA00004070.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.1834,
-          -1.8312
-        ]
-      },
-      "properties": {
-        "id": "2ca26c60fe0238a7",
-        "name": "Ecuador",
-        "location_name": "Ecuador",
-        "location_address": "",
-        "location_description": "A location in Ecuador referenced in Epstein DOJ evidence files.",
-        "canonical_name": "Ecuador",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Ecuador",
-        "location_descriptor": "A location in Ecuador referenced in Epstein DOJ evidence files.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2003",
-        "date_end": "2003",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "Jean-Luc Brunel",
-            "role": "associate"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A location in Ecuador referenced in Epstein DOJ evidence files.",
-        "events": [
-          {
-            "event_id": "a08ace5034024981",
-            "event_title": "Jeffrey Epstein at Ecuador (2003)",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein traveled to Ecuador circa 2002-2003 with witness, Ghislaine Maxwell, and Jean-Luc Brunel. A photograph provided to FBI shows all four together in Ecuador.",
-            "date_start": "2003",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "Jean-Luc Brunel",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI witness interview directly describing Epstein's travel and abuse at this location.",
-            "evidence": [
-              {
-                "file": "EFTA00004070.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "travel to Ecuador with Epstein Maxwell and Brunel",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004070.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004070",
-            "file": "EFTA00004070.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.446654,
-          34.087834
-        ]
-      },
-      "properties": {
-        "id": "d1f717e5ad1a860c",
-        "name": "Hotel Bel-Air",
-        "location_name": "Hotel Bel-Air",
-        "location_address": "701 Stone Canyon Road, Los Angeles, California 90077, United States",
-        "location_description": "A five-star luxury hotel in the Bel-Air neighborhood of Los Angeles, nestled in Stone Canyon.",
-        "canonical_name": "701 Stone Canyon Road, Los Angeles, California 90077, United States",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Hotel Bel-Air",
-        "location_descriptor": "A five-star luxury hotel in the Bel-Air neighborhood of Los Angeles, nestled in Stone Canyon.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2002",
-        "date_end": "2002",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A five-star luxury hotel in the Bel-Air neighborhood of Los Angeles, nestled in Stone Canyon.",
-        "events": [
-          {
-            "event_id": "57778524152b67b7",
-            "event_title": "Jeffrey Epstein at Hotel Bel-Air (2002)",
-            "event_type": "presence",
-            "description": "Witness first met Jeffrey Epstein at the Hotel Bel-Air in Los Angeles circa 2002 when she was 17. Her sister introduced them and Epstein offered to pay for her schooling.",
-            "date_start": "2002",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI witness interview directly describing Epstein's travel and abuse at this location.",
-            "evidence": [
-              {
-                "file": "EFTA00004070.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "met at Hotel Bel-Air Los Angeles when she was 17",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004070.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004070",
-            "file": "EFTA00004070.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7492,
-          40.4637
-        ]
-      },
-      "properties": {
-        "id": "8ef41e6f4b07432a",
-        "name": "Spain",
-        "location_name": "Spain",
-        "location_address": "",
-        "location_description": "A location in Spain referenced in Epstein DOJ evidence files.",
-        "canonical_name": "Spain",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Spain",
-        "location_descriptor": "A location in Spain referenced in Epstein DOJ evidence files.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2003",
-        "date_end": "2003",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A location in Spain referenced in Epstein DOJ evidence files.",
-        "events": [
-          {
-            "event_id": "1802a1dd37d18cb3",
-            "event_title": "Jeffrey Epstein at Spain (2003)",
-            "event_type": "travel",
-            "description": "Witness turned 18 years old while in Spain approximately 2003 while in Epstein's company, indicating international travel with a minor as part of abuse pattern.",
-            "date_start": "2003",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI witness interview directly describing Epstein's travel and abuse at this location.",
-            "evidence": [
-              {
-                "file": "EFTA00004070.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "turned 18 in Spain 2003 while in Epstein company",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004070.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004070",
-            "file": "EFTA00004070.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.431366,
           28.500307
         ]
@@ -1181,19 +907,19 @@
         "name": "Walt Disney World",
         "location_name": "Walt Disney World",
         "location_address": "Florida Center North, Orlando, Florida, United States",
-        "location_description": "Major theme park and resort complex in Orlando, Florida, one of the most visited vacation destinations in the world.",
+        "location_description": "A major theme park and entertainment resort complex in Orlando, Florida, operated by The Walt Disney Company.",
         "canonical_name": "Florida Center North, Orlando, Florida, United States",
         "region": "",
         "property_type": "event",
         "display_name": "Walt Disney World",
-        "location_descriptor": "Major theme park and resort complex in Orlando, Florida, one of the most visited vacation destinations in the world.",
+        "location_descriptor": "A major theme park and entertainment resort complex in Orlando, Florida, operated by The Walt Disney Company.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2003",
-        "date_end": "2003",
+        "date_start": null,
+        "date_end": null,
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -1204,16 +930,16 @@
         "sources_preview": "EFTA00004070.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "Major theme park and resort complex in Orlando, Florida, one of the most visited vacation destinations in the world.",
+        "event_description": "A major theme park and entertainment resort complex in Orlando, Florida, operated by The Walt Disney Company.",
         "events": [
           {
-            "event_id": "9e41b8a3de48f6f8",
-            "event_title": "Jeffrey Epstein at Walt Disney World (2003)",
+            "event_id": "3b71ae7e84efe79d",
+            "event_title": "Witness Reports Trip to Disney World with Epstein",
             "event_type": "presence",
-            "description": "Witness interview notes reference a trip to Disney World in Florida with Jeffrey Epstein during 2002-2004, with photos from the trip mentioned during FBI interview.",
-            "date_start": "2003",
+            "description": "Witness described a trip to Disney World in Florida with Epstein documented in photographs found during investigation as evidence",
+            "date_start": null,
             "date_end": null,
-            "date_precision": "approximate",
+            "date_precision": "none",
             "confidence": 0.75,
             "people": [
               {
@@ -1222,12 +948,12 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI witness interview directly describing Epstein's travel and abuse at this location.",
+            "nexus_reasoning": "Witness testimony about traveling directly with Epstein to Disney World",
             "evidence": [
               {
                 "file": "EFTA00004070.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Disney World trip in Florida with Epstein photos mentioned",
+                "excerpt": "Disney World trip",
                 "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004070.pdf",
                 "confidence": 0.7
               }
@@ -1248,28 +974,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.0937,
-          34.0489
+          14.422954,
+          50.08584
         ]
       },
       "properties": {
-        "id": "f2274036b50dbde4",
-        "name": "Arizona",
-        "location_name": "Arizona",
-        "location_address": "",
-        "location_description": "A location in Arizona referenced in Epstein DOJ evidence files.",
-        "canonical_name": "Arizona",
+        "id": "26f4e08901281fde",
+        "name": "Prague",
+        "location_name": "Prague",
+        "location_address": "Prague, Prague, Czech Republic",
+        "location_description": "The capital and largest city of the Czech Republic, situated on the Vltava River in central Bohemia.",
+        "canonical_name": "Prague, Prague, Czech Republic",
         "region": "",
         "property_type": "event",
-        "display_name": "Arizona",
-        "location_descriptor": "A location in Arizona referenced in Epstein DOJ evidence files.",
+        "display_name": "Prague",
+        "location_descriptor": "The capital and largest city of the Czech Republic, situated on the Vltava River in central Bohemia.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2004",
-        "date_end": "2004",
+        "date_start": null,
+        "date_end": null,
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -1277,19 +1003,19 @@
           }
         ],
         "source_count": 1,
-        "sources_preview": "EFTA00004070.pdf",
+        "sources_preview": "EFTA00004250.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A location in Arizona referenced in Epstein DOJ evidence files.",
+        "event_description": "The capital and largest city of the Czech Republic, situated on the Vltava River in central Bohemia.",
         "events": [
           {
-            "event_id": "2a384bf5a10407fc",
-            "event_title": "Jeffrey Epstein at Arizona (2004)",
+            "event_id": "7c417fd14801fcb5",
+            "event_title": "Personal Photo Collection from Prague Trip (72+ Photos)",
             "event_type": "presence",
-            "description": "Epstein arranged for witness to be flown to Arizona circa 2004 after she disclosed an eating disorder, toward the end of their two-year association.",
-            "date_start": "2004",
+            "description": "Collection of over 72 personal photographs from a trip to Prague, Czech Republic, found in Epstein digital photo archive seized as evidence",
+            "date_start": null,
             "date_end": null,
-            "date_precision": "year",
+            "date_precision": "none",
             "confidence": 0.75,
             "people": [
               {
@@ -1298,13 +1024,13 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI witness interview directly describing Epstein's travel and abuse at this location.",
+            "nexus_reasoning": "Personal travel photos from Epstein digital archive documenting his presence in Prague",
             "evidence": [
               {
-                "file": "EFTA00004070.pdf",
+                "file": "EFTA00004250.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "flew to Arizona treatment facility eating disorder",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004070.pdf",
+                "excerpt": "Prague01.JPG Prague02.JPG Prague03.JPG Prague04.JPG Prague05.JPG",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004250.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1312,8 +1038,8 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00004070",
-            "file": "EFTA00004070.pdf",
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -1324,21 +1050,97 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.18679,
-          31.773315
+          -71.056804,
+          42.35888
         ]
       },
       "properties": {
-        "id": "86f9b992e6c42a5f",
-        "name": "Jerusalem",
-        "location_name": "Jerusalem",
-        "location_address": "Jerusalem, Jerusalem District, Israel",
-        "location_description": "The capital and most populous city of Israel, situated on a plateau in the Judaean Mountains.",
-        "canonical_name": "Jerusalem, Jerusalem District, Israel",
+        "id": "80e0bef89fd1cd26",
+        "name": "Boston",
+        "location_name": "Boston",
+        "location_address": "Boston, Massachusetts, United States",
+        "location_description": "The capital and largest city of Massachusetts, located on Boston Harbor on the northeastern coast of the United States.",
+        "canonical_name": "Boston, Massachusetts, United States",
         "region": "",
         "property_type": "event",
-        "display_name": "Jerusalem",
-        "location_descriptor": "The capital and most populous city of Israel, situated on a plateau in the Judaean Mountains.",
+        "display_name": "Boston",
+        "location_descriptor": "The capital and largest city of Massachusetts, located on Boston Harbor on the northeastern coast of the United States.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2004-06",
+        "date_end": "2004-06",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004250.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The capital and largest city of Massachusetts, located on Boston Harbor on the northeastern coast of the United States.",
+        "events": [
+          {
+            "event_id": "142fa326e4216f1d",
+            "event_title": "Personal Photo Collection from Boston (16+ Photos)",
+            "event_type": "presence",
+            "description": "Collection of at least 16 personal photographs from Boston, Massachusetts dated around June 2004 found in Epstein digital photo archive filed under miscellaneous pics",
+            "date_start": "2004-06",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Personal photographs documenting Epstein presence in Boston in his digital archive",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Boston 16.JPG Boston 17.JPG Boston 18.JPG Boston 19.JPG Boston 20.JPG Boston 21.JPG",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.391276,
+          39.906217
+        ]
+      },
+      "properties": {
+        "id": "2621d67e0ff22078",
+        "name": "Beijing",
+        "location_name": "Beijing",
+        "location_address": "Beijing, People's Republic of China",
+        "location_description": "The capital of the People's Republic of China and one of the world's most populous cities, located in northern China.",
+        "canonical_name": "Beijing, People's Republic of China",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Beijing",
+        "location_descriptor": "The capital of the People's Republic of China and one of the world's most populous cities, located in northern China.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -1353,16 +1155,16 @@
           }
         ],
         "source_count": 1,
-        "sources_preview": "EFTA00004179.pdf",
+        "sources_preview": "EFTA00004448.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
-        "event_description": "The capital and most populous city of Israel, situated on a plateau in the Judaean Mountains.",
+        "event_description": "The capital of the People's Republic of China and one of the world's most populous cities, located in northern China.",
         "events": [
           {
-            "event_id": "a798b4d24ee54979",
-            "event_title": "Jeffrey Epstein at Jerusalem",
+            "event_id": "889103ceeab7e59b",
+            "event_title": "Seized Photos: Travel Collection from China, Paris, and Stockholm (100+ Images)",
             "event_type": "travel",
-            "description": "FBI witness interview notes reference photos taken in Jerusalem and Italy associated with underage girls brought to Jeffrey Epstein, indicating international travel patterns.",
+            "description": "Collection of over 100 personal travel photographs from China, Paris, and Stockholm found in Epstein seized digital media, comprising DSCF camera files and IMG numbered photos",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
@@ -1374,13 +1176,13 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "FBI interview directly documenting Epstein's trafficking and travel to this location.",
+            "nexus_reasoning": "Personal travel photographs from Epstein digital archive documenting his international travel to China, Paris, and Stockholm",
             "evidence": [
               {
-                "file": "EFTA00004179.pdf",
+                "file": "EFTA00004448.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "photos from trips to Jerusalem and Italy girls brought to Epstein",
-                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004179.pdf",
+                "excerpt": "China, Paris, Stockholm DSCF0008_1.TIF DSCF0009_1.TIF DSCF0010_1.TIF DSCF0011_1.TIF",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004448.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1388,8 +1190,84 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00004179",
-            "file": "EFTA00004179.pdf",
+            "doc_id": "EFTA00004448",
+            "file": "EFTA00004448.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.379039,
+          28.54211
+        ]
+      },
+      "properties": {
+        "id": "02834177edb31fe5",
+        "name": "Orlando",
+        "location_name": "Orlando",
+        "location_address": "Orlando, Florida, United States",
+        "location_description": "A major city in central Florida known for its theme parks, located in Orange County.",
+        "canonical_name": "Orlando, Florida, United States",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Orlando",
+        "location_descriptor": "A major city in central Florida known for its theme parks, located in Orange County.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004448.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "A major city in central Florida known for its theme parks, located in Orange County.",
+        "events": [
+          {
+            "event_id": "e26da73044b82395",
+            "event_title": "Archival Photo Preservers (Pioneer, Orlando FL) Used to Store Epstein Photos",
+            "event_type": "presence",
+            "description": "Archival photo preservers manufactured by Pioneer (Orlando FL, Style 811-2P) used to store seized photographs from Epstein collection as documented in evidence catalog",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Archival storage products used for Epstein photos but not directly involving Epstein activity at this location",
+            "evidence": [
+              {
+                "file": "EFTA00004448.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ARCHIVAL PRESERVERS P.O. BOX 407631 ORLANDO, FL 32860 (407) 886 3100 STYLE NO. 811-2P",
+                "document_url": "https://www.justice.gov/d9/2024-06/EFTA00004448.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004448",
+            "file": "EFTA00004448.pdf",
             "source_type": "doj_efta"
           }
         ]
