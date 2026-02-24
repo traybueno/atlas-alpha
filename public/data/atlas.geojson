@@ -142,6 +142,148 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348392,
+          48.853495
+        ]
+      },
+      "properties": {
+        "id": "3e43c656e5192f93",
+        "name": "Paris",
+        "location_name": "Paris",
+        "location_address": "Paris, France",
+        "location_description": "",
+        "canonical_name": "Paris, France",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "witness",
+            "role": "witness"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00004070.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "09b520172d591ee9",
+            "event_title": "Photos Taken in Paris During Trip",
+            "event_type": "presence",
+            "description": "Photos were taken in Paris during a trip, with witness and others present at various locations",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "witness",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Photos appear to be from an Epstein-related trip based on context of the witness statement.",
+            "evidence": [
+              {
+                "file": "EFTA00004070.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Handwritten document describing photos taken in Paris, with witness and others present.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004070.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004070",
+            "file": "EFTA00004070.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.158354,
+          40.887198
+        ]
+      },
+      "properties": {
+        "id": "831b2489d716ce05",
+        "name": "St. James",
+        "location_name": "St. James",
+        "location_address": "St. James, New York, United States",
+        "location_description": "",
+        "canonical_name": "St. James, New York, United States",
+        "region": "",
+        "property_type": "event",
+        "display_name": "St. James",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2004-12",
+        "date_end": "2004-12",
+        "people": [],
+        "source_count": 1,
+        "sources_preview": "EFTA00004663.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "909a65405eeabc3f",
+            "event_title": "Little St. James Activity December 2004 (Photo Documentation)",
+            "event_type": "presence",
+            "description": "Activities documented through digital photographs at Little St. James Island during December 2004, with multiple photo files capturing events at the property",
+            "date_start": "2004-12",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Photos were taken at Epstein's private island property during a specific time period, strongly suggesting his presence or involvement.",
+            "evidence": [
+              {
+                "file": "EFTA00004663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ 12/04",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004663.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004663",
+            "file": "EFTA00004663.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
     }
   ]
 }
