@@ -6,63 +6,93 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.092441,
-          26.671414
+          -73.158354,
+          40.887198
         ]
       },
       "properties": {
-        "id": "ed99fcc978291e92",
-        "name": "Palm Beach County Sheriff's Office",
-        "location_name": "Palm Beach County Sheriff's Office",
-        "location_address": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
-        "location_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
-        "canonical_name": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
+        "id": "831b2489d716ce05",
+        "name": "St. James",
+        "location_name": "St. James",
+        "location_address": "St. James, New York, United States",
+        "location_description": "",
+        "canonical_name": "St. James, New York, United States",
         "region": "",
         "property_type": "event",
-        "display_name": "Palm Beach County Sheriff's Office",
-        "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
-        "event_count": 1,
-        "evidence_count": 1,
+        "display_name": "St. James",
+        "location_descriptor": "",
+        "event_count": 2,
+        "evidence_count": 2,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2006-08-09",
-        "date_end": "2006-08-09",
+        "date_start": "2003-01",
+        "date_end": "2005-12-25",
         "people": [
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA00003868.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA00004348.pdf, EFTA00005091.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "event_description": "",
         "events": [
           {
-            "event_id": "13240f8d599a85ca",
-            "event_title": "PBSO Books Epstein for Photo Lineup at Sheriff's Office",
+            "event_id": "a41410ba2df67b28",
+            "event_title": "Epstein's 50th Birthday Party with Maxwell (2003)",
             "event_type": "presence",
-            "description": "Jeffrey Epstein was booked at Palm Beach Sheriff's Office for photo lineup with booking ID 20060723017, recorded as 53 years old, 6 feet tall, 180 lbs with gray hair and hazel eyes",
-            "date_start": "2006-08-09",
+            "description": "Jeffrey Epstein's 50th birthday celebration at Little St. James Island with Ghislaine Maxwell present, documented with photographs including aerial shots of the island and party activities",
+            "date_start": "2003-01",
             "date_end": null,
-            "date_precision": "exact_day",
+            "date_precision": "month",
             "confidence": 0.75,
             "people": [
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at the Sheriff's Office for booking and photo lineup procedures.",
+            "nexus_reasoning": "Epstein was physically present at his own 50th birthday party celebration at Little St. James Island.",
             "evidence": [
               {
-                "file": "EFTA00003868.pdf",
+                "file": "EFTA00004348.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Jacket #: 0338617 Birth Date: 01/20/1953 Hair Color: GRY Full Name: EPSTEIN,JEFFREY Age: 53 Facial Hair: N First Name: JEFFREY Race: W Eye Color: HZL Middle Name: Marital Status SINGLE Build: M Last Name: EPSTEIN Gender: M Complexion: FAR Booking Id: 20060723017 Height: 6 ft. 0 in. Weight: 180 lbs.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00003868.pdf",
+                "excerpt": "JE 50 Bday, Max, 727",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004348.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "59f0f09f8b78eaa3",
+            "event_title": "Christmas 2005 Gathering at Little St. James Island - Multiple Photo Sets",
+            "event_type": "presence",
+            "description": "Christmas 2005 celebration at Little St. James Island documented across multiple photo sets and digital disks containing hundreds of images from the event",
+            "date_start": "2005-12-25",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Photos document a Christmas gathering at Epstein's private island property where he would have been present as host.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ XMAS05 DISK3, LSJ XMAS05-DISK2, LSJ XMAS05-DISK1, LSJ XMAS05 SUTON",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005091.pdf",
                 "confidence": 0.7
               }
             ]
@@ -70,8 +100,13 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00003868",
-            "file": "EFTA00003868.pdf",
+            "doc_id": "EFTA00004348",
+            "file": "EFTA00004348.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -82,53 +117,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.852216,
-          17.896217
+          -80.092441,
+          26.671414
         ]
       },
       "properties": {
-        "id": "2c051f9d2070ca86",
-        "name": "Gustavia",
-        "location_name": "Gustavia",
-        "location_address": "Gustavia, Saint Barth\u00e9lemy",
+        "id": "ed99fcc978291e92",
+        "name": "3228 Gun Club Road",
+        "location_name": "3228 Gun Club Road",
+        "location_address": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
         "location_description": "",
-        "canonical_name": "Gustavia, Saint Barth\u00e9lemy",
+        "canonical_name": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
         "region": "",
         "property_type": "event",
-        "display_name": "Gustavia",
+        "display_name": "3228 Gun Club Road",
         "location_descriptor": "",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 2,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
-        "people": [],
+        "date_start": "2006-08-09",
+        "date_end": "2006-08-11",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
         "source_count": 1,
-        "sources_preview": "EFTA00004012.pdf",
-        "epstein_nexus": "contextual",
+        "sources_preview": "EFTA00003868.pdf",
+        "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "",
         "events": [
           {
-            "event_id": "166cfae2dd836e3d",
-            "event_title": "Photo Development at Photo Fast in Gustavia, Saint-Barthelemy",
+            "event_id": "13240f8d599a85ca",
+            "event_title": "PBSO Books Jeffrey Epstein for Photo Lineup (Booking ID 20060723017)",
             "event_type": "presence",
-            "description": "Photo development services provided at Photo Fast store in Gustavia, Saint-Barthelemy, with multiple evidence items (EFTA00004012 through EFTA00004038) processed",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
+            "description": "Jeffrey Epstein was booked by Palm Beach Sheriff's Office for photo lineup procedures with booking ID 20060723017, documented as 53-year-old white male, 6 feet tall, 180 pounds with gray hair and hazel eyes.; Palm Beach Sheriff's Office conducted photo lineup procedures at 2:30:20 PM related to Jeffrey Epstein case, with multiple lineup photographs arranged in numbered positions.",
+            "date_start": "2006-08-09",
+            "date_end": "2006-08-11",
+            "date_precision": "exact_day",
             "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This appears to be evidence processing related to the Epstein case but does not show Epstein's direct presence at the photo shop",
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at the sheriff's office being processed and booked for the photo lineup.",
             "evidence": [
               {
-                "file": "EFTA00004012.pdf",
+                "file": "EFTA00003868.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Partially legible document describing photo development receipt from Saint-Barthelemy with multiple EFTA evidence numbers listed",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004012.pdf",
+                "excerpt": "Jacket #: 0338617 Birth Date: 01/20/1953 Hair Color: GRY Full Name: EPSTEIN,JEFFREY Age: 53 Facial Hair: N First Name: JEFFREY Race: W Eye Color: HAZ Middle Name: Marital Status SINGLE Build: M Last Name: EPSTEIN Gender: M Complexion: FAR Booking Id: 20060723017 Height: 6 ft. 0 in. Weight: 180 lbs.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00003868.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00003868.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Photo Lineup - Sheriff - Date/Time 8/11/2006 2:30:20 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00003868.pdf",
                 "confidence": 0.7
               }
             ]
@@ -136,8 +188,8 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00004012",
-            "file": "EFTA00004012.pdf",
+            "doc_id": "EFTA00003868",
+            "file": "EFTA00003868.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -165,45 +217,53 @@
         "location_descriptor": "",
         "event_count": 1,
         "evidence_count": 1,
-        "primary_event_type": "presence",
+        "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": null,
         "date_end": null,
         "people": [
           {
+            "name": "friends",
+            "role": "other"
+          },
+          {
             "name": "witness",
-            "role": "witness"
+            "role": "victim"
           }
         ],
         "source_count": 1,
         "sources_preview": "EFTA00004070.pdf",
         "epstein_nexus": "implied",
-        "event_type": "presence",
+        "event_type": "travel",
         "event_description": "",
         "events": [
           {
-            "event_id": "09b520172d591ee9",
-            "event_title": "Photos Taken in Paris During Trip",
-            "event_type": "presence",
-            "description": "Photos were taken in Paris during a trip, with witness and others present at various locations",
+            "event_id": "e30f47aebf71bd5b",
+            "event_title": "Witness and Associates Traveled to Paris, Photos Taken",
+            "event_type": "travel",
+            "description": "Witness and friends traveled to Paris where photos were taken of them during the trip",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
             "confidence": 0.75,
             "people": [
               {
+                "name": "friends",
+                "role": "other"
+              },
+              {
                 "name": "witness",
-                "role": "witness"
+                "role": "victim"
               }
             ],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Photos appear to be from an Epstein-related trip based on context of the witness statement.",
+            "nexus_reasoning": "Photos and travel appear to be connected to Epstein's network based on document context but his direct presence is not explicitly stated.",
             "evidence": [
               {
                 "file": "EFTA00004070.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Handwritten document describing photos taken in Paris, with witness and others present.",
+                "excerpt": "Handwritten document describing travel to Paris, with photos taken in Paris showing the witness and others.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004070.pdf",
                 "confidence": 0.7
               }
@@ -224,53 +284,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.158354,
-          40.887198
+          -64.359561,
+          18.526903
         ]
       },
       "properties": {
-        "id": "831b2489d716ce05",
-        "name": "St. James",
-        "location_name": "St. James",
-        "location_address": "St. James, New York, United States",
+        "id": "bdf7834e20f35d8b",
+        "name": "Necker Island",
+        "location_name": "Necker Island",
+        "location_address": "Necker Island, British Virgin Islands",
         "location_description": "",
-        "canonical_name": "St. James, New York, United States",
+        "canonical_name": "Necker Island, British Virgin Islands",
         "region": "",
         "property_type": "event",
-        "display_name": "St. James",
+        "display_name": "Necker Island",
         "location_descriptor": "",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2004-12",
-        "date_end": "2004-12",
+        "date_start": "2005-12-25",
+        "date_end": "2005-12-25",
         "people": [],
         "source_count": 1,
-        "sources_preview": "EFTA00004663.pdf",
-        "epstein_nexus": "implied",
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "",
         "events": [
           {
-            "event_id": "909a65405eeabc3f",
-            "event_title": "Little St. James Activity December 2004 (Photo Documentation)",
+            "event_id": "0c90c40380394c23",
+            "event_title": "Christmas 2005 Visit to Necker Island - Photo Documentation",
             "event_type": "presence",
-            "description": "Activities documented through digital photographs at Little St. James Island during December 2004, with multiple photo files capturing events at the property",
-            "date_start": "2004-12",
+            "description": "Christmas 2005 visit to Necker Island documented in extensive photo collection with over 80 images spanning multiple days",
+            "date_start": "2005-12-25",
             "date_end": null,
-            "date_precision": "month",
+            "date_precision": "approximate",
             "confidence": 0.75,
             "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Photos were taken at Epstein's private island property during a specific time period, strongly suggesting his presence or involvement.",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Photos document Epstein's presence at Necker Island during Christmas 2005 as part of his Caribbean activities.",
             "evidence": [
               {
-                "file": "EFTA00004663.pdf",
+                "file": "EFTA00005091.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "LSJ 12/04",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004663.pdf",
+                "excerpt": "xmas 05/necker",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005091.pdf",
                 "confidence": 0.7
               }
             ]
@@ -278,8 +338,216 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00004663",
-            "file": "EFTA00004663.pdf",
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.462339,
+          18.221329
+        ]
+      },
+      "properties": {
+        "id": "d9aa43ead5f13974",
+        "name": "Puerto Rico",
+        "location_name": "Puerto Rico",
+        "location_address": "Puerto Rico",
+        "location_description": "",
+        "canonical_name": "Puerto Rico",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Puerto Rico",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2005",
+        "date_end": "2005",
+        "people": [
+          {
+            "name": "jean luc",
+            "role": "staff"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "4ab866b65f382983",
+            "event_title": "Jean Luc's Photography Trip to Puerto Rico 2005",
+            "event_type": "presence",
+            "description": "Jean Luc documented a 2005 trip to Puerto Rico with over 100 photographs spanning multiple locations and activities",
+            "date_start": "2005",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "jean luc",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Photos taken by Jean Luc (likely staff photographer) during Puerto Rico trip, but no direct evidence of Epstein's presence in the documentation.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Puerto Rico 05, photg.jean luc",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.381096,
+          19.295036
+        ]
+      },
+      "properties": {
+        "id": "7aaf611179645e65",
+        "name": "George Town",
+        "location_name": "George Town",
+        "location_address": "George Town, George Town, Cayman Islands",
+        "location_description": "",
+        "canonical_name": "George Town, George Town, Cayman Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "George Town",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2005",
+        "date_end": "2005",
+        "people": [],
+        "source_count": 1,
+        "sources_preview": "EFTA00005091.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "17d811f88748b6cd",
+            "event_title": "Yacht Huntress Documented at George Town, Cayman Islands",
+            "event_type": "presence",
+            "description": "Yacht Huntress photographed multiple times while docked or operating from George Town in the Cayman Islands during 2005",
+            "date_start": "2005",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Yacht Huntress was Epstein's vessel, documenting its presence at George Town indicates his travel activities in the Caribbean.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Huntress George Town, C.I.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.002663,
+          40.713878
+        ]
+      },
+      "properties": {
+        "id": "57e065ce61ba39ab",
+        "name": "40 Foley Square",
+        "location_name": "40 Foley Square",
+        "location_address": "40 Centre Street, New York City, New York 10007, United States",
+        "location_description": "",
+        "canonical_name": "40 Centre Street, New York City, New York 10007, United States",
+        "region": "",
+        "property_type": "event",
+        "display_name": "40 Foley Square",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "legal",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-07-24",
+        "date_end": "2019-07-24",
+        "people": [],
+        "source_count": 1,
+        "sources_preview": "EFTA00005718.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "legal",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "660e8445c70ead7d",
+            "event_title": "Grand Jury Testimony Scheduled at US Courthouse (Case 18 USC 1591, 2421-2423)",
+            "event_type": "legal",
+            "description": "Grand jury subpoena commanding appearance to testify regarding alleged violations of federal trafficking and transportation statutes at the US District Court",
+            "date_start": "2019-07-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "The subpoena relates to federal charges (18 USC 1591, 2421-2423) consistent with Epstein's case and was issued during his 2019 prosecution timeline.",
+            "evidence": [
+              {
+                "file": "EFTA00005718.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York, New York, in the Southern District of New York, at the following date, time and place: Appearance Date: July 24, 2019 Appearance Time: 10:00 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005718.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005718",
+            "file": "EFTA00005718.pdf",
             "source_type": "doj_efta"
           }
         ]
