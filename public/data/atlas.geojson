@@ -6,337 +6,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.05974,
-          40.860698
-        ]
-      },
-      "properties": {
-        "id": "d02d0f7cf732540b",
-        "name": "Teterboro",
-        "location_name": "Teterboro",
-        "location_address": "Teterboro, New Jersey, United States",
-        "location_description": "",
-        "canonical_name": "Teterboro, New Jersey, United States",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Teterboro",
-        "location_descriptor": "",
-        "event_count": 3,
-        "evidence_count": 3,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-01-02",
-        "date_end": "2017-03-29",
-        "people": [],
-        "source_count": 1,
-        "sources_preview": "EFTA00005994.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "cc9273065ce2f646",
-            "event_title": "Flight Arrival at Teterboro from Unknown Origin (January 2, 2017)",
-            "event_type": "travel",
-            "description": "Aircraft flight arriving at Teterboro Airport from unknown departure location on January 2, 2017",
-            "date_start": "2017-01-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight schedule document found in Epstein case files suggests his or his associates' travel activities.",
-            "evidence": [
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "January 2017 - Outbound Unknown - Inbound TEB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "0ee3a5aef8a7a476",
-            "event_title": "Flight from Teterboro to France (February 16, 2017)",
-            "event_type": "presence",
-            "description": "Aircraft departure from Teterboro Airport to France on February 16, 2017; Aircraft departure from Teterboro Airport to France on February 17, 2017",
-            "date_start": "2017-02-16",
-            "date_end": "2017-02-17",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight schedule document found in Epstein case files suggests his or his associates' international travel.",
-            "evidence": [
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "February 2017 - Outbound TEB - Inbound France",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d2a47f61bf05916c",
-            "event_title": "Flight from Teterboro to France (March 29, 2017)",
-            "event_type": "presence",
-            "description": "Aircraft departure from Teterboro Airport to France on March 29, 2017",
-            "date_start": "2017-03-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight schedule document found in Epstein case files suggests his or his associates' international travel.",
-            "evidence": [
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "March 2017 - Outbound TEB - Inbound France",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005994",
-            "file": "EFTA00005994.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.158354,
-          40.887198
-        ]
-      },
-      "properties": {
-        "id": "831b2489d716ce05",
-        "name": "St. James",
-        "location_name": "St. James",
-        "location_address": "St. James, New York, United States",
-        "location_description": "",
-        "canonical_name": "St. James, New York, United States",
-        "region": "",
-        "property_type": "event",
-        "display_name": "St. James",
-        "location_descriptor": "",
-        "event_count": 2,
-        "evidence_count": 2,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2003-01",
-        "date_end": "2004-12",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA00004348.pdf, EFTA00004663.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "a41410ba2df67b28",
-            "event_title": "Epstein's 50th Birthday Party with Maxwell and Associates",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein's 50th birthday party celebration at Little St. James Island with Ghislaine Maxwell and other guests, documented in multiple photo files including aerial shots of the island and party attendees",
-            "date_start": "2003-01",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at his own 50th birthday party celebration on Little St. James Island.",
-            "evidence": [
-              {
-                "file": "EFTA00004348.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "JE 50 Bday",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004348.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "909a65405eeabc3f",
-            "event_title": "Events at Little St. James Island in December 2004",
-            "event_type": "presence",
-            "description": "Activities photographed at Little St. James Island during December 2004, as documented in seized digital photographs from the investigation",
-            "date_start": "2004-12",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Events occurred at Epstein's private island property during this timeframe, strongly suggesting his presence or involvement",
-            "evidence": [
-              {
-                "file": "EFTA00004663.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "LSJ 12/04",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004663.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004348",
-            "file": "EFTA00004348.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00004663",
-            "file": "EFTA00004663.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.97552,
-          18.342445
-        ]
-      },
-      "properties": {
-        "id": "00022b7dbe356925",
-        "name": "St. Thomas",
-        "location_name": "St. Thomas",
-        "location_address": "St. Thomas, Saint Thomas, US Virgin Islands",
-        "location_description": "",
-        "canonical_name": "St. Thomas, Saint Thomas, US Virgin Islands",
-        "region": "",
-        "property_type": "event",
-        "display_name": "St. Thomas",
-        "location_descriptor": "",
-        "event_count": 2,
-        "evidence_count": 3,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-01-19",
-        "date_end": "2017-03-11",
-        "people": [],
-        "source_count": 1,
-        "sources_preview": "EFTA00005994.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "8722ee9d21bad42a",
-            "event_title": "Flight from US Virgin Islands to Teterboro (January 19, 2017)",
-            "event_type": "presence",
-            "description": "Aircraft departure from US Virgin Islands to Teterboro Airport on January 19, 2017",
-            "date_start": "2017-01-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight between Epstein's Virgin Islands property and frequent departure airport suggests his travel.",
-            "evidence": [
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "January 2017 - Outbound TIST - Inbound TEB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6511fab0ce07be14",
-            "event_title": "Flight from US Virgin Islands to St. Barth\u00e9lemy (March 7, 2017)",
-            "event_type": "presence",
-            "description": "Aircraft departure from US Virgin Islands to St. Barth\u00e9lemy on March 7, 2017; Aircraft departure from US Virgin Islands to Westfield, Massachusetts on March 11, 2017",
-            "date_start": "2017-03-07",
-            "date_end": "2017-03-11",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight between Caribbean locations from Epstein's Virgin Islands property suggests his travel.",
-            "evidence": [
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "March 2017 - Outbound TIST - Inbound St Barthelemy",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "March 2017 - Outbound TIST - Inbound KBAF",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005994",
-            "file": "EFTA00005994.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.092441,
           26.671414
         ]
       },
       "properties": {
         "id": "ed99fcc978291e92",
-        "name": "3228 Gun Club Road",
-        "location_name": "3228 Gun Club Road",
+        "name": "Palm Beach County Sheriff's Office",
+        "location_name": "Palm Beach County Sheriff's Office",
         "location_address": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
-        "location_description": "",
+        "location_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
         "canonical_name": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
         "region": "",
         "property_type": "event",
-        "display_name": "3228 Gun Club Road",
-        "location_descriptor": "",
+        "display_name": "Palm Beach County Sheriff's Office",
+        "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -354,13 +38,13 @@
         "sources_preview": "EFTA00003868.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "",
+        "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
         "events": [
           {
             "event_id": "13240f8d599a85ca",
-            "event_title": "PBSO Books Jeffrey Epstein for Photo Lineup (Booking ID 20060723017)",
+            "event_title": "PBSO Books Epstein for Photo Lineup at Sheriff's Office",
             "event_type": "presence",
-            "description": "Jeffrey Epstein was booked at Palm Beach Sheriff's Office for photo lineup proceedings with booking ID 20060723017, documented as 53 years old, 6'0\", 180 lbs with gray hair and hazel eyes.",
+            "description": "Jeffrey Epstein was booked at Palm Beach Sheriff's Office for photo lineup with booking ID 20060723017, recorded as 53 years old, 6 feet tall, 180 lbs with gray hair and hazel eyes",
             "date_start": "2006-08-09",
             "date_end": null,
             "date_precision": "exact_day",
@@ -372,12 +56,12 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at the sheriff's office being processed for booking and photo lineup.",
+            "nexus_reasoning": "Epstein was physically present at the Sheriff's Office for booking and photo lineup procedures.",
             "evidence": [
               {
                 "file": "EFTA00003868.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Jacket #: 0338617 Birth Date: 01/20/1953 Hair Color: GRY Full Name: EPSTEIN,JEFFREY Age: 53 Facial Hair: N First Name: JEFFREY Race: W Eye Color: HAZ Middle Name: Marital Status SINGLE Build: M Last Name: EPSTEIN Gender: M Complexion: FAR Booking Id: 20060723017 Height: 6 ft. 0 in. Weight: 180 lbs.",
+                "excerpt": "Jacket #: 0338617 Birth Date: 01/20/1953 Hair Color: GRY Full Name: EPSTEIN,JEFFREY Age: 53 Facial Hair: N First Name: JEFFREY Race: W Eye Color: HZL Middle Name: Marital Status SINGLE Build: M Last Name: EPSTEIN Gender: M Complexion: FAR Booking Id: 20060723017 Height: 6 ft. 0 in. Weight: 180 lbs.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00003868.pdf",
                 "confidence": 0.7
               }
@@ -398,188 +82,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.03363,
-          28.944465
+          -62.852216,
+          17.896217
         ]
       },
       "properties": {
-        "id": "a3c017c61e86199e",
-        "name": "Florida",
-        "location_name": "Florida",
-        "location_address": "Florida, United States",
+        "id": "2c051f9d2070ca86",
+        "name": "Gustavia",
+        "location_name": "Gustavia",
+        "location_address": "Gustavia, Saint Barth\u00e9lemy",
         "location_description": "",
-        "canonical_name": "Florida, United States",
+        "canonical_name": "Gustavia, Saint Barth\u00e9lemy",
         "region": "",
         "property_type": "event",
-        "display_name": "Florida",
-        "location_descriptor": "",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "witness",
-            "role": "witness"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "3d9825602351d8da",
-            "event_title": "Witness and Epstein at Disney World, Florida - Photos Taken",
-            "event_type": "presence",
-            "description": "Witness describes taking photos with Epstein in Florida including a trip to Disney World where photos were taken",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "witness",
-                "role": "witness"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at Disney World and other Florida locations with the witness for photo sessions",
-            "evidence": [
-              {
-                "file": "EFTA00004070.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Handwritten document describing taking photos in Florida and Disney World trip",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004070.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004070",
-            "file": "EFTA00004070.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.348392,
-          48.853495
-        ]
-      },
-      "properties": {
-        "id": "3e43c656e5192f93",
-        "name": "Paris",
-        "location_name": "Paris",
-        "location_address": "Paris, France",
-        "location_description": "",
-        "canonical_name": "Paris, France",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Paris",
-        "location_descriptor": "",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "witness",
-            "role": "witness"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "e30f47aebf71bd5b",
-            "event_title": "Epstein and Witness Helicopter Trip in Paris - Photos Taken",
-            "event_type": "travel",
-            "description": "Witness describes taking a helicopter trip with Epstein in Paris where photos were taken during the flight and visit",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "witness",
-                "role": "witness"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present during the helicopter trip and photo session in Paris with the witness",
-            "evidence": [
-              {
-                "file": "EFTA00004070.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Handwritten document describing helicopter trip and photos taken in Paris",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004070.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004070",
-            "file": "EFTA00004070.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.711449,
-          40.41742
-        ]
-      },
-      "properties": {
-        "id": "783cab1eba5b1edf",
-        "name": "Ohio",
-        "location_name": "Ohio",
-        "location_address": "Ohio, United States",
-        "location_description": "",
-        "canonical_name": "Ohio, United States",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Ohio",
+        "display_name": "Gustavia",
         "location_descriptor": "",
         "event_count": 1,
         "evidence_count": 1,
@@ -590,29 +106,29 @@
         "date_end": null,
         "people": [],
         "source_count": 1,
-        "sources_preview": "EFTA00004975.pdf",
+        "sources_preview": "EFTA00004012.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
         "event_description": "",
         "events": [
           {
-            "event_id": "3c716660c3b6f4c5",
-            "event_title": "Ohio Horse Event with Photographic Documentation",
+            "event_id": "166cfae2dd836e3d",
+            "event_title": "Photo Development at Photo Fast in Gustavia, Saint-Barthelemy",
             "event_type": "presence",
-            "description": "Horse event in Ohio documented with multiple photographs showing activities at the event location",
+            "description": "Photo development services provided at Photo Fast store in Gustavia, Saint-Barthelemy, with multiple evidence items (EFTA00004012 through EFTA00004038) processed",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
             "confidence": 0.75,
             "people": [],
             "epstein_nexus": "contextual",
-            "nexus_reasoning": "Photos appear in Epstein case files but no direct evidence of Epstein's presence at the Ohio horse event is shown.",
+            "nexus_reasoning": "This appears to be evidence processing related to the Epstein case but does not show Epstein's direct presence at the photo shop",
             "evidence": [
               {
-                "file": "EFTA00004975.pdf",
+                "file": "EFTA00004012.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Ohio horse event",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004975.pdf",
+                "excerpt": "Partially legible document describing photo development receipt from Saint-Barthelemy with multiple EFTA evidence numbers listed",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004012.pdf",
                 "confidence": 0.7
               }
             ]
@@ -620,91 +136,8 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00004975",
-            "file": "EFTA00004975.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8283,
-          40.7135
-        ]
-      },
-      "properties": {
-        "id": "0f1f283a7e0e0da7",
-        "name": "Queens",
-        "location_name": "Queens",
-        "location_address": "Queens, New York, United States",
-        "location_description": "",
-        "canonical_name": "Queens, New York, United States",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Queens",
-        "location_descriptor": "",
-        "event_count": 1,
-        "evidence_count": 2,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2015-12-08",
-        "date_end": "2015-12-08",
-        "people": [
-          {
-            "name": "Milli",
-            "role": "other"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00005932.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "travel",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "fcb4332c76ed4583",
-            "event_title": "Outbound Flight TK 4 Departure from JFK Airport (Dec 8, 2015)",
-            "event_type": "travel",
-            "description": "Person with first name Milli departed JFK Airport on Turkish Airlines flight TK 4 as outbound passenger on manifest, encounter processed by U.S. Customs and Border Protection",
-            "date_start": "2015-12-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Milli",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "unrelated",
-            "nexus_reasoning": "This appears to be a CBP encounter record for an unidentified person named Milli with no apparent connection to Jeffrey Epstein.",
-            "evidence": [
-              {
-                "file": "EFTA00005932.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Encounter Date : 12/08/2015 Encounter Time : 00 00 ... Departure Location : JFK - JOHN F KENNED'",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005932.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00005932.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "11/16/2315 TK 11 I A477 APC' TI APES ON BOARD JFK 1ST ... AUTOMATED PASSPORT CONTROL, JFK",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005932.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005932",
-            "file": "EFTA00005932.pdf",
+            "doc_id": "EFTA00004012",
+            "file": "EFTA00004012.pdf",
             "source_type": "doj_efta"
           }
         ]
