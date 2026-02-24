@@ -23,7 +23,7 @@
         "location_descriptor": "",
         "event_count": 3,
         "evidence_count": 3,
-        "primary_event_type": "travel",
+        "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2017-01-02",
@@ -32,70 +32,70 @@
         "source_count": 1,
         "sources_preview": "EFTA00005994.pdf",
         "epstein_nexus": "implied",
-        "event_type": "travel",
+        "event_type": "presence",
         "event_description": "",
         "events": [
           {
             "event_id": "cc9273065ce2f646",
-            "event_title": "Flight Arrives at Teterboro from Unknown Location (January 2017)",
+            "event_title": "Flight Arrival at Teterboro from Unknown Origin (January 2, 2017)",
             "event_type": "travel",
-            "description": "Aircraft flight arriving at Teterboro Airport from an unknown departure location on January 2, 2017",
+            "description": "Aircraft flight arriving at Teterboro Airport from unknown departure location on January 2, 2017",
             "date_start": "2017-01-02",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight log entry appears in Epstein case files suggesting connection to his aircraft operations",
+            "nexus_reasoning": "Flight schedule document found in Epstein case files suggests his or his associates' travel activities.",
             "evidence": [
               {
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "January 2, 2017: Outbound Unknown - Inbound TEB",
+                "excerpt": "January 2017 - Outbound Unknown - Inbound TEB",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "b86a8c19ed1351ed",
-            "event_title": "Flight from Teterboro to France (February 2017)",
-            "event_type": "travel",
-            "description": "Aircraft flight departing from Teterboro Airport bound for France in February 2017",
-            "date_start": "2017-02",
-            "date_end": null,
-            "date_precision": "range",
+            "event_id": "0ee3a5aef8a7a476",
+            "event_title": "Flight from Teterboro to France (February 16, 2017)",
+            "event_type": "presence",
+            "description": "Aircraft departure from Teterboro Airport to France on February 16, 2017; Aircraft departure from Teterboro Airport to France on February 17, 2017",
+            "date_start": "2017-02-16",
+            "date_end": "2017-02-17",
+            "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight log entry appears in Epstein case files suggesting connection to his aircraft operations",
+            "nexus_reasoning": "Flight schedule document found in Epstein case files suggests his or his associates' international travel.",
             "evidence": [
               {
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "February 16-17, 2017: Outbound TEB - Inbound France",
+                "excerpt": "February 2017 - Outbound TEB - Inbound France",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "0d67fe1a0abd2d5e",
+            "event_id": "d2a47f61bf05916c",
             "event_title": "Flight from Teterboro to France (March 29, 2017)",
-            "event_type": "travel",
-            "description": "Aircraft flight departing from Teterboro Airport bound for France on March 29, 2017",
+            "event_type": "presence",
+            "description": "Aircraft departure from Teterboro Airport to France on March 29, 2017",
             "date_start": "2017-03-29",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight log entry appears in Epstein case files suggesting connection to his aircraft operations",
+            "nexus_reasoning": "Flight schedule document found in Epstein case files suggests his or his associates' international travel.",
             "evidence": [
               {
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "March 29, 2017: Outbound TEB - Inbound France",
+                "excerpt": "March 2017 - Outbound TEB - Inbound France",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
                 "confidence": 0.7
               }
@@ -106,6 +106,117 @@
           {
             "doc_id": "EFTA00005994",
             "file": "EFTA00005994.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.158354,
+          40.887198
+        ]
+      },
+      "properties": {
+        "id": "831b2489d716ce05",
+        "name": "St. James",
+        "location_name": "St. James",
+        "location_address": "St. James, New York, United States",
+        "location_description": "",
+        "canonical_name": "St. James, New York, United States",
+        "region": "",
+        "property_type": "event",
+        "display_name": "St. James",
+        "location_descriptor": "",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2003-01",
+        "date_end": "2004-12",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA00004348.pdf, EFTA00004663.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "a41410ba2df67b28",
+            "event_title": "Epstein's 50th Birthday Party with Maxwell and Associates",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein's 50th birthday party celebration at Little St. James Island with Ghislaine Maxwell and other guests, documented in multiple photo files including aerial shots of the island and party attendees",
+            "date_start": "2003-01",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his own 50th birthday party celebration on Little St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA00004348.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JE 50 Bday",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004348.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "909a65405eeabc3f",
+            "event_title": "Events at Little St. James Island in December 2004",
+            "event_type": "presence",
+            "description": "Activities photographed at Little St. James Island during December 2004, as documented in seized digital photographs from the investigation",
+            "date_start": "2004-12",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Events occurred at Epstein's private island property during this timeframe, strongly suggesting his presence or involvement",
+            "evidence": [
+              {
+                "file": "EFTA00004663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ 12/04",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004663.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004348",
+            "file": "EFTA00004348.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004663",
+            "file": "EFTA00004663.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -133,7 +244,7 @@
         "location_descriptor": "",
         "event_count": 2,
         "evidence_count": 3,
-        "primary_event_type": "travel",
+        "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2017-01-19",
@@ -142,55 +253,55 @@
         "source_count": 1,
         "sources_preview": "EFTA00005994.pdf",
         "epstein_nexus": "implied",
-        "event_type": "travel",
+        "event_type": "presence",
         "event_description": "",
         "events": [
           {
-            "event_id": "22371e76198b5cdc",
-            "event_title": "Flight from US Virgin Islands to Teterboro (January 2017)",
-            "event_type": "travel",
-            "description": "Aircraft flight departing from US Virgin Islands and arriving at Teterboro Airport on January 19, 2017",
+            "event_id": "8722ee9d21bad42a",
+            "event_title": "Flight from US Virgin Islands to Teterboro (January 19, 2017)",
+            "event_type": "presence",
+            "description": "Aircraft departure from US Virgin Islands to Teterboro Airport on January 19, 2017",
             "date_start": "2017-01-19",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight between locations associated with Epstein properties and operations",
+            "nexus_reasoning": "Flight between Epstein's Virgin Islands property and frequent departure airport suggests his travel.",
             "evidence": [
               {
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "January 19, 2017: Outbound TIST - Inbound TEB",
+                "excerpt": "January 2017 - Outbound TIST - Inbound TEB",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "ea9a3482f9cdfe94",
-            "event_title": "Flight from US Virgin Islands to St. Barthelemy (March 2017)",
-            "event_type": "travel",
-            "description": "Aircraft flight departing from US Virgin Islands and arriving at St. Barthelemy on March 7, 2017; Aircraft flight departing from US Virgin Islands and arriving at Barnes Air National Guard Base in Westfield, MA on March 11, 2017",
+            "event_id": "6511fab0ce07be14",
+            "event_title": "Flight from US Virgin Islands to St. Barth\u00e9lemy (March 7, 2017)",
+            "event_type": "presence",
+            "description": "Aircraft departure from US Virgin Islands to St. Barth\u00e9lemy on March 7, 2017; Aircraft departure from US Virgin Islands to Westfield, Massachusetts on March 11, 2017",
             "date_start": "2017-03-07",
             "date_end": "2017-03-11",
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight between Caribbean locations associated with Epstein's travel patterns",
+            "nexus_reasoning": "Flight between Caribbean locations from Epstein's Virgin Islands property suggests his travel.",
             "evidence": [
               {
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "March 7, 2017: Outbound TIST - Inbound St Barthelemy",
+                "excerpt": "March 2017 - Outbound TIST - Inbound St Barthelemy",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA00005994.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "March 11, 2017: Outbound TIST - Inbound KBAF",
+                "excerpt": "March 2017 - Outbound TIST - Inbound KBAF",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005994.pdf",
                 "confidence": 0.7
               }
@@ -247,9 +358,9 @@
         "events": [
           {
             "event_id": "13240f8d599a85ca",
-            "event_title": "PBSO Books Epstein for Photo Lineup (Booking ID 20060723017)",
+            "event_title": "PBSO Books Jeffrey Epstein for Photo Lineup (Booking ID 20060723017)",
             "event_type": "presence",
-            "description": "Jeffrey Epstein was booked at Palm Beach Sheriff's Office for photo lineup with booking ID 20060723017, recorded as 53 years old, 6 feet tall, 180 pounds",
+            "description": "Jeffrey Epstein was booked at Palm Beach Sheriff's Office for photo lineup proceedings with booking ID 20060723017, documented as 53 years old, 6'0\", 180 lbs with gray hair and hazel eyes.",
             "date_start": "2006-08-09",
             "date_end": null,
             "date_precision": "exact_day",
@@ -261,12 +372,12 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein was physically present at the Palm Beach Sheriff's Office for booking and photo lineup procedures.",
+            "nexus_reasoning": "Epstein was physically present at the sheriff's office being processed for booking and photo lineup.",
             "evidence": [
               {
                 "file": "EFTA00003868.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Jacket #: 0338617, Birth Date: 01201953, Hair Color: GRY, Full Name: EPSTEIN,JEFFREY, Age: 53, Facial Hair: N, First Name: JEFFREY, Race: W, Eye Color: HAZ, Middle Name:, Marital Status SINGLE, Build: M, Last Name: EPSTEIN, Gender: M, Complexion: FAR, Booking Id: 20060723017, Height: 6 ft. 0 in., Weight: 180 lbs.",
+                "excerpt": "Jacket #: 0338617 Birth Date: 01/20/1953 Hair Color: GRY Full Name: EPSTEIN,JEFFREY Age: 53 Facial Hair: N First Name: JEFFREY Race: W Eye Color: HAZ Middle Name: Marital Status SINGLE Build: M Last Name: EPSTEIN Gender: M Complexion: FAR Booking Id: 20060723017 Height: 6 ft. 0 in. Weight: 180 lbs.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00003868.pdf",
                 "confidence": 0.7
               }
@@ -287,20 +398,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.379039,
-          28.54211
+          -82.03363,
+          28.944465
         ]
       },
       "properties": {
-        "id": "02834177edb31fe5",
-        "name": "Orlando",
-        "location_name": "Orlando",
-        "location_address": "Orlando, Florida, United States",
+        "id": "a3c017c61e86199e",
+        "name": "Florida",
+        "location_name": "Florida",
+        "location_address": "Florida, United States",
         "location_description": "",
-        "canonical_name": "Orlando, Florida, United States",
+        "canonical_name": "Florida, United States",
         "region": "",
         "property_type": "event",
-        "display_name": "Orlando",
+        "display_name": "Florida",
         "location_descriptor": "",
         "event_count": 1,
         "evidence_count": 1,
@@ -311,38 +422,46 @@
         "date_end": null,
         "people": [
           {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
             "name": "witness",
             "role": "witness"
           }
         ],
         "source_count": 1,
         "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "implied",
+        "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "",
         "events": [
           {
-            "event_id": "e26da73044b82395",
-            "event_title": "Photos Taken During Disney World Trip in Florida",
+            "event_id": "3d9825602351d8da",
+            "event_title": "Witness and Epstein at Disney World, Florida - Photos Taken",
             "event_type": "presence",
-            "description": "Witness took photos during a trip to Disney World in Florida with Epstein",
+            "description": "Witness describes taking photos with Epstein in Florida including a trip to Disney World where photos were taken",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "witness",
                 "role": "witness"
               }
             ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Photos were taken during a Disney World trip that appears to involve Epstein based on the context of the witness statement.",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Disney World and other Florida locations with the witness for photo sessions",
             "evidence": [
               {
                 "file": "EFTA00004070.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Handwritten document describing taking photos in FL at Disney World trip.",
+                "excerpt": "Handwritten document describing taking photos in Florida and Disney World trip",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004070.pdf",
                 "confidence": 0.7
               }
@@ -380,12 +499,16 @@
         "location_descriptor": "",
         "event_count": 1,
         "evidence_count": 1,
-        "primary_event_type": "presence",
+        "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": null,
         "date_end": null,
         "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
           {
             "name": "witness",
             "role": "witness"
@@ -393,32 +516,36 @@
         ],
         "source_count": 1,
         "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
         "event_description": "",
         "events": [
           {
-            "event_id": "09b520172d591ee9",
-            "event_title": "Photos Taken During Paris Trip",
-            "event_type": "presence",
-            "description": "Witness took photos while in Paris during a trip that appears to involve Epstein",
+            "event_id": "e30f47aebf71bd5b",
+            "event_title": "Epstein and Witness Helicopter Trip in Paris - Photos Taken",
+            "event_type": "travel",
+            "description": "Witness describes taking a helicopter trip with Epstein in Paris where photos were taken during the flight and visit",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "witness",
                 "role": "witness"
               }
             ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Photos were taken in Paris during what appears to be a trip involving Epstein based on the witness statement context.",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present during the helicopter trip and photo session in Paris with the witness",
             "evidence": [
               {
                 "file": "EFTA00004070.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Handwritten document describing photos taken in Paris.",
+                "excerpt": "Handwritten document describing helicopter trip and photos taken in Paris",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004070.pdf",
                 "confidence": 0.7
               }
@@ -429,156 +556,6 @@
           {
             "doc_id": "EFTA00004070",
             "file": "EFTA00004070.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.388818,
-          -27.678704
-        ]
-      },
-      "properties": {
-        "id": "66fc1e854139c9ae",
-        "name": "727 Boeing Ridge Road",
-        "location_name": "727 Boeing Ridge Road",
-        "location_address": "727 Boeing Ridge Road, Russell Island Queensland 4184, Australia",
-        "location_description": "",
-        "canonical_name": "727 Boeing Ridge Road, Russell Island Queensland 4184, Australia",
-        "region": "",
-        "property_type": "event",
-        "display_name": "727 Boeing Ridge Road",
-        "location_descriptor": "",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2003-01-20",
-        "date_end": "2003-01-20",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004348.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "02880a4d7ae5b6a6",
-            "event_title": "Epstein's 50th Birthday Party with Maxwell aboard Boeing 727",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein's 50th birthday celebration with Ghislaine Maxwell aboard his Boeing 727 aircraft, documented in multiple photographs and image files",
-            "date_start": "2003-01-20",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "This documents Epstein's own birthday party with him physically present aboard his aircraft.",
-            "evidence": [
-              {
-                "file": "EFTA00004348.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "JE 50 Bday. Max. 727",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004348.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004348",
-            "file": "EFTA00004348.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.158354,
-          40.887198
-        ]
-      },
-      "properties": {
-        "id": "831b2489d716ce05",
-        "name": "St. James",
-        "location_name": "St. James",
-        "location_address": "St. James, New York, United States",
-        "location_description": "",
-        "canonical_name": "St. James, New York, United States",
-        "region": "",
-        "property_type": "event",
-        "display_name": "St. James",
-        "location_descriptor": "",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2004-12",
-        "date_end": "2004-12",
-        "people": [],
-        "source_count": 1,
-        "sources_preview": "EFTA00004663.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "909a65405eeabc3f",
-            "event_title": "LSJ Event December 2004 (Multiple Photos Taken)",
-            "event_type": "presence",
-            "description": "Multiple photographs taken at Little St. James Island during December 2004 event with various digital images captured",
-            "date_start": "2004-12",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Photos taken at Epstein's private island property during a specific time period strongly suggests his involvement or presence.",
-            "evidence": [
-              {
-                "file": "EFTA00004663.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "LSJ 12/04",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00004663.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004663",
-            "file": "EFTA00004663.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -620,16 +597,16 @@
         "events": [
           {
             "event_id": "3c716660c3b6f4c5",
-            "event_title": "Photography at Ohio Horse Event",
+            "event_title": "Ohio Horse Event with Photographic Documentation",
             "event_type": "presence",
-            "description": "Digital photography was conducted at a horse event in Ohio, with multiple photographs taken and catalogued as evidence",
+            "description": "Horse event in Ohio documented with multiple photographs showing activities at the event location",
             "date_start": null,
             "date_end": null,
             "date_precision": "none",
             "confidence": 0.75,
             "people": [],
             "epstein_nexus": "contextual",
-            "nexus_reasoning": "Photos related to a horse event were found in Epstein case files but no evidence of Epstein's direct presence at the event.",
+            "nexus_reasoning": "Photos appear in Epstein case files but no direct evidence of Epstein's presence at the Ohio horse event is shown.",
             "evidence": [
               {
                 "file": "EFTA00004975.pdf",
@@ -691,9 +668,9 @@
         "events": [
           {
             "event_id": "fcb4332c76ed4583",
-            "event_title": "Turkish Airlines Flight TK4 Departure from JFK (Dec 8, 2015)",
+            "event_title": "Outbound Flight TK 4 Departure from JFK Airport (Dec 8, 2015)",
             "event_type": "travel",
-            "description": "Passenger named Milli departed on Turkish Airlines flight TK4 from John F. Kennedy International Airport as recorded in U.S. Customs and Border Protection encounter system",
+            "description": "Person with first name Milli departed JFK Airport on Turkish Airlines flight TK 4 as outbound passenger on manifest, encounter processed by U.S. Customs and Border Protection",
             "date_start": "2015-12-08",
             "date_end": null,
             "date_precision": "exact_day",
@@ -704,172 +681,20 @@
                 "role": "other"
               }
             ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This appears in Epstein case files but shows an unidentified passenger's travel with no clear connection to Epstein himself.",
+            "epstein_nexus": "unrelated",
+            "nexus_reasoning": "This appears to be a CBP encounter record for an unidentified person named Milli with no apparent connection to Jeffrey Epstein.",
             "evidence": [
               {
                 "file": "EFTA00005932.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Encounter Date: 12/08/2015, Encounter Time: 00:00, Flight/Vessel Number: 4, Departure Location: JFK - JOHN F KENNEDY, Passenger Status: ON BOARD",
+                "excerpt": "Encounter Date : 12/08/2015 Encounter Time : 00 00 ... Departure Location : JFK - JOHN F KENNED'",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005932.pdf",
                 "confidence": 0.7
               },
               {
                 "file": "EFTA00005932.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "11/16/2015 22:10, TK 11, JFK to IST, Passenger Status: ON BOARD, Inspector: APC AUTOMATED PASSPORT CONTROL, JFK",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005932.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005932",
-            "file": "EFTA00005932.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.569734,
-          55.675313
-        ]
-      },
-      "properties": {
-        "id": "fc9adafd35d97a4e",
-        "name": "Copenhagen",
-        "location_name": "Copenhagen",
-        "location_address": "Copenhagen, Capital Region of Denmark, Denmark",
-        "location_description": "",
-        "canonical_name": "Copenhagen, Capital Region of Denmark, Denmark",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Copenhagen",
-        "location_descriptor": "",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2014-08-04",
-        "date_end": "2014-08-04",
-        "people": [
-          {
-            "name": "Milli",
-            "role": "other"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00005932.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "travel",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "4a5e02871e0fe057",
-            "event_title": "Norwegian Air Flight DY7012 from Copenhagen to JFK (Aug 4, 2014)",
-            "event_type": "travel",
-            "description": "Passenger named Milli on Norwegian Air flight DY7012 from Copenhagen Airport to JFK with passenger status marked as request",
-            "date_start": "2014-08-04",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Milli",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This travel record appears in Epstein case files but involves an unidentified passenger with no apparent connection to Epstein.",
-            "evidence": [
-              {
-                "file": "EFTA00005932.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "08/04/2014 00:00, DY 7012, CPH to JFK, Passenger Status: REQUEST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005932.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005932",
-            "file": "EFTA00005932.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.1735,
-          40.733183
-        ]
-      },
-      "properties": {
-        "id": "6fa9fb987672441a",
-        "name": "Newark",
-        "location_name": "Newark",
-        "location_address": "Newark, New Jersey, United States",
-        "location_description": "",
-        "canonical_name": "Newark, New Jersey, United States",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Newark",
-        "location_descriptor": "",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2014-03-18",
-        "date_end": "2014-03-18",
-        "people": [
-          {
-            "name": "Milli",
-            "role": "other"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00005932.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "travel",
-        "event_description": "",
-        "events": [
-          {
-            "event_id": "2cb1b00a27381e4b",
-            "event_title": "United Airlines Flight UA83 Newark to Delhi (Mar 18, 2014)",
-            "event_type": "travel",
-            "description": "Passenger named Milli traveled on United Airlines flight UA83 from Newark Liberty International Airport to Indira Gandhi International Airport in Delhi",
-            "date_start": "2014-03-18",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Milli",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This appears in Epstein case files but shows travel by an unidentified passenger with no clear connection to Epstein.",
-            "evidence": [
-              {
-                "file": "EFTA00005932.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "03/18/2014 05:05, UA 83, EWR to DEL, Passenger Status: ON BOARD",
+                "excerpt": "11/16/2315 TK 11 I A477 APC' TI APES ON BOARD JFK 1ST ... AUTOMATED PASSPORT CONTROL, JFK",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA00005932.pdf",
                 "confidence": 0.7
               }
