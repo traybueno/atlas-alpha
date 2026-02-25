@@ -22,7 +22,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 20,
-        "evidence_count": 55,
+        "evidence_count": 56,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -182,8 +182,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 45,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+40 more)",
+        "source_count": 46,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+41 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -279,6 +279,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, JEFFREY EPSTEIN sexually abused numerous minor victims at the Subject Premises. In particular, and as alleged in the Indictment, when a victim arrived at the Subject Premises, she would be escorted to a room inside the Subject Premises with a massage table, where she would perform a massage on EPSTEIN.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262863.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00010471.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "For at least a three year period, from 2002-2005, he is alleged to have sexually exploited and abused dozens of minor girls at his homes in New York City and Palm Beach, Florida.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010471.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1170,6 +1177,11 @@
           {
             "doc_id": "EFTA01262863",
             "file": "EFTA01262863.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010471",
+            "file": "EFTA00010471.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -2615,46 +2627,85 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.090477,
-          26.688241
+          -80.054155,
+          26.696207
         ]
       },
       "properties": {
-        "id": "2b2543670d8dbc80",
+        "id": "2227d794a30b090a",
         "name": "Palm Beach International Airport",
         "location_name": "Palm Beach International Airport",
-        "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
-        "location_description": "A major commercial airport serving Palm Beach County, Florida, located in West Palm Beach about five miles from downtown.",
-        "canonical_name": "Palm Beach International Airport, 1000 James L. Turnage Blvd, West Palm Beach, FL, Florida",
+        "location_address": "Flamingo Park, West Palm Beach, Florida, United States",
+        "location_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
+        "canonical_name": "Palm Beach International Airport, West Palm Beach, FL, Florida",
         "region": "",
         "property_type": "event",
         "display_name": "Palm Beach International Airport",
-        "location_descriptor": "A major commercial airport serving Palm Beach County, Florida, located in West Palm Beach about five miles from downtown.",
+        "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
         "event_count": 11,
         "evidence_count": 12,
-        "primary_event_type": "presence",
+        "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "1995-05-14",
-        "date_end": "2000-04-16",
+        "date_start": "2006-07-19",
+        "date_end": "2018-12-14",
         "people": [
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
+          },
+          {
+            "name": "Mary Ann Dussan",
+            "role": "legal"
+          },
+          {
+            "name": "Lanna Belohlavek",
+            "role": "legal"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA00010075.pdf",
+        "source_count": 12,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf, EFTA02212890.pdf, EFTA02212929.pdf, ... (+7 more)",
         "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A major commercial airport serving Palm Beach County, Florida, located in West Palm Beach about five miles from downtown.",
+        "event_type": "travel",
+        "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
         "events": [
           {
-            "event_id": "97e5af2db981d38b",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (2000-04-16)",
+            "event_id": "8fb9bb0dff3337ee",
+            "event_title": "Epstein Aircraft Flies Palm Beach to Virgin Islands Then to Teterboro \u2014 November 7-8, 2017",
+            "event_type": "travel",
+            "description": "Epstein aircraft flew from Palm Beach (PBI) to St. Thomas (TIST) then continued same-day to Teterboro (TEB) on November 7-8, 2017.",
+            "date_start": "2017-11-07",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Multi-leg flight in Epstein's private aircraft calendar showing Palm Beach to Virgin Islands to Teterboro routing.",
+            "evidence": [
+              {
+                "file": "EFTA00005994.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "November 2017\n                  6          7                8                    9                   10                 11\n                           Outbound PB1 -\n                           Inbound TIST\n                           Outbound TIST -\n                           Inbound TEB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "290f33b690d9cd7e",
+            "event_title": "Epstein Customs Encounter on N212JE: Palm Beach to St. Thomas, Dec 14 2018",
             "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "2000-04-16",
+            "description": "CBP TECS records Jeffrey Epstein crossing customs on aircraft N212JE, departing Palm Beach (KPBI) inbound to St. Thomas, USVI (TIST) on December 14, 2018.",
+            "date_start": "2018-12-14",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
@@ -2665,23 +2716,120 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this specific flight leg.",
             "evidence": [
               {
-                "file": "EFTA00010075.pdf",
+                "file": "EFTA01263197.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 04/16/2000 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  12/14/2018 08:49  *GA  N212JE  I  A523 BADAS JOSEPH APIS  PASSENGER CUSTOMS  KPBI TIST",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "3e17807c01c15513",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (2000-01-21)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "2000-01-21",
+            "event_id": "8e67ad3ef7d62e03",
+            "event_title": "Detective Testifies Before Palm Beach County Grand Jury on Epstein Crimes Against Children (July 19, 2006)",
+            "event_type": "communication",
+            "description": "Detective and multiple witnesses physically present and testified before Palm Beach County grand jury in crimes against children investigation involving Jeffrey Epstein on July 19, 2006.",
+            "date_start": "2006-07-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Mary Ann Dussan",
+                "role": "legal"
+              },
+              {
+                "name": "Lanna Belohlavek",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Grand jury proceeding directly investigating Epstein's crimes against children in Palm Beach County; Epstein himself was not present but the hearing is part of the investigation against him.",
+            "evidence": [
+              {
+                "file": "EFTA00009428.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ELECTRONIC COURT REPORTING WITNESS LOG\nCRIMES AGAINST CHILDREN INVESTIGATION \u2014 ASA : Lanna Belohlavek\n7/19/06 DET 9:14:18 ... 10:00:28\nPage 1 of 7/19/06 Grand Jury\nCrime against Children Investigation\n9:14:12 on record\n9:14:18 PI direct",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009428.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fe8b4c4916fc5f50",
+            "event_title": "Delta Flight DL 898 to West Palm Beach, FL \u2014 Epstein Network Calendar (May 21, 2017)",
+            "event_type": "travel",
+            "description": "Delta Airlines flight DL 898 to West Palm Beach, Florida on May 21, 2017, recorded in calendar of Epstein network contact.",
+            "date_start": "2017-05-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel to West Palm Beach (near Palm Beach, FL, where Epstein's main residence 358 El Brillo Way was located) in calendar context of Epstein-related documents implies network activity.",
+            "evidence": [
+              {
+                "file": "EFTA02212890.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "May 21, 2017 10:20 AM : Flight to West Palm Beach (DL 898)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212890.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6f0e02a6759118fd",
+            "event_title": "JetBlue Flight 62: Unknown Traveler Returns Palm Beach to LGA, May 29 2017",
+            "event_type": "travel",
+            "description": "An unidentified traveler flew JetBlue Flight 62 from Palm Beach International to LaGuardia, departing 9:58 AM and arriving 12:48 PM, ticket booked through Epstein's concierge.",
+            "date_start": "2017-05-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The return flight booking is part of the same Epstein-associated travel arrangement through his American Express Centurion concierge, but the traveler's identity is redacted.",
+            "evidence": [
+              {
+                "file": "EFTA02212929.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Return\n B6 62 29MAY PBI LGA 0958A 1248P\n\nTOTAL FARE - USD 278.80",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212929.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "87c2db730c6ff926",
+            "event_title": "Aircraft N415LM Expected Arrival at Palm Beach International, May 6 2017",
+            "event_type": "travel",
+            "description": "Aircraft N415LM expected to arrive at Palm Beach International Airport at 7:59 PM EDT on May 6, 2017.",
+            "date_start": "2017-05-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "FlightAware alert for N415LM at KPBI received in Epstein's email.",
+            "evidence": [
+              {
+                "file": "EFTA02212994.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 07:59PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212994.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "9829c76ab8ddab81",
+            "event_title": "PB to NY June 5",
+            "event_type": "travel",
+            "description": "Associate flies PB to NY June 5",
+            "date_start": "2017-06-05",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
@@ -2692,111 +2840,79 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "nexus_reasoning": "Via Epstein network.",
             "evidence": [
               {
-                "file": "EFTA00010075.pdf",
+                "file": "EFTA02213913.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/21/2000 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d1349183ea61cb0c",
-            "event_title": "CBP: Epstein Departs Palm Beach International Airport (1998-10-01)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Outbound from U.S.), International route.",
-            "date_start": "1998-10-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 10/01/1998 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6a0a437abe5d4c27",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1998-02-28)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1998-02-28",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 02/28/1998 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "32566c0231be0abf",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-12-25)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.; Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1997-12-23",
-            "date_end": "1997-12-25",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/25/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "excerpt": "PB to NY June 5",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213913.pdf",
                 "confidence": 0.7
               },
               {
-                "file": "EFTA00010075.pdf",
+                "file": "EFTA02214477.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/23/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "excerpt": "N212JE (GLF4) departed Palm Beach Intl (KPBI) at 09:34AM EDT enroute to San Diego Intl (KSAN) for an estimated arrival at 11:30AM PDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214477.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "7d6c51a0259a27d9",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-05-31)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1997-05-31",
+            "event_id": "2f8d203483783840",
+            "event_title": "Karyna Shuliak Flies Palm Beach to LaGuardia (August 19, 2016)",
+            "event_type": "travel",
+            "description": "Karyna Shuliak flew from Palm Beach International Airport to LaGuardia on JetBlue B6 362 on August 19, 2016, departing 12:10 PM, booked through Epstein's American Express travel account.",
+            "date_start": "2016-08-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Karyna Shuliak is a known Epstein associate; her travel was booked through Epstein's American Express travel account.",
+            "evidence": [
+              {
+                "file": "EFTA02214583.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "B6 362 M Economy Class\nOrigin: West Palm Beach, Palm Beach International\nDestination: New York La Guardia, La Guardia\nDeparting: 12:10 PM\nArriving: 02:55 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214583.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "62037c5fca0b417f",
+            "event_title": "Flight N908JC: Reagan National to Palm Beach International Airport",
+            "event_type": "travel",
+            "description": "Epstein's Gulfstream N908JC flew from Reagan National Airport, Washington DC to Palm Beach International Airport, FL.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "N908JC is Epstein's registered aircraft; the flight ended at Palm Beach International near Epstein's Palm Beach estate.",
+            "evidence": [
+              {
+                "file": "EFTA00008863.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "22 G-1159B N908JC DCA PBI 1420 JG, AP",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00008863.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d02f08a3c8f6576e",
+            "event_title": "Jeffrey Epstein Sentenced in Palm Beach County State Court, June 30, 2008",
+            "event_type": "legal",
+            "description": "Jeffrey Epstein was sentenced in the Palm Beach County Circuit Court state criminal case on June 30, 2008, receiving an 18-month sentence with work release provisions after pleading guilty to solicitation of prostitution involving minors.",
+            "date_start": "2008-06-30",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
@@ -2807,23 +2923,23 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "nexus_reasoning": "Epstein's physical appearance at Palm Beach County Circuit Court for sentencing is a direct, confirmed presence event.",
             "evidence": [
               {
-                "file": "EFTA00010075.pdf",
+                "file": "EFTA00013560.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 05/31/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "excerpt": "On June 30, 2008, after defendant Jeffrey Epstein filed his motion to stay [DE 12], he was sentenced in the state-court criminal case",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013560.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "d3f2d6897a0edda7",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-03-17)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1997-03-17",
+            "event_id": "9f0b62e2a3481954",
+            "event_title": "Epstein's Aircraft Arrives West Palm Beach, December 4, 2007",
+            "event_type": "legal",
+            "description": "An AUSA working the Epstein case notified colleagues on December 4, 2007 that Epstein's private plane had just landed at West Palm Beach and would depart later that afternoon, placing Epstein in the area during active plea negotiations with the USAO-SDFL.",
+            "date_start": "2007-12-04",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
@@ -2834,121 +2950,13 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "nexus_reasoning": "Epstein's plane arriving in West Palm Beach places him in the area on December 4, 2007 during active plea agreement negotiations.",
             "evidence": [
               {
-                "file": "EFTA00010075.pdf",
+                "file": "EFTA00013711.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 03/17/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "87804733630b7f61",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-01-25)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1997-01-25",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/25/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bfd341b52a90217d",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1996-12-23)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1996-12-23",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/23/1996 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f23103f9763f2b63",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1996-01-14)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1996-01-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/14/1996 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ded48edd71d42c74",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1995-05-14)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1995-05-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 05/14/1995 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "excerpt": "Epstein's plane is here in West Palm Beach for the next few hours (it just arrived and is supposed to depart in the late afternoon).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013711.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2956,8 +2964,63 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00010075",
-            "file": "EFTA00010075.pdf",
+            "doc_id": "EFTA00005994",
+            "file": "EFTA00005994.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263197",
+            "file": "EFTA01263197.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009428",
+            "file": "EFTA00009428.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212890",
+            "file": "EFTA02212890.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212929",
+            "file": "EFTA02212929.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212994",
+            "file": "EFTA02212994.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213913",
+            "file": "EFTA02213913.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214477",
+            "file": "EFTA02214477.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214583",
+            "file": "EFTA02214583.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00008863",
+            "file": "EFTA00008863.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013560",
+            "file": "EFTA00013560.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013711",
+            "file": "EFTA00013711.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -2983,8 +3046,8 @@
         "property_type": "event",
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
-        "event_count": 10,
-        "evidence_count": 16,
+        "event_count": 11,
+        "evidence_count": 17,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -3038,10 +3101,18 @@
           {
             "name": "subject",
             "role": "victim"
+          },
+          {
+            "name": "Jane Doe 2",
+            "role": "victim"
+          },
+          {
+            "name": "Jane Doe 1",
+            "role": "victim"
           }
         ],
-        "source_count": 12,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA01263156.pdf, EFTA00009809.pdf, EFTA02213008.pdf, ... (+7 more)",
+        "source_count": 13,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA01263156.pdf, EFTA00009809.pdf, EFTA02213008.pdf, ... (+8 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -3405,6 +3476,41 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "da67e27a14f5b7a2",
+            "event_title": "Epstein's Pattern of Abuse at Palm Beach Mansion and Elsewhere, 1999-2007",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein sexually abused more than 30 minor girls including Jane Doe 1 and Jane Doe 2 at his mansion in Palm Beach, Florida and elsewhere in the United States and overseas, from approximately 1999 through 2007.",
+            "date_start": "1999",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jane Doe 2",
+                "role": "victim"
+              },
+              {
+                "name": "Jane Doe 1",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was personally present at his Palm Beach mansion perpetrating sexual abuse of minor victims over nearly a decade.",
+            "evidence": [
+              {
+                "file": "EFTA00010507.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "From between about 1999 and 2007, Jeffrey Epstein sexually abused more than 30 minor girls, including Petitioners Jane Doe 1 and Jane Doe 2 (hereinafter, \"Petitioners\"), at his mansion in Palm Beach, Florida, and elsewhere in the United States and overseas.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010507.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -3466,6 +3572,949 @@
           {
             "doc_id": "EFTA00009622",
             "file": "EFTA00009622.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010507",
+            "file": "EFTA00010507.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.090477,
+          26.688241
+        ]
+      },
+      "properties": {
+        "id": "2b2543670d8dbc80",
+        "name": "Palm Beach International Airport",
+        "location_name": "Palm Beach International Airport",
+        "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
+        "location_description": "A major commercial airport serving Palm Beach County, Florida, located in West Palm Beach about five miles from downtown.",
+        "canonical_name": "Palm Beach International Airport, 1000 James L. Turnage Blvd, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach International Airport",
+        "location_descriptor": "A major commercial airport serving Palm Beach County, Florida, located in West Palm Beach about five miles from downtown.",
+        "event_count": 11,
+        "evidence_count": 12,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1995-05-14",
+        "date_end": "2000-04-16",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00010075.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A major commercial airport serving Palm Beach County, Florida, located in West Palm Beach about five miles from downtown.",
+        "events": [
+          {
+            "event_id": "97e5af2db981d38b",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (2000-04-16)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "2000-04-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 04/16/2000 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3e17807c01c15513",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (2000-01-21)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "2000-01-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/21/2000 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d1349183ea61cb0c",
+            "event_title": "CBP: Epstein Departs Palm Beach International Airport (1998-10-01)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Outbound from U.S.), International route.",
+            "date_start": "1998-10-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 10/01/1998 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6a0a437abe5d4c27",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1998-02-28)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1998-02-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 02/28/1998 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "32566c0231be0abf",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-12-25)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.; Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1997-12-23",
+            "date_end": "1997-12-25",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/25/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/23/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7d6c51a0259a27d9",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-05-31)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1997-05-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 05/31/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d3f2d6897a0edda7",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-03-17)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1997-03-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 03/17/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "87804733630b7f61",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-01-25)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1997-01-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/25/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bfd341b52a90217d",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1996-12-23)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1996-12-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/23/1996 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f23103f9763f2b63",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1996-01-14)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1996-01-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/14/1996 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ded48edd71d42c74",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1995-05-14)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1995-05-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 05/14/1995 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00010075",
+            "file": "EFTA00010075.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.002663,
+          40.713878
+        ]
+      },
+      "properties": {
+        "id": "4effa815debba2cc",
+        "name": "Thurgood Marshall U.S. Courthouse",
+        "location_name": "Thurgood Marshall U.S. Courthouse",
+        "location_address": "40 Centre Street, New York City, New York 10007, United States",
+        "location_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
+        "canonical_name": "Thurgood Marshall U.S. Courthouse, 40 Foley Square, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Thurgood Marshall U.S. Courthouse",
+        "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
+        "event_count": 10,
+        "evidence_count": 26,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-07-02",
+        "date_end": "2022-01-03",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "subject"
+          },
+          {
+            "name": "Detective (NYPD)",
+            "role": "legal"
+          },
+          {
+            "name": "Geoffrey S. Berman",
+            "role": "legal"
+          },
+          {
+            "name": "Tova Noel",
+            "role": "other"
+          },
+          {
+            "name": "Michael Thomas",
+            "role": "other"
+          }
+        ],
+        "source_count": 23,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+18 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
+        "events": [
+          {
+            "event_id": "a48f10aa264d44f1",
+            "event_title": "Grand Jury Indicts Epstein on Sex Trafficking Charges, Southern District of New York \u2014 July 2, 2019",
+            "event_type": "presence",
+            "description": "Grand jury in the Southern District of New York returned an indictment charging Jeffrey Epstein with sex trafficking of minors and sex trafficking conspiracy on July 2, 2019.",
+            "date_start": "2019-07-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The indictment directly charges Jeffrey Epstein himself with federal sex trafficking crimes in New York.",
+            "evidence": [
+              {
+                "file": "EFTA01262805.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On or about July 2, 2019, a grand jury in this District returned an Indictment charging JEFFREY EPSTEIN with the Subject Offenses.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039025.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein was assigned to a cell in the SHU on July 7 due to media coverage of his case and inmate awareness of his notoriety. SHU inmates are securely separated from general population inmates and kept locked in their cells for approximately 23 hours a day.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039660.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Good morning: Same presentation today, but he said he thinks his memory for the incident (injury to his neck) may be impaired because of his sleep apnea. He is supposed to get his CPAP machine today... He requested to have one good night of sleep with his CPAP and will return to SHU with a cellmate tomorrow.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039660.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He was transported to MCC New York and keyed into SENTRY at 9:24 p.m. that evening. Mr. Epstein was placed in a general population housing unit for approximately 22 hours.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 7, 2019, at approximately 7:20 p.m. he was moved to the Special Housing Unit (SHU) pending reclassification due to the significant increase in media coverage and awareness of his notoriety among the inmate population.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039383.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "This ruling follows the Court's bail hearing held on July 15, 2019. The issue before the Court is whether the Defendant should continue to be remanded (incarcerated) pending trial or whether he should be granted release while the case proceeds.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013194.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I reached out to David to see if we want the original ligature used on July 23 to compare to the ligature from August 10th?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013194.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "5885fab1fd1b8e1d",
+            "event_title": "NYPD Detective Testifies Before Maxwell Grand Jury at Foley Square \u2014 March 29, 2021",
+            "event_type": "legal",
+            "description": "An NYPD detective and FBI task force officer testified before the Southern District of New York grand jury regarding the investigation into Jeffrey Epstein and Ghislaine Maxwell at the U.S. Courthouse at Foley Square on March 29, 2021.",
+            "date_start": "2021-03-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              },
+              {
+                "name": "Detective (NYPD)",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The grand jury proceeding directly investigated Epstein's criminal network, with testimony about the Epstein-Maxwell investigation, though Epstein had died by this date.",
+            "evidence": [
+              {
+                "file": "EFTA00008744.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "UNITED STATES GRAND JURY\nSOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA v. GHISLAINE MAXWELL\nUnited States Courthouse\nFoley Square\nNew York, New York\nMarch 29, 2021\n10:05 a.m.\n\ncalled as a witness, having been duly sworn by the Foreperson of the Grand Jury, was examined and testified as follows",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8446fca7cfedf96e",
+            "event_title": "SDNY Grand Jury Subpoena: Unnamed Witness Ordered to Testify in Epstein Investigation (Jul 2019)",
+            "event_type": "presence",
+            "description": "SDNY grand jury subpoena commanded a redacted witness to appear at 40 Foley Square, Room 220, Manhattan on July 24, 2019 to testify in the federal Epstein sex trafficking investigation under 18 U.S.C. \u00a7\u00a7 1591, 2421-2423.",
+            "date_start": "2019-07-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Geoffrey S. Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The subpoena is part of the SDNY federal investigation into Epstein-related sex trafficking offenses but Epstein himself is not the witness being summoned.",
+            "evidence": [
+              {
+                "file": "EFTA00005740.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Grand Jury Subpoena\nSOUTHERN DISTRICT OF NEW YORK\nWE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York\n\nAppearance Date: July 24, 2019\nAppearance Time: 10:00 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005740.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00005718.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York, New York, in the Southern District of New York, at the following date, time and place: Appearance Date: July 24, 2019 Appearance Time: 10:00 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2a26e6074d641753",
+            "event_title": "MCC Guard Tova Noel Indicted by SDNY Grand Jury for Falsifying Epstein Watch Records (Nov 2019)",
+            "event_type": "presence",
+            "description": "MCC guard Tova Noel indicted by SDNY grand jury on six counts for falsifying federal prison records related to monitoring of Jeffrey Epstein prior to his death.",
+            "date_start": "2019-11-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Tova Noel",
+                "role": "other"
+              },
+              {
+                "name": "Michael Thomas",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Tova Noel was the MCC guard charged with falsifying records about checking on Epstein; the indictment is directly connected to Epstein's death but Epstein was not present at SDNY.",
+            "evidence": [
+              {
+                "file": "EFTA00009781.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On November 19, 2019, a grand jury sitting in this District returned a six-count indictment (the \"Indictment\"), which charged Tova Noel with committing offenses against the United States... United States District Court, Southern District of New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009781.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00009786.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On November 19, 2019, a grand jury sitting in this District returned a six-count indictment (the \"Indictment\"), which charged Michael Thomas with committing offenses against the United States... United States District Court, Southern District of New York, 19 Cr. 830 (AT)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009786.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "39fe15938cb2c66a",
+            "event_title": "MCC Guards Log 30-Minute Checks on Epstein in Special Housing Unit \u2014 Night Before His Death",
+            "event_type": "presence",
+            "description": "MCC Special Housing Unit L-Tier 30-minute check log documents guards monitoring Epstein the night before his death on August 10, 2019.",
+            "date_start": "2019-08-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically housed in MCC Special Housing Unit L-Tier on August 9, 2019, the night before he was found dead.",
+            "evidence": [
+              {
+                "file": "EFTA00009767.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC NEW YORK\nSPECIAL HOUSING UNIT\n30 MINUTE CHECK SHEET\nL-TIER\nDATE: 08/09/2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009767.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00009775.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC NEW YORK\nSPECIAL HOUSING UNIT\n30 MINUTE CHECK SHEET\nZA\nTIER-G\nDATE: 08/10/2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009775.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039025.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "on August 10, 2019, in the Metropolitan Correctional Center in New York, New York (MCC New York), Epstein was found hanged in his assigned cell within the Special Housing Unit (SHU).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Jeffrey Epstein was a 66-year-old, White male who died on August 10, 2019, while housed at the Metropolitan Correctional Complex (MCC), in New York, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00011510.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein had been found unresponsive in his cell in the Special Housing Unit at around 6:30 am from an apparent suicide at the Metropolitan Correctional Center (MCC) in New York, New York. Responding staff immediately initiated life-saving measures and requested emergency medical services (EMS), by whom Mr. Epstein was transported to a local hospital for treatment of life-threatening injuries. Mr. Epstein was pronounced dead",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011510.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4a32aef22264a3cd",
+            "event_title": "Charges Dropped Against MCC Guards Noel and Thomas Who Falsified Epstein Watch Records (Jan 2022)",
+            "event_type": "presence",
+            "description": "SDNY filed nolle prosequi dismissing all charges against MCC guards Tova Noel and Michael Thomas after they complied with deferred prosecution agreements for falsifying Epstein watch records.",
+            "date_start": "2022-01-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Tova Noel",
+                "role": "other"
+              },
+              {
+                "name": "Michael Thomas",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Noel and Thomas were the MCC guards charged with falsifying records about monitoring Epstein; the case dismissal is the final legal outcome connected to his death.",
+            "evidence": [
+              {
+                "file": "EFTA00009791.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "filing of this nolle prosequi will dispose of this case with respect to TOVA NOEL and MICHAEL THOMAS... 19 Cr. 830 (AT)... United States District Court, Southern District of New York... DATE FILED: 1/3/2022",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009791.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d375b64871320f33",
+            "event_title": "Maxwell Files Notice of Appearance in 2nd Circuit Appeal (April 13, 2021)",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell filed acknowledgment and notice of appearance as Appellant in U.S. Court of Appeals 2nd Circuit case 21-58 on April 13, 2021.",
+            "date_start": "2021-04-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Maxwell is Epstein's co-conspirator; her appellate court filing is part of proceedings directly stemming from Epstein-related sex trafficking crimes.",
+            "evidence": [
+              {
+                "file": "EFTA00009827.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Case Name: United States of America v. Maxwell\nCase Number: 21-58\nACKNOWLEDGMENT AND NOTICE OF APPEARANCE, on behalf of Appellant Ghislaine Maxwell, FILED. Service date 04/13/2021",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009827.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00011048.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "anything after Ghislaine Maxwell's arraignment at 2:30 won't get much attention.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011048.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "328745262277719e",
+            "event_title": "MCC Guards Fail to Check on Epstein; Epstein Found Dead in SHU Cell",
+            "event_type": "presence",
+            "description": "Correctional officers Tova Noel and Michael Thomas failed to perform required prisoner counts in the MCC Special Housing Unit, during which Jeffrey Epstein died.",
+            "date_start": "2019-08-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Tova Noel",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Michael Thomas",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at MCC and died there while guards were derelict in their duties.",
+            "evidence": [
+              {
+                "file": "EFTA00009747.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On or about August 10, 2019, TOVA NOEL and MICHAEL THOMAS, the defendants, in dereliction of their duties as correctional officers at the Metropolitan Correctional Center (\"MCC\"), repeatedly failed to perform mandated counts of prisoners under their watch in the MCC's Special Housing Unit (\"SHU\").",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009747.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00010968.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "no correctional officer conducted any count or round of the SHU from approximately 10:30 p.m. on August 9 until approximately 6:30 a.m. on August 10, at which time, as alleged herein, NOEL and THOMAS discovered the body of an MCC inmate, Jeffrey Epstein, who had committed suicide overnight while unobserved.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010968.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "45a332314485b098",
+            "event_title": "Ghislaine Maxwell Trial Opens at Thurgood Marshall U.S. Courthouse, Nov 29 2021",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell's criminal trial for sex trafficking and related offenses opened at the Thurgood Marshall U.S. Courthouse in New York, with jury selection and opening statements beginning November 29, 2021.",
+            "date_start": "2021-11-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell was Epstein's longtime associate and co-conspirator; her trial directly concerns her role in Epstein's sex trafficking network.",
+            "evidence": [
+              {
+                "file": "EFTA00010818.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Main courtroom: 40 Foley, courtroom 318\nOverflow courtrooms: 110, 506, 905, and 906.\nTiming: we'll start at 8:30 a.m. with peremptory challenges, and we expect to go straight to preliminary instructions and opening statements.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010818.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00010941.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Trial began on November 29, 2021, with jury selection. Specifically, consistent with the District's COVID-19 protocols, the Court will ensure public access (with COVID-19 distancing) to the trial in the courtroom itself and in several overflow rooms at the courthouse with live feeds of the proceedings.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010941.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e2ea555254c8f374",
+            "event_title": "Ghislaine Maxwell Arrested and Charged in Manhattan Federal Court, July 2, 2020",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell was arrested and charged in Manhattan federal court on July 2, 2020 for enticing and transporting minors for criminal sexual activity and conspiracy to commit those offenses, and for perjury in a 2016 deposition, in connection with Jeffrey Epstein's abuse of girls as young as 14 from 1994 to 1997.",
+            "date_start": "2020-07-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell was Epstein's longtime co-conspirator; her arrest directly concerns her facilitation of Epstein's sex trafficking network.",
+            "evidence": [
+              {
+                "file": "EFTA00010990.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "GHISLANE MAXWELL was arrested this morning and charged with enticing a minor to travel to engage in criminal sexual activity, transporting a minor with the intent to engage in criminal sexual activity, conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010990.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013307.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The Court held a lengthy bail hearing on July 14, 2020. After extensive briefing and argument at the hearing, the Court concluded that the Defendant was a clear r",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013307.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA01262805",
+            "file": "EFTA01262805.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039025",
+            "file": "EFTA00039025.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039660",
+            "file": "EFTA00039660.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039367",
+            "file": "EFTA00039367.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039383",
+            "file": "EFTA00039383.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013194",
+            "file": "EFTA00013194.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00008744",
+            "file": "EFTA00008744.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00005740",
+            "file": "EFTA00005740.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00005718",
+            "file": "EFTA00005718.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009781",
+            "file": "EFTA00009781.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009786",
+            "file": "EFTA00009786.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009767",
+            "file": "EFTA00009767.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009775",
+            "file": "EFTA00009775.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00011510",
+            "file": "EFTA00011510.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009791",
+            "file": "EFTA00009791.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009827",
+            "file": "EFTA00009827.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00011048",
+            "file": "EFTA00011048.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009747",
+            "file": "EFTA00009747.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010968",
+            "file": "EFTA00010968.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010818",
+            "file": "EFTA00010818.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010941",
+            "file": "EFTA00010941.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010990",
+            "file": "EFTA00010990.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013307",
+            "file": "EFTA00013307.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -5322,791 +6371,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.054155,
-          26.696207
-        ]
-      },
-      "properties": {
-        "id": "2227d794a30b090a",
-        "name": "Palm Beach International Airport",
-        "location_name": "Palm Beach International Airport",
-        "location_address": "Flamingo Park, West Palm Beach, Florida, United States",
-        "location_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "canonical_name": "Palm Beach International Airport, West Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Palm Beach International Airport",
-        "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "event_count": 9,
-        "evidence_count": 10,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2006-07-19",
-        "date_end": "2018-12-14",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Mary Ann Dussan",
-            "role": "legal"
-          },
-          {
-            "name": "Lanna Belohlavek",
-            "role": "legal"
-          },
-          {
-            "name": "Karyna Shuliak",
-            "role": "associate"
-          }
-        ],
-        "source_count": 10,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf, EFTA02212890.pdf, EFTA02212929.pdf, ... (+5 more)",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "events": [
-          {
-            "event_id": "8fb9bb0dff3337ee",
-            "event_title": "Epstein Aircraft Flies Palm Beach to Virgin Islands Then to Teterboro \u2014 November 7-8, 2017",
-            "event_type": "travel",
-            "description": "Epstein aircraft flew from Palm Beach (PBI) to St. Thomas (TIST) then continued same-day to Teterboro (TEB) on November 7-8, 2017.",
-            "date_start": "2017-11-07",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Multi-leg flight in Epstein's private aircraft calendar showing Palm Beach to Virgin Islands to Teterboro routing.",
-            "evidence": [
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "November 2017\n                  6          7                8                    9                   10                 11\n                           Outbound PB1 -\n                           Inbound TIST\n                           Outbound TIST -\n                           Inbound TEB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "290f33b690d9cd7e",
-            "event_title": "Epstein Customs Encounter on N212JE: Palm Beach to St. Thomas, Dec 14 2018",
-            "event_type": "presence",
-            "description": "CBP TECS records Jeffrey Epstein crossing customs on aircraft N212JE, departing Palm Beach (KPBI) inbound to St. Thomas, USVI (TIST) on December 14, 2018.",
-            "date_start": "2018-12-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this specific flight leg.",
-            "evidence": [
-              {
-                "file": "EFTA01263197.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  12/14/2018 08:49  *GA  N212JE  I  A523 BADAS JOSEPH APIS  PASSENGER CUSTOMS  KPBI TIST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8e67ad3ef7d62e03",
-            "event_title": "Detective Testifies Before Palm Beach County Grand Jury on Epstein Crimes Against Children (July 19, 2006)",
-            "event_type": "communication",
-            "description": "Detective and multiple witnesses physically present and testified before Palm Beach County grand jury in crimes against children investigation involving Jeffrey Epstein on July 19, 2006.",
-            "date_start": "2006-07-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Mary Ann Dussan",
-                "role": "legal"
-              },
-              {
-                "name": "Lanna Belohlavek",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Grand jury proceeding directly investigating Epstein's crimes against children in Palm Beach County; Epstein himself was not present but the hearing is part of the investigation against him.",
-            "evidence": [
-              {
-                "file": "EFTA00009428.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "ELECTRONIC COURT REPORTING WITNESS LOG\nCRIMES AGAINST CHILDREN INVESTIGATION \u2014 ASA : Lanna Belohlavek\n7/19/06 DET 9:14:18 ... 10:00:28\nPage 1 of 7/19/06 Grand Jury\nCrime against Children Investigation\n9:14:12 on record\n9:14:18 PI direct",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009428.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "fe8b4c4916fc5f50",
-            "event_title": "Delta Flight DL 898 to West Palm Beach, FL \u2014 Epstein Network Calendar (May 21, 2017)",
-            "event_type": "travel",
-            "description": "Delta Airlines flight DL 898 to West Palm Beach, Florida on May 21, 2017, recorded in calendar of Epstein network contact.",
-            "date_start": "2017-05-21",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Travel to West Palm Beach (near Palm Beach, FL, where Epstein's main residence 358 El Brillo Way was located) in calendar context of Epstein-related documents implies network activity.",
-            "evidence": [
-              {
-                "file": "EFTA02212890.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "May 21, 2017 10:20 AM : Flight to West Palm Beach (DL 898)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212890.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6f0e02a6759118fd",
-            "event_title": "JetBlue Flight 62: Unknown Traveler Returns Palm Beach to LGA, May 29 2017",
-            "event_type": "travel",
-            "description": "An unidentified traveler flew JetBlue Flight 62 from Palm Beach International to LaGuardia, departing 9:58 AM and arriving 12:48 PM, ticket booked through Epstein's concierge.",
-            "date_start": "2017-05-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The return flight booking is part of the same Epstein-associated travel arrangement through his American Express Centurion concierge, but the traveler's identity is redacted.",
-            "evidence": [
-              {
-                "file": "EFTA02212929.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Return\n B6 62 29MAY PBI LGA 0958A 1248P\n\nTOTAL FARE - USD 278.80",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212929.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "87c2db730c6ff926",
-            "event_title": "Aircraft N415LM Expected Arrival at Palm Beach International, May 6 2017",
-            "event_type": "travel",
-            "description": "Aircraft N415LM expected to arrive at Palm Beach International Airport at 7:59 PM EDT on May 6, 2017.",
-            "date_start": "2017-05-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "FlightAware alert for N415LM at KPBI received in Epstein's email.",
-            "evidence": [
-              {
-                "file": "EFTA02212994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 07:59PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "9829c76ab8ddab81",
-            "event_title": "PB to NY June 5",
-            "event_type": "travel",
-            "description": "Associate flies PB to NY June 5",
-            "date_start": "2017-06-05",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Via Epstein network.",
-            "evidence": [
-              {
-                "file": "EFTA02213913.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "PB to NY June 5",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213913.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214477.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE (GLF4) departed Palm Beach Intl (KPBI) at 09:34AM EDT enroute to San Diego Intl (KSAN) for an estimated arrival at 11:30AM PDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214477.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "2f8d203483783840",
-            "event_title": "Karyna Shuliak Flies Palm Beach to LaGuardia (August 19, 2016)",
-            "event_type": "travel",
-            "description": "Karyna Shuliak flew from Palm Beach International Airport to LaGuardia on JetBlue B6 362 on August 19, 2016, departing 12:10 PM, booked through Epstein's American Express travel account.",
-            "date_start": "2016-08-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Karyna Shuliak",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Karyna Shuliak is a known Epstein associate; her travel was booked through Epstein's American Express travel account.",
-            "evidence": [
-              {
-                "file": "EFTA02214583.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "B6 362 M Economy Class\nOrigin: West Palm Beach, Palm Beach International\nDestination: New York La Guardia, La Guardia\nDeparting: 12:10 PM\nArriving: 02:55 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214583.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "62037c5fca0b417f",
-            "event_title": "Flight N908JC: Reagan National to Palm Beach International Airport",
-            "event_type": "travel",
-            "description": "Epstein's Gulfstream N908JC flew from Reagan National Airport, Washington DC to Palm Beach International Airport, FL.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "N908JC is Epstein's registered aircraft; the flight ended at Palm Beach International near Epstein's Palm Beach estate.",
-            "evidence": [
-              {
-                "file": "EFTA00008863.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "22 G-1159B N908JC DCA PBI 1420 JG, AP",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00008863.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005994",
-            "file": "EFTA00005994.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263197",
-            "file": "EFTA01263197.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009428",
-            "file": "EFTA00009428.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212890",
-            "file": "EFTA02212890.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212929",
-            "file": "EFTA02212929.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212994",
-            "file": "EFTA02212994.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213913",
-            "file": "EFTA02213913.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214477",
-            "file": "EFTA02214477.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214583",
-            "file": "EFTA02214583.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00008863",
-            "file": "EFTA00008863.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.002663,
-          40.713878
-        ]
-      },
-      "properties": {
-        "id": "4effa815debba2cc",
-        "name": "Thurgood Marshall U.S. Courthouse",
-        "location_name": "Thurgood Marshall U.S. Courthouse",
-        "location_address": "40 Centre Street, New York City, New York 10007, United States",
-        "location_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "canonical_name": "Thurgood Marshall U.S. Courthouse, 40 Foley Square, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Thurgood Marshall U.S. Courthouse",
-        "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 8,
-        "evidence_count": 18,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2019-07-02",
-        "date_end": "2022-01-03",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "subject"
-          },
-          {
-            "name": "Detective (NYPD)",
-            "role": "legal"
-          },
-          {
-            "name": "Geoffrey S. Berman",
-            "role": "legal"
-          },
-          {
-            "name": "Tova Noel",
-            "role": "other"
-          },
-          {
-            "name": "Michael Thomas",
-            "role": "other"
-          }
-        ],
-        "source_count": 15,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+10 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "events": [
-          {
-            "event_id": "a48f10aa264d44f1",
-            "event_title": "Grand Jury Indicts Epstein on Sex Trafficking Charges, Southern District of New York \u2014 July 2, 2019",
-            "event_type": "presence",
-            "description": "Grand jury in the Southern District of New York returned an indictment charging Jeffrey Epstein with sex trafficking of minors and sex trafficking conspiracy on July 2, 2019.",
-            "date_start": "2019-07-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The indictment directly charges Jeffrey Epstein himself with federal sex trafficking crimes in New York.",
-            "evidence": [
-              {
-                "file": "EFTA01262805.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On or about July 2, 2019, a grand jury in this District returned an Indictment charging JEFFREY EPSTEIN with the Subject Offenses.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039025.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Epstein was assigned to a cell in the SHU on July 7 due to media coverage of his case and inmate awareness of his notoriety. SHU inmates are securely separated from general population inmates and kept locked in their cells for approximately 23 hours a day.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039660.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Good morning: Same presentation today, but he said he thinks his memory for the incident (injury to his neck) may be impaired because of his sleep apnea. He is supposed to get his CPAP machine today... He requested to have one good night of sleep with his CPAP and will return to SHU with a cellmate tomorrow.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039660.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "He was transported to MCC New York and keyed into SENTRY at 9:24 p.m. that evening. Mr. Epstein was placed in a general population housing unit for approximately 22 hours.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On July 7, 2019, at approximately 7:20 p.m. he was moved to the Special Housing Unit (SHU) pending reclassification due to the significant increase in media coverage and awareness of his notoriety among the inmate population.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039383.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "This ruling follows the Court's bail hearing held on July 15, 2019. The issue before the Court is whether the Defendant should continue to be remanded (incarcerated) pending trial or whether he should be granted release while the case proceeds.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "5885fab1fd1b8e1d",
-            "event_title": "NYPD Detective Testifies Before Maxwell Grand Jury at Foley Square \u2014 March 29, 2021",
-            "event_type": "legal",
-            "description": "An NYPD detective and FBI task force officer testified before the Southern District of New York grand jury regarding the investigation into Jeffrey Epstein and Ghislaine Maxwell at the U.S. Courthouse at Foley Square on March 29, 2021.",
-            "date_start": "2021-03-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              },
-              {
-                "name": "Detective (NYPD)",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The grand jury proceeding directly investigated Epstein's criminal network, with testimony about the Epstein-Maxwell investigation, though Epstein had died by this date.",
-            "evidence": [
-              {
-                "file": "EFTA00008744.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "UNITED STATES GRAND JURY\nSOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA v. GHISLAINE MAXWELL\nUnited States Courthouse\nFoley Square\nNew York, New York\nMarch 29, 2021\n10:05 a.m.\n\ncalled as a witness, having been duly sworn by the Foreperson of the Grand Jury, was examined and testified as follows",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8446fca7cfedf96e",
-            "event_title": "SDNY Grand Jury Subpoena: Unnamed Witness Ordered to Testify in Epstein Investigation (Jul 2019)",
-            "event_type": "presence",
-            "description": "SDNY grand jury subpoena commanded a redacted witness to appear at 40 Foley Square, Room 220, Manhattan on July 24, 2019 to testify in the federal Epstein sex trafficking investigation under 18 U.S.C. \u00a7\u00a7 1591, 2421-2423.",
-            "date_start": "2019-07-24",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Geoffrey S. Berman",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The subpoena is part of the SDNY federal investigation into Epstein-related sex trafficking offenses but Epstein himself is not the witness being summoned.",
-            "evidence": [
-              {
-                "file": "EFTA00005740.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Grand Jury Subpoena\nSOUTHERN DISTRICT OF NEW YORK\nWE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York\n\nAppearance Date: July 24, 2019\nAppearance Time: 10:00 a.m.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005740.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00005718.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "WE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York, New York, in the Southern District of New York, at the following date, time and place: Appearance Date: July 24, 2019 Appearance Time: 10:00 a.m.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "2a26e6074d641753",
-            "event_title": "MCC Guard Tova Noel Indicted by SDNY Grand Jury for Falsifying Epstein Watch Records (Nov 2019)",
-            "event_type": "presence",
-            "description": "MCC guard Tova Noel indicted by SDNY grand jury on six counts for falsifying federal prison records related to monitoring of Jeffrey Epstein prior to his death.",
-            "date_start": "2019-11-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Tova Noel",
-                "role": "other"
-              },
-              {
-                "name": "Michael Thomas",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Tova Noel was the MCC guard charged with falsifying records about checking on Epstein; the indictment is directly connected to Epstein's death but Epstein was not present at SDNY.",
-            "evidence": [
-              {
-                "file": "EFTA00009781.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On November 19, 2019, a grand jury sitting in this District returned a six-count indictment (the \"Indictment\"), which charged Tova Noel with committing offenses against the United States... United States District Court, Southern District of New York",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009781.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00009786.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On November 19, 2019, a grand jury sitting in this District returned a six-count indictment (the \"Indictment\"), which charged Michael Thomas with committing offenses against the United States... United States District Court, Southern District of New York, 19 Cr. 830 (AT)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009786.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "39fe15938cb2c66a",
-            "event_title": "MCC Guards Log 30-Minute Checks on Epstein in Special Housing Unit \u2014 Night Before His Death",
-            "event_type": "presence",
-            "description": "MCC Special Housing Unit L-Tier 30-minute check log documents guards monitoring Epstein the night before his death on August 10, 2019.",
-            "date_start": "2019-08-09",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically housed in MCC Special Housing Unit L-Tier on August 9, 2019, the night before he was found dead.",
-            "evidence": [
-              {
-                "file": "EFTA00009767.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MCC NEW YORK\nSPECIAL HOUSING UNIT\n30 MINUTE CHECK SHEET\nL-TIER\nDATE: 08/09/2019",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009767.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00009775.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MCC NEW YORK\nSPECIAL HOUSING UNIT\n30 MINUTE CHECK SHEET\nZA\nTIER-G\nDATE: 08/10/2019",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009775.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039025.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "on August 10, 2019, in the Metropolitan Correctional Center in New York, New York (MCC New York), Epstein was found hanged in his assigned cell within the Special Housing Unit (SHU).",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mr. Jeffrey Epstein was a 66-year-old, White male who died on August 10, 2019, while housed at the Metropolitan Correctional Complex (MCC), in New York, New York.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "4a32aef22264a3cd",
-            "event_title": "Charges Dropped Against MCC Guards Noel and Thomas Who Falsified Epstein Watch Records (Jan 2022)",
-            "event_type": "presence",
-            "description": "SDNY filed nolle prosequi dismissing all charges against MCC guards Tova Noel and Michael Thomas after they complied with deferred prosecution agreements for falsifying Epstein watch records.",
-            "date_start": "2022-01-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Tova Noel",
-                "role": "other"
-              },
-              {
-                "name": "Michael Thomas",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Noel and Thomas were the MCC guards charged with falsifying records about monitoring Epstein; the case dismissal is the final legal outcome connected to his death.",
-            "evidence": [
-              {
-                "file": "EFTA00009791.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "filing of this nolle prosequi will dispose of this case with respect to TOVA NOEL and MICHAEL THOMAS... 19 Cr. 830 (AT)... United States District Court, Southern District of New York... DATE FILED: 1/3/2022",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009791.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d375b64871320f33",
-            "event_title": "Maxwell Files Notice of Appearance in 2nd Circuit Appeal (April 13, 2021)",
-            "event_type": "legal",
-            "description": "Ghislaine Maxwell filed acknowledgment and notice of appearance as Appellant in U.S. Court of Appeals 2nd Circuit case 21-58 on April 13, 2021.",
-            "date_start": "2021-04-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Maxwell is Epstein's co-conspirator; her appellate court filing is part of proceedings directly stemming from Epstein-related sex trafficking crimes.",
-            "evidence": [
-              {
-                "file": "EFTA00009827.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Case Name: United States of America v. Maxwell\nCase Number: 21-58\nACKNOWLEDGMENT AND NOTICE OF APPEARANCE, on behalf of Appellant Ghislaine Maxwell, FILED. Service date 04/13/2021",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009827.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "328745262277719e",
-            "event_title": "MCC Guards Fail to Check on Epstein; Epstein Found Dead in SHU Cell",
-            "event_type": "presence",
-            "description": "Correctional officers Tova Noel and Michael Thomas failed to perform required prisoner counts in the MCC Special Housing Unit, during which Jeffrey Epstein died.",
-            "date_start": "2019-08-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Tova Noel",
-                "role": "other"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Michael Thomas",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at MCC and died there while guards were derelict in their duties.",
-            "evidence": [
-              {
-                "file": "EFTA00009747.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On or about August 10, 2019, TOVA NOEL and MICHAEL THOMAS, the defendants, in dereliction of their duties as correctional officers at the Metropolitan Correctional Center (\"MCC\"), repeatedly failed to perform mandated counts of prisoners under their watch in the MCC's Special Housing Unit (\"SHU\").",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009747.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA01262805",
-            "file": "EFTA01262805.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039025",
-            "file": "EFTA00039025.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039660",
-            "file": "EFTA00039660.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039367",
-            "file": "EFTA00039367.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039383",
-            "file": "EFTA00039383.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00008744",
-            "file": "EFTA00008744.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00005740",
-            "file": "EFTA00005740.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00005718",
-            "file": "EFTA00005718.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009781",
-            "file": "EFTA00009781.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009786",
-            "file": "EFTA00009786.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009767",
-            "file": "EFTA00009767.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009775",
-            "file": "EFTA00009775.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009791",
-            "file": "EFTA00009791.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009827",
-            "file": "EFTA00009827.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009747",
-            "file": "EFTA00009747.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.977697,
           35.147641
         ]
@@ -6389,13 +6653,13 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 5,
-        "evidence_count": 7,
+        "event_count": 6,
+        "evidence_count": 8,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2017-05-06",
-        "date_end": "2017-06-17",
+        "date_end": "2018-12",
         "people": [
           {
             "name": "associate (unnamed female)",
@@ -6424,10 +6688,14 @@
           {
             "name": "Valdson",
             "role": "associate"
+          },
+          {
+            "name": "victim (unnamed)",
+            "role": "victim"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+2 more)",
+        "source_count": 8,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+3 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -6600,6 +6868,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "4e59817bf1a7f6f1",
+            "event_title": "Victim Describes Being Lured by Epstein to Paris and Florida, Sexual Abuse in USVI and Florida",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein lured a victim to Paris and Florida with an offer of employment in December 2018 through July 2019; during subsequent trips, Epstein sexually abused her at locations in both Florida and the U.S. Virgin Islands, and she also visited Epstein's Paris apartment.",
+            "date_start": "2018-12",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "victim (unnamed)",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally arranged and participated in the luring and abuse of a victim at multiple locations across multiple countries, per attorney proffer testimony.",
+            "evidence": [
+              {
+                "file": "EFTA00011526.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Accurate that JE lured to Paris & to Florida with offer of employment\n\u2022 Another trip to Florida & VI, sexual abuse in both.\n\u2022 also went to JE's Paris apartment when was already in Paris, she talked about a dental issue",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011526.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -6636,6 +6935,11 @@
           {
             "doc_id": "EFTA02213021",
             "file": "EFTA02213021.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00011526",
+            "file": "EFTA00011526.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -6881,7 +7185,7 @@
         "display_name": "Metropolitan Detention Center Brooklyn",
         "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
         "event_count": 3,
-        "evidence_count": 5,
+        "evidence_count": 6,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -6897,8 +7201,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 5,
-        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf",
+        "source_count": 6,
+        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+1 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
@@ -6999,6 +7303,13 @@
                 "excerpt": "replacement drive for Ghislaine Maxwell, which should arrive at the MDC tomorrow",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010211.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00011142.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "recent conditions are that yesterday she was whisked out of area she spends the day in; she asked what was going on; said they were giving her a test; she wanted to speak to her lawyers before the test; she was told if she did not take the test, she would be put in SHU for 21 days; if she did take the test, would be in SHU for 14 days; then given 2 COVID tests",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011142.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -7027,6 +7338,11 @@
           {
             "doc_id": "EFTA00010211",
             "file": "EFTA00010211.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00011142",
+            "file": "EFTA00011142.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -7509,6 +7825,146 @@
           {
             "doc_id": "EFTA00010097",
             "file": "EFTA00010097.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05388,
+          26.715294
+        ]
+      },
+      "properties": {
+        "id": "803cd50b6b54f868",
+        "name": "Palm Beach County Courthouse",
+        "location_name": "Palm Beach County Courthouse",
+        "location_address": "205 North Dixie Highway, West Palm Beach, Florida 33401, United States",
+        "location_description": "The main courthouse for the 15th Judicial Circuit, located in downtown West Palm Beach, Florida, serving Palm Beach County's civil and criminal court proceedings.",
+        "canonical_name": "Palm Beach County Courthouse, 205 N Dixie Hwy, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach County Courthouse",
+        "location_descriptor": "The main courthouse for the 15th Judicial Circuit, located in downtown West Palm Beach, Florida, serving Palm Beach County's civil and criminal court proceedings.",
+        "event_count": 3,
+        "evidence_count": 3,
+        "primary_event_type": "legal",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2007-09-07",
+        "date_end": "2008-07-11",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA00010496.pdf, EFTA00013495.pdf, EFTA00013558.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "legal",
+        "event_description": "The main courthouse for the 15th Judicial Circuit, located in downtown West Palm Beach, Florida, serving Palm Beach County's civil and criminal court proceedings.",
+        "events": [
+          {
+            "event_id": "dde7091deecaf684",
+            "event_title": "Epstein Enters Guilty Plea in Palm Beach County Circuit Court on Two Sex Offense Counts",
+            "event_type": "legal",
+            "description": "Jeffrey Epstein entered a guilty plea in Palm Beach County Circuit Court (15th Judicial Circuit) on two counts: felony solicitation of prostitution (06CF009454AMB) and procuring a person under 18 for prostitution (08CF009381AMB), sentenced to 18 months total in Palm Beach County Detention Facility.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally appeared in court to enter his guilty plea and was sentenced to serve time at the Palm Beach County Detention Facility.",
+            "evidence": [
+              {
+                "file": "EFTA00010496.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Name. Jeffrey E. Epstein\nPlea: Guilty\n06CF009454AMB Felony Solicitation of Prostitution 1 No 3 Fill\n08CF009381AMB Procuring Person Under 18 for Prostitution 1 No 2 FF1.\nOn 06CF009454AMB, the Defendant is sentenced to 12 months in the Palm Beach County Detention Facility, with credit for 1 (one) day time served.\nOn 08CF009381AMB, the Defendant is sentenced to 6 months in the Palm Beach County Detention Facility",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010496.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "160cfa4a495e041c",
+            "event_title": "Epstein Arrives in Palm Beach County Before Defense Meeting, September 6-7, 2007",
+            "event_type": "presence",
+            "description": "A local Palm Beach TV news channel (WPTV) reported on Epstein's arrival in Palm Beach County, speculating about a potential deal. An AUSA noted the report and wondered if Epstein was attending the meeting scheduled for the next day (Sept 7) with defense attorneys at the West Palm Beach USAO office.",
+            "date_start": "2007-09-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein himself physically arrived in Palm Beach County in connection with ongoing plea negotiations in his sex crimes case.",
+            "evidence": [
+              {
+                "file": "EFTA00013495.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "you can see the video clip about Epstein's arrival in Palm Beach County at the following link... (Click on 'Is Jeffrey Epstein making a deal?') Perhaps he is attending the meeting tomorrow?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013495.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "72a966969f32ddd2",
+            "event_title": "Epstein Hearing in Palm Beach County, July 11, 2008",
+            "event_type": "legal",
+            "description": "An AUSA emailed SDFL U.S. Attorney Acosta immediately after returning from an Epstein court hearing on July 11, 2008, stating 'We need to talk.' The hearing likely concerned the ongoing federal investigation and civil victim suits filed in SDFL.",
+            "date_start": "2008-07-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The hearing directly concerned Epstein's case and likely involved his physical presence or legal proceedings in West Palm Beach.",
+            "evidence": [
+              {
+                "file": "EFTA00013558.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Just got back from Epstein hearing",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013558.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00010496",
+            "file": "EFTA00010496.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013495",
+            "file": "EFTA00013495.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013558",
+            "file": "EFTA00013558.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -14866,6 +15322,266 @@
           {
             "doc_id": "EFTA00009229",
             "file": "EFTA00009229.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.338106,
+          25.991041
+        ]
+      },
+      "properties": {
+        "id": "08b967bd27973d5b",
+        "name": "FBI Miami Field Office",
+        "location_name": "FBI Miami Field Office",
+        "location_address": "2030 Southwest 145th Avenue, Miramar, Florida 33027, United States",
+        "location_description": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
+        "canonical_name": "FBI Miami Field Office, 2030 SW 145th Ave, Miramar, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "FBI Miami Field Office",
+        "location_descriptor": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2007-08-07",
+        "date_end": "2007-08-07",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jane Doe 1",
+            "role": "victim"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00010507.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
+        "events": [
+          {
+            "event_id": "3b3a3c435bcdf098",
+            "event_title": "Jane Doe 1 Interviewed by FBI About Epstein Abuse, August 7, 2007",
+            "event_type": "presence",
+            "description": "Jane Doe 1 provided information to the FBI on August 7, 2007 about her own sexual abuse and the abuse of Jane Doe 2 by Jeffrey Epstein.",
+            "date_start": "2007-08-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jane Doe 1",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The interview concerns Epstein's crimes but Epstein was not present; Jane Doe 1 testified about him to investigators.",
+            "evidence": [
+              {
+                "file": "EFTA00010507.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jane Doe 1 provided information about her abuse and Jane Doe 2's abuse to the FBI on August 7, 2007.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010507.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00010507",
+            "file": "EFTA00010507.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.040865,
+          57.04972
+        ]
+      },
+      "properties": {
+        "id": "d6d35f4f6f58c198",
+        "name": "Balmoral Castle",
+        "location_name": "Balmoral Castle",
+        "location_address": "Ballater, Aberdeenshire, Scotland, United Kingdom",
+        "location_description": "A historic royal residence and working estate in Aberdeenshire, Scotland, owned by the British Royal Family since 1852 and used as a private summer retreat.",
+        "canonical_name": "Balmoral Castle, Ballater, Aberdeenshire, Scotland, UK",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Balmoral Castle",
+        "location_descriptor": "A historic royal residence and working estate in Aberdeenshire, Scotland, owned by the British Royal Family since 1852 and used as a private summer retreat.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2001-08-16",
+        "date_end": "2001-08-16",
+        "people": [
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Prince Andrew, Duke of York",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00011437.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "A historic royal residence and working estate in Aberdeenshire, Scotland, owned by the British Royal Family since 1852 and used as a private summer retreat.",
+        "events": [
+          {
+            "event_id": "f47c67894e8994a8",
+            "event_title": "Prince Andrew at Balmoral Royal Summer Camp Writes Maxwell Requesting 'Inappropriate Friends', Aug 2001",
+            "event_type": "presence",
+            "description": "Prince Andrew (writing under pseudonym 'The Invisible Man') was at Balmoral Castle for the Royal Family summer gathering in August 2001 and wrote to Ghislaine Maxwell asking her to find 'new inappropriate friends,' indicating Maxwell's role in procuring young women for him.",
+            "date_start": "2001-08-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Prince Andrew, Duke of York",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Maxwell is Epstein's co-conspirator; this communication to Maxwell requesting 'inappropriate friends' places Prince Andrew in Maxwell's network context directly tied to the Epstein trafficking operation.",
+            "evidence": [
+              {
+                "file": "EFTA00011437.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I am up here at Balmoral Summer Camp for the Royal Family. Activities take place all day and I am totally exhausted at the end of each day. The Girls are completely shattered and I will have to give them an early night today as it is getting tiring splitting them up all the time! How's LA? Have you found me some new inappropriate friends?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011437.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00011437",
+            "file": "EFTA00011437.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.93728,
+          -14.82863
+        ]
+      },
+      "properties": {
+        "id": "061ecf4b2e1618f7",
+        "name": "Nazca Lines",
+        "location_name": "Nazca Lines",
+        "location_address": "Naska, Ica, Peru",
+        "location_description": "A UNESCO World Heritage Site in the Ica region of southern Peru, consisting of ancient geoglyphs etched into the desert plateau and best viewed from the air.",
+        "canonical_name": "Nazca Lines, Nazca, Peru, Naska, Ica",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Nazca Lines",
+        "location_descriptor": "A UNESCO World Heritage Site in the Ica region of southern Peru, consisting of ancient geoglyphs etched into the desert plateau and best viewed from the air.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2002-03",
+        "date_end": "2002-03",
+        "people": [
+          {
+            "name": "Juanesteban Ganoza",
+            "role": "other"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Prince Andrew, Duke of York",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00011438.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "A UNESCO World Heritage Site in the Ica region of southern Peru, consisting of ancient geoglyphs etched into the desert plateau and best viewed from the air.",
+        "events": [
+          {
+            "event_id": "f0345f9b242626d8",
+            "event_title": "Prince Andrew Coordinates Peru Visit to See Nazca Lines with Maxwell, Feb 2002",
+            "event_type": "presence",
+            "description": "Prince Andrew expressed interest in visiting the Nazca Lines in Peru, arranged through Ghislaine Maxwell and a local contact Juan Estoban Ganoza, with Maxwell arranging female companions described as 'intelligent pretty fun and from good families' and requiring discretion.",
+            "date_start": "2002-03",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Juanesteban Ganoza",
+                "role": "other"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Prince Andrew, Duke of York",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Maxwell is Epstein's co-conspirator; her coordination of female companions for Prince Andrew during a foreign trip reflects the Epstein network's pattern of procuring young women for associates.",
+            "evidence": [
+              {
+                "file": "EFTA00011438.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the trip to see the Lines sounds really interesting. As far as food is concerned I am very easy and will fit in with whatever he plans and I don't mind what time it is at all. As for girls well I leave that entirely to you and Juan Estoban!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011438.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00011438",
+            "file": "EFTA00011438.pdf",
             "source_type": "doj_efta"
           }
         ]
