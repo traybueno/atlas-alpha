@@ -1451,8 +1451,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 20,
-        "evidence_count": 56,
+        "event_count": 21,
+        "evidence_count": 60,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -1493,6 +1493,10 @@
           },
           {
             "name": "Brad Karp",
+            "role": "associate"
+          },
+          {
+            "name": "Hardeep Singh Puri",
             "role": "associate"
           },
           {
@@ -1610,10 +1614,26 @@
           {
             "name": "Minor Victim-1",
             "role": "victim"
+          },
+          {
+            "name": "Ben Sosenko",
+            "role": "associate"
+          },
+          {
+            "name": "Melissa Nathan",
+            "role": "associate"
+          },
+          {
+            "name": "Matthew",
+            "role": "associate"
+          },
+          {
+            "name": "Elisha McGinnis",
+            "role": "other"
           }
         ],
-        "source_count": 46,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+41 more)",
+        "source_count": 50,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+45 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -1835,6 +1855,10 @@
               {
                 "name": "Brad Karp",
                 "role": "associate"
+              },
+              {
+                "name": "Hardeep Singh Puri",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -1880,6 +1904,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "I came home to my apartment mid-afternoon and now have an emergency conference call with a client at 5:30. I won't be able to make it uptown to Jeffrey's this evening.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213609.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02212984.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Brad. Jeffrey is asking if you would like to join him and Kathy Ruemmler tomorrow at the house at 5:30pm..might this work for you? 9 East 71st Street between 5th and Madison",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212984.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213122.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Will be there at 11am.\nOn May 15, 2017...will you be to come see Jeffrey in NY on Fri. May 19th at 11am? 9 East 71st Street between 5th and Madison.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213122.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2581,6 +2619,56 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "b06788e47956c8d9",
+            "event_title": "Hiltzik Strategies Team Meets Epstein at 9 E. 71st Apartment (May 5, 2017)",
+            "event_type": "presence",
+            "description": "Matthew (Hiltzik Strategies), Ben Sosenko, and Melissa Nathan met with Jeffrey Epstein at his 9 East 71st Street apartment at 4:30pm on May 5, 2017.",
+            "date_start": "2017-05-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ben Sosenko",
+                "role": "associate"
+              },
+              {
+                "name": "Melissa Nathan",
+                "role": "associate"
+              },
+              {
+                "name": "Matthew",
+                "role": "associate"
+              },
+              {
+                "name": "Elisha McGinnis",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Meeting was held at Epstein's personal apartment and Epstein was the host.",
+            "evidence": [
+              {
+                "file": "EFTA02213000.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Just checking in to confirm tomorrow's meeting at Jeffrey's apt ( 9 E. 71st) with Matthew. Matthew will also be joined by two members of the Hiltzik team.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213000.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213064.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Just checking in to confirm tomorrow's meeting at Jeffrey's apt ( 9 E. 71st) with Matthew.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213064.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -2652,6 +2740,16 @@
           {
             "doc_id": "EFTA02213609",
             "file": "EFTA02213609.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212984",
+            "file": "EFTA02212984.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213122",
+            "file": "EFTA02213122.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -2812,6 +2910,16 @@
           {
             "doc_id": "EFTA00008998",
             "file": "EFTA00008998.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213000",
+            "file": "EFTA02213000.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213064",
+            "file": "EFTA02213064.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -4279,8 +4387,8 @@
         "property_type": "event",
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 12,
-        "evidence_count": 20,
+        "event_count": 13,
+        "evidence_count": 21,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -4312,8 +4420,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 17,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+12 more)",
+        "source_count": 18,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+13 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -4712,6 +4820,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "3848e16d05cd9c4c",
+            "event_title": "Visoski Plans Teterboro-to-St. Thomas Flight Arriving Little St. James at 7:30pm",
+            "event_type": "presence",
+            "description": "Larry Visoski notified of departure from Teterboro to St. Thomas at 4:30 PM, arriving Little St. James at 7:30 PM on April 23, 2017.",
+            "date_start": "2017-04-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Larry Visoski was Epstein's personal pilot and Little St. James is Epstein's private island, making this a direct flight to Epstein's property.",
+            "evidence": [
+              {
+                "file": "EFTA02212971.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "we will depart at 4:30 PM today from Teterboro to St Thomas\n> Arrival LSJ at 7:30pm\n> Thlx\n> Larry",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212971.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -4798,6 +4933,1022 @@
           {
             "doc_id": "EFTA02215070",
             "file": "EFTA02215070.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212971",
+            "file": "EFTA02212971.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "40381f481fa298d6",
+        "name": "New York City",
+        "location_name": "New York City",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
+        "canonical_name": "New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "New York City",
+        "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
+        "event_count": 13,
+        "evidence_count": 44,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1969",
+        "date_end": "2017-06-14",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Mr. Islam",
+            "role": "other"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Alan Dershowitz",
+            "role": "other"
+          },
+          {
+            "name": "Mr. Caruthers",
+            "role": "other"
+          },
+          {
+            "name": "Matthew Hiltzik",
+            "role": "associate"
+          },
+          {
+            "name": "Ben Sosenko",
+            "role": "associate"
+          },
+          {
+            "name": "Kevin Ouvre",
+            "role": "associate"
+          },
+          {
+            "name": "James Watson",
+            "role": "associate"
+          },
+          {
+            "name": "Philippe Van Den Broek",
+            "role": "associate"
+          },
+          {
+            "name": "Maxim Churkin",
+            "role": "associate"
+          },
+          {
+            "name": "Nick Ribis",
+            "role": "associate"
+          },
+          {
+            "name": "Bobby Slayton",
+            "role": "associate"
+          },
+          {
+            "name": "Dominique",
+            "role": "associate"
+          },
+          {
+            "name": "Dr. Krumholtz",
+            "role": "other"
+          },
+          {
+            "name": "Melanie Spinella",
+            "role": "other"
+          },
+          {
+            "name": "Leon Black",
+            "role": "associate"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Ehud Barak",
+            "role": "associate"
+          },
+          {
+            "name": "Nili Priell-Barak",
+            "role": "associate"
+          },
+          {
+            "name": "Dr. Watson",
+            "role": "other"
+          }
+        ],
+        "source_count": 43,
+        "sources_preview": "EFTA02731465.pdf, EFTA02212893.pdf, EFTA00039367.pdf, EFTA02213521.pdf, EFTA02213525.pdf, ... (+38 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
+        "events": [
+          {
+            "event_id": "ef44d10ad6213f75",
+            "event_title": "Victim Diary: Epstein Network Abuse at Multiple Locations \u2014 NY, DC, Vineyard, Island, Palm Beach",
+            "event_type": "presence",
+            "description": "Victim diary describes being sexually abused in multiple locations including a plane, yacht in New York, Washington DC, Martha's Vineyard, Little St. James Island, and Palm Beach by Epstein, Maxwell, and associates.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Mr. Islam",
+                "role": "other"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Alan Dershowitz",
+                "role": "other"
+              },
+              {
+                "name": "Mr. Caruthers",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The diary explicitly names Jeffrey Epstein and Ghislaine Maxwell as present and complicit in abuse at multiple locations including Epstein's known properties.",
+            "evidence": [
+              {
+                "file": "EFTA02731465.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In a plane on a yacht in NY, in DC, at the vineyard.\nOn the island. In palm beach.\nIt doesnt matter.\nDisgusting pigs like Allen Douschewitz and Mr. Caruthers and even Mr. Islam will hurt you\nespecially if Ghislaine is busy or not with you!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cb3abc9382b91b7b",
+            "event_title": "Matthew Hilfzik and Ben Sosenko Meet with Epstein in New York (May 5, 2017)",
+            "event_type": "presence",
+            "description": "Matthew Hilfzik and his colleague Ben Sosenko met with Jeffrey Epstein in New York at 4:30pm on May 5, 2017, following prior scheduling difficulties.",
+            "date_start": "2017-05-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Matthew Hiltzik",
+                "role": "associate"
+              },
+              {
+                "name": "Ben Sosenko",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The calendar entry confirms Epstein personally met with Matthew Hilfzik and Ben Sosenko in New York on this date.",
+            "evidence": [
+              {
+                "file": "EFTA02212893.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He and his colleague, Ben Sosenko, are confirmed to come see you at 4:30pm on Friday May 5th..\n\nFri. May 5, 2017 NY\n\n4:30pm [Matthew Hilfzik] and his colleague, Ben Sosenko",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212893.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2435c34bf67c7ee0",
+            "event_title": "Epstein's Early Life in Sea Gate, Coney Island, Brooklyn \u2014 Graduated Lafayette High School 1969",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein grew up in Sea Gate, Coney Island, Brooklyn and graduated from Lafayette High School in 1969 at age 16.",
+            "date_start": "1969",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present in these locations during his early life.",
+            "evidence": [
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein was born in 1953 and grew up in a middle-class family in the neighborhood of Sea Gate on Coney Island, Brooklyn, New York...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a688ceeac96eb575",
+            "event_title": "Epstein hosts multiple NYC meetings: Philippe Van Den Broek, Nick Ribis, Bobby Slayton, Maxim Churkin",
+            "event_type": "presence",
+            "description": "Epstein arranged to meet Philippe Van Den Broek in New York on the afternoon of May 30, 2017",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kevin Ouvre",
+                "role": "associate"
+              },
+              {
+                "name": "James Watson",
+                "role": "associate"
+              },
+              {
+                "name": "Philippe Van Den Broek",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Maxim Churkin",
+                "role": "associate"
+              },
+              {
+                "name": "Nick Ribis",
+                "role": "associate"
+              },
+              {
+                "name": "Bobby Slayton",
+                "role": "associate"
+              },
+              {
+                "name": "Dominique",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally arranged the in-person meeting with Philippe Van Den Broek in New York.",
+            "evidence": [
+              {
+                "file": "EFTA02213521.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Philippe, Jeffrey says you could see him in NY on Tuesday May 30th afternoon",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213521.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213525.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Philippe, Jeffrey says you could see him in NY on Tuesday May 30th afternoon if you like",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213525.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213537.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Philippe, Jeffrey says you could see him in NY on Tuesday May 30th afternoon if you like",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213537.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213541.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Philippe, Jeffrey says you could see him in NY on Tuesday May 30th afternoon if you like",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213541.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213620.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be in NY on Tuesday asking Nick Ribis 3pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213620.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213624.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tues ok I'm good 1130 -1 or. Wed ok ...Jeffrey will be in NY on Tuesday and is asking if you might be able to come see him? Perhaps 3pm?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213624.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213637.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Appt w/Nick Ribis...4pm Appt w/Bobby Slayton and Dominique",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213637.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213637.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7pm DINNER w/Dr. Jim Watson",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213637.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213636.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be in NY on Tuesday",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213636.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213640.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1pm Tuesday Jeffrey could do",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213640.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213641.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Bobby Slayton 4pm May 30",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213641.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213643.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Nick Ribis 12:30pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213643.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213655.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Rich and Darren at 3pm Bobby Slayton 4pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213655.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213953.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Noon on Tuesday it is!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213953.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213964.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "super...thanks...Noon on Tuesday",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213964.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "1b346ccf62c74526",
+            "event_title": "Epstein schedules meeting with Maxim Churkin and his mother for May 31, 2017",
+            "event_type": "presence",
+            "description": "Epstein was in New York and offered to meet Maxim Churkin on Wednesday May 31, 2017",
+            "date_start": "2017-05-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "James Watson",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Maxim Churkin",
+                "role": "associate"
+              },
+              {
+                "name": "Dr. Krumholtz",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein confirmed to be in New York City and offered to meet in person.",
+            "evidence": [
+              {
+                "file": "EFTA02213616.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Maxim, Jeffrey will be here next week...!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213616.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213618.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Maxim, Jeffrey will be here next week...! Might you be able to come see him on Wed. May 31st at 4pm?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213618.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213621.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Great! Will be there! Thank you! ...Maxim, Jeffrey will be here next week...! Might you be able to come see him on Wed. May 31st at 4pm?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213621.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "super! thanks ...Maxim Churkin wrote: Great! Will be there! ...Maxim, Jeffrey will be here next week...! Might you be able to come see him on Wed. May 31st at 4pm?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213623.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213627.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:45am ARRIVEfor procedure\n8:15am Procedure w/Dr. Krumholtz\n4:00pm TENTATIVE Appt w/Maxim Churkin\n7:00pm DINNER w/Dr. Jim Watson",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213627.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213664.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "She is in town, when would he like to meet with us? Or is that about the meeting next Wednesday? ...Jeffrey is asking if your mother is in town...he would like to see you both if she is...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213664.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213715.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Oh super! Glad she is here...could she join you at the Wed. May 31st meeting at 4pm? He does wish you to come together",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213715.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213727.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Oh super! Glad she is here-could she join you at the Wed. May 31st meeting at 4pm? He does wish you to come together",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213727.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213823.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "She'll be glad to join! Wednesday at 4pm won't work though, so can we reschedule to: Monday 29th any time, Tuesday 30th morning till 1 pm, Wednesday morning till 1 pm?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213823.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bc659ddc4467ed3e",
+            "event_title": "Epstein Meets Leon at 9:30am, June 1, 2017",
+            "event_type": "presence",
+            "description": "Epstein meeting with Leon Black at 9:30am June 1 2017 in NY",
+            "date_start": "2017-06-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally meeting Leon Black.",
+            "evidence": [
+              {
+                "file": "EFTA02213651.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "see Leon at 9:30am June 1",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213651.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213674.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reconfirming we will see Leon at 9:30am (or thereabouts!). All set!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213674.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "965e7470dd2c7a65",
+            "event_title": "Epstein Associate Travels New York to San Diego, June 6-8, 2017",
+            "event_type": "travel",
+            "description": "NY to San Diego June 6-8 2017",
+            "date_start": "2017-06-06",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Arranged by Epstein staff.",
+            "evidence": [
+              {
+                "file": "EFTA02213673.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "round trip NY to San Diego June 6-8",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213673.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213678.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "have her come agt 11 ...Good morning, Lesley. could you please tell J that mine has left and ive only tomorrow and saturday to see him. On sunday im leaving abroad.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213678.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213886.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will not arrive until Tues...rescheduling is not a problem",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213886.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213106.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "you are confirmed to have your teeth cleaned at Dr. Magnani's on Thursday May 18th at 4:15pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213106.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213476.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey Epstein will be in NY next Tues. May 30th-Fri. June 2nd. Might you be in NY and have some time to come see him?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213476.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "90af4ab5bb1a08de",
+            "event_title": "Karyna Shuliak and Associate Fly from New York to Albuquerque, June 8, 2017",
+            "event_type": "travel",
+            "description": "Karyna Shuliak flies to Albuquerque June 8",
+            "date_start": "2017-06-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Karyna Shuliak is an Epstein associate.",
+            "evidence": [
+              {
+                "file": "EFTA02213684.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Karyna Shuliak to Albuquerque June 8",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213684.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213042.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "karyna and i return new oirk ales morning 30.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213042.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a744646e5c5858f7",
+            "event_title": "Epstein absent NYC May 25",
+            "event_type": "presence",
+            "description": "Epstein not in NYC May 25",
+            "date_start": "2017-05-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bobby Slayton",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein absent.",
+            "evidence": [
+              {
+                "file": "EFTA02214021.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is unfortunately not in town",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214021.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ef7ca32952980d4e",
+            "event_title": "Epstein Associate Requests Anastasia Broadway Show Tickets for June 14, 2017",
+            "event_type": "presence",
+            "description": "An associate directed by Epstein requested two tickets to Anastasia Broadway show for the Wednesday June 14 7:30pm performance via Lesley Groff.",
+            "date_start": "2017-06-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein directed his associate to contact his assistant Lesley Groff for Broadway tickets, implying his network facilitated the event.",
+            "evidence": [
+              {
+                "file": "EFTA02214117.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I would like to go to \"Anastasia\" broadway show this Wednesday. Mr. Epstein told that I can ask you about tickets for this. Can you help me with this? 2 tickets, the show is tomorrow at 7:30.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214117.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b5fa00787066a634",
+            "event_title": "Epstein Breakfast Meeting with Leon Black (May 19, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein had breakfast meeting with Leon Black (Apollo Global Management) at 8:30am on May 19, 2017.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's own schedule confirms his physical presence at breakfast meeting with Leon Black.",
+            "evidence": [
+              {
+                "file": "EFTA02213016.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:30am BREAKFAST w/Leon Black",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213016.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213206.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he said he could see you at 1:30 today if that works\nMelanie Spinella | Apollo Management | Executive Assistant to Leon U. Black",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213206.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "668749c40352a3ef",
+            "event_title": "Ehud Barak and Nili Barak Stay at Epstein Property (May 8-15, 2017)",
+            "event_type": "presence",
+            "description": "Nili Priell Barak and Ehud Barak arriving early morning May 8, staying till May 15, then returning May 19-24 at Epstein's NY property.",
+            "date_start": "2017-05-08",
+            "date_end": "2017-05-19",
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ehud Barak",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Nili Priell-Barak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Ehud and Nili Barak staying at Epstein's NY property but Epstein himself may or may not be present.",
+            "evidence": [
+              {
+                "file": "EFTA02213080.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We will arrive on Monday, may 8th early morning. Stay till May 15. Come back on May 19 till May 24 in the evening.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213080.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213118.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We will arrive on Monday, may 8th early morning. Stay till May 15. Come back on May 19 till May 24 in the evening.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213118.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213120.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be in NY tomorrow and would love to see Ehud if he has some time...Jeffrey will fly in tomorrow morning and then fly out Wed. morning",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213120.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8b6db62afd148e29",
+            "event_title": "Epstein in New York, Requests Dr. Watson Visit (May 10, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein was in New York on May 10, 2017 and requested Dr. Watson visit him.",
+            "date_start": "2017-05-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dr. Watson",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Email from Epstein's assistant confirms Epstein was physically in New York on this date.",
+            "evidence": [
+              {
+                "file": "EFTA02213088.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is in NY and asking if Dr. Watson could come and see him for a visit",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213088.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02731465",
+            "file": "EFTA02731465.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212893",
+            "file": "EFTA02212893.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039367",
+            "file": "EFTA00039367.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213521",
+            "file": "EFTA02213521.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213525",
+            "file": "EFTA02213525.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213537",
+            "file": "EFTA02213537.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213541",
+            "file": "EFTA02213541.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213620",
+            "file": "EFTA02213620.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213624",
+            "file": "EFTA02213624.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213637",
+            "file": "EFTA02213637.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213636",
+            "file": "EFTA02213636.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213640",
+            "file": "EFTA02213640.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213641",
+            "file": "EFTA02213641.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213643",
+            "file": "EFTA02213643.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213655",
+            "file": "EFTA02213655.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213953",
+            "file": "EFTA02213953.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213964",
+            "file": "EFTA02213964.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213616",
+            "file": "EFTA02213616.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213618",
+            "file": "EFTA02213618.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213621",
+            "file": "EFTA02213621.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213623",
+            "file": "EFTA02213623.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213627",
+            "file": "EFTA02213627.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213664",
+            "file": "EFTA02213664.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213715",
+            "file": "EFTA02213715.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213727",
+            "file": "EFTA02213727.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213823",
+            "file": "EFTA02213823.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213651",
+            "file": "EFTA02213651.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213674",
+            "file": "EFTA02213674.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213673",
+            "file": "EFTA02213673.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213678",
+            "file": "EFTA02213678.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213886",
+            "file": "EFTA02213886.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213106",
+            "file": "EFTA02213106.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213476",
+            "file": "EFTA02213476.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213684",
+            "file": "EFTA02213684.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213042",
+            "file": "EFTA02213042.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214021",
+            "file": "EFTA02214021.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214117",
+            "file": "EFTA02214117.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213016",
+            "file": "EFTA02213016.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213206",
+            "file": "EFTA02213206.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213080",
+            "file": "EFTA02213080.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213118",
+            "file": "EFTA02213118.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213120",
+            "file": "EFTA02213120.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213088",
+            "file": "EFTA02213088.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -5400,7 +6551,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 11,
-        "evidence_count": 28,
+        "evidence_count": 31,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -5444,8 +6595,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 26,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01263089.pdf, ... (+21 more)",
+        "source_count": 29,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01263089.pdf, ... (+24 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -5567,6 +6718,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Let's void Karyna's flight to the island this Friday on JetBlue. She will take the flight on Saturday on Delta.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213055.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213042.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "airline tickets and to lsj tues. return sat.27 karyna thurs morning. karyna and i return new oirk ales morning 30.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213042.pdf",
                 "confidence": 0.7
               }
             ]
@@ -5837,6 +6995,20 @@
                 "excerpt": "Jeffrey is unfortunately not in town",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213979.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213219.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2017 Days Up To Sat. May 20 (he is due to leave for LSJR)\nVI Days: 45\nUS Days: 77\nAbroad: 17\nNY Days: 67",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213219.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213415.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213415.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -5936,6 +7108,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02213042",
+            "file": "EFTA02213042.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00005091",
             "file": "EFTA00005091.pdf",
             "source_type": "doj_efta"
@@ -6021,6 +7198,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02213219",
+            "file": "EFTA02213219.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213415",
+            "file": "EFTA02213415.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02215431",
             "file": "EFTA02215431.pdf",
             "source_type": "doj_efta"
@@ -6028,821 +7215,6 @@
           {
             "doc_id": "EFTA00014421",
             "file": "EFTA00014421.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.005994,
-          40.712749
-        ]
-      },
-      "properties": {
-        "id": "40381f481fa298d6",
-        "name": "New York City",
-        "location_name": "New York City",
-        "location_address": "New York City, New York, United States",
-        "location_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "canonical_name": "New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "New York City",
-        "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 10,
-        "evidence_count": 35,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "1969",
-        "date_end": "2017-06-14",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Mr. Islam",
-            "role": "other"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "Alan Dershowitz",
-            "role": "other"
-          },
-          {
-            "name": "Mr. Caruthers",
-            "role": "other"
-          },
-          {
-            "name": "Matthew Hiltzik",
-            "role": "associate"
-          },
-          {
-            "name": "Ben Sosenko",
-            "role": "associate"
-          },
-          {
-            "name": "Kevin Ouvre",
-            "role": "associate"
-          },
-          {
-            "name": "James Watson",
-            "role": "associate"
-          },
-          {
-            "name": "Philippe Van Den Broek",
-            "role": "associate"
-          },
-          {
-            "name": "Maxim Churkin",
-            "role": "associate"
-          },
-          {
-            "name": "Nick Ribis",
-            "role": "associate"
-          },
-          {
-            "name": "Bobby Slayton",
-            "role": "associate"
-          },
-          {
-            "name": "Dominique",
-            "role": "associate"
-          },
-          {
-            "name": "Dr. Krumholtz",
-            "role": "other"
-          },
-          {
-            "name": "Melanie Spinella",
-            "role": "other"
-          },
-          {
-            "name": "Leon Black",
-            "role": "associate"
-          },
-          {
-            "name": "Karyna Shuliak",
-            "role": "associate"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          }
-        ],
-        "source_count": 34,
-        "sources_preview": "EFTA02731465.pdf, EFTA02212893.pdf, EFTA00039367.pdf, EFTA02213521.pdf, EFTA02213525.pdf, ... (+29 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "events": [
-          {
-            "event_id": "ef44d10ad6213f75",
-            "event_title": "Victim Diary: Epstein Network Abuse at Multiple Locations \u2014 NY, DC, Vineyard, Island, Palm Beach",
-            "event_type": "presence",
-            "description": "Victim diary describes being sexually abused in multiple locations including a plane, yacht in New York, Washington DC, Martha's Vineyard, Little St. James Island, and Palm Beach by Epstein, Maxwell, and associates.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Mr. Islam",
-                "role": "other"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "Alan Dershowitz",
-                "role": "other"
-              },
-              {
-                "name": "Mr. Caruthers",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The diary explicitly names Jeffrey Epstein and Ghislaine Maxwell as present and complicit in abuse at multiple locations including Epstein's known properties.",
-            "evidence": [
-              {
-                "file": "EFTA02731465.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "In a plane on a yacht in NY, in DC, at the vineyard.\nOn the island. In palm beach.\nIt doesnt matter.\nDisgusting pigs like Allen Douschewitz and Mr. Caruthers and even Mr. Islam will hurt you\nespecially if Ghislaine is busy or not with you!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "cb3abc9382b91b7b",
-            "event_title": "Matthew Hilfzik and Ben Sosenko Meet with Epstein in New York (May 5, 2017)",
-            "event_type": "presence",
-            "description": "Matthew Hilfzik and his colleague Ben Sosenko met with Jeffrey Epstein in New York at 4:30pm on May 5, 2017, following prior scheduling difficulties.",
-            "date_start": "2017-05-05",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Matthew Hiltzik",
-                "role": "associate"
-              },
-              {
-                "name": "Ben Sosenko",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The calendar entry confirms Epstein personally met with Matthew Hilfzik and Ben Sosenko in New York on this date.",
-            "evidence": [
-              {
-                "file": "EFTA02212893.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "He and his colleague, Ben Sosenko, are confirmed to come see you at 4:30pm on Friday May 5th..\n\nFri. May 5, 2017 NY\n\n4:30pm [Matthew Hilfzik] and his colleague, Ben Sosenko",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212893.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "2435c34bf67c7ee0",
-            "event_title": "Epstein's Early Life in Sea Gate, Coney Island, Brooklyn \u2014 Graduated Lafayette High School 1969",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein grew up in Sea Gate, Coney Island, Brooklyn and graduated from Lafayette High School in 1969 at age 16.",
-            "date_start": "1969",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present in these locations during his early life.",
-            "evidence": [
-              {
-                "file": "EFTA00039367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mr. Epstein was born in 1953 and grew up in a middle-class family in the neighborhood of Sea Gate on Coney Island, Brooklyn, New York...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "a688ceeac96eb575",
-            "event_title": "Epstein hosts multiple NYC meetings: Philippe Van Den Broek, Nick Ribis, Bobby Slayton, Maxim Churkin",
-            "event_type": "presence",
-            "description": "Epstein arranged to meet Philippe Van Den Broek in New York on the afternoon of May 30, 2017",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kevin Ouvre",
-                "role": "associate"
-              },
-              {
-                "name": "James Watson",
-                "role": "associate"
-              },
-              {
-                "name": "Philippe Van Den Broek",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Maxim Churkin",
-                "role": "associate"
-              },
-              {
-                "name": "Nick Ribis",
-                "role": "associate"
-              },
-              {
-                "name": "Bobby Slayton",
-                "role": "associate"
-              },
-              {
-                "name": "Dominique",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally arranged the in-person meeting with Philippe Van Den Broek in New York.",
-            "evidence": [
-              {
-                "file": "EFTA02213521.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Philippe, Jeffrey says you could see him in NY on Tuesday May 30th afternoon",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213521.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213525.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Philippe, Jeffrey says you could see him in NY on Tuesday May 30th afternoon if you like",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213525.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213537.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Philippe, Jeffrey says you could see him in NY on Tuesday May 30th afternoon if you like",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213537.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213541.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Philippe, Jeffrey says you could see him in NY on Tuesday May 30th afternoon if you like",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213541.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213620.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey will be in NY on Tuesday asking Nick Ribis 3pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213620.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213624.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Tues ok I'm good 1130 -1 or. Wed ok ...Jeffrey will be in NY on Tuesday and is asking if you might be able to come see him? Perhaps 3pm?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213624.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213637.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Appt w/Nick Ribis...4pm Appt w/Bobby Slayton and Dominique",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213637.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213637.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "7pm DINNER w/Dr. Jim Watson",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213637.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213636.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey will be in NY on Tuesday",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213636.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213640.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "1pm Tuesday Jeffrey could do",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213640.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213641.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Bobby Slayton 4pm May 30",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213641.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213643.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Nick Ribis 12:30pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213643.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213655.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Rich and Darren at 3pm Bobby Slayton 4pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213655.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213953.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Noon on Tuesday it is!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213953.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213964.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "super...thanks...Noon on Tuesday",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213964.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "1b346ccf62c74526",
-            "event_title": "Epstein schedules meeting with Maxim Churkin and his mother for May 31, 2017",
-            "event_type": "presence",
-            "description": "Epstein was in New York and offered to meet Maxim Churkin on Wednesday May 31, 2017",
-            "date_start": "2017-05-31",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "James Watson",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Maxim Churkin",
-                "role": "associate"
-              },
-              {
-                "name": "Dr. Krumholtz",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein confirmed to be in New York City and offered to meet in person.",
-            "evidence": [
-              {
-                "file": "EFTA02213616.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Maxim, Jeffrey will be here next week...!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213616.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213618.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Maxim, Jeffrey will be here next week...! Might you be able to come see him on Wed. May 31st at 4pm?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213618.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213621.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Great! Will be there! Thank you! ...Maxim, Jeffrey will be here next week...! Might you be able to come see him on Wed. May 31st at 4pm?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213621.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213623.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "super! thanks ...Maxim Churkin wrote: Great! Will be there! ...Maxim, Jeffrey will be here next week...! Might you be able to come see him on Wed. May 31st at 4pm?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213623.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213627.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "7:45am ARRIVEfor procedure\n8:15am Procedure w/Dr. Krumholtz\n4:00pm TENTATIVE Appt w/Maxim Churkin\n7:00pm DINNER w/Dr. Jim Watson",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213627.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213664.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "She is in town, when would he like to meet with us? Or is that about the meeting next Wednesday? ...Jeffrey is asking if your mother is in town...he would like to see you both if she is...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213664.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213715.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Oh super! Glad she is here...could she join you at the Wed. May 31st meeting at 4pm? He does wish you to come together",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213715.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213727.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Oh super! Glad she is here-could she join you at the Wed. May 31st meeting at 4pm? He does wish you to come together",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213727.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213823.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "She'll be glad to join! Wednesday at 4pm won't work though, so can we reschedule to: Monday 29th any time, Tuesday 30th morning till 1 pm, Wednesday morning till 1 pm?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213823.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bc659ddc4467ed3e",
-            "event_title": "Epstein Meets Leon at 9:30am, June 1, 2017",
-            "event_type": "presence",
-            "description": "Epstein meeting with Leon Black at 9:30am June 1 2017 in NY",
-            "date_start": "2017-06-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Melanie Spinella",
-                "role": "other"
-              },
-              {
-                "name": "Leon Black",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally meeting Leon Black.",
-            "evidence": [
-              {
-                "file": "EFTA02213651.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "see Leon at 9:30am June 1",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213651.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213674.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Reconfirming we will see Leon at 9:30am (or thereabouts!). All set!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213674.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "965e7470dd2c7a65",
-            "event_title": "Epstein Associate Travels New York to San Diego, June 6-8, 2017",
-            "event_type": "travel",
-            "description": "NY to San Diego June 6-8 2017",
-            "date_start": "2017-06-06",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Arranged by Epstein staff.",
-            "evidence": [
-              {
-                "file": "EFTA02213673.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "round trip NY to San Diego June 6-8",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213673.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213678.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "have her come agt 11 ...Good morning, Lesley. could you please tell J that mine has left and ive only tomorrow and saturday to see him. On sunday im leaving abroad.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213678.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213886.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey will not arrive until Tues...rescheduling is not a problem",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213886.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "90af4ab5bb1a08de",
-            "event_title": "Karyna Shuliak and Associate Fly from New York to Albuquerque, June 8, 2017",
-            "event_type": "travel",
-            "description": "Karyna Shuliak flies to Albuquerque June 8",
-            "date_start": "2017-06-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Karyna Shuliak",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Karyna Shuliak is an Epstein associate.",
-            "evidence": [
-              {
-                "file": "EFTA02213684.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Karyna Shuliak to Albuquerque June 8",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213684.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "a744646e5c5858f7",
-            "event_title": "Epstein absent NYC May 25",
-            "event_type": "presence",
-            "description": "Epstein not in NYC May 25",
-            "date_start": "2017-05-25",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bobby Slayton",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein absent.",
-            "evidence": [
-              {
-                "file": "EFTA02214021.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey is unfortunately not in town",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214021.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ef7ca32952980d4e",
-            "event_title": "Epstein Associate Requests Anastasia Broadway Show Tickets for June 14, 2017",
-            "event_type": "presence",
-            "description": "An associate directed by Epstein requested two tickets to Anastasia Broadway show for the Wednesday June 14 7:30pm performance via Lesley Groff.",
-            "date_start": "2017-06-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein directed his associate to contact his assistant Lesley Groff for Broadway tickets, implying his network facilitated the event.",
-            "evidence": [
-              {
-                "file": "EFTA02214117.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I would like to go to \"Anastasia\" broadway show this Wednesday. Mr. Epstein told that I can ask you about tickets for this. Can you help me with this? 2 tickets, the show is tomorrow at 7:30.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214117.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02731465",
-            "file": "EFTA02731465.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212893",
-            "file": "EFTA02212893.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039367",
-            "file": "EFTA00039367.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213521",
-            "file": "EFTA02213521.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213525",
-            "file": "EFTA02213525.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213537",
-            "file": "EFTA02213537.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213541",
-            "file": "EFTA02213541.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213620",
-            "file": "EFTA02213620.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213624",
-            "file": "EFTA02213624.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213637",
-            "file": "EFTA02213637.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213636",
-            "file": "EFTA02213636.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213640",
-            "file": "EFTA02213640.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213641",
-            "file": "EFTA02213641.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213643",
-            "file": "EFTA02213643.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213655",
-            "file": "EFTA02213655.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213953",
-            "file": "EFTA02213953.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213964",
-            "file": "EFTA02213964.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213616",
-            "file": "EFTA02213616.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213618",
-            "file": "EFTA02213618.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213621",
-            "file": "EFTA02213621.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213623",
-            "file": "EFTA02213623.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213627",
-            "file": "EFTA02213627.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213664",
-            "file": "EFTA02213664.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213715",
-            "file": "EFTA02213715.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213727",
-            "file": "EFTA02213727.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213823",
-            "file": "EFTA02213823.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213651",
-            "file": "EFTA02213651.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213674",
-            "file": "EFTA02213674.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213673",
-            "file": "EFTA02213673.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213678",
-            "file": "EFTA02213678.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213886",
-            "file": "EFTA02213886.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213684",
-            "file": "EFTA02213684.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214021",
-            "file": "EFTA02214021.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214117",
-            "file": "EFTA02214117.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -6869,7 +7241,7 @@
         "display_name": "Epstein's Zorro Ranch",
         "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
         "event_count": 7,
-        "evidence_count": 9,
+        "evidence_count": 10,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -6913,6 +7285,10 @@
             "role": "other"
           },
           {
+            "name": "Dr. Bruce Moskowitz",
+            "role": "associate"
+          },
+          {
             "name": "Jude Hess",
             "role": "associate"
           },
@@ -6921,8 +7297,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA02731168.pdf, EFTA00004250.pdf, EFTA01262829.pdf, EFTA02213625.pdf, EFTA02213626.pdf, ... (+3 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02731168.pdf, EFTA00004250.pdf, EFTA01262829.pdf, EFTA02213625.pdf, EFTA02213626.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
@@ -7053,6 +7429,10 @@
               {
                 "name": "Karen",
                 "role": "other"
+              },
+              {
+                "name": "Dr. Bruce Moskowitz",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "implied",
@@ -7077,6 +7457,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Good Evening Dr. Moskowitz\nwe are all looking forward to your visit to the Ranch...The Ranch is at mile marker 45 on Highway 41...Zorro Management LLC\n49 Zorro Ranch Rd\nStanley, NM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215631.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213086.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Any room at the ranch 4,5,6 of June? Thanks",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213086.pdf",
                 "confidence": 0.7
               }
             ]
@@ -7207,6 +7594,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02213086",
+            "file": "EFTA02213086.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02213753",
             "file": "",
             "source_type": "doj_efta"
@@ -7240,7 +7632,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 6,
-        "evidence_count": 8,
+        "evidence_count": 10,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -7264,6 +7656,10 @@
             "role": "associate"
           },
           {
+            "name": "Larry Visoski",
+            "role": "pilot"
+          },
+          {
             "name": "Dubovskaia Svetlana",
             "role": "associate"
           },
@@ -7280,8 +7676,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+3 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+5 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -7404,6 +7800,14 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Larry Visoski",
+                "role": "pilot"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "Dubovskaia Svetlana",
                 "role": "associate"
               }
@@ -7416,6 +7820,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "May 17th: Depart CDG 6:10pm arrive SVO (not VKO) at 10:45pm",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212993.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213115.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I believe he will be in Paris-but let me double check...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213115.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213187.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Departure from Paris in N415LM 6550 at 5pm\nArrival Islip Hawthorne aviation 6pm arrival Islip NY",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213187.pdf",
                 "confidence": 0.7
               }
             ]
@@ -7519,6 +7937,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02213115",
+            "file": "EFTA02213115.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213187",
+            "file": "EFTA02213187.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02213021",
             "file": "EFTA02213021.pdf",
             "source_type": "doj_efta"
@@ -7552,7 +7980,7 @@
         "display_name": "Palm Beach",
         "location_descriptor": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
         "event_count": 5,
-        "evidence_count": 5,
+        "evidence_count": 7,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -7568,6 +7996,14 @@
             "role": "subject"
           },
           {
+            "name": "Laura Bard",
+            "role": "other"
+          },
+          {
+            "name": "Laura",
+            "role": "other"
+          },
+          {
             "name": "Lesley Groff",
             "role": "staff"
           },
@@ -7576,8 +8012,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA02212960.pdf, EFTA00039383.pdf, EFTA02213330.pdf, EFTA00005711.pdf",
+        "source_count": 6,
+        "sources_preview": "EFTA02212960.pdf, EFTA02213188.pdf, EFTA02213238.pdf, EFTA00039383.pdf, EFTA02213330.pdf, ... (+1 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
@@ -7599,6 +8035,14 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Laura Bard",
+                "role": "other"
+              },
+              {
+                "name": "Laura",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -7609,6 +8053,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "tell her i will see them on jne 3 if they are n florida",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212960.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213188.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey says he would love to see you and Dr. Bard on June 3rd when he is in PB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213188.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213238.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Can we say 11am on Sat. June 3rd at Jeffrey's PB home?\nJeffrey says he would love to see you and Dr. Bard on June 3rd when he is in PB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213238.pdf",
                 "confidence": 0.7
               }
             ]
@@ -7730,6 +8188,16 @@
           {
             "doc_id": "EFTA02212960",
             "file": "EFTA02212960.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213188",
+            "file": "EFTA02213188.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213238",
+            "file": "EFTA02213238.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -8143,6 +8611,238 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.446654,
+          34.087834
+        ]
+      },
+      "properties": {
+        "id": "d3638b023d62596e",
+        "name": "Hotel Bel-Air",
+        "location_name": "Hotel Bel-Air",
+        "location_address": "701 Stone Canyon Road, Los Angeles, California 90077, United States",
+        "location_description": "An iconic luxury hotel nestled in a canyon in the exclusive Bel Air neighborhood of Los Angeles, California, known for its secluded gardens and swan-filled lake.",
+        "canonical_name": "Hotel Bel-Air, 701 Stone Canyon Road, Los Angeles, CA 90077, California",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Hotel Bel-Air",
+        "location_descriptor": "An iconic luxury hotel nestled in a canyon in the exclusive Bel Air neighborhood of Los Angeles, California, known for its secluded gardens and swan-filled lake.",
+        "event_count": 3,
+        "evidence_count": 10,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05",
+        "date_end": "2017-06-08",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Tim Zagat",
+            "role": "other"
+          }
+        ],
+        "source_count": 10,
+        "sources_preview": "EFTA02212959.pdf, EFTA02213097.pdf, EFTA02213077.pdf, EFTA02213150.pdf, EFTA02213333.pdf, ... (+5 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "An iconic luxury hotel nestled in a canyon in the exclusive Bel Air neighborhood of Los Angeles, California, known for its secluded gardens and swan-filled lake.",
+        "events": [
+          {
+            "event_id": "1393beab52273463",
+            "event_title": "Epstein Planning Suite Stay at Hotel Bel Air, Los Angeles (May 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein was asked to choose a suite at Hotel Bel-Air in Los Angeles in May 2017; options included the Grace Kelly Suite at $4,000/night.",
+            "date_start": "2017-05",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Email addressed directly to Jeffrey Epstein asking him to select a suite, confirming a planned stay at Hotel Bel-Air in Los Angeles.",
+            "evidence": [
+              {
+                "file": "EFTA02212959.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Which suite do you prefer at Hotel Bel Air?\nHOTEL BEL AIR\n701 STONE CANYON ROAD\nLOS ANGELES CA 90077",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212959.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213097.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "HOTEL BEL AIR\n701 STONE CANYON ROAD\nLOS ANGELES CA 90077\n...1 BDRM-690 SQFT-64SQMT-GARDEN VIEW - 935.00",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213097.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8864fcf6a91091d6",
+            "event_title": "Epstein Books Presidential Suite at Hotel Bel-Air via Tim Zagat for June 8-9, 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein arranged a suite and room at Hotel Bel-Air in Los Angeles for one night on June 8, 2017, with Tim Zagat's office facilitating the booking on Epstein's behalf.",
+            "date_start": "2017-06-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Tim Zagat",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The email is from Jeffrey Epstein himself ('je') directing staff about his hotel reservation at Hotel Bel-Air, confirming his personal planned presence at this location.",
+            "evidence": [
+              {
+                "file": "EFTA02213077.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I followed up yesterday with Tim Zagat's office re a suite and room at the Bel Air...was told he will hopefully work on this today for you...I also changed the date for the Bel Air to just one night, June 8th (per your new schedule you sent",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213077.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213150.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Brittany in Tim Zagat's office says the Bel Air can offer you for the one night, June 8th, the Presidential suite or the Grace Kelly Suite...Presidential suite has a private terrace and pool (2200 sq ft)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213150.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213333.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "need to hear from Brittany re rooms at Bel Air...Can JE stay June 8 and 9?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213333.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213514.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Still waiting for Tim Zagat to get back to us re suite and regular room at Bel Air for one night June 8...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213514.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213600.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "just checking in...have you heard any news re the suite and regular room for Jeffrey at the Bel Air June 8th?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213600.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213824.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is asking again the price of the Pres suite and if he could check in late to it on the 8th and stay 8th and 9th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213824.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213438.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Still waiting for Tim Zagat to get back to us re suite and regular room at Bel Air for one night June 8",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213438.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c262763ee138eeb4",
+            "event_title": "Epstein Staying at Hotel Bel-Air, Los Angeles, June 7-8, 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein requested a suite and regular room at Hotel Bel-Air for June 7-8, 2017 in Los Angeles.",
+            "date_start": "2017-06-07",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally requested accommodation confirming his planned physical presence in Los Angeles.",
+            "evidence": [
+              {
+                "file": "EFTA02213151.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is hoping you could help him with a nice suite and a regular room at the Bel Air for the nights of June 7th and 8th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213151.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212959",
+            "file": "EFTA02212959.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213097",
+            "file": "EFTA02213097.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213077",
+            "file": "EFTA02213077.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213150",
+            "file": "EFTA02213150.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213333",
+            "file": "EFTA02213333.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213514",
+            "file": "EFTA02213514.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213600",
+            "file": "EFTA02213600.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213824",
+            "file": "EFTA02213824.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213438",
+            "file": "EFTA02213438.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213151",
+            "file": "EFTA02213151.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.975093,
           40.763751
         ]
@@ -8159,7 +8859,7 @@
         "display_name": "Apollo Global Management",
         "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
         "event_count": 3,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "communication",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8183,8 +8883,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02215243.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02215243.pdf, EFTA02213197.pdf",
         "epstein_nexus": "direct",
         "event_type": "communication",
         "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
@@ -8279,6 +8979,13 @@
                 "excerpt": "Did you go with Jeffrey to Fekkai salon on May 30th and have a cut? Someone went with him...charge from Fekkai on May 30.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215243.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213197.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2:45pm App: w/Dr. Chen for shot for your back (Dr. Moskowitz recommended Chen)\n51 West 5r Street, 7th floor Suite 375",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213197.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -8297,6 +9004,199 @@
           {
             "doc_id": "EFTA02215243",
             "file": "EFTA02215243.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213197",
+            "file": "EFTA02213197.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972539,
+          40.76042
+        ]
+      },
+      "properties": {
+        "id": "5e22776e3fa57bc8",
+        "name": "Dangene: The Institute of Skinovation",
+        "location_name": "Dangene: The Institute of Skinovation",
+        "location_address": "66 East 55th Street, New York City, New York 10022, United States",
+        "location_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "canonical_name": "Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor, New York, NY 10022, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Dangene: The Institute of Skinovation",
+        "location_descriptor": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "event_count": 3,
+        "evidence_count": 5,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-18",
+        "date_end": "2017-05-25",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Julia",
+            "role": "associate"
+          },
+          {
+            "name": "Bobby Slayton",
+            "role": "associate"
+          }
+        ],
+        "source_count": 5,
+        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213901.pdf, EFTA02213153.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "events": [
+          {
+            "event_id": "23072bfb818b2e0c",
+            "event_title": "Julia Visits Dangene Institute of Skinovation in NYC, Epstein Pays, May 18, 2017",
+            "event_type": "transaction",
+            "description": "Person named Julia visited Dangene skincare institute in NYC and received products worth $187.26, with Epstein authorizing payment via Amex on May 18 2017",
+            "date_start": "2017-05-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Julia",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein personally authorized payment for Julia's skincare products at this location, indicating she was visiting at his expense.",
+            "evidence": [
+              {
+                "file": "EFTA02213534.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Julia was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213534.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213539.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "was given two products today totaling $187.26...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213539.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213554.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213554.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c1fe898de5b6ba81",
+            "event_title": "Slayton at Friars Club May 25",
+            "event_type": "presence",
+            "description": "Slayton at Friars Club May 25",
+            "date_start": "2017-05-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bobby Slayton",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein associate.",
+            "evidence": [
+              {
+                "file": "EFTA02213901.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Friars Club lunch May 25",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213901.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bed04f18a37607fd",
+            "event_title": "Epstein Appointment at Dangene Institute of Skinovation (May 19, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein had appointment with Anne at Dangene Institute of Skinovation, 66 East 55th Street, New York at 3pm on May 19, 2017.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's assistant confirmed he would physically attend this appointment at the Dangene Institute.",
+            "evidence": [
+              {
+                "file": "EFTA02213153.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dangene: The Institute of Skinovation\n66 E 55th Street, 6th Floor\nBetween Park and Madison\nSouth Side of the Street\nNew York, NY 10022",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213153.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213534",
+            "file": "EFTA02213534.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213539",
+            "file": "EFTA02213539.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213554",
+            "file": "EFTA02213554.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213901",
+            "file": "EFTA02213901.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213153",
+            "file": "EFTA02213153.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -8863,6 +9763,114 @@
           {
             "doc_id": "EFTA02214111",
             "file": "EFTA02214111.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.055685,
+          41.294856
+        ]
+      },
+      "properties": {
+        "id": "8ef41e6f4b07432a",
+        "name": "Spain",
+        "location_name": "Spain",
+        "location_address": "Spain",
+        "location_description": "A sovereign nation in southwestern Europe occupying most of the Iberian Peninsula, bordering France, Portugal, and the Mediterranean Sea.",
+        "canonical_name": "Spain",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Spain",
+        "location_descriptor": "A sovereign nation in southwestern Europe occupying most of the Iberian Peninsula, bordering France, Portugal, and the Mediterranean Sea.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2003",
+        "date_end": "2017-05-15",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA00004070.pdf, EFTA02213263.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A sovereign nation in southwestern Europe occupying most of the Iberian Peninsula, bordering France, Portugal, and the Mediterranean Sea.",
+        "events": [
+          {
+            "event_id": "1802a1dd37d18cb3",
+            "event_title": "Witness Traveled with Epstein to Spain, Turned 18 There (2003)",
+            "event_type": "travel",
+            "description": "Witness traveled with Epstein to Spain in 2003 and turned 18 years old while there.",
+            "date_start": "2003",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Witness describes personally traveling with Epstein to Spain in 2003.",
+            "evidence": [
+              {
+                "file": "EFTA00004070.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Handwritten document describing witness account of traveling to Spain in 2003, noting they turned 18 there.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7e4b0389ff635903",
+            "event_title": "Epstein Associate '1M' Flies Spain to Paris, N Confirms Monday Return (May 2017)",
+            "event_type": "travel",
+            "description": "Epstein associate '1M' flew from Spain to Paris; another associate 'N' confirmed travel Monday with return Tuesday",
+            "date_start": "2017-05-15",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "The travel is arranged in coordination with Epstein's own itinerary, suggesting these are associates traveling as part of his network.",
+            "evidence": [
+              {
+                "file": "EFTA02213263.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Will 1M fly from Spain to Paris? ... from N confirmed Monday. Return on Tuesday?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213263.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004070",
+            "file": "EFTA00004070.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213263",
+            "file": "EFTA02213263.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -9532,6 +10540,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.983493,
+          40.77176
+        ]
+      },
+      "properties": {
+        "id": "a992ce1044a52cdf",
+        "name": "David H. Koch Theater",
+        "location_name": "David H. Koch Theater",
+        "location_address": "20 West 63rd Street, New York City, New York 10023, United States",
+        "location_description": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
+        "canonical_name": "David H. Koch Theater, Lincoln Center, 20 Lincoln Center Plaza, New York, NY 10023, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "David H. Koch Theater",
+        "location_descriptor": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
+        "event_count": 2,
+        "evidence_count": 3,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-07",
+        "date_end": "2017-05-09",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Peggy Siegal",
+            "role": "other"
+          },
+          {
+            "name": "Ehud Barak",
+            "role": "associate"
+          },
+          {
+            "name": "Nili Priell-Barak",
+            "role": "associate"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02212907.pdf, EFTA02212919.pdf, EFTA02213120.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
+        "events": [
+          {
+            "event_id": "e8c594ad10c71e11",
+            "event_title": "Epstein Underwrites Table at Peggy Siegal Event, Sends Assistants to Lincoln Center (May 7, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein underwrote a table of 12 tickets for Peggy Siegal's event at Lincoln Center; sought 2 additional tickets for his assistants for May 7, 2017 event.",
+            "date_start": "2017-05-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Peggy Siegal",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein underwrote a table at this Lincoln Center event and sought tickets for his staff, implying his involvement or attendance.",
+            "evidence": [
+              {
+                "file": "EFTA02212907.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I mixed the 12 tickets I sold and the 12 tickets Jeffrey underwrote... I will send Jeffrey the table seating... Jeffrey is asking if you might have 2 extra tickets to your event tomorrow night",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212907.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02212919.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Yes. We'll have 2 tickets for them at the show. Starts at 7 pm at the DAVID H. Koch Theater at Lincoln Center. Ends about 9 pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212919.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "77c4e9ab22cf717a",
+            "event_title": "Ehud Barak Attends Oslo at Lincoln Center Theater (May 9, 2017)",
+            "event_type": "presence",
+            "description": "Ehud Barak and Nili Priell-Barak attended the play Oslo at Lincoln Center Theater in New York on May 9, 2017, at 7pm.",
+            "date_start": "2017-05-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ehud Barak",
+                "role": "associate"
+              },
+              {
+                "name": "Nili Priell-Barak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Ehud Barak attending theater with Epstein-connected tickets, connected to Epstein's NY network.",
+            "evidence": [
+              {
+                "file": "EFTA02213120.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EB has a meeting at 2:30 PM for let say an hour and a half, not far from J house...purchased tickets for OSLO, at the Lincoln center theatre. it starts at 7PM till 10 PM.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213120.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212907",
+            "file": "EFTA02212907.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212919",
+            "file": "EFTA02212919.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213120",
+            "file": "EFTA02213120.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.988117,
           31.626928
         ]
@@ -9706,182 +10854,6 @@
           {
             "doc_id": "EFTA02213742",
             "file": "EFTA02213742.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.446654,
-          34.087834
-        ]
-      },
-      "properties": {
-        "id": "d3638b023d62596e",
-        "name": "Hotel Bel-Air",
-        "location_name": "Hotel Bel-Air",
-        "location_address": "701 Stone Canyon Road, Los Angeles, California 90077, United States",
-        "location_description": "An iconic luxury hotel nestled in a canyon in the exclusive Bel Air neighborhood of Los Angeles, California, known for its secluded gardens and swan-filled lake.",
-        "canonical_name": "Hotel Bel-Air, 701 Stone Canyon Road, Los Angeles, CA 90077, California",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Hotel Bel-Air",
-        "location_descriptor": "An iconic luxury hotel nestled in a canyon in the exclusive Bel Air neighborhood of Los Angeles, California, known for its secluded gardens and swan-filled lake.",
-        "event_count": 2,
-        "evidence_count": 7,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05",
-        "date_end": "2017-06-08",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Tim Zagat",
-            "role": "other"
-          }
-        ],
-        "source_count": 7,
-        "sources_preview": "EFTA02212959.pdf, EFTA02213077.pdf, EFTA02213150.pdf, EFTA02213333.pdf, EFTA02213514.pdf, ... (+2 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "An iconic luxury hotel nestled in a canyon in the exclusive Bel Air neighborhood of Los Angeles, California, known for its secluded gardens and swan-filled lake.",
-        "events": [
-          {
-            "event_id": "1393beab52273463",
-            "event_title": "Epstein Planning Suite Stay at Hotel Bel Air, Los Angeles (May 2017)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein was asked to choose a suite at Hotel Bel-Air in Los Angeles in May 2017; options included the Grace Kelly Suite at $4,000/night.",
-            "date_start": "2017-05",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Email addressed directly to Jeffrey Epstein asking him to select a suite, confirming a planned stay at Hotel Bel-Air in Los Angeles.",
-            "evidence": [
-              {
-                "file": "EFTA02212959.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Which suite do you prefer at Hotel Bel Air?\nHOTEL BEL AIR\n701 STONE CANYON ROAD\nLOS ANGELES CA 90077",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212959.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8864fcf6a91091d6",
-            "event_title": "Epstein Books Presidential Suite at Hotel Bel-Air via Tim Zagat for June 8-9, 2017",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein arranged a suite and room at Hotel Bel-Air in Los Angeles for one night on June 8, 2017, with Tim Zagat's office facilitating the booking on Epstein's behalf.",
-            "date_start": "2017-06-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Tim Zagat",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The email is from Jeffrey Epstein himself ('je') directing staff about his hotel reservation at Hotel Bel-Air, confirming his personal planned presence at this location.",
-            "evidence": [
-              {
-                "file": "EFTA02213077.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I followed up yesterday with Tim Zagat's office re a suite and room at the Bel Air...was told he will hopefully work on this today for you...I also changed the date for the Bel Air to just one night, June 8th (per your new schedule you sent",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213077.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213150.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Brittany in Tim Zagat's office says the Bel Air can offer you for the one night, June 8th, the Presidential suite or the Grace Kelly Suite...Presidential suite has a private terrace and pool (2200 sq ft)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213150.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213333.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "need to hear from Brittany re rooms at Bel Air...Can JE stay June 8 and 9?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213333.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213514.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Still waiting for Tim Zagat to get back to us re suite and regular room at Bel Air for one night June 8...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213514.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213600.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "just checking in...have you heard any news re the suite and regular room for Jeffrey at the Bel Air June 8th?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213600.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213824.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey is asking again the price of the Pres suite and if he could check in late to it on the 8th and stay 8th and 9th",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213824.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212959",
-            "file": "EFTA02212959.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213077",
-            "file": "EFTA02213077.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213150",
-            "file": "EFTA02213150.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213333",
-            "file": "EFTA02213333.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213514",
-            "file": "EFTA02213514.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213600",
-            "file": "EFTA02213600.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213824",
-            "file": "EFTA02213824.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -10303,128 +11275,94 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.972539,
-          40.76042
+          24.105185,
+          56.949398
         ]
       },
       "properties": {
-        "id": "5e22776e3fa57bc8",
-        "name": "Dangene: The Institute of Skinovation",
-        "location_name": "Dangene: The Institute of Skinovation",
-        "location_address": "66 East 55th Street, New York City, New York 10022, United States",
-        "location_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
-        "canonical_name": "Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor, New York, NY 10022, New York City",
+        "id": "347fd54a65f9b28b",
+        "name": "Riga International Airport",
+        "location_name": "Riga International Airport",
+        "location_address": "Riga, Latvia",
+        "location_description": "The largest airport in the Baltic states, serving Riga, the capital of Latvia, and operating as a hub for airBaltic airline.",
+        "canonical_name": "Riga International Airport, Riga, Latvia",
         "region": "",
         "property_type": "event",
-        "display_name": "Dangene: The Institute of Skinovation",
-        "location_descriptor": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "display_name": "Riga International Airport",
+        "location_descriptor": "The largest airport in the Baltic states, serving Riga, the capital of Latvia, and operating as a hub for airBaltic airline.",
         "event_count": 2,
-        "evidence_count": 4,
-        "primary_event_type": "transaction",
+        "evidence_count": 2,
+        "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-05-18",
-        "date_end": "2017-05-25",
+        "date_start": "2017-05-12",
+        "date_end": "2017-05-16",
         "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
           {
             "name": "Lesley Groff",
             "role": "staff"
           },
           {
-            "name": "Julia",
-            "role": "associate"
-          },
-          {
-            "name": "Bobby Slayton",
-            "role": "associate"
+            "name": "Jeffrey Epstein",
+            "role": "subject"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213901.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "transaction",
-        "event_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "source_count": 2,
+        "sources_preview": "EFTA02213272.pdf, EFTA02213263.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "The largest airport in the Baltic states, serving Riga, the capital of Latvia, and operating as a hub for airBaltic airline.",
         "events": [
           {
-            "event_id": "23072bfb818b2e0c",
-            "event_title": "Julia Visits Dangene Institute of Skinovation in NYC, Epstein Pays, May 18, 2017",
-            "event_type": "transaction",
-            "description": "Person named Julia visited Dangene skincare institute in NYC and received products worth $187.26, with Epstein authorizing payment via Amex on May 18 2017",
-            "date_start": "2017-05-18",
+            "event_id": "b94ad63fd5791b71",
+            "event_title": "Unnamed Traveler Books Riga-to-Destination Flight May 16, Returns May 17 2017",
+            "event_type": "travel",
+            "description": "Lesley Groff, Epstein's personal assistant, arranged additional coach flights departing Riga, Latvia on May 16, 2017 and returning May 17, to manage guest rotation timing at Epstein's properties.",
+            "date_start": "2017-05-16",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
               {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
                 "name": "Lesley Groff",
                 "role": "staff"
-              },
-              {
-                "name": "Julia",
-                "role": "associate"
               }
             ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein personally authorized payment for Julia's skincare products at this location, indicating she was visiting at his expense.",
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Lesley Groff coordinated flights from Riga specifically to avoid overlapping guest arrivals at what is implied to be Epstein's properties, suggesting the unnamed traveler was part of his network.",
             "evidence": [
               {
-                "file": "EFTA02213534.pdf",
+                "file": "EFTA02213272.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Julia was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213534.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213539.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "was given two products today totaling $187.26...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213539.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213554.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213554.pdf",
+                "excerpt": "We need another flight for depart Riga on Tues. May 16th return on Wed. May 17th (late) coach",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213272.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "c1fe898de5b6ba81",
-            "event_title": "Slayton at Friars Club May 25",
-            "event_type": "presence",
-            "description": "Slayton at Friars Club May 25",
-            "date_start": "2017-05-25",
+            "event_id": "68156b8dcc10109d",
+            "event_title": "Epstein Travels Riga to Paris, Departs Thursday to New York (May 2017)",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein traveled from Riga, Latvia to Paris, France, then planned to depart Thursday back to New York",
+            "date_start": "2017-05-12",
             "date_end": null,
-            "date_precision": "exact_day",
+            "date_precision": "approximate",
             "confidence": 0.75,
             "people": [
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
-              },
-              {
-                "name": "Bobby Slayton",
-                "role": "associate"
               }
             ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Epstein associate.",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein himself wrote the email describing his personal travel itinerary from Riga to Paris and back to New York.",
             "evidence": [
               {
-                "file": "EFTA02213901.pdf",
+                "file": "EFTA02213263.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Friars Club lunch May 25",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213901.pdf",
+                "excerpt": "riga to paris and return\n\njeffrey E <jeevacation@gmail.com> wrote: yes return tucs , Mrues return . wed night, i leave thurs back to new york",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213263.pdf",
                 "confidence": 0.7
               }
             ]
@@ -10432,23 +11370,13 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA02213534",
-            "file": "EFTA02213534.pdf",
+            "doc_id": "EFTA02213272",
+            "file": "EFTA02213272.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02213539",
-            "file": "EFTA02213539.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213554",
-            "file": "EFTA02213554.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213901",
-            "file": "EFTA02213901.pdf",
+            "doc_id": "EFTA02213263",
+            "file": "EFTA02213263.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -11791,82 +12719,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.055685,
-          41.294856
-        ]
-      },
-      "properties": {
-        "id": "8ef41e6f4b07432a",
-        "name": "Spain",
-        "location_name": "Spain",
-        "location_address": "Spain",
-        "location_description": "A sovereign nation in southwestern Europe occupying most of the Iberian Peninsula, bordering France, Portugal, and the Mediterranean Sea.",
-        "canonical_name": "Spain",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Spain",
-        "location_descriptor": "A sovereign nation in southwestern Europe occupying most of the Iberian Peninsula, bordering France, Portugal, and the Mediterranean Sea.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2003",
-        "date_end": "2003",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004070.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A sovereign nation in southwestern Europe occupying most of the Iberian Peninsula, bordering France, Portugal, and the Mediterranean Sea.",
-        "events": [
-          {
-            "event_id": "1802a1dd37d18cb3",
-            "event_title": "Witness Traveled with Epstein to Spain, Turned 18 There (2003)",
-            "event_type": "travel",
-            "description": "Witness traveled with Epstein to Spain in 2003 and turned 18 years old while there.",
-            "date_start": "2003",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Witness describes personally traveling with Epstein to Spain in 2003.",
-            "evidence": [
-              {
-                "file": "EFTA00004070.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Handwritten document describing witness account of traveling to Spain in 2003, noting they turned 18 there.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004070",
-            "file": "EFTA00004070.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -78.432915,
           -1.160171
         ]
@@ -13075,102 +13927,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.983493,
-          40.77176
-        ]
-      },
-      "properties": {
-        "id": "a992ce1044a52cdf",
-        "name": "David H. Koch Theater",
-        "location_name": "David H. Koch Theater",
-        "location_address": "20 West 63rd Street, New York City, New York 10023, United States",
-        "location_description": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
-        "canonical_name": "David H. Koch Theater, Lincoln Center, 20 Lincoln Center Plaza, New York, NY 10023, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "David H. Koch Theater",
-        "location_descriptor": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
-        "event_count": 1,
-        "evidence_count": 2,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-07",
-        "date_end": "2017-05-07",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Peggy Siegal",
-            "role": "other"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02212907.pdf, EFTA02212919.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
-        "events": [
-          {
-            "event_id": "e8c594ad10c71e11",
-            "event_title": "Epstein Underwrites Table at Peggy Siegal Event, Sends Assistants to Lincoln Center (May 7, 2017)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein underwrote a table of 12 tickets for Peggy Siegal's event at Lincoln Center; sought 2 additional tickets for his assistants for May 7, 2017 event.",
-            "date_start": "2017-05-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Peggy Siegal",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein underwrote a table at this Lincoln Center event and sought tickets for his staff, implying his involvement or attendance.",
-            "evidence": [
-              {
-                "file": "EFTA02212907.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I mixed the 12 tickets I sold and the 12 tickets Jeffrey underwrote... I will send Jeffrey the table seating... Jeffrey is asking if you might have 2 extra tickets to your event tomorrow night",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212907.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02212919.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Yes. We'll have 2 tickets for them at the show. Starts at 7 pm at the DAVID H. Koch Theater at Lincoln Center. Ends about 9 pm.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212919.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212907",
-            "file": "EFTA02212907.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212919",
-            "file": "EFTA02212919.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           37.29931,
           55.61232
         ]
@@ -13837,82 +14593,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.105185,
-          56.949398
-        ]
-      },
-      "properties": {
-        "id": "347fd54a65f9b28b",
-        "name": "Riga International Airport",
-        "location_name": "Riga International Airport",
-        "location_address": "Riga, Latvia",
-        "location_description": "The largest airport in the Baltic states, serving Riga, the capital of Latvia, and operating as a hub for airBaltic airline.",
-        "canonical_name": "Riga International Airport, Riga, Latvia",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Riga International Airport",
-        "location_descriptor": "The largest airport in the Baltic states, serving Riga, the capital of Latvia, and operating as a hub for airBaltic airline.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-16",
-        "date_end": "2017-05-16",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02213272.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "travel",
-        "event_description": "The largest airport in the Baltic states, serving Riga, the capital of Latvia, and operating as a hub for airBaltic airline.",
-        "events": [
-          {
-            "event_id": "b94ad63fd5791b71",
-            "event_title": "Unnamed Traveler Books Riga-to-Destination Flight May 16, Returns May 17 2017",
-            "event_type": "travel",
-            "description": "Lesley Groff, Epstein's personal assistant, arranged additional coach flights departing Riga, Latvia on May 16, 2017 and returning May 17, to manage guest rotation timing at Epstein's properties.",
-            "date_start": "2017-05-16",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Lesley Groff coordinated flights from Riga specifically to avoid overlapping guest arrivals at what is implied to be Epstein's properties, suggesting the unnamed traveler was part of his network.",
-            "evidence": [
-              {
-                "file": "EFTA02213272.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We need another flight for depart Riga on Tues. May 16th return on Wed. May 17th (late) coach",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213272.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213272",
-            "file": "EFTA02213272.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.067859,
           42.361109
         ]
@@ -14013,7 +14693,7 @@
         "display_name": "Estancia La Jolla Hotel & Spa",
         "location_descriptor": "An upscale boutique hotel and spa situated on North Torrey Pines Road in La Jolla, California, known for its California craftsman-style architecture and resort amenities.",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 3,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -14025,8 +14705,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA02213514.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA02213514.pdf, EFTA02213438.pdf, EFTA02213506.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An upscale boutique hotel and spa situated on North Torrey Pines Road in La Jolla, California, known for its California craftsman-style architecture and resort amenities.",
@@ -14055,6 +14735,20 @@
                 "excerpt": "Reminder: we are holding a suite and regular room at the Estancia in La Jolla for you June 68...is this hotel ok? Are dates ok?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213514.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213438.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: we are holding a suite and regular room at the Estancia in La Jolla for you June 6-8...is this hotel ok? Are dates ok?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213438.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213506.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: we are holding a suite and regular room at the Estancia in La Jolla for you June 6-8\nEpstein: no horrible. lets find something else",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213506.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -14063,6 +14757,16 @@
           {
             "doc_id": "EFTA02213514",
             "file": "EFTA02213514.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213438",
+            "file": "EFTA02213438.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213506",
+            "file": "EFTA02213506.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -16189,6 +16893,390 @@
           {
             "doc_id": "EFTA00014312",
             "file": "EFTA00014312.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "29385a887dd177da",
+        "name": "STC Office",
+        "location_name": "STC Office",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The offices of Stewart Title Company, located in midtown Manhattan, New York City.",
+        "canonical_name": "STC Office, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "STC Office",
+        "location_descriptor": "The offices of Stewart Title Company, located in midtown Manhattan, New York City.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-04-27",
+        "date_end": "2017-04-27",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Daphne Wallace",
+            "role": "staff"
+          },
+          {
+            "name": "John P. Woods",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02212975.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The offices of Stewart Title Company, located in midtown Manhattan, New York City.",
+        "events": [
+          {
+            "event_id": "66c8b863ef756938",
+            "event_title": "Epstein Meets Jaredian Design's John P. Woods at STC Office (April 27, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein confirmed to meet with architect John P. Woods of Jaredian Design at noon at the STC office on April 27, 2017, per assistant Daphne Wallace.",
+            "date_start": "2017-04-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Daphne Wallace",
+                "role": "staff"
+              },
+              {
+                "name": "John P. Woods",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's own assistant confirmed he would be physically present at the meeting with the architect.",
+            "evidence": [
+              {
+                "file": "EFTA02212975.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein has confirmed the meeting with you on Thursday, April 27, 2017 at 12 noon at the STC office.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212975.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212975",
+            "file": "EFTA02212975.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989443,
+          40.665033
+        ]
+      },
+      "properties": {
+        "id": "a4d37f8bb9c8b6c0",
+        "name": "CORE Club",
+        "location_name": "CORE Club",
+        "location_address": "575 5th Avenue, Brooklyn, New York 11215, United States",
+        "location_description": "A private members club at 575 Fifth Avenue in Midtown Manhattan, New York City, known for exclusive membership in business and culture.",
+        "canonical_name": "575 Fifth Avenue, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "CORE Club",
+        "location_descriptor": "A private members club at 575 Fifth Avenue in Midtown Manhattan, New York City, known for exclusive membership in business and culture.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-19",
+        "date_end": "2017-05-19",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Atme",
+            "role": "associate"
+          },
+          {
+            "name": "Leon Black",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02213016.pdf, EFTA02213197.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A private members club at 575 Fifth Avenue in Midtown Manhattan, New York City, known for exclusive membership in business and culture.",
+        "events": [
+          {
+            "event_id": "f1c5f769f817c84f",
+            "event_title": "Epstein Appointment at Dangene's in Core Club with Atme (May 19, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein scheduled appointment at Dangene's inside Core Club at 575 5th Avenue with associate Atme at 11:30am on May 19, 2017.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Atme",
+                "role": "associate"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This is Epstein's own schedule showing him physically at this location for a personal appointment.",
+            "evidence": [
+              {
+                "file": "EFTA02213016.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "11:30am Appt w/Atme at Dangene's\nCORE CLUB 575 5th Ave\nJOJO TO DRIVE YOU",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213016.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213197.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:30a, BREAKFAST w/Leon Black gal\nCORE CLUB 575 5th Ave\nJOJO TO DRIVE YOU",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213197.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213016",
+            "file": "EFTA02213016.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213197",
+            "file": "EFTA02213197.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978908,
+          40.760236
+        ]
+      },
+      "properties": {
+        "id": "7fe7abf34c95effb",
+        "name": "51 West 57th Street (Suite 375)",
+        "location_name": "51 West 57th Street (Suite 375)",
+        "location_address": "51 West 51st Street, New York City, New York 10019, United States",
+        "location_description": "An office building at 51 West 57th Street in Midtown Manhattan, New York City, containing medical and professional suites.",
+        "canonical_name": "51 West 51st Street, Suite 375, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "51 West 57th Street (Suite 375)",
+        "location_descriptor": "An office building at 51 West 57th Street in Midtown Manhattan, New York City, containing medical and professional suites.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-19",
+        "date_end": "2017-05-19",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Erica Peterson",
+            "role": "other"
+          },
+          {
+            "name": "Dr. Chen",
+            "role": "other"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02213016.pdf, EFTA02213037.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "An office building at 51 West 57th Street in Midtown Manhattan, New York City, containing medical and professional suites.",
+        "events": [
+          {
+            "event_id": "f1bca08eb2e54015",
+            "event_title": "Epstein Back Treatment Appointment with Dr. Chen at 51 West 51st St (May 19, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein attended back treatment appointment with Dr. Chen at 51 West 51st Street, Suite 375 at 2:45pm on May 19, 2017, recommended by Dr. Moskowitz.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Erica Peterson",
+                "role": "other"
+              },
+              {
+                "name": "Dr. Chen",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This is Epstein's personal medical appointment confirmed in his own schedule.",
+            "evidence": [
+              {
+                "file": "EFTA02213016.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2:45pm App: w/Dr. Chen for shot for your back Dr. Moskowitz recommended Chen)\n51 West 515' Street, andfloor Suite 375\nJOJO TO DRIVE YOU!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213016.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213037.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein could do the 2:45 PM appointment on May 19. Thank you so much.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213037.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213016",
+            "file": "EFTA02213016.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213037",
+            "file": "EFTA02213037.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "255e2b01ae28aa41",
+        "name": "New York City",
+        "location_name": "New York City",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The most populous city in the United States, located at the southern tip of New York State on the northeastern coast.",
+        "canonical_name": "STC office, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "New York City",
+        "location_descriptor": "The most populous city in the United States, located at the southern tip of New York State on the northeastern coast.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-24",
+        "date_end": "2017-05-24",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "John P. Woods",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02213200.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The most populous city in the United States, located at the southern tip of New York State on the northeastern coast.",
+        "events": [
+          {
+            "event_id": "af2d94432257ed69",
+            "event_title": "Epstein Scheduled Meeting with Architect John P. Woods at STC Office",
+            "event_type": "presence",
+            "description": "Epstein scheduled to meet with architect John P. Woods, AIA at the STC office at 1 pm on May 24, 2017",
+            "date_start": "2017-05-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "John P. Woods",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The meeting reminder confirms Epstein was personally scheduled to attend a meeting with an architect at the STC office.",
+            "evidence": [
+              {
+                "file": "EFTA02213200.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Just a reminder for the meeting with Mr. Epstein tomorrow, May 24, 2017, at 1 pm in the STC office.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213200.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213200",
+            "file": "EFTA02213200.pdf",
             "source_type": "doj_efta"
           }
         ]
