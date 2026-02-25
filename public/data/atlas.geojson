@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 15,
-        "evidence_count": 43,
+        "event_count": 19,
+        "evidence_count": 53,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -136,10 +136,50 @@
           {
             "name": "James Watson",
             "role": "associate"
+          },
+          {
+            "name": "Nick Raba",
+            "role": "associate"
+          },
+          {
+            "name": "Katya Gusarova",
+            "role": "associate"
+          },
+          {
+            "name": "Jude Hess",
+            "role": "associate"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          },
+          {
+            "name": "Nick Ribis",
+            "role": "associate"
+          },
+          {
+            "name": "Harry Fisch",
+            "role": "associate"
+          },
+          {
+            "name": "David Mitchell",
+            "role": "associate"
+          },
+          {
+            "name": "Robert Kuhn",
+            "role": "associate"
+          },
+          {
+            "name": "Steve Hanson",
+            "role": "associate"
+          },
+          {
+            "name": "Rich and Darren",
+            "role": "associate"
           }
         ],
-        "source_count": 33,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+28 more)",
+        "source_count": 43,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+38 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -573,6 +613,13 @@
                 "excerpt": "4pm appt...on Tuesday...to JE's",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214023.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214310.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey has shuffled his schedule...please come see him at 4:30pm today ...(Rich, will this still be ok with the Bentley delivery?)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214310.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -640,6 +687,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey is having Woody Allen and Soon Yi over for dinner this Thursday June 1st and is asking if Ronald would like to join the fun...dinner would be 7pm at Jeffrey's home (9 East 71st Street between 5th and Madison)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214018.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215213.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reconfirming you will come see Jeffrey tomorrow for dinner at 7pm...Yes, 7 PM is good for us. Thank you. Soon-Yi iPhone",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215213.pdf",
                 "confidence": 0.7
               }
             ]
@@ -856,6 +910,194 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "3103e9abbed44167",
+            "event_title": "Epstein Meets Maxim Churkin, Nick Raba, Bobby Slayton at NYC Residence (March 30, 2017)",
+            "event_type": "presence",
+            "description": "Epstein held appointments at his NYC residence on March 30, 2017: Maxim Churkin with his mom at noon, Nick Raba at 12:30pm, and Bobby Slayton with Dominique at 4pm.",
+            "date_start": "2017-03-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Maxim Churkin",
+                "role": "associate"
+              },
+              {
+                "name": "Nick Raba",
+                "role": "associate"
+              },
+              {
+                "name": "Bobby Slayton",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal calendar scheduling multiple in-person meetings at his New York residence.",
+            "evidence": [
+              {
+                "file": "EFTA02214272.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "12:00pm Appt Iv/Maxim Churkin and his mom\n12:30pm Appt w/Nick Raba\n4:00pm Appt w/Bobby Slayton andDominique",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214272.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2b21e418b1e2fe7e",
+            "event_title": "Epstein NY Schedule June 16, 2017: Nick Ribis, Jude Hess, Movie Screening, Multiple Meetings",
+            "event_type": "presence",
+            "description": "Epstein hosted a full day of meetings at his NY residence on June 16, 2017: Nick Ribis at 11am, tentative Jude Hess at noon, Woody Allen movie screening 1-3pm with Karyna and Harry Fisch, then Katya Gusarova at 3:45pm and Jabor at 5:30pm.",
+            "date_start": "2017-06-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Katya Gusarova",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jude Hess",
+                "role": "associate"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              },
+              {
+                "name": "Nick Ribis",
+                "role": "associate"
+              },
+              {
+                "name": "Harry Fisch",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This is Epstein's personal calendar showing he was physically present at his NY residence for all these appointments.",
+            "evidence": [
+              {
+                "file": "EFTA02214984.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Fri. June 16, 2017 NY\n11:00am App: w/Nick Ribis\n12:00pm TENTATIVE App: w/Jude Hess\n1-3:00pm Screening of Woody's movie (SE corner)\nKaryna, Kathy, Harry Fisch (You can have up to 10pp total)\n3:45pm App: w/Katya Gusarova\n5:30pm App: w/Jabor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214984.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215427.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "will now come see you at 4:15pm instead of 2pm to accommodate your viewing of Woody's movie. Fri.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215427.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215681.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We are confirmed for 10am on Friday, June 16th, at Jeffrey's home: 9 East 71st Street! Thank you!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215681.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215683.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Katya...might you be available to come see Jeffrey tomorrow morning? 9:00am?\nPerhaps 9 East 71st Street between 5th and Madison",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215683.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "199e6e67213ad79e",
+            "event_title": "David Mitchell Coffee with Epstein at NYC Residence, 8AM (June 15, 2017)",
+            "event_type": "presence",
+            "description": "David Mitchell confirmed for coffee meeting with Jeffrey Epstein at his New York residence at 8am on June 15, 2017.",
+            "date_start": "2017-06-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "David Mitchell",
+                "role": "associate"
+              },
+              {
+                "name": "Robert Kuhn",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Confirmed in-person meeting with Epstein at his NYC townhouse at his specific request.",
+            "evidence": [
+              {
+                "file": "EFTA02215274.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "David Mitchell is confirmed to come see you for coffee at 8am on June 15th\nThurs. June 15. 2017 NY\n8:00am App",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215274.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215430.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thurs. June 15. 2017 NY\n9:00am BREAKFAST w/Robert Kuhn\n11:00am Appt w/Dr. Chen for shot for back\nmom and brother in NY June 15-18",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215430.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c286a42ce5709d13",
+            "event_title": "Epstein Hosts Kathy Ruemmler, Rich & Darren, Steve Hanson at NY Residence (June 14, 2017)",
+            "event_type": "presence",
+            "description": "On June 14, 2017, Epstein met Kathryn Ruemmler at 2pm for sushi, Rich and Darren at 3pm, and Steve Hanson at 4:30pm at his NYC mansion.",
+            "date_start": "2017-06-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kathryn Ruemmler",
+                "role": "legal"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Steve Hanson",
+                "role": "associate"
+              },
+              {
+                "name": "Rich and Darren",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal schedule shows him physically hosting multiple meetings at his NY residence.",
+            "evidence": [
+              {
+                "file": "EFTA02215322.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Steve Hanson will come see Jeffrey today at 4:30pm\n2:00pm Appt w/Kathy Ruemmler () (sushi)\n3:00pm Appt w/Rich and Darren",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215322.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -975,6 +1217,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02214310",
+            "file": "EFTA02214310.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02212900",
             "file": "EFTA02212900.pdf",
             "source_type": "doj_efta"
@@ -992,6 +1239,11 @@
           {
             "doc_id": "EFTA02214018",
             "file": "EFTA02214018.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215213",
+            "file": "EFTA02215213.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -1023,6 +1275,46 @@
             "doc_id": "EFTA02214058",
             "file": "EFTA02214058.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214272",
+            "file": "EFTA02214272.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214984",
+            "file": "EFTA02214984.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215427",
+            "file": "EFTA02215427.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215681",
+            "file": "EFTA02215681.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215683",
+            "file": "EFTA02215683.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215274",
+            "file": "EFTA02215274.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215430",
+            "file": "EFTA02215430.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215322",
+            "file": "EFTA02215322.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -1048,7 +1340,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 11,
-        "evidence_count": 19,
+        "evidence_count": 20,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -1104,8 +1396,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 15,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215836.pdf, EFTA02213009.pdf, ... (+10 more)",
+        "source_count": 16,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215836.pdf, EFTA02213009.pdf, ... (+11 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -1371,6 +1663,13 @@
                 "excerpt": "I need round trip coach tickets...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213240.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215024.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight to San Juan (9K 8081)\nSat May 27, 2017 10:31am \u2014 11:07am Eastern Time\nWhere: Saint Thomas STT (map)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215024.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -1542,6 +1841,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02215024",
+            "file": "EFTA02215024.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02213650",
             "file": "EFTA02213650.pdf",
             "source_type": "doj_efta"
@@ -1599,13 +1903,13 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 9,
-        "evidence_count": 34,
+        "event_count": 10,
+        "evidence_count": 35,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "1969",
-        "date_end": "2017-06-08",
+        "date_end": "2017-06-14",
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -1678,10 +1982,14 @@
           {
             "name": "Karyna Shuliak",
             "role": "associate"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
           }
         ],
-        "source_count": 33,
-        "sources_preview": "EFTA02731465.pdf, EFTA02212893.pdf, EFTA00039367.pdf, EFTA02213521.pdf, EFTA02213525.pdf, ... (+28 more)",
+        "source_count": 34,
+        "sources_preview": "EFTA02731465.pdf, EFTA02212893.pdf, EFTA00039367.pdf, EFTA02213521.pdf, EFTA02213525.pdf, ... (+29 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -2183,6 +2491,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "ef7ca32952980d4e",
+            "event_title": "Epstein Associate Requests Anastasia Broadway Show Tickets for June 14, 2017",
+            "event_type": "presence",
+            "description": "An associate directed by Epstein requested two tickets to Anastasia Broadway show for the Wednesday June 14 7:30pm performance via Lesley Groff.",
+            "date_start": "2017-06-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein directed his associate to contact his assistant Lesley Groff for Broadway tickets, implying his network facilitated the event.",
+            "evidence": [
+              {
+                "file": "EFTA02214117.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I would like to go to \"Anastasia\" broadway show this Wednesday. Mr. Epstein told that I can ask you about tickets for this. Can you help me with this? 2 tickets, the show is tomorrow at 7:30.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214117.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -2350,6 +2689,11 @@
             "doc_id": "EFTA02214021",
             "file": "EFTA02214021.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214117",
+            "file": "EFTA02214117.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -2374,8 +2718,8 @@
         "property_type": "event",
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "event_count": 9,
-        "evidence_count": 25,
+        "event_count": 10,
+        "evidence_count": 27,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -2413,10 +2757,14 @@
           {
             "name": "Philippe Van Den Broek",
             "role": "other"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
           }
         ],
-        "source_count": 23,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01263089.pdf, ... (+18 more)",
+        "source_count": 25,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01263089.pdf, ... (+20 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -2767,6 +3115,13 @@
                 "excerpt": "Jeffrey...is on his island Thursday and Friday...and says if you would like to make a trip over that would be great",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214025.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214438.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Kevin will not be staying at the Marriott! (Jeffrey invited him to stay on his island instead).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214438.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -2800,6 +3155,37 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey is unfortunately not in town",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213979.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0c41e77fdd370293",
+            "event_title": "Larry Visoski Flies Epstein to Little St. James Island (June 21, 2017)",
+            "event_type": "presence",
+            "description": "Pilot Larry Visoski confirmed he was flying Jeffrey Epstein to Little St. James Island on Wednesday June 21, 2017, with Epstein planning to stay longer than anticipated.",
+            "date_start": "2017-06-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal pilot confirmed directly flying him to his private island.",
+            "evidence": [
+              {
+                "file": "EFTA02215431.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey has me flying to the island on Wed-I think he might stay a bit longer on the island...He did not mention coming back to NY this week.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215431.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2912,6 +3298,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02214438",
+            "file": "EFTA02214438.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02213637",
             "file": "EFTA02213637.pdf",
             "source_type": "doj_efta"
@@ -2919,6 +3310,11 @@
           {
             "doc_id": "EFTA02213979",
             "file": "EFTA02213979.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215431",
+            "file": "EFTA02215431.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -2944,8 +3340,8 @@
         "property_type": "event",
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 7,
-        "evidence_count": 8,
+        "event_count": 9,
+        "evidence_count": 13,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -2963,10 +3359,18 @@
           {
             "name": "SHARIFIPOUR, I3AKTAJ",
             "role": "associate"
+          },
+          {
+            "name": "Dave",
+            "role": "staff"
+          },
+          {
+            "name": "Jojo Fontanilla",
+            "role": "staff"
           }
         ],
-        "source_count": 5,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02213919.pdf, EFTA02213932.pdf, EFTA02213976.pdf",
+        "source_count": 10,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02213919.pdf, EFTA02214369.pdf, EFTA02213932.pdf, ... (+5 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -3127,6 +3531,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Dave",
+                "role": "staff"
               }
             ],
             "epstein_nexus": "direct",
@@ -3137,6 +3545,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I think Jeffrey is departing Teterboro at 8:00 a.m. and flying to Islip. After that we are departing Islip at 9:30 a.m. for Palm Beach.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213919.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214369.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dave would like to confirm: departing Teterboro at 8:00 a.m. and flying to blip. After that we are departing Islip at 9:30 a.m. for Palm Beach.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214369.pdf",
                 "confidence": 0.7
               }
             ]
@@ -3172,6 +3587,78 @@
                 "excerpt": "plane at Teterboro...is he going to Islip",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213976.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215527.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Teterboro (KTEB) at 11:25AM EDT enroute to Laurence G Hanscom Fld (KBED) for an estimated arrival at 12:00PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215527.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ad146e659f2c67db",
+            "event_title": "Epstein's Plane N212JE Arrives at Teterboro Airport (~8:14PM EDT)",
+            "event_type": "travel",
+            "description": "FlightAware alert indicates N212JE, Epstein's registered plane, expected to arrive at Teterboro Airport (KTEB) at 08:14 PM EDT.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "N212JE is Epstein's registered aircraft; arrival at Teterboro implies Epstein or his passengers were aboard.",
+            "evidence": [
+              {
+                "file": "EFTA02214374.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 45 minutes at 08:14PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214374.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214469.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Teterboro (KTEB) at 08:21 PM EDT from Cyril E King (TIST/STT)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214469.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "577f037f8a35f74a",
+            "event_title": "Epstein's Plane Departs Teterboro Meridian at 3PM (June 17, 2017)",
+            "event_type": "presence",
+            "description": "Lesley Groff directed Jojo and Merwin that Epstein's plane wheels up from Teterboro Meridian FBO at 3pm on June 17, 2017.",
+            "date_start": "2017-06-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jojo Fontanilla",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Lesley Groff coordinating Epstein's plane departure from Teterboro for Epstein's travel.",
+            "evidence": [
+              {
+                "file": "EFTA02215070.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Wheels up tomorrow from Teterboro Meridian is 3pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215070.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -3193,6 +3680,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02214369",
+            "file": "EFTA02214369.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02213932",
             "file": "EFTA02213932.pdf",
             "source_type": "doj_efta"
@@ -3200,6 +3692,26 @@
           {
             "doc_id": "EFTA02213976",
             "file": "EFTA02213976.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215527",
+            "file": "EFTA02215527.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214374",
+            "file": "EFTA02214374.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214469",
+            "file": "EFTA02214469.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215070",
+            "file": "EFTA02215070.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -3225,8 +3737,8 @@
         "property_type": "event",
         "display_name": "Palm Beach International Airport",
         "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "event_count": 7,
-        "evidence_count": 7,
+        "event_count": 8,
+        "evidence_count": 9,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -3244,10 +3756,14 @@
           {
             "name": "Lanna Belohlavek",
             "role": "legal"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf, EFTA02212890.pdf, EFTA02212929.pdf, ... (+2 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf, EFTA02212890.pdf, EFTA02212929.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
@@ -3427,6 +3943,40 @@
                 "excerpt": "PB to NY June 5",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213913.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214477.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Palm Beach Intl (KPBI) at 09:34AM EDT enroute to San Diego Intl (KSAN) for an estimated arrival at 11:30AM PDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214477.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2f8d203483783840",
+            "event_title": "Karyna Shuliak Flies Palm Beach to LaGuardia (August 19, 2016)",
+            "event_type": "travel",
+            "description": "Karyna Shuliak flew from Palm Beach International Airport to LaGuardia on JetBlue B6 362 on August 19, 2016, departing 12:10 PM, booked through Epstein's American Express travel account.",
+            "date_start": "2016-08-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Karyna Shuliak is a known Epstein associate; her travel was booked through Epstein's American Express travel account.",
+            "evidence": [
+              {
+                "file": "EFTA02214583.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "B6 362 M Economy Class\nOrigin: West Palm Beach, Palm Beach International\nDestination: New York La Guardia, La Guardia\nDeparting: 12:10 PM\nArriving: 02:55 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214583.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -3465,6 +4015,16 @@
           {
             "doc_id": "EFTA02213913",
             "file": "EFTA02213913.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214477",
+            "file": "EFTA02214477.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214583",
+            "file": "EFTA02214583.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -3896,7 +4456,7 @@
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 6,
-        "evidence_count": 11,
+        "evidence_count": 12,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -3940,8 +4500,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA01263156.pdf, EFTA00009809.pdf, EFTA02213008.pdf, ... (+2 more)",
+        "source_count": 8,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA01263156.pdf, EFTA00009809.pdf, EFTA02213008.pdf, ... (+3 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -4172,6 +4732,13 @@
                 "excerpt": "Could we please change the appt for Jeffrey to Sunday at llam? His schedule has changed a bit and he won't arrive PB until tomorrow now. Yes, we can change the appointment to Sunday at 11:00.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213710.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215124.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We have Dr. Bard scheduled for tomorrow at the PB house at 11am shall I move him to later in the day?\n\nJeffrey replied: sunday",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215124.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -4210,6 +4777,11 @@
           {
             "doc_id": "EFTA02213710",
             "file": "EFTA02213710.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215124",
+            "file": "EFTA02215124.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -5077,6 +5649,170 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.975093,
+          40.763751
+        ]
+      },
+      "properties": {
+        "id": "0a30f1c9b5351f03",
+        "name": "Apollo Global Management",
+        "location_name": "Apollo Global Management",
+        "location_address": "9 West 57th Street, New York City, New York 10019, United States",
+        "location_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
+        "canonical_name": "9 West 57th Street, New York, NY 10019, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Apollo Global Management",
+        "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
+        "event_count": 3,
+        "evidence_count": 3,
+        "primary_event_type": "communication",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-10",
+        "date_end": "2017-05-30",
+        "people": [
+          {
+            "name": "Melanie Spinella",
+            "role": "other"
+          },
+          {
+            "name": "Leon",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Leon Black",
+            "role": "associate"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02215243.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "communication",
+        "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
+        "events": [
+          {
+            "event_id": "d75c084ea1d1f9b6",
+            "event_title": "Leon Meets at Apollo Management Offices, 9 W 57th St NY (May 19 2017)",
+            "event_type": "communication",
+            "description": "Confirmed that Leon would arrive at Apollo Management offices at 9 West 57th Street, New York at 8:30am on May 19, 2017, per Melanie Spinella's email from the firm.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
+                "name": "Leon",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The email confirming Leon's meeting at Apollo Management appears in Epstein's files, suggesting Leon is connected to Epstein's network, though Epstein's presence is not confirmed.",
+            "evidence": [
+              {
+                "file": "EFTA02213051.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "just confirming Leon is coming at 8:30am tomorrow!\nMelanie Spinella I Apollo Management\n9West 57th Street, New York, New York 10019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213051.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "39adc39263e84972",
+            "event_title": "Jeffrey Epstein Meets Leon Black at Apollo Management, 1:30pm May 10 2017",
+            "event_type": "communication",
+            "description": "Jeffrey Epstein invited to meet Leon Black at Apollo Management 9W57St NY at 1:30pm May 10, 2017.",
+            "date_start": "2017-05-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02213177.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he said he could see you at 1:30 today",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213177.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4795c3367231de6c",
+            "event_title": "Jeffrey Epstein at Fr\u00e9d\u00e9ric Fekkai Salon, NYC (May 30, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein visited the Fr\u00e9d\u00e9ric Fekkai salon in Manhattan on May 30, 2017 for a haircut, accompanied by an unidentified associate.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Document confirms Jeffrey Epstein's personal visit to the Fekkai salon charged to his account on May 30.",
+            "evidence": [
+              {
+                "file": "EFTA02215243.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Did you go with Jeffrey to Fekkai salon on May 30th and have a cut? Someone went with him...charge from Fekkai on May 30.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215243.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213051",
+            "file": "EFTA02213051.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213177",
+            "file": "EFTA02213177.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215243",
+            "file": "EFTA02215243.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.8283,
           40.7135
         ]
@@ -5093,7 +5829,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "The largest airport in New York City, located in the borough of Queens, serving as a major international gateway to the United States.",
         "event_count": 2,
-        "evidence_count": 4,
+        "evidence_count": 5,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -5113,8 +5849,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA02212949.pdf, EFTA02213701.pdf, EFTA02213813.pdf, EFTA02213794.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA02212949.pdf, EFTA02213701.pdf, EFTA02213813.pdf, EFTA02213794.pdf, EFTA02214641.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The largest airport in New York City, located in the borough of Queens, serving as a major international gateway to the United States.",
@@ -5188,6 +5924,13 @@
                 "excerpt": "Hello! Jeffrey wants to arrive San Diego around 9pm. Therefore the flight arriving 9:07pm is best... AA 95 06JUN JFK SAN 0600P 0907P",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213794.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214641.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Here is your new ticket on Jet Blue to fly to Albuquerque tonight! :)\nB6 65 B Economy Class\nOrigin: New York, John F Kennedy International\nDestination: Albuquerque, Albuquerque International\nDeparting: 07:46 PM\nArriving: 11:08 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214641.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -5211,6 +5954,11 @@
           {
             "doc_id": "EFTA02213794",
             "file": "EFTA02213794.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214641",
+            "file": "EFTA02214641.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -5314,6 +6062,142 @@
           {
             "doc_id": "EFTA00006072",
             "file": "EFTA00006072.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97741,
+          40.755363
+        ]
+      },
+      "properties": {
+        "id": "4294f440e3e3a1b0",
+        "name": "Midtown Manhattan",
+        "location_name": "Midtown Manhattan",
+        "location_address": "Midtown, New York City, New York, United States",
+        "location_description": "The central business and commercial district of Manhattan, New York City, home to major skyscrapers, corporate headquarters, and cultural institutions.",
+        "canonical_name": "Midtown Manhattan, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Midtown Manhattan",
+        "location_descriptor": "The central business and commercial district of Manhattan, New York City, home to major skyscrapers, corporate headquarters, and cultural institutions.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-19",
+        "date_end": "2017-06-05",
+        "people": [
+          {
+            "name": "Kathryn Ruemmler",
+            "role": "legal"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Brad Karp",
+            "role": "legal"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Dr. Chen",
+            "role": "other"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02212889.pdf, EFTA02214111.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The central business and commercial district of Manhattan, New York City, home to major skyscrapers, corporate headquarters, and cultural institutions.",
+        "events": [
+          {
+            "event_id": "4e6a46c23efda4c7",
+            "event_title": "Brad Karp and Kathy Ruemmler Meet at Epstein Event in New York, May 19, 2017",
+            "event_type": "presence",
+            "description": "Lesley Groff informed associates that Brad Karp (attorney) would join Kathryn Ruemmler's meeting at 5:30pm on May 19, 2017, before leaving for a dinner in midtown Manhattan at 6:45pm.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kathryn Ruemmler",
+                "role": "legal"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Brad Karp",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Brad Karp and Kathryn Ruemmler are attorneys linked to Epstein's legal team, meeting coordinated by Epstein's personal assistant Lesley Groff.",
+            "evidence": [
+              {
+                "file": "EFTA02212889.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Brad Karp will join the Kathy Ruemmler meeting tomorrow at 5:30pm he says he can stay for about an hour but must leave to introduce someone at a dinner in midtown at 6:45pm...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212889.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "92b5247afe1ad8bc",
+            "event_title": "Epstein Seeks Medical Injection at Dr. Chen's NYC Office (June 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein requested a medical appointment with Dr. Chen for an injection at his Midtown or Uptown New York office in June 2017.",
+            "date_start": "2017-06-05",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dr. Chen",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was the patient physically attending the medical appointment at Dr. Chen's office.",
+            "evidence": [
+              {
+                "file": "EFTA02214111.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He wants to come for another injection? DR. Chen only does procedures Uptown on Thursdays. He can be seen at his Midtown office on Tuesdays, Wednesdays or Fridays. Just let me know what works for him.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214111.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212889",
+            "file": "EFTA02212889.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214111",
+            "file": "EFTA02214111.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -5442,6 +6326,122 @@
           {
             "doc_id": "EFTA00009831",
             "file": "EFTA00009831.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.852216,
+          17.896217
+        ]
+      },
+      "properties": {
+        "id": "b8cc8f2c4c9eab5f",
+        "name": "Gustavia",
+        "location_name": "Gustavia",
+        "location_address": "Gustavia, Saint Barth\u00e9lemy",
+        "location_description": "The main port town and administrative capital of Saint-Barth\u00e9lemy, located on the island's southwestern coast in the Caribbean Sea.",
+        "canonical_name": "Gustavia, Saint-Barth\u00e9lemy, Caribbean, Saint Barth\u00e9lemy",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Gustavia",
+        "location_descriptor": "The main port town and administrative capital of Saint-Barth\u00e9lemy, located on the island's southwestern coast in the Caribbean Sea.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-29",
+        "date_end": "2017-05-29",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Philippe VAN DEN BROEK",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA00004012.pdf, EFTA02214443.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "The main port town and administrative capital of Saint-Barth\u00e9lemy, located on the island's southwestern coast in the Caribbean Sea.",
+        "events": [
+          {
+            "event_id": "eeee1351f9591324",
+            "event_title": "Epstein Group Has Photos Developed at Photo Fast Shop in Gustavia, St. Barts",
+            "event_type": "presence",
+            "description": "Epstein or his associates had photographs developed at Photo Fast photo shop in Gustavia, Saint-Barth\u00e9lemy, evidenced by a photo envelope found in seized materials.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Photo development envelope from Gustavia St. Barts was seized from Epstein's property, indicating his group's presence there.",
+            "evidence": [
+              {
+                "file": "EFTA00004012.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PHOTO FAST\nTEL. (590) 27.87.08\nGustavia\n97133 SAINT-BARTHELEMY F.W.I.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004012.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cc3ec79374a6ecd2",
+            "event_title": "Philippe Van Den Broek Arrives in Saint-Barth\u00e9lemy to Meet with Epstein (May 29, 2017)",
+            "event_type": "travel",
+            "description": "Architect Philippe Van Den Broek arrived in Saint-Barth\u00e9lemy on May 29, 2017, and offered to meet with Jeffrey Epstein there.",
+            "date_start": "2017-05-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Philippe VAN DEN BROEK",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Van Den Broek is Epstein's architect who arrived at a location near Epstein's property to meet with him.",
+            "evidence": [
+              {
+                "file": "EFTA02214443.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I just arrived in Saint-Barth this afternoon. I am available for a conference call with Jeffrey or to meet him at his convenience.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214443.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004012",
+            "file": "EFTA00004012.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214443",
+            "file": "EFTA02214443.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -6275,138 +7275,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.975093,
-          40.763751
-        ]
-      },
-      "properties": {
-        "id": "0a30f1c9b5351f03",
-        "name": "Apollo Global Management",
-        "location_name": "Apollo Global Management",
-        "location_address": "9 West 57th Street, New York City, New York 10019, United States",
-        "location_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
-        "canonical_name": "9 West 57th Street, New York, NY 10019, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Apollo Global Management",
-        "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
-        "event_count": 2,
-        "evidence_count": 2,
-        "primary_event_type": "communication",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-10",
-        "date_end": "2017-05-19",
-        "people": [
-          {
-            "name": "Melanie Spinella",
-            "role": "other"
-          },
-          {
-            "name": "Leon",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Leon Black",
-            "role": "associate"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "communication",
-        "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
-        "events": [
-          {
-            "event_id": "d75c084ea1d1f9b6",
-            "event_title": "Leon Meets at Apollo Management Offices, 9 W 57th St NY (May 19 2017)",
-            "event_type": "communication",
-            "description": "Confirmed that Leon would arrive at Apollo Management offices at 9 West 57th Street, New York at 8:30am on May 19, 2017, per Melanie Spinella's email from the firm.",
-            "date_start": "2017-05-19",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Melanie Spinella",
-                "role": "other"
-              },
-              {
-                "name": "Leon",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The email confirming Leon's meeting at Apollo Management appears in Epstein's files, suggesting Leon is connected to Epstein's network, though Epstein's presence is not confirmed.",
-            "evidence": [
-              {
-                "file": "EFTA02213051.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "just confirming Leon is coming at 8:30am tomorrow!\nMelanie Spinella I Apollo Management\n9West 57th Street, New York, New York 10019",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213051.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "39adc39263e84972",
-            "event_title": "Jeffrey Epstein Meets Leon Black at Apollo Management, 1:30pm May 10 2017",
-            "event_type": "communication",
-            "description": "Jeffrey Epstein invited to meet Leon Black at Apollo Management 9W57St NY at 1:30pm May 10, 2017.",
-            "date_start": "2017-05-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Melanie Spinella",
-                "role": "other"
-              },
-              {
-                "name": "Leon Black",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02213177.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he said he could see you at 1:30 today",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213177.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213051",
-            "file": "EFTA02213051.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213177",
-            "file": "EFTA02213177.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.213952,
           40.729142
         ]
@@ -6708,6 +7576,494 @@
           {
             "doc_id": "EFTA02213901",
             "file": "EFTA02213901.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.942331,
+          40.841294
+        ]
+      },
+      "properties": {
+        "id": "a249156e111beb0e",
+        "name": "NewYork-Presbyterian/Columbia University Medical Center",
+        "location_name": "NewYork-Presbyterian/Columbia University Medical Center",
+        "location_address": "180 Fort Washington Avenue, New York City, New York 10032, United States",
+        "location_description": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
+        "canonical_name": "180 Fort Washington Avenue, Suite 199, New York, NY 10032, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "NewYork-Presbyterian/Columbia University Medical Center",
+        "location_descriptor": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
+        "event_count": 2,
+        "evidence_count": 6,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-01",
+        "date_end": "2017-06-15",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Chen",
+            "role": "other"
+          },
+          {
+            "name": "Dr. Chen",
+            "role": "other"
+          },
+          {
+            "name": "Jojo",
+            "role": "staff"
+          }
+        ],
+        "source_count": 6,
+        "sources_preview": "EFTA02213571.pdf, EFTA02213578.pdf, EFTA02213579.pdf, EFTA02213582.pdf, EFTA02214272.pdf, ... (+1 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
+        "events": [
+          {
+            "event_id": "1aed49cb645205d3",
+            "event_title": "Epstein Scheduled for Back Injection at NewYork-Presbyterian, June 1, 2017",
+            "event_type": "presence",
+            "description": "Epstein scheduled to receive fluoroscopy-guided back injection at 180 Fort Washington Ave Suite 199 on June 1, 2017",
+            "date_start": "2017-06-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Chen",
+                "role": "other"
+              },
+              {
+                "name": "Dr. Chen",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The appointment was being booked specifically for Jeffrey Epstein for a medical procedure.",
+            "evidence": [
+              {
+                "file": "EFTA02213571.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213571.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213578.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213578.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213579.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213579.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213582.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213582.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214272.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "10:00am Appt w/Dr. Chenfor shotfor back\n180 Fort Washington Avenue, Suite 199 First Floor.\nJOJO TO DRIVE YOU.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214272.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "befffe47d14390bc",
+            "event_title": "Epstein Confirmed for Back Shot with Dr. Chen at 180 Fort Washington Ave, NYC (June 15, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein was confirmed for an injection with Dr. Chen at 180 Fort Washington Avenue, NYC at 11am on June 15, 2017, with driver Jojo departing at 10:15am.",
+            "date_start": "2017-06-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dr. Chen",
+                "role": "other"
+              },
+              {
+                "name": "Jojo",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal confirmed medical appointment at a specific NYC address documented in his staff communications.",
+            "evidence": [
+              {
+                "file": "EFTA02214427.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You arc confirmed for a shot with Dr. Chen on Thursday June 15th at 11am at his 180 Fort Washington Ave, address\nJojo, YOU are to drive Jeffrey...please be outside ready to go at 10:15am.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214427.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213571",
+            "file": "EFTA02213571.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213578",
+            "file": "EFTA02213578.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213579",
+            "file": "EFTA02213579.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213582",
+            "file": "EFTA02213582.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214272",
+            "file": "EFTA02214272.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214427",
+            "file": "EFTA02214427.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979437,
+          40.754786
+        ]
+      },
+      "properties": {
+        "id": "f3a28c2f5ac084ce",
+        "name": "535 Fifth Avenue",
+        "location_name": "535 Fifth Avenue",
+        "location_address": "535 5th Avenue, New York City, New York 10017, United States",
+        "location_description": "A Class A office tower in Midtown Manhattan at the corner of Fifth Avenue and 44th Street, housing various medical, professional, and business offices.",
+        "canonical_name": "535 5th Avenue, 5th Floor, New York, NY 10017, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "535 Fifth Avenue",
+        "location_descriptor": "A Class A office tower in Midtown Manhattan at the corner of Fifth Avenue and 44th Street, housing various medical, professional, and business offices.",
+        "event_count": 2,
+        "evidence_count": 3,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-03-31",
+        "date_end": "2017-05-31",
+        "people": [
+          {
+            "name": "James Watson",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Dr. Krumholtz",
+            "role": "other"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02213637.pdf, EFTA02213887.pdf, EFTA02214272.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A Class A office tower in Midtown Manhattan at the corner of Fifth Avenue and 44th Street, housing various medical, professional, and business offices.",
+        "events": [
+          {
+            "event_id": "769122953e0e2030",
+            "event_title": "Epstein Medical Procedure with Dr. Krumholtz at 535 5th Ave NYC, May 31, 2017",
+            "event_type": "travel",
+            "description": "Epstein arrived at 535 5th Ave, 5th Floor NYC at 7:45am for medical procedure with Dr. Krumholtz at 8:15am on May 31, 2017",
+            "date_start": "2017-05-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "James Watson",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dr. Krumholtz",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Calendar documents Epstein personally attending a scheduled medical procedure at this address.",
+            "evidence": [
+              {
+                "file": "EFTA02213637.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Wed Mar 31.2017 NY\n7:45am ARRIVEfor procedure\n8:15am Procedure w/Dr. Krumholtz\n535 5th Ave (5th and 44th) 5th floor\nJOJO TO DRIVE YOU!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213637.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213887.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Wed. May 31. 2017 NY: 8:30am ARRIVE for procedure / 9:00am Procedure w/Dr. Krumholtz (535 5th Ave 5th floor) / 7:00pm DINNER w/Dr. Jim Watson",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213887.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2499ead0e5e338d6",
+            "event_title": "Epstein Medical Procedure with Dr. Krumholtz at 535 5th Avenue, NYC (March 31, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein attended a medical procedure with Dr. Krumholtz at 535 5th Avenue 5th Floor in New York City on March 31, 2017 at 8:15am.",
+            "date_start": "2017-03-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dr. Krumholtz",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This is Epstein's personal medical appointment scheduled in his own calendar with his driver Jojo.",
+            "evidence": [
+              {
+                "file": "EFTA02214272.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:15am Procedure w/Dr. Krumholtz\n535 5th Ave (5th and 44th) 5thfloor\nJOJO TO DRIVE YOU!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214272.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213637",
+            "file": "EFTA02213637.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213887",
+            "file": "EFTA02213887.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214272",
+            "file": "EFTA02214272.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.197694,
+          32.938232
+        ]
+      },
+      "properties": {
+        "id": "3a936e8adfaa00d7",
+        "name": "Fairmont Grand Del Mar",
+        "location_name": "Fairmont Grand Del Mar",
+        "location_address": "5300 Grand del Mar Court, San Diego, California 92130, United States",
+        "location_description": "A AAA Five Diamond luxury resort hotel set on 400 acres at 5300 Grand Del Mar Court in the Del Mar area of San Diego, California, featuring Mediterranean-style architecture and a championship golf course.",
+        "canonical_name": "Fairmont Grand Del Mar, 5300 Grand Del Mar Court, San Diego, CA 92130, California",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Fairmont Grand Del Mar",
+        "location_descriptor": "A AAA Five Diamond luxury resort hotel set on 400 acres at 5300 Grand Del Mar Court in the Del Mar area of San Diego, California, featuring Mediterranean-style architecture and a championship golf course.",
+        "event_count": 2,
+        "evidence_count": 6,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-06",
+        "date_end": "2017-06-08",
+        "people": [
+          {
+            "name": "Lawrence Visoski",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 6,
+        "sources_preview": "EFTA02213736.pdf, EFTA02213893.pdf, EFTA02213970.pdf, EFTA02214020.pdf, EFTA02214190.pdf, ... (+1 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A AAA Five Diamond luxury resort hotel set on 400 acres at 5300 Grand Del Mar Court in the Del Mar area of San Diego, California, featuring Mediterranean-style architecture and a championship golf course.",
+        "events": [
+          {
+            "event_id": "d6977aa227971e08",
+            "event_title": "Epstein Checks Fairmont Grand Del Mar Villa for San Diego Trip, June 2017",
+            "event_type": "presence",
+            "description": "Epstein requested his assistant check availability at Fairmont Grand Del Mar villa and Hyatt Regency La Jolla for his upcoming San Diego trip in June 2017",
+            "date_start": "2017-06-06",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lawrence Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was personally planning accommodation for his upcoming visit to the San Diego area.",
+            "evidence": [
+              {
+                "file": "EFTA02213736.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "cjeck fairmont villa for those nights ...FAIRMONT GRAND DEL MAR, 5300 GRAND DEL MAR COURT, SAN DIEGO CA 92130",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213736.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213893.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is asking to please check on the Fairmont Villas for June 6-8...Spoke to reservations, they are fully booked for villas",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213893.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213970.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "driver at Fairmont at 9am June 8-9",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213970.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214020.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "round trip tickets to new york June 7",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214020.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ba4d892b2af63df5",
+            "event_title": "Epstein Chauffeured from Fairmont Grand Del Mar, San Diego (June 8, 2017)",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein was picked up and returned to Fairmont Grand Del Mar hotel in San Diego on June 8, 2017, by Rio Limousine for as-directed travel around San Diego.",
+            "date_start": "2017-06-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein is the named primary passenger at Fairmont Grand Del Mar on his Rio Limousine car service account.",
+            "evidence": [
+              {
+                "file": "EFTA02214190.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PU: : FAIRMOUNT GRAND DEL MAR 5300 GRAND DEL MAR SAN DIEGO, CA 92130\nWT: : AS DIRECTED SAN DIEGO SAN DIEGO, CA\nDO: -- : FAIRMOUNT GRAND DEL MAR 5300 GRAND DEL MAR SAN DIEGO, CA 92130",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214190.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214227.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PU: : FAIRMOUNT GRAND DEL MAR 5300 GRAND DEL MAR SAN DIEGO, CA 92130\nWT: : AS DIRECTED SAN DIEGO SAN DIEGO, CA\nDO: : SIGNATURE FLIGHT SUPPORT 3300 ADMIRAL BOLNAD WAY TAIL #N212JE SAN DIEGO, CA 92101",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214227.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213736",
+            "file": "EFTA02213736.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213893",
+            "file": "EFTA02213893.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213970",
+            "file": "EFTA02213970.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214020",
+            "file": "EFTA02214020.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214190",
+            "file": "EFTA02214190.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214227",
+            "file": "EFTA02214227.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -7316,98 +8672,6 @@
           {
             "doc_id": "EFTA02213861",
             "file": "EFTA02213861.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.97741,
-          40.755363
-        ]
-      },
-      "properties": {
-        "id": "4294f440e3e3a1b0",
-        "name": "Midtown Manhattan",
-        "location_name": "Midtown Manhattan",
-        "location_address": "Midtown, New York City, New York, United States",
-        "location_description": "The central business and commercial district of Manhattan, New York City, home to major skyscrapers, corporate headquarters, and cultural institutions.",
-        "canonical_name": "Midtown Manhattan, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Midtown Manhattan",
-        "location_descriptor": "The central business and commercial district of Manhattan, New York City, home to major skyscrapers, corporate headquarters, and cultural institutions.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-19",
-        "date_end": "2017-05-19",
-        "people": [
-          {
-            "name": "Kathryn Ruemmler",
-            "role": "legal"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Brad Karp",
-            "role": "legal"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02212889.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "The central business and commercial district of Manhattan, New York City, home to major skyscrapers, corporate headquarters, and cultural institutions.",
-        "events": [
-          {
-            "event_id": "4e6a46c23efda4c7",
-            "event_title": "Brad Karp and Kathy Ruemmler Meet at Epstein Event in New York, May 19, 2017",
-            "event_type": "presence",
-            "description": "Lesley Groff informed associates that Brad Karp (attorney) would join Kathryn Ruemmler's meeting at 5:30pm on May 19, 2017, before leaving for a dinner in midtown Manhattan at 6:45pm.",
-            "date_start": "2017-05-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kathryn Ruemmler",
-                "role": "legal"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Brad Karp",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Brad Karp and Kathryn Ruemmler are attorneys linked to Epstein's legal team, meeting coordinated by Epstein's personal assistant Lesley Groff.",
-            "evidence": [
-              {
-                "file": "EFTA02212889.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Brad Karp will join the Kathy Ruemmler meeting tomorrow at 5:30pm he says he can stay for about an hour but must leave to introduce someone at a dinner in midtown at 6:45pm...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212889.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212889",
-            "file": "EFTA02212889.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -8778,82 +10042,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.852216,
-          17.896217
-        ]
-      },
-      "properties": {
-        "id": "b8cc8f2c4c9eab5f",
-        "name": "Gustavia",
-        "location_name": "Gustavia",
-        "location_address": "Gustavia, Saint Barth\u00e9lemy",
-        "location_description": "The main port town and administrative capital of Saint-Barth\u00e9lemy, located on the island's southwestern coast in the Caribbean Sea.",
-        "canonical_name": "Gustavia, Saint-Barth\u00e9lemy, Caribbean, Saint Barth\u00e9lemy",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Gustavia",
-        "location_descriptor": "The main port town and administrative capital of Saint-Barth\u00e9lemy, located on the island's southwestern coast in the Caribbean Sea.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004012.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "The main port town and administrative capital of Saint-Barth\u00e9lemy, located on the island's southwestern coast in the Caribbean Sea.",
-        "events": [
-          {
-            "event_id": "eeee1351f9591324",
-            "event_title": "Epstein Group Has Photos Developed at Photo Fast Shop in Gustavia, St. Barts",
-            "event_type": "presence",
-            "description": "Epstein or his associates had photographs developed at Photo Fast photo shop in Gustavia, Saint-Barth\u00e9lemy, evidenced by a photo envelope found in seized materials.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Photo development envelope from Gustavia St. Barts was seized from Epstein's property, indicating his group's presence there.",
-            "evidence": [
-              {
-                "file": "EFTA00004012.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "PHOTO FAST\nTEL. (590) 27.87.08\nGustavia\n97133 SAINT-BARTHELEMY F.W.I.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004012.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004012",
-            "file": "EFTA00004012.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.388818,
           -27.678704
         ]
@@ -10192,126 +11380,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.942331,
-          40.841294
-        ]
-      },
-      "properties": {
-        "id": "a249156e111beb0e",
-        "name": "NewYork-Presbyterian/Columbia University Medical Center",
-        "location_name": "NewYork-Presbyterian/Columbia University Medical Center",
-        "location_address": "180 Fort Washington Avenue, New York City, New York 10032, United States",
-        "location_description": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
-        "canonical_name": "180 Fort Washington Avenue, Suite 199, New York, NY 10032, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "NewYork-Presbyterian/Columbia University Medical Center",
-        "location_descriptor": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
-        "event_count": 1,
-        "evidence_count": 4,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-06-01",
-        "date_end": "2017-06-01",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Chen",
-            "role": "other"
-          }
-        ],
-        "source_count": 4,
-        "sources_preview": "EFTA02213571.pdf, EFTA02213578.pdf, EFTA02213579.pdf, EFTA02213582.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
-        "events": [
-          {
-            "event_id": "1aed49cb645205d3",
-            "event_title": "Epstein Scheduled for Back Injection at NewYork-Presbyterian, June 1, 2017",
-            "event_type": "presence",
-            "description": "Epstein scheduled to receive fluoroscopy-guided back injection at 180 Fort Washington Ave Suite 199 on June 1, 2017",
-            "date_start": "2017-06-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Chen",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The appointment was being booked specifically for Jeffrey Epstein for a medical procedure.",
-            "evidence": [
-              {
-                "file": "EFTA02213571.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213571.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213578.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213578.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213579.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213579.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213582.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213582.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213571",
-            "file": "EFTA02213571.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213578",
-            "file": "EFTA02213578.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213579",
-            "file": "EFTA02213579.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213582",
-            "file": "EFTA02213582.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.95931,
           40.780183
         ]
@@ -10412,7 +11480,7 @@
         "display_name": "Epstein's Zorro Ranch",
         "location_descriptor": "A 10,000-acre private ranch located in Stanley, New Mexico, approximately 40 miles southeast of Santa Fe, owned by Jeffrey Epstein and featuring a large main residence and outbuildings.",
         "event_count": 1,
-        "evidence_count": 2,
+        "evidence_count": 3,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -10428,6 +11496,14 @@
             "role": "subject"
           },
           {
+            "name": "Bruce Moskowitz",
+            "role": "associate"
+          },
+          {
+            "name": "Marsha Moskowitz",
+            "role": "associate"
+          },
+          {
             "name": "Moscowitz",
             "role": "associate"
           },
@@ -10440,8 +11516,8 @@
             "role": "other"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA02213625.pdf, EFTA02213626.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA02213625.pdf, EFTA02213626.pdf, EFTA02215631.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A 10,000-acre private ranch located in Stanley, New Mexico, approximately 40 miles southeast of Santa Fe, owned by Jeffrey Epstein and featuring a large main residence and outbuildings.",
@@ -10463,6 +11539,14 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Bruce Moskowitz",
+                "role": "associate"
+              },
+              {
+                "name": "Marsha Moskowitz",
+                "role": "associate"
               },
               {
                 "name": "Moscowitz",
@@ -10493,6 +11577,13 @@
                 "excerpt": "Dr. Moskowitz says he will be driving the two of them there June 5/6",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213626.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215631.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Good Evening Dr. Moskowitz\nwe are all looking forward to your visit to the Ranch...The Ranch is at mile marker 45 on Highway 41...Zorro Management LLC\n49 Zorro Ranch Rd\nStanley, NM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215631.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -10507,109 +11598,10 @@
             "doc_id": "EFTA02213626",
             "file": "EFTA02213626.pdf",
             "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.979437,
-          40.754786
-        ]
-      },
-      "properties": {
-        "id": "f3a28c2f5ac084ce",
-        "name": "535 Fifth Avenue",
-        "location_name": "535 Fifth Avenue",
-        "location_address": "535 5th Avenue, New York City, New York 10017, United States",
-        "location_description": "A Class A office tower in Midtown Manhattan at the corner of Fifth Avenue and 44th Street, housing various medical, professional, and business offices.",
-        "canonical_name": "535 5th Avenue, 5th Floor, New York, NY 10017, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "535 Fifth Avenue",
-        "location_descriptor": "A Class A office tower in Midtown Manhattan at the corner of Fifth Avenue and 44th Street, housing various medical, professional, and business offices.",
-        "event_count": 1,
-        "evidence_count": 2,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-31",
-        "date_end": "2017-05-31",
-        "people": [
-          {
-            "name": "James Watson",
-            "role": "associate"
           },
           {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Dr. Krumholtz",
-            "role": "other"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02213637.pdf, EFTA02213887.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A Class A office tower in Midtown Manhattan at the corner of Fifth Avenue and 44th Street, housing various medical, professional, and business offices.",
-        "events": [
-          {
-            "event_id": "769122953e0e2030",
-            "event_title": "Epstein Medical Procedure with Dr. Krumholtz at 535 5th Ave NYC, May 31, 2017",
-            "event_type": "travel",
-            "description": "Epstein arrived at 535 5th Ave, 5th Floor NYC at 7:45am for medical procedure with Dr. Krumholtz at 8:15am on May 31, 2017",
-            "date_start": "2017-05-31",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "James Watson",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Dr. Krumholtz",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Calendar documents Epstein personally attending a scheduled medical procedure at this address.",
-            "evidence": [
-              {
-                "file": "EFTA02213637.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Wed Mar 31.2017 NY\n7:45am ARRIVEfor procedure\n8:15am Procedure w/Dr. Krumholtz\n535 5th Ave (5th and 44th) 5th floor\nJOJO TO DRIVE YOU!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213637.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213887.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Wed. May 31. 2017 NY: 8:30am ARRIVE for procedure / 9:00am Procedure w/Dr. Krumholtz (535 5th Ave 5th floor) / 7:00pm DINNER w/Dr. Jim Watson",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213887.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213637",
-            "file": "EFTA02213637.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213887",
-            "file": "EFTA02213887.pdf",
+            "doc_id": "EFTA02215631",
+            "file": "EFTA02215631.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -10918,126 +11910,6 @@
           {
             "doc_id": "EFTA02213723",
             "file": "EFTA02213723.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.197694,
-          32.938232
-        ]
-      },
-      "properties": {
-        "id": "3a936e8adfaa00d7",
-        "name": "Fairmont Grand Del Mar",
-        "location_name": "Fairmont Grand Del Mar",
-        "location_address": "5300 Grand del Mar Court, San Diego, California 92130, United States",
-        "location_description": "A AAA Five Diamond luxury resort hotel set on 400 acres at 5300 Grand Del Mar Court in the Del Mar area of San Diego, California, featuring Mediterranean-style architecture and a championship golf course.",
-        "canonical_name": "Fairmont Grand Del Mar, 5300 Grand Del Mar Court, San Diego, CA 92130, California",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Fairmont Grand Del Mar",
-        "location_descriptor": "A AAA Five Diamond luxury resort hotel set on 400 acres at 5300 Grand Del Mar Court in the Del Mar area of San Diego, California, featuring Mediterranean-style architecture and a championship golf course.",
-        "event_count": 1,
-        "evidence_count": 4,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-06-06",
-        "date_end": "2017-06-06",
-        "people": [
-          {
-            "name": "Lawrence Visoski",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 4,
-        "sources_preview": "EFTA02213736.pdf, EFTA02213893.pdf, EFTA02213970.pdf, EFTA02214020.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A AAA Five Diamond luxury resort hotel set on 400 acres at 5300 Grand Del Mar Court in the Del Mar area of San Diego, California, featuring Mediterranean-style architecture and a championship golf course.",
-        "events": [
-          {
-            "event_id": "d6977aa227971e08",
-            "event_title": "Epstein Checks Fairmont Grand Del Mar Villa for San Diego Trip, June 2017",
-            "event_type": "presence",
-            "description": "Epstein requested his assistant check availability at Fairmont Grand Del Mar villa and Hyatt Regency La Jolla for his upcoming San Diego trip in June 2017",
-            "date_start": "2017-06-06",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lawrence Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was personally planning accommodation for his upcoming visit to the San Diego area.",
-            "evidence": [
-              {
-                "file": "EFTA02213736.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "cjeck fairmont villa for those nights ...FAIRMONT GRAND DEL MAR, 5300 GRAND DEL MAR COURT, SAN DIEGO CA 92130",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213736.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213893.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey is asking to please check on the Fairmont Villas for June 6-8...Spoke to reservations, they are fully booked for villas",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213893.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213970.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "driver at Fairmont at 9am June 8-9",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213970.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214020.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "round trip tickets to new york June 7",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214020.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213736",
-            "file": "EFTA02213736.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213893",
-            "file": "EFTA02213893.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213970",
-            "file": "EFTA02213970.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214020",
-            "file": "EFTA02214020.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -11382,6 +12254,502 @@
           {
             "doc_id": "EFTA02214057",
             "file": "EFTA02214057.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.177933,
+          32.73388
+        ]
+      },
+      "properties": {
+        "id": "338f6d347a0ba707",
+        "name": "Signature Flight Support - San Diego",
+        "location_name": "Signature Flight Support - San Diego",
+        "location_address": "3300 Admiral Boland Way, San Diego, California 92101, United States",
+        "location_description": "A fixed-base operator (FBO) at San Diego International Airport providing private aviation ground services including fuel, hangars, and passenger handling at 3300 Admiral Boland Way.",
+        "canonical_name": "Signature Flight Support, 3300 Admiral Boland Way, San Diego, CA 92101, California",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Signature Flight Support - San Diego",
+        "location_descriptor": "A fixed-base operator (FBO) at San Diego International Airport providing private aviation ground services including fuel, hangars, and passenger handling at 3300 Admiral Boland Way.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-07",
+        "date_end": "2017-06-07",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02214130.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A fixed-base operator (FBO) at San Diego International Airport providing private aviation ground services including fuel, hangars, and passenger handling at 3300 Admiral Boland Way.",
+        "events": [
+          {
+            "event_id": "26a350a50e5bda87",
+            "event_title": "Epstein Arrives San Diego on N212JE, Transferred to Hyatt La Jolla (June 7, 2017)",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein arrived at Signature Flight Support San Diego on plane N212JE and was chauffeured to Hyatt La Jolla on June 7, 2017.",
+            "date_start": "2017-06-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein is the named primary passenger on the car service reservation arriving on his own plane N212JE.",
+            "evidence": [
+              {
+                "file": "EFTA02214130.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PU: : SIGNATURE FLIGHT SUPPORT 3300 ADMIRAL BOLNAD WAY TAIL #N212JE SAN DIEGO, CA 92101\nWT: : HYATT LA JOLLA 3777 LA JOLLA VILLAGE DR SAN DIEGO, CA 92122",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214130.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02214130",
+            "file": "EFTA02214130.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.898101,
+          18.344444
+        ]
+      },
+      "properties": {
+        "id": "0bab320bf0197575",
+        "name": "Great St. James Island",
+        "location_name": "Great St. James Island",
+        "location_address": "US Virgin Islands",
+        "location_description": "A small private island in the U.S. Virgin Islands located just east of St. Thomas, adjacent to Little St. James Island, which Epstein owned.",
+        "canonical_name": "Great St. James Island, U.S. Virgin Islands, US Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Great St. James Island",
+        "location_descriptor": "A small private island in the U.S. Virgin Islands located just east of St. Thomas, adjacent to Little St. James Island, which Epstein owned.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-24",
+        "date_end": "2017-05-24",
+        "people": [
+          {
+            "name": "Kevin Ouvre",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02214290.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A small private island in the U.S. Virgin Islands located just east of St. Thomas, adjacent to Little St. James Island, which Epstein owned.",
+        "events": [
+          {
+            "event_id": "bb5a7ce33f476041",
+            "event_title": "Kevin Ouvre Authorized to Visit Great St. James Island with Epstein Staff",
+            "event_type": "presence",
+            "description": "Epstein authorized architect Kevin Ouvre to come to Great St. James Island alone to walk the grounds with staff and clear paths in May 2017.",
+            "date_start": "2017-05-24",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kevin Ouvre",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally directed Kevin Ouvre's visit to his property at Great St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA02214290.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "alone is fine, I suggest he walk GSJ with the guys and cut some paths.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214290.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02214290",
+            "file": "EFTA02214290.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10694,
+          32.74966
+        ]
+      },
+      "properties": {
+        "id": "eda2ad168caad5d3",
+        "name": "San Diego International Airport",
+        "location_name": "San Diego International Airport",
+        "location_address": "East San Diego, San Diego, California, United States",
+        "location_description": "A major commercial airport located near downtown San Diego, California, serving as the primary air gateway to the San Diego metropolitan area.",
+        "canonical_name": "San Diego International Airport, San Diego, CA, California",
+        "region": "",
+        "property_type": "event",
+        "display_name": "San Diego International Airport",
+        "location_descriptor": "A major commercial airport located near downtown San Diego, California, serving as the primary air gateway to the San Diego metropolitan area.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-07",
+        "date_end": "2017-06-07",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02214481.pdf, EFTA02214669.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A major commercial airport located near downtown San Diego, California, serving as the primary air gateway to the San Diego metropolitan area.",
+        "events": [
+          {
+            "event_id": "ff395e180aa11fa6",
+            "event_title": "Epstein Arrives San Diego at 10:45AM, Transfers to Fairmont Grand Del Mar (June 7, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein was expected to land in San Diego at 10:45am on June 7, 2017, and transfer from the airport to Fairmont Grand Del Mar hotel for early check-in.",
+            "date_start": "2017-06-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This is Epstein's personal travel arrival in San Diego confirmed by his staff.",
+            "evidence": [
+              {
+                "file": "EFTA02214481.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is due to land in San Diego at 10:45am local time tomorrow..I would think he will go to the hotel from the airport...if early check in is available it would be great!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214481.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214669.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "and I will be flying with Jeffrey tomorrow to San Diego. Could you please send us the hotel details?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214669.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02214481",
+            "file": "EFTA02214481.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214669",
+            "file": "EFTA02214669.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938848,
+          35.68785
+        ]
+      },
+      "properties": {
+        "id": "6113fb8ac5156549",
+        "name": "Santa Fe Municipal Airport",
+        "location_name": "Santa Fe Municipal Airport",
+        "location_address": "Santa Fe, New Mexico, United States",
+        "location_description": "A general aviation airport located approximately 10 miles southwest of downtown Santa Fe, New Mexico, serving private aircraft in the region near Epstein's Zorro Ranch in Stanley, NM.",
+        "canonical_name": "Santa Fe Municipal Airport, Santa Fe, NM, New Mexico",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Santa Fe Municipal Airport",
+        "location_descriptor": "A general aviation airport located approximately 10 miles southwest of downtown Santa Fe, New Mexico, serving private aircraft in the region near Epstein's Zorro Ranch in Stanley, NM.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-13",
+        "date_end": "2017-06-13",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02214721.pdf, EFTA02215499.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A general aviation airport located approximately 10 miles southwest of downtown Santa Fe, New Mexico, serving private aircraft in the region near Epstein's Zorro Ranch in Stanley, NM.",
+        "events": [
+          {
+            "event_id": "b9787ae60e38bd82",
+            "event_title": "N212JE Departs Santa Fe (Near Zorro Ranch) for Scranton (June 13, 2017)",
+            "event_type": "travel",
+            "description": "Epstein's plane N212JE departed Santa Fe Municipal Airport (near Zorro Ranch, NM) at 9:47AM MDT on June 13, 2017, heading to Scranton International Airport in Pennsylvania.",
+            "date_start": "2017-06-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "N212JE is Epstein's plane; Santa Fe is adjacent to his Zorro Ranch property in Stanley, NM.",
+            "evidence": [
+              {
+                "file": "EFTA02214721.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Santa Fe Muni (KSAF) at 09:47AM MDT enroute to Scranton Intl (KAVP) for an estimated arrival at 03:15PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214721.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215499.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) en route from Santa Fe Muni (KSAF) has diverted to Teterboro (KTEB) for an estimated arrival at 02:58PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215499.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02214721",
+            "file": "EFTA02214721.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215499",
+            "file": "EFTA02215499.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.707455,
+          36.887294
+        ]
+      },
+      "properties": {
+        "id": "789012953c99d80e",
+        "name": "Antalya Airport",
+        "location_name": "Antalya Airport",
+        "location_address": "Antalya, T\u00fcrkiye",
+        "location_description": "A major international airport on Turkey's Mediterranean coast serving the resort city of Antalya and the surrounding Turkish Riviera region.",
+        "canonical_name": "Antalya Airport, Antalya, Turkey",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Antalya Airport",
+        "location_descriptor": "A major international airport on Turkey's Mediterranean coast serving the resort city of Antalya and the surrounding Turkish Riviera region.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-04",
+        "date_end": "2017-07-04",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02215385.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "A major international airport on Turkey's Mediterranean coast serving the resort city of Antalya and the surrounding Turkish Riviera region.",
+        "events": [
+          {
+            "event_id": "d3871a8b9836bf48",
+            "event_title": "Epstein Associates Travel from Antalya to Istanbul to Paris (July 4, 2017)",
+            "event_type": "travel",
+            "description": "Epstein directed associates to travel from Antalya, Turkey via Istanbul to Paris arriving late on July 4, 2017, part of a summer trip arrangement.",
+            "date_start": "2017-07-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein personally directed the travel itinerary from Antalya to Paris via Istanbul for his associates.",
+            "evidence": [
+              {
+                "file": "EFTA02215385.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "They can leave Antalya early, spend day in Istanbul I assume no direct flights and arrive Paris late",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215385.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02215385",
+            "file": "EFTA02215385.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.121399,
+          42.373276
+        ]
+      },
+      "properties": {
+        "id": "67bd73ab191b0b50",
+        "name": "Harvard Program for Evolutionary Dynamics",
+        "location_name": "Harvard Program for Evolutionary Dynamics",
+        "location_address": "1 Brattle Street, Cambridge, Massachusetts 02138, United States",
+        "location_description": "A research center at Harvard University located at 1 Brattle Square in Cambridge, Massachusetts, focused on the mathematical study of evolutionary processes in biology and social sciences.",
+        "canonical_name": "1 Brattle Square, Cambridge, MA 02138, Massachusetts",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Harvard Program for Evolutionary Dynamics",
+        "location_descriptor": "A research center at Harvard University located at 1 Brattle Square in Cambridge, Massachusetts, focused on the mathematical study of evolutionary processes in biology and social sciences.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-30",
+        "date_end": "2017-06-30",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02215565.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A research center at Harvard University located at 1 Brattle Square in Cambridge, Massachusetts, focused on the mathematical study of evolutionary processes in biology and social sciences.",
+        "events": [
+          {
+            "event_id": "4dc9e41c59c38c3b",
+            "event_title": "Epstein Meets at Harvard Program for Evolutionary Dynamics, Cambridge (June 30, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein held a meeting at Harvard's Program for Evolutionary Dynamics offices at 1 Brattle Square, Cambridge, MA on June 30, 2017.",
+            "date_start": "2017-06-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally directed this meeting location and flew to Harvard's area via N212JE from Teterboro the same morning.",
+            "evidence": [
+              {
+                "file": "EFTA02215565.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey said meeting at Harvard (1 Brattle Square, Cambridge, MA 02138)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215565.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02215565",
+            "file": "EFTA02215565.pdf",
             "source_type": "doj_efta"
           }
         ]

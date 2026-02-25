@@ -165,6 +165,7 @@ export default function MapPage() {
           feature={selectedFeature}
           allFeatures={rawData?.features ?? []}
           onClose={() => setSelectedFeature(null)}
+          searchQuery={filters.searchQuery}
         />
       </div>
 

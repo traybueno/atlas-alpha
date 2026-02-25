@@ -11,6 +11,7 @@ interface LocationDetailProps {
   feature: GeoJSONFeature | null;
   allFeatures: GeoJSONFeature[];
   onClose: () => void;
+  searchQuery?: string;
 }
 
 /** Normalize people from mixed formats (string[] | EventPerson[] | EnrichedPerson[]) */
@@ -91,6 +92,7 @@ export default function LocationDetail({
   feature,
   allFeatures,
   onClose,
+  searchQuery = "",
 }: LocationDetailProps) {
   // Show only the clicked feature's events — no merging with nearby pins
   const locationEvents = useMemo(() => {
@@ -143,6 +145,7 @@ export default function LocationDetail({
           allPeople={allPeople}
           srcTypeCount={srcTypeCount}
           onClose={onClose}
+          searchQuery={searchQuery}
         />
       </motion.div>
 
@@ -173,6 +176,7 @@ export default function LocationDetail({
           allPeople={allPeople}
           srcTypeCount={srcTypeCount}
           onClose={onClose}
+          searchQuery={searchQuery}
         />
       </motion.div>
     </AnimatePresence>
@@ -230,6 +234,7 @@ function PanelContent({
   allPeople,
   srcTypeCount,
   onClose,
+  searchQuery = "",
 }: {
   feature: GeoJSONFeature;
   p: GeoJSONFeature["properties"];
@@ -239,6 +244,7 @@ function PanelContent({
   allPeople: string[];
   srcTypeCount: number;
   onClose: () => void;
+  searchQuery?: string;
 }) {
   // Always use the clicked feature's own name — never merge names from nearby pins
   const bestName = p.display_name || p.location_name || pickBestDisplayName(locationEvents);
@@ -301,7 +307,7 @@ function PanelContent({
         )}
 
         {/* Event Timeline — reads events[] from the feature */}
-        <EventCards feature={feature} />
+        <EventCards feature={feature} searchQuery={searchQuery} />
 
         {/* Connected Locations */}
         <ConnectedLocations locationEvents={locationEvents} />

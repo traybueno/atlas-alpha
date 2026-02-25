@@ -195,10 +195,12 @@ function EventCardRow({
   event,
   index,
   onClick,
+  isMatch = false,
 }: {
   event: AtlasEvent;
   index: number;
   onClick: () => void;
+  isMatch?: boolean;
 }) {
   const et = getEventType(event.event_type);
   const people = event.people || [];
@@ -209,7 +211,11 @@ function EventCardRow({
       custom={index}
       initial={{ opacity: 0, y: 8 }}
       animate={{ opacity: 1, y: 0, transition: { delay: Math.min(index * 0.03, 0.6), duration: 0.2 } }}
-      className="rounded-xl border border-gray-200/80 bg-white hover:border-gray-300 hover:shadow-sm transition-all cursor-pointer"
+      className={`rounded-xl border bg-white hover:shadow-sm transition-all cursor-pointer ${
+        isMatch
+          ? "border-blue-300 border-l-[3px] border-l-blue-500 bg-blue-50/30 hover:border-blue-400"
+          : "border-gray-200/80 hover:border-gray-300"
+      }`}
       onClick={onClick}
     >
       <div className="px-4 py-3.5 space-y-2">
@@ -255,9 +261,21 @@ function EventCardRow({
 
 interface EventCardsProps {
   feature: GeoJSONFeature;
+  searchQuery?: string;
 }
 
-export default function EventCards({ feature }: EventCardsProps) {
+function eventMatchesQuery(event: AtlasEvent, q: string): boolean {
+  if (!q) return false;
+  const lower = q.toLowerCase();
+  const searchable = [
+    event.event_title || "",
+    event.description || "",
+    ...(event.people || []).map((p) => (typeof p === "string" ? p : p.name || "")),
+  ].join(" ").toLowerCase();
+  return searchable.includes(lower);
+}
+
+export default function EventCards({ feature, searchQuery = "" }: EventCardsProps) {
   const [selectedEvent, setSelectedEvent] = useState<AtlasEvent | null>(null);
 
   const events: AtlasEvent[] = feature.properties.events || [];
@@ -267,9 +285,13 @@ export default function EventCards({ feature }: EventCardsProps) {
     setSelectedEvent(null);
   }, [feature]);
 
-  // Sort chronologically, group by year
+  // Sort: matches first, then chronological within each group
   const sortedWithYears = useMemo(() => {
+    const isMatch = (e: AtlasEvent) => eventMatchesQuery(e, searchQuery);
     const sorted = [...events].sort((a, b) => {
+      const aMatch = isMatch(a) ? 0 : 1;
+      const bMatch = isMatch(b) ? 0 : 1;
+      if (aMatch !== bMatch) return aMatch - bMatch;
       const da = a.date_start || "";
       const db = b.date_start || "";
       if (!da && !db) return 0;
@@ -317,6 +339,7 @@ export default function EventCards({ feature }: EventCardsProps) {
               event={item.event}
               index={item.index}
               onClick={() => setSelectedEvent(item.event)}
+              isMatch={eventMatchesQuery(item.event, searchQuery)}
             />
           );
         })}
