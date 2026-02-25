@@ -6427,6 +6427,82 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.79489,
+          40.70547
+        ]
+      },
+      "properties": {
+        "id": "b9a64f7c5560e0a4",
+        "name": "John F. Kennedy International Airport",
+        "location_name": "John F. Kennedy International Airport",
+        "location_address": "Jamaica, Queens, New York, United States",
+        "location_description": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
+        "canonical_name": "John F. Kennedy International Airport, Jamaica, NY, New York City, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "John F. Kennedy International Airport",
+        "location_descriptor": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-27",
+        "date_end": "2017-05-27",
+        "people": [
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02212953.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
+        "events": [
+          {
+            "event_id": "2a1af959ffe1b97f",
+            "event_title": "Karyna Shuliak Flies JFK to St. Thomas on Delta DL465, May 27, 2017",
+            "event_type": "travel",
+            "description": "Karyna Shuliak confirmed on Delta flight DL465 from JFK to St. Thomas departing 9:00am arriving 1:02pm May 27 2017, booking managed by Epstein's American Express Centurion concierge Natalia Molotkova.",
+            "date_start": "2017-05-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Flight booked through Epstein's Centurion AmEx concierge for his associate Karyna Shuliak traveling to USVI near Little St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA02212953.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing Karyna's flight from JFK to St. Thomas (STT) on Delta DL465, departing 9:00am, arriving 1:02pm on May 27, 2017, with record locator LGPRDG, arranged through American Express concierge for Epstein's associate.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212953.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212953",
+            "file": "EFTA02212953.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
     }
   ]
 }

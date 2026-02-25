@@ -98,7 +98,7 @@ export default function FilterPanel({
                 value={filters.searchQuery}
                 onChange={(e) => update({ searchQuery: e.target.value })}
                 placeholder="Search locations, events, people..."
-                className="mt-1 w-full px-3 py-2 text-sm border border-gray-200 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-900 focus:border-transparent"
+                className="mt-1 w-full px-3 py-2 text-sm border border-gray-200 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-900 focus:border-transparent placeholder-gray-500 text-gray-900"
               />
             </div>
 
@@ -138,7 +138,7 @@ export default function FilterPanel({
                 value={peopleSearch}
                 onChange={(e) => setPeopleSearch(e.target.value)}
                 placeholder="Filter people..."
-                className="mt-1 w-full px-3 py-1.5 text-xs border border-gray-200 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-900 focus:border-transparent"
+                className="mt-1 w-full px-3 py-1.5 text-xs border border-gray-200 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-900 focus:border-transparent placeholder-gray-500 text-gray-900"
               />
               {filters.people.length > 0 && (
                 <div className="flex flex-wrap gap-1 mt-2">
@@ -155,7 +155,7 @@ export default function FilterPanel({
                 </div>
               )}
               <div className="mt-2 space-y-0.5 max-h-40 overflow-y-auto">
-                {filteredPeople.slice(0, 30).map((person) => (
+                {filteredPeople.map((person) => (
                   <label
                     key={person}
                     className="flex items-center gap-2 py-0.5 cursor-pointer hover:bg-gray-50 rounded px-1"
@@ -169,11 +169,6 @@ export default function FilterPanel({
                     <span className="text-xs text-gray-700">{person}</span>
                   </label>
                 ))}
-                {filteredPeople.length > 30 && (
-                  <p className="text-xs text-gray-400 pl-6">
-                    +{filteredPeople.length - 30} more
-                  </p>
-                )}
               </div>
             </div>
 
