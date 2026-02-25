@@ -21,13 +21,13 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 8,
-        "evidence_count": 16,
+        "event_count": 9,
+        "evidence_count": 21,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2001",
-        "date_end": "2019-07-06",
+        "date_end": "2019-07-07",
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -74,8 +74,8 @@
             "role": "other"
           }
         ],
-        "source_count": 10,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA02731488.pdf, EFTA01263093.pdf, ... (+5 more)",
+        "source_count": 12,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+7 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -150,6 +150,27 @@
                 "source_type": "doj_efta",
                 "excerpt": "One of the victims identified in paragraph 22 of Exhibit A is Victim-I. As part of the FBI's investigation of EPSTEIN, other law enforcement officers and I have interviewed Victim-1. During those interviews, Victim-1 has said, in substance and in part, that EPSTEIN sexually abused Victim-1 on multiple occasions between approximately 2002 and 2005 in the New York Residence. This sexual abuse all occurred when Victim-I was under the age of 18.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262965.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262829.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, EPSTEIN sexually abused numerous minor victims at the Epstein Residence. In particular, and as alleged in the Indictment, when a victim arrived at the Epstein Residence, she would be escorted to a room inside the Epstein Residence with a massage table, where she would perform a massage on EPSTEIN.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262829.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262829.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Between approximately 2002 and 2005, EPSTEIN sexually abused Victim-1 on multiple occasions in the Epstein Residence. This sexual abuse all occurred when Victim-1 was under the age of 18.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262829.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262863.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, JEFFREY EPSTEIN sexually abused numerous minor victims at the Subject Premises. In particular, and as alleged in the Indictment, when a victim arrived at the Subject Premises, she would be escorted to a room inside the Subject Premises with a massage table, where she would perform a massage on EPSTEIN.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262863.pdf",
                 "confidence": 0.7
               }
             ]
@@ -233,6 +254,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "33 electronic devices seized on July 11, 2019 from 9 East 71st Street, New York, NY",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263093.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262829.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "At approximately 6 p.m. on or about July 6, 2019, law enforcement officers (the \"Search Team\") commenced executing the search warrant at the Epstein Residence... On or about July 7, 2019, the Honorable Barbara Moses, United States Magistrate Judge, signed a search warrant authorizing a search of the Epstein Residence (the \"Second Warrant\"). At approximately 2:30 a.m., the Search Team resumed the search",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262829.pdf",
                 "confidence": 0.7
               }
             ]
@@ -391,6 +419,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "ed7c282c809bb52f",
+            "event_title": "FBI Second Search Warrant Executed at Epstein's 9 East 71st Street, New York (July 7, 2019)",
+            "event_type": "presence",
+            "description": "FBI executed second search warrant at Epstein's 9 East 71st Street New York townhouse on July 7, 2019, searching for evidence of sex trafficking of minors.",
+            "date_start": "2019-07-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein owned and controlled this property where sexual abuse occurred and where evidence was sought.",
+            "evidence": [
+              {
+                "file": "EFTA01262863.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I make this Affidavit in support of an application pursuant to Rule 41... for a second warrant to search the premises specified below (the \"Subject Premises\")... The Subject Premises are particularly described as a multi-story, single-family residence located at 9 East 71st Street, New York, New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262863.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -407,6 +462,16 @@
           {
             "doc_id": "EFTA01262965",
             "file": "EFTA01262965.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262829",
+            "file": "EFTA01262829.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262863",
+            "file": "EFTA01262863.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -468,7 +533,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 8,
-        "evidence_count": 11,
+        "evidence_count": 14,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -504,8 +569,8 @@
             "role": "other"
           }
         ],
-        "source_count": 10,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA02212921.pdf, EFTA00005091.pdf, ... (+5 more)",
+        "source_count": 13,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01263089.pdf, ... (+8 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -571,6 +636,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263093.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262900.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Premises Known as Little Saint James Island, USVI, and Any Buildings, Structures or Containers Thereupon... Little Saint James is an approximately 75 acre island located approximately four (4) miles off the southeast coast of St. Thomas.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262900.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01263089.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands... The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands known as Little Saint James, which is an approximately 75 acre island located approximately four miles off the southeast coast of St. Thomas Island",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263089.pdf",
                 "confidence": 0.7
               }
             ]
@@ -706,6 +785,13 @@
                 "excerpt": "LSJ\n\nLSJ00.JPG  LSJ01.JPG  LSJ02.JPG\n...\nLSJ79.JPG",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004348.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262960.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The Subject Premises are particularly described as a private island in the U.S. Virgin Islands known as Little Saint James... approximately 75 acre island located approximately four (4) miles off the southeast coast of St. Thomas. The Subject Premises contains multiple structures, including: a main residence with stone exterior and blue roof, cabanas, pool house, dock house, and helipad.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262960.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -785,6 +871,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA01262900",
+            "file": "EFTA01262900.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263089",
+            "file": "EFTA01263089.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02212921",
             "file": "EFTA02212921.pdf",
             "source_type": "doj_efta"
@@ -807,6 +903,11 @@
           {
             "doc_id": "EFTA00004348",
             "file": "EFTA00004348.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262960",
+            "file": "EFTA01262960.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -843,7 +944,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 7,
-        "evidence_count": 13,
+        "evidence_count": 17,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -875,8 +976,8 @@
             "role": "other"
           }
         ],
-        "source_count": 12,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00008744.pdf, EFTA00005740.pdf, ... (+7 more)",
+        "source_count": 14,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+9 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -918,6 +1019,27 @@
                 "source_type": "doj_efta",
                 "excerpt": "Good morning: Same presentation today, but he said he thinks his memory for the incident (injury to his neck) may be impaired because of his sleep apnea. He is supposed to get his CPAP machine today... He requested to have one good night of sleep with his CPAP and will return to SHU with a cellmate tomorrow.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039660.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He was transported to MCC New York and keyed into SENTRY at 9:24 p.m. that evening. Mr. Epstein was placed in a general population housing unit for approximately 22 hours.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 7, 2019, at approximately 7:20 p.m. he was moved to the Special Housing Unit (SHU) pending reclassification due to the significant increase in media coverage and awareness of his notoriety among the inmate population.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039383.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "This ruling follows the Court's bail hearing held on July 15, 2019. The issue before the Court is whether the Defendant should continue to be remanded (incarcerated) pending trial or whether he should be granted release while the case proceeds.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1063,6 +1185,13 @@
                 "excerpt": "on August 10, 2019, in the Metropolitan Correctional Center in New York, New York (MCC New York), Epstein was found hanged in his assigned cell within the Special Housing Unit (SHU).",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Jeffrey Epstein was a 66-year-old, White male who died on August 10, 2019, while housed at the Metropolitan Correctional Complex (MCC), in New York, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -1139,6 +1268,16 @@
           {
             "doc_id": "EFTA00039660",
             "file": "EFTA00039660.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039367",
+            "file": "EFTA00039367.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039383",
+            "file": "EFTA00039383.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -1639,6 +1778,185 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.054155,
+          26.696207
+        ]
+      },
+      "properties": {
+        "id": "2227d794a30b090a",
+        "name": "Palm Beach International Airport",
+        "location_name": "Palm Beach International Airport",
+        "location_address": "Flamingo Park, West Palm Beach, Florida, United States",
+        "location_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
+        "canonical_name": "Palm Beach International Airport, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach International Airport",
+        "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
+        "event_count": 4,
+        "evidence_count": 4,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2006-07-19",
+        "date_end": "2018-12-14",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Mary Ann Dussan",
+            "role": "legal"
+          },
+          {
+            "name": "Lanna Belohlavek",
+            "role": "legal"
+          }
+        ],
+        "source_count": 4,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf, EFTA02212890.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
+        "events": [
+          {
+            "event_id": "8fb9bb0dff3337ee",
+            "event_title": "Epstein Aircraft Flies Palm Beach to Virgin Islands Then to Teterboro \u2014 November 7-8, 2017",
+            "event_type": "travel",
+            "description": "Epstein aircraft flew from Palm Beach (PBI) to St. Thomas (TIST) then continued same-day to Teterboro (TEB) on November 7-8, 2017.",
+            "date_start": "2017-11-07",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Multi-leg flight in Epstein's private aircraft calendar showing Palm Beach to Virgin Islands to Teterboro routing.",
+            "evidence": [
+              {
+                "file": "EFTA00005994.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "November 2017\n                  6          7                8                    9                   10                 11\n                           Outbound PB1 -\n                           Inbound TIST\n                           Outbound TIST -\n                           Inbound TEB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "290f33b690d9cd7e",
+            "event_title": "Epstein Customs Encounter on N212JE: Palm Beach to St. Thomas, Dec 14 2018",
+            "event_type": "presence",
+            "description": "CBP TECS records Jeffrey Epstein crossing customs on aircraft N212JE, departing Palm Beach (KPBI) inbound to St. Thomas, USVI (TIST) on December 14, 2018.",
+            "date_start": "2018-12-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this specific flight leg.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  12/14/2018 08:49  *GA  N212JE  I  A523 BADAS JOSEPH APIS  PASSENGER CUSTOMS  KPBI TIST",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8e67ad3ef7d62e03",
+            "event_title": "Detective Testifies Before Palm Beach County Grand Jury on Epstein Crimes Against Children (July 19, 2006)",
+            "event_type": "communication",
+            "description": "Detective and multiple witnesses physically present and testified before Palm Beach County grand jury in crimes against children investigation involving Jeffrey Epstein on July 19, 2006.",
+            "date_start": "2006-07-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Mary Ann Dussan",
+                "role": "legal"
+              },
+              {
+                "name": "Lanna Belohlavek",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Grand jury proceeding directly investigating Epstein's crimes against children in Palm Beach County; Epstein himself was not present but the hearing is part of the investigation against him.",
+            "evidence": [
+              {
+                "file": "EFTA00009428.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ELECTRONIC COURT REPORTING WITNESS LOG\nCRIMES AGAINST CHILDREN INVESTIGATION \u2014 ASA : Lanna Belohlavek\n7/19/06 DET 9:14:18 ... 10:00:28\nPage 1 of 7/19/06 Grand Jury\nCrime against Children Investigation\n9:14:12 on record\n9:14:18 PI direct",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009428.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fe8b4c4916fc5f50",
+            "event_title": "Delta Flight DL 898 to West Palm Beach, FL \u2014 Epstein Network Calendar (May 21, 2017)",
+            "event_type": "travel",
+            "description": "Delta Airlines flight DL 898 to West Palm Beach, Florida on May 21, 2017, recorded in calendar of Epstein network contact.",
+            "date_start": "2017-05-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel to West Palm Beach (near Palm Beach, FL, where Epstein's main residence 358 El Brillo Way was located) in calendar context of Epstein-related documents implies network activity.",
+            "evidence": [
+              {
+                "file": "EFTA02212890.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "May 21, 2017 10:20 AM : Flight to West Palm Beach (DL 898)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212890.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005994",
+            "file": "EFTA00005994.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263197",
+            "file": "EFTA01263197.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009428",
+            "file": "EFTA00009428.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212890",
+            "file": "EFTA02212890.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.038566,
           26.693374
         ]
@@ -1879,301 +2197,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.054155,
-          26.696207
-        ]
-      },
-      "properties": {
-        "id": "2227d794a30b090a",
-        "name": "Palm Beach International Airport",
-        "location_name": "Palm Beach International Airport",
-        "location_address": "Flamingo Park, West Palm Beach, Florida, United States",
-        "location_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "canonical_name": "Palm Beach International Airport, West Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Palm Beach International Airport",
-        "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "event_count": 3,
-        "evidence_count": 3,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2006-07-19",
-        "date_end": "2018-12-14",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Mary Ann Dussan",
-            "role": "legal"
-          },
-          {
-            "name": "Lanna Belohlavek",
-            "role": "legal"
-          }
-        ],
-        "source_count": 3,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "events": [
-          {
-            "event_id": "8fb9bb0dff3337ee",
-            "event_title": "Epstein Aircraft Flies Palm Beach to Virgin Islands Then to Teterboro \u2014 November 7-8, 2017",
-            "event_type": "travel",
-            "description": "Epstein aircraft flew from Palm Beach (PBI) to St. Thomas (TIST) then continued same-day to Teterboro (TEB) on November 7-8, 2017.",
-            "date_start": "2017-11-07",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Multi-leg flight in Epstein's private aircraft calendar showing Palm Beach to Virgin Islands to Teterboro routing.",
-            "evidence": [
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "November 2017\n                  6          7                8                    9                   10                 11\n                           Outbound PB1 -\n                           Inbound TIST\n                           Outbound TIST -\n                           Inbound TEB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "290f33b690d9cd7e",
-            "event_title": "Epstein Customs Encounter on N212JE: Palm Beach to St. Thomas, Dec 14 2018",
-            "event_type": "presence",
-            "description": "CBP TECS records Jeffrey Epstein crossing customs on aircraft N212JE, departing Palm Beach (KPBI) inbound to St. Thomas, USVI (TIST) on December 14, 2018.",
-            "date_start": "2018-12-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this specific flight leg.",
-            "evidence": [
-              {
-                "file": "EFTA01263197.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  12/14/2018 08:49  *GA  N212JE  I  A523 BADAS JOSEPH APIS  PASSENGER CUSTOMS  KPBI TIST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8e67ad3ef7d62e03",
-            "event_title": "Detective Testifies Before Palm Beach County Grand Jury on Epstein Crimes Against Children (July 19, 2006)",
-            "event_type": "communication",
-            "description": "Detective and multiple witnesses physically present and testified before Palm Beach County grand jury in crimes against children investigation involving Jeffrey Epstein on July 19, 2006.",
-            "date_start": "2006-07-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Mary Ann Dussan",
-                "role": "legal"
-              },
-              {
-                "name": "Lanna Belohlavek",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Grand jury proceeding directly investigating Epstein's crimes against children in Palm Beach County; Epstein himself was not present but the hearing is part of the investigation against him.",
-            "evidence": [
-              {
-                "file": "EFTA00009428.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "ELECTRONIC COURT REPORTING WITNESS LOG\nCRIMES AGAINST CHILDREN INVESTIGATION \u2014 ASA : Lanna Belohlavek\n7/19/06 DET 9:14:18 ... 10:00:28\nPage 1 of 7/19/06 Grand Jury\nCrime against Children Investigation\n9:14:12 on record\n9:14:18 PI direct",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009428.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005994",
-            "file": "EFTA00005994.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263197",
-            "file": "EFTA01263197.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009428",
-            "file": "EFTA00009428.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.053967,
-          40.85404
-        ]
-      },
-      "properties": {
-        "id": "5d2245132065223c",
-        "name": "Teterboro Airport",
-        "location_name": "Teterboro Airport",
-        "location_address": "100 Fred Wehran Drive, Teterboro, New Jersey 07608, United States",
-        "location_description": "A general aviation airport in Teterboro, New Jersey, serving as a major private jet hub for the New York metropolitan area.",
-        "canonical_name": "Teterboro Airport, 100 Fred Wehran Drive, Teterboro, NJ 07608, New Jersey",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Teterboro Airport",
-        "location_descriptor": "A general aviation airport in Teterboro, New Jersey, serving as a major private jet hub for the New York metropolitan area.",
-        "event_count": 3,
-        "evidence_count": 3,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-06",
-        "date_end": "2019-07-06",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Larry Visoski",
-            "role": "staff"
-          }
-        ],
-        "source_count": 3,
-        "sources_preview": "EFTA01263093.pdf, EFTA02212962.pdf, EFTA02215807.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A general aviation airport in Teterboro, New Jersey, serving as a major private jet hub for the New York metropolitan area.",
-        "events": [
-          {
-            "event_id": "7df15bdeecf826b4",
-            "event_title": "FBI Seizes 2 Electronic Devices from Epstein at Arrest (July 6, 2019)",
-            "event_type": "presence",
-            "description": "FBI seized 2 electronic devices from Jeffrey Epstein personally at time of his arrest on July 6, 2019.",
-            "date_start": "2019-07-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at his arrest location when 2 devices were seized from his person on July 6, 2019.",
-            "evidence": [
-              {
-                "file": "EFTA01263093.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "2 electronic devices seized on July 6, 2019 from Jeffrey Epstein; 33 electronic devices seized on July 11, 2019 from 9 East 71st Street, New York, NY; 27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263093.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d8bb1680f0290d37",
-            "event_title": "Private Jet N415LM (Gulfstream V) Departs Teterboro for Palm Beach (May 6, 2017)",
-            "event_type": "travel",
-            "description": "Gulfstream V private jet N415LM departed Teterboro Airport at 5:40 PM EDT for Palm Beach International Airport, with estimated arrival 6:32 PM, on May 6, 2017.",
-            "date_start": "2017-05-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Flight alert monitored as part of Epstein investigation; N415LM is not a confirmed Epstein aircraft but was tracked by investigators.",
-            "evidence": [
-              {
-                "file": "EFTA02212962.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM (GLF5) departed Teterboro (KTEB) at 05:40PM EDT enroute to Palm Beach Intl (KPBI) for an estimated arrival at 06:32PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212962.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f1ced2f0f6bbe1af",
-            "event_title": "Epstein Flies from Santa Fe (SAF) to Teterboro, NY \u2014 Arriving 7 PM (June 12, 2017)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein directed his pilot Larry Visoski to fly direct from Santa Fe (SAF) to New York, arriving Teterboro at 7 PM on June 12, 2017; canceled Dulles car pickup.",
-            "date_start": "2017-06-12",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Email from Jeffrey Epstein himself directing his pilot for a flight from Santa Fe to Teterboro, confirming his physical travel.",
-            "evidence": [
-              {
-                "file": "EFTA02215807.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Wheels up 130, straight to New York\nOk I confirm SAF-NY,.\nI'll cancel the car in Dulles,\nArrival Teterboro 7pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215807.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA01263093",
-            "file": "EFTA01263093.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212962",
-            "file": "EFTA02212962.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215807",
-            "file": "EFTA02215807.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.977697,
           35.147641
         ]
@@ -2189,13 +2212,13 @@
         "property_type": "event",
         "display_name": "Epstein's Zorro Ranch",
         "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
-        "event_count": 2,
-        "evidence_count": 2,
-        "primary_event_type": "travel",
+        "event_count": 3,
+        "evidence_count": 3,
+        "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
+        "date_start": "2019-07-07",
+        "date_end": "2019-07-07",
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -2210,10 +2233,10 @@
             "role": "victim"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA02731168.pdf, EFTA00004250.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA02731168.pdf, EFTA00004250.pdf, EFTA01262829.pdf",
         "epstein_nexus": "direct",
-        "event_type": "travel",
+        "event_type": "presence",
         "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
         "events": [
           {
@@ -2277,6 +2300,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "8e08727a3f67a61d",
+            "event_title": "CDs from Epstein's Safe Reference 'Zorro Ranch' in New Mexico and 'LSJ' (Little Saint James, USVI)",
+            "event_type": "presence",
+            "description": "Compact discs found in safe at Epstein's Manhattan residence bear labels referencing 'Zorro' (Zorro Ranch, NM) and 'LSJ' (Little Saint James, USVI), Epstein's two other known properties.",
+            "date_start": "2019-07-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "CDs found in Epstein's safe reference his properties at Zorro Ranch NM and LSJI USVI.",
+            "evidence": [
+              {
+                "file": "EFTA01262829.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the Search Team discovered... several binders... Some discs contain the word 'Zorro' or 'LSJ.'",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262829.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -2288,6 +2338,11 @@
           {
             "doc_id": "EFTA00004250",
             "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262829",
+            "file": "EFTA01262829.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -2313,12 +2368,12 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 2,
-        "evidence_count": 2,
+        "event_count": 3,
+        "evidence_count": 3,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-05-05",
+        "date_start": "1969",
         "date_end": "2017-05-05",
         "people": [
           {
@@ -2350,8 +2405,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA02731465.pdf, EFTA02212893.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA02731465.pdf, EFTA02212893.pdf, EFTA00039367.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -2433,6 +2488,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "2435c34bf67c7ee0",
+            "event_title": "Epstein's Early Life in Sea Gate, Coney Island, Brooklyn \u2014 Graduated Lafayette High School 1969",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein grew up in Sea Gate, Coney Island, Brooklyn and graduated from Lafayette High School in 1969 at age 16.",
+            "date_start": "1969",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present in these locations during his early life.",
+            "evidence": [
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein was born in 1953 and grew up in a middle-class family in the neighborhood of Sea Gate on Coney Island, Brooklyn, New York...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -2444,6 +2526,11 @@
           {
             "doc_id": "EFTA02212893",
             "file": "EFTA02212893.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039367",
+            "file": "EFTA00039367.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -2469,12 +2556,12 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 2,
-        "evidence_count": 3,
+        "event_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-06-17",
+        "date_start": "2017-05-27",
         "date_end": "2017-06-17",
         "people": [
           {
@@ -2488,10 +2575,14 @@
           {
             "name": "Lesley Groff",
             "role": "staff"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -2564,6 +2655,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "364c9ed1485a920d",
+            "event_title": "Karyna Shuliak Requests Paris Trip Booking from Epstein's Assistant Lesley Groff (May 2017)",
+            "event_type": "travel",
+            "description": "Karyna Shuliak asked Epstein's assistant Lesley Groff to book a Paris flight and hotel for May 27-June 3, 2017, to support a Schengen visa appointment on May 24, 2017.",
+            "date_start": "2017-05-27",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged through Epstein's personal assistant for someone in his network, though Epstein's personal presence at this location is not described.",
+            "evidence": [
+              {
+                "file": "EFTA02212901.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Lesley, if you are back to work, could you please help me with reservations for schengen visa. If you could please book any flight and hotel in Paris with arrival on May 27th and staying for a week until June 3rd. I will need it for my visa appointment on May 24th.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212901.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -2580,6 +2702,321 @@
           {
             "doc_id": "EFTA00004250",
             "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212901",
+            "file": "EFTA02212901.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.036503,
+          26.70222
+        ]
+      },
+      "properties": {
+        "id": "8098bc7741e43ffc",
+        "name": "Palm Beach",
+        "location_name": "Palm Beach",
+        "location_address": "Palm Beach, Florida, United States",
+        "location_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
+        "canonical_name": "Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach",
+        "location_descriptor": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
+        "event_count": 3,
+        "evidence_count": 3,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2005",
+        "date_end": "2017-06-03",
+        "people": [
+          {
+            "name": "Dr. Bard",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02212960.pdf, EFTA00039383.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
+        "events": [
+          {
+            "event_id": "efc2925b122e768a",
+            "event_title": "Epstein Plans to Meet Dr. Bard and Wife in Florida (June 3, 2017)",
+            "event_type": "communication",
+            "description": "Jeffrey Epstein planned to meet Dr. Bard and his wife in Florida on June 3, 2017, contingent on them being there; communicated via email to assistant.",
+            "date_start": "2017-06-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Dr. Bard",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein himself sent this email confirming his planned presence in Florida to meet Dr. Bard on June 3, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02212960.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "tell her i will see them on jne 3 if they are n florida",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212960.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d00a6d08c7a1c20c",
+            "event_title": "Palm Beach Police Investigate Epstein for Sex Offenses Against Minors (2005)",
+            "event_type": "presence",
+            "description": "Palm Beach local police investigated Jeffrey Epstein in 2005 for sex offenses against minor girls; federal authorities including FBI Miami and SDFL USAO also involved, with victim interviews in Palm Beach area.",
+            "date_start": "2005",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was the subject of this investigation and was physically present in Palm Beach where the offenses occurred.",
+            "evidence": [
+              {
+                "file": "EFTA00039383.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In or about 2005, the defendant was investigated by local police in Palm Beach, Florida, in connection with allegations that he had committed similar sex offenses against minor girls. The investigation ultimately also involved federal authorities, namely the U.S. Attorney's Office for the Southern District of Florida and the FBI's Miami Office, and included interviews with victims based in the Palm Beach area",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6c314e5eac15a9c1",
+            "event_title": "Epstein Enters Non-Prosecution Agreement with SDFL Over Palm Beach Abuse (Fall 2007)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein entered into non-prosecution agreement with SDFL for abuse of minor girls in Palm Beach area in fall 2007, receiving 13 months incarceration and 12 months probation.",
+            "date_start": "2007",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The NPA directly concerns Epstein's criminal conduct in Palm Beach, where he was physically present during the offenses.",
+            "evidence": [
+              {
+                "file": "EFTA00039383.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In the fall of 2007, the Defendant entered into a non-prosecution agreement (\"NPA\") with the Southern District of Florida in connection with the conduct at issue in that investigation, which the non-prosecution agreement identified as including investigations into the defendant's abuse of minor girls in the Palm Beach area.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212960",
+            "file": "EFTA02212960.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039383",
+            "file": "EFTA00039383.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.053967,
+          40.85404
+        ]
+      },
+      "properties": {
+        "id": "5d2245132065223c",
+        "name": "Teterboro Airport",
+        "location_name": "Teterboro Airport",
+        "location_address": "100 Fred Wehran Drive, Teterboro, New Jersey 07608, United States",
+        "location_description": "A general aviation airport in Teterboro, New Jersey, serving as a major private jet hub for the New York metropolitan area.",
+        "canonical_name": "Teterboro Airport, 100 Fred Wehran Drive, Teterboro, NJ 07608, New Jersey",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Teterboro Airport",
+        "location_descriptor": "A general aviation airport in Teterboro, New Jersey, serving as a major private jet hub for the New York metropolitan area.",
+        "event_count": 3,
+        "evidence_count": 5,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-06",
+        "date_end": "2019-07-06",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          }
+        ],
+        "source_count": 5,
+        "sources_preview": "EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, EFTA02212962.pdf, EFTA02215807.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A general aviation airport in Teterboro, New Jersey, serving as a major private jet hub for the New York metropolitan area.",
+        "events": [
+          {
+            "event_id": "7df15bdeecf826b4",
+            "event_title": "FBI Seizes 2 Electronic Devices from Epstein at Arrest (July 6, 2019)",
+            "event_type": "presence",
+            "description": "FBI seized 2 electronic devices from Jeffrey Epstein personally at time of his arrest on July 6, 2019.",
+            "date_start": "2019-07-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his arrest location when 2 devices were seized from his person on July 6, 2019.",
+            "evidence": [
+              {
+                "file": "EFTA01263093.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2 electronic devices seized on July 6, 2019 from Jeffrey Epstein; 33 electronic devices seized on July 11, 2019 from 9 East 71st Street, New York, NY; 27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263093.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 6, 2019, Mr. Epstein was arrested at Teterboro Airport in New Jersey...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262900.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A black iPhone with IMEI number 357201093322785, which was seized from JEFFREY EPSTEIN on or about July 6, 2019 (\"Subject Item-1\"). A silver iPad with serial number DLXQGM3KGMW3, which was seized from JEFFREY EPSTEIN on or about July 6, 2019 (\"Subject Item-2\").",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262900.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d8bb1680f0290d37",
+            "event_title": "Private Jet N415LM (Gulfstream V) Departs Teterboro for Palm Beach (May 6, 2017)",
+            "event_type": "travel",
+            "description": "Gulfstream V private jet N415LM departed Teterboro Airport at 5:40 PM EDT for Palm Beach International Airport, with estimated arrival 6:32 PM, on May 6, 2017.",
+            "date_start": "2017-05-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Flight alert monitored as part of Epstein investigation; N415LM is not a confirmed Epstein aircraft but was tracked by investigators.",
+            "evidence": [
+              {
+                "file": "EFTA02212962.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) departed Teterboro (KTEB) at 05:40PM EDT enroute to Palm Beach Intl (KPBI) for an estimated arrival at 06:32PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212962.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f1ced2f0f6bbe1af",
+            "event_title": "Epstein Flies from Santa Fe (SAF) to Teterboro, NY \u2014 Arriving 7 PM (June 12, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein directed his pilot Larry Visoski to fly direct from Santa Fe (SAF) to New York, arriving Teterboro at 7 PM on June 12, 2017; canceled Dulles car pickup.",
+            "date_start": "2017-06-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Email from Jeffrey Epstein himself directing his pilot for a flight from Santa Fe to Teterboro, confirming his physical travel.",
+            "evidence": [
+              {
+                "file": "EFTA02215807.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Wheels up 130, straight to New York\nOk I confirm SAF-NY,.\nI'll cancel the car in Dulles,\nArrival Teterboro 7pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215807.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA01263093",
+            "file": "EFTA01263093.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039367",
+            "file": "EFTA00039367.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262900",
+            "file": "EFTA01262900.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212962",
+            "file": "EFTA02212962.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215807",
+            "file": "EFTA02215807.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -2926,6 +3363,126 @@
           {
             "doc_id": "EFTA00009870",
             "file": "EFTA00009870.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16538,
+          41.38723
+        ]
+      },
+      "properties": {
+        "id": "adba72c5abf43f8f",
+        "name": "Barcelona\u2013El Prat Airport",
+        "location_name": "Barcelona\u2013El Prat Airport",
+        "location_address": "Barcelona, Barcelona, Spain",
+        "location_description": "Barcelona's main international airport, located southwest of the city center in El Prat de Llobregat, Catalonia, Spain.",
+        "canonical_name": "Barcelona\u2013El Prat Airport, El Prat de Llobregat, Barcelona, Spain",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Barcelona\u2013El Prat Airport",
+        "location_descriptor": "Barcelona's main international airport, located southwest of the city center in El Prat de Llobregat, Catalonia, Spain.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-02-02",
+        "date_end": "2017-04-21",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lasma Kuhtarska",
+            "role": "other"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02209622.pdf, EFTA01264248.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "Barcelona's main international airport, located southwest of the city center in El Prat de Llobregat, Catalonia, Spain.",
+        "events": [
+          {
+            "event_id": "f4995641d75d6b05",
+            "event_title": "Epstein Household: Lasma Kuhtarska Flies Barcelona to Riga on WizzAir (April 21, 2017)",
+            "event_type": "presence",
+            "description": "WizzAir ticket booked through Jeffrey Epstein's AmEx account for Lasma Kuhtarska flying Barcelona (BCN) to Riga (RIX) on April 21, 2017.",
+            "date_start": "2017-04-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lasma Kuhtarska",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Ticket booked through Epstein's AmEx Centurion account suggesting Lasma Kuhtarska was associated with Epstein's household; Epstein was not physically on this flight.",
+            "evidence": [
+              {
+                "file": "EFTA02209622.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MS Lasma Kuhtarska BCN-RIX... Barcelona - Terminal 2 (BCN)... Riga (RIX)... 21/04/2017 20:00... Customer contact name: MR Jeffrey Epstein... 9 East 71st Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02209622.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "de168a02cf21d1be",
+            "event_title": "Epstein Assistant Books Barcelona-to-Miami Round Trip for Female Associate (Feb 2017)",
+            "event_type": "travel",
+            "description": "Lesley Groff, Epstein's personal assistant, coordinated American Airlines round-trip flight from Barcelona to Miami (BCN\u2192MIA Feb 2, MIA\u2192BCN Feb 5) for an unnamed female associate, costing $816.66.",
+            "date_start": "2017-02-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel was booked by Epstein's personal assistant through his American Express concierge account, strongly implying Epstein's network coordination.",
+            "evidence": [
+              {
+                "file": "EFTA01264248.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Natasha can you please reserve a ticket from Barcelona to Miami tomorrow Thursday Feb. 2 for [redacted] return on Sunday Feb. 5th. If she can arrive in the afternoon tomorrow that would be good and Depart late on 5th what are options and pricing?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA01264248.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02209622",
+            "file": "EFTA02209622.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01264248",
+            "file": "EFTA01264248.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -5060,90 +5617,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.036503,
-          26.70222
-        ]
-      },
-      "properties": {
-        "id": "8098bc7741e43ffc",
-        "name": "Palm Beach",
-        "location_name": "Palm Beach",
-        "location_address": "Palm Beach, Florida, United States",
-        "location_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
-        "canonical_name": "Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Palm Beach",
-        "location_descriptor": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "communication",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-06-03",
-        "date_end": "2017-06-03",
-        "people": [
-          {
-            "name": "Dr. Bard",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02212960.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "communication",
-        "event_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
-        "events": [
-          {
-            "event_id": "efc2925b122e768a",
-            "event_title": "Epstein Plans to Meet Dr. Bard and Wife in Florida (June 3, 2017)",
-            "event_type": "communication",
-            "description": "Jeffrey Epstein planned to meet Dr. Bard and his wife in Florida on June 3, 2017, contingent on them being there; communicated via email to assistant.",
-            "date_start": "2017-06-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Dr. Bard",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein himself sent this email confirming his planned presence in Florida to meet Dr. Bard on June 3, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02212960.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "tell her i will see them on jne 3 if they are n florida",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212960.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212960",
-            "file": "EFTA02212960.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -62.852216,
           17.896217
         ]
@@ -5294,90 +5767,6 @@
           {
             "doc_id": "EFTA00004348",
             "file": "EFTA00004348.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.16538,
-          41.38723
-        ]
-      },
-      "properties": {
-        "id": "adba72c5abf43f8f",
-        "name": "Barcelona\u2013El Prat Airport",
-        "location_name": "Barcelona\u2013El Prat Airport",
-        "location_address": "Barcelona, Barcelona, Spain",
-        "location_description": "Barcelona's main international airport, located southwest of the city center in El Prat de Llobregat, Catalonia, Spain.",
-        "canonical_name": "Barcelona\u2013El Prat Airport, El Prat de Llobregat, Barcelona, Spain",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Barcelona\u2013El Prat Airport",
-        "location_descriptor": "Barcelona's main international airport, located southwest of the city center in El Prat de Llobregat, Catalonia, Spain.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-04-21",
-        "date_end": "2017-04-21",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lasma Kuhtarska",
-            "role": "other"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02209622.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "presence",
-        "event_description": "Barcelona's main international airport, located southwest of the city center in El Prat de Llobregat, Catalonia, Spain.",
-        "events": [
-          {
-            "event_id": "f4995641d75d6b05",
-            "event_title": "Epstein Household: Lasma Kuhtarska Flies Barcelona to Riga on WizzAir (April 21, 2017)",
-            "event_type": "presence",
-            "description": "WizzAir ticket booked through Jeffrey Epstein's AmEx account for Lasma Kuhtarska flying Barcelona (BCN) to Riga (RIX) on April 21, 2017.",
-            "date_start": "2017-04-21",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lasma Kuhtarska",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Ticket booked through Epstein's AmEx Centurion account suggesting Lasma Kuhtarska was associated with Epstein's household; Epstein was not physically on this flight.",
-            "evidence": [
-              {
-                "file": "EFTA02209622.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MS Lasma Kuhtarska BCN-RIX... Barcelona - Terminal 2 (BCN)... Riga (RIX)... 21/04/2017 20:00... Customer contact name: MR Jeffrey Epstein... 9 East 71st Street",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02209622.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02209622",
-            "file": "EFTA02209622.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -5882,6 +6271,158 @@
           {
             "doc_id": "EFTA02212968",
             "file": "EFTA02212968.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.955034,
+          40.781585
+        ]
+      },
+      "properties": {
+        "id": "9befb514b073bf54",
+        "name": "The Dalton School",
+        "location_name": "The Dalton School",
+        "location_address": "108 East 89th Street, New York City, New York 10128, United States",
+        "location_description": "A prestigious private K-12 school on Manhattan's Upper East Side at 108 East 89th Street, known for its progressive education curriculum since 1919.",
+        "canonical_name": "The Dalton School, 108 East 89th Street, New York, NY 10128, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "The Dalton School",
+        "location_descriptor": "A prestigious private K-12 school on Manhattan's Upper East Side at 108 East 89th Street, known for its progressive education curriculum since 1919.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1974-09",
+        "date_end": "1974-09",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00039367.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A prestigious private K-12 school on Manhattan's Upper East Side at 108 East 89th Street, known for its progressive education curriculum since 1919.",
+        "events": [
+          {
+            "event_id": "12a9ef19f08d7f8f",
+            "event_title": "Epstein Teaches at Dalton School, Upper East Side, Manhattan (1974-1976)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein taught mathematics at the Dalton School on Manhattan's Upper East Side from September 1974 until dismissed in June 1976 for inadequate development as a teacher.",
+            "date_start": "1974-09",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was employed as a teacher and physically present at this school during this period.",
+            "evidence": [
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein taught at the Dalton School, a private school on the Upper East Side of Manhattan from September 1974 until he was dismissed in June 1976 for inadequate development as a teacher.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00039367",
+            "file": "EFTA00039367.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.158325,
+          41.406567
+        ]
+      },
+      "properties": {
+        "id": "7712ed6fa1f2b3ab",
+        "name": "Barcelona, Spain",
+        "location_name": "Barcelona, Spain",
+        "location_address": "Gr\u00e0cia, Barcelona, Barcelona, Spain",
+        "location_description": "The capital city of Catalonia in northeastern Spain, a major Mediterranean port and cultural hub on Spain's northeastern coast.",
+        "canonical_name": "Barcelona-El Prat Airport, Barcelona, Spain",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Barcelona, Spain",
+        "location_descriptor": "The capital city of Catalonia in northeastern Spain, a major Mediterranean port and cultural hub on Spain's northeastern coast.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-02-02",
+        "date_end": "2017-02-02",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02205827.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "The capital city of Catalonia in northeastern Spain, a major Mediterranean port and cultural hub on Spain's northeastern coast.",
+        "events": [
+          {
+            "event_id": "76014d649de9147e",
+            "event_title": "Lesley Groff Books Barcelona-Miami Flight for 'Lasma' via Epstein's Amex Concierge (Feb 2017)",
+            "event_type": "travel",
+            "description": "Epstein's personal assistant Lesley Groff arranged round-trip Barcelona to Miami flights for a person named Lasma via American Express Centurion concierge in February 2017.",
+            "date_start": "2017-02-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Flight booked by Epstein's personal assistant through his Amex Centurion account, strongly implicating Epstein network coordination of travel.",
+            "evidence": [
+              {
+                "file": "EFTA02205827.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please book this ticket for Lasma and get her seats! ...Hi Natasha can you please reserve a ticket from Barcelona to Miami tomorrow Thursday Feb. 2 for [Lasma] return on Sunday Feb. 5th.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02205827.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02205827",
+            "file": "EFTA02205827.pdf",
             "source_type": "doj_efta"
           }
         ]

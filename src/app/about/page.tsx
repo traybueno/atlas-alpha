@@ -11,8 +11,8 @@ export default function AboutPage() {
           </Link>
           <nav className="flex gap-4 text-sm text-gray-500">
             <Link href="/map" className="hover:text-gray-900">Map</Link>
+            <Link href="/about" className="text-gray-900 font-medium">About</Link>
             <Link href="/sources" className="hover:text-gray-900">Sources</Link>
-            <Link href="/privacy" className="hover:text-gray-900">Privacy</Link>
           </nav>
         </div>
       </header>

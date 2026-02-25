@@ -1,7 +1,8 @@
 export default function Disclaimer() {
   return (
     <footer className="bg-gray-50 border-t border-gray-200 px-6 py-3">
-      <p className="text-[10px] text-gray-400 leading-relaxed">
+      <div className="flex items-center justify-between gap-4">
+        <p className="text-[10px] text-gray-400 leading-relaxed flex-1">
           <strong>DISCLAIMER:</strong> Project Atlas is an independent research
           and accountability tool. It is not affiliated with, endorsed by, or
           connected to any government agency, law enforcement body, or the
@@ -19,7 +20,11 @@ export default function Disclaimer() {
           all information against primary sources. If you believe any information
           is inaccurate, please contact corrections@atlas-engine.dev with the
           specific entry and supporting documentation.
-      </p>
+        </p>
+        <a href="/privacy" className="text-[10px] text-gray-400 hover:text-gray-600 whitespace-nowrap shrink-0">
+          Privacy
+        </a>
+      </div>
     </footer>
   );
 }

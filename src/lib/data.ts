@@ -116,11 +116,17 @@ export function filterFeatures(
       const peopleNames = p.people.map((pp) =>
         typeof pp === "string" ? pp : pp.name
       );
+      // Also search nested event titles and descriptions
+      const events: Array<{ event_title?: string; title?: string; description?: string }> = p.events || [];
+      const eventTitles = events.map((e) => e.event_title || e.title || "");
+      const eventDescs = events.map((e) => e.description || "");
       const searchable = [
         p.display_name,
         p.event_description,
         p.region,
         ...peopleNames,
+        ...eventTitles,
+        ...eventDescs,
       ]
         .join(" ")
         .toLowerCase();

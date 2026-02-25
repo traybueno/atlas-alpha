@@ -137,12 +137,6 @@ export default function MapPage() {
             About
           </a>
           <a
-            href="/methodology"
-            className="hover:text-gray-900 transition-colors"
-          >
-            Methodology
-          </a>
-          <a
             href="/sources"
             className="hover:text-gray-900 transition-colors"
           >

@@ -56,7 +56,7 @@ export default function FilterPanel({
   );
 
   return (
-    <div className="absolute top-4 right-4 z-10">
+    <div className="absolute top-4 left-4 z-10">
       {/* Toggle button */}
       <button
         onClick={() => setIsOpen(!isOpen)}

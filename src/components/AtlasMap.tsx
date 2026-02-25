@@ -81,7 +81,7 @@ export default function AtlasMap({
       attributionControl: true,
     });
 
-    map.current.addControl(new mapboxgl.NavigationControl(), "top-left");
+    map.current.addControl(new mapboxgl.NavigationControl(), "bottom-right");
     map.current.addControl(
       new mapboxgl.ScaleControl({ maxWidth: 200 }),
       "bottom-left"

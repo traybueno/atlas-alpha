@@ -57,7 +57,7 @@ export default function SourcesPage() {
           <nav className="flex gap-4 text-sm text-gray-500">
             <Link href="/map" className="hover:text-gray-900">Map</Link>
             <Link href="/about" className="hover:text-gray-900">About</Link>
-            <Link href="/privacy" className="hover:text-gray-900">Privacy</Link>
+            <Link href="/sources" className="text-gray-900 font-medium">Sources</Link>
           </nav>
         </div>
       </header>
