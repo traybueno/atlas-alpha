@@ -1997,6 +1997,818 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.002663,
+          40.713878
+        ]
+      },
+      "properties": {
+        "id": "4effa815debba2cc",
+        "name": "Thurgood Marshall U.S. Courthouse",
+        "location_name": "Thurgood Marshall U.S. Courthouse",
+        "location_address": "40 Centre Street, New York City, New York 10007, United States",
+        "location_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
+        "canonical_name": "Thurgood Marshall U.S. Courthouse, 40 Foley Square, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Thurgood Marshall U.S. Courthouse",
+        "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
+        "event_count": 15,
+        "evidence_count": 34,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-07-02",
+        "date_end": "2022-01-03",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "subject"
+          },
+          {
+            "name": "Detective (NYPD)",
+            "role": "legal"
+          },
+          {
+            "name": "Geoffrey S. Berman",
+            "role": "legal"
+          },
+          {
+            "name": "Tova Noel",
+            "role": "other"
+          },
+          {
+            "name": "Michael Thomas",
+            "role": "other"
+          },
+          {
+            "name": "Reid Weingarten",
+            "role": "legal"
+          },
+          {
+            "name": "Judge Richard M. Berman",
+            "role": "legal"
+          },
+          {
+            "name": "Martin G. Weinberg",
+            "role": "legal"
+          }
+        ],
+        "source_count": 31,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+26 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
+        "events": [
+          {
+            "event_id": "a48f10aa264d44f1",
+            "event_title": "Grand Jury Indicts Epstein on Sex Trafficking Charges, Southern District of New York \u2014 July 2, 2019",
+            "event_type": "presence",
+            "description": "Grand jury in the Southern District of New York returned an indictment charging Jeffrey Epstein with sex trafficking of minors and sex trafficking conspiracy on July 2, 2019.",
+            "date_start": "2019-07-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The indictment directly charges Jeffrey Epstein himself with federal sex trafficking crimes in New York.",
+            "evidence": [
+              {
+                "file": "EFTA01262805.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On or about July 2, 2019, a grand jury in this District returned an Indictment charging JEFFREY EPSTEIN with the Subject Offenses.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039025.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein was assigned to a cell in the SHU on July 7 due to media coverage of his case and inmate awareness of his notoriety. SHU inmates are securely separated from general population inmates and kept locked in their cells for approximately 23 hours a day.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039660.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Good morning: Same presentation today, but he said he thinks his memory for the incident (injury to his neck) may be impaired because of his sleep apnea. He is supposed to get his CPAP machine today... He requested to have one good night of sleep with his CPAP and will return to SHU with a cellmate tomorrow.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039660.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He was transported to MCC New York and keyed into SENTRY at 9:24 p.m. that evening. Mr. Epstein was placed in a general population housing unit for approximately 22 hours.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 7, 2019, at approximately 7:20 p.m. he was moved to the Special Housing Unit (SHU) pending reclassification due to the significant increase in media coverage and awareness of his notoriety among the inmate population.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039383.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "This ruling follows the Court's bail hearing held on July 15, 2019. The issue before the Court is whether the Defendant should continue to be remanded (incarcerated) pending trial or whether he should be granted release while the case proceeds.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013194.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I reached out to David to see if we want the original ligature used on July 23 to compare to the ligature from August 10th?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013194.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00014628.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Associate Warden (AW) at MCC New York advised that Jeffrey EPSTEIN was found in his cell this morning at 0127 hours in a fetal position with a noose aro[und his neck]... report received at 2115 hours on July 24, 2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014628.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "5885fab1fd1b8e1d",
+            "event_title": "NYPD Detective Testifies Before Maxwell Grand Jury at Foley Square \u2014 March 29, 2021",
+            "event_type": "legal",
+            "description": "An NYPD detective and FBI task force officer testified before the Southern District of New York grand jury regarding the investigation into Jeffrey Epstein and Ghislaine Maxwell at the U.S. Courthouse at Foley Square on March 29, 2021.",
+            "date_start": "2021-03-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              },
+              {
+                "name": "Detective (NYPD)",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The grand jury proceeding directly investigated Epstein's criminal network, with testimony about the Epstein-Maxwell investigation, though Epstein had died by this date.",
+            "evidence": [
+              {
+                "file": "EFTA00008744.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "UNITED STATES GRAND JURY\nSOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA v. GHISLAINE MAXWELL\nUnited States Courthouse\nFoley Square\nNew York, New York\nMarch 29, 2021\n10:05 a.m.\n\ncalled as a witness, having been duly sworn by the Foreperson of the Grand Jury, was examined and testified as follows",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8446fca7cfedf96e",
+            "event_title": "SDNY Grand Jury Subpoena: Unnamed Witness Ordered to Testify in Epstein Investigation (Jul 2019)",
+            "event_type": "presence",
+            "description": "SDNY grand jury subpoena commanded a redacted witness to appear at 40 Foley Square, Room 220, Manhattan on July 24, 2019 to testify in the federal Epstein sex trafficking investigation under 18 U.S.C. \u00a7\u00a7 1591, 2421-2423.",
+            "date_start": "2019-07-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Geoffrey S. Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The subpoena is part of the SDNY federal investigation into Epstein-related sex trafficking offenses but Epstein himself is not the witness being summoned.",
+            "evidence": [
+              {
+                "file": "EFTA00005740.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Grand Jury Subpoena\nSOUTHERN DISTRICT OF NEW YORK\nWE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York\n\nAppearance Date: July 24, 2019\nAppearance Time: 10:00 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005740.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00005718.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York, New York, in the Southern District of New York, at the following date, time and place: Appearance Date: July 24, 2019 Appearance Time: 10:00 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2a26e6074d641753",
+            "event_title": "MCC Guard Tova Noel Indicted by SDNY Grand Jury for Falsifying Epstein Watch Records (Nov 2019)",
+            "event_type": "presence",
+            "description": "MCC guard Tova Noel indicted by SDNY grand jury on six counts for falsifying federal prison records related to monitoring of Jeffrey Epstein prior to his death.",
+            "date_start": "2019-11-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Tova Noel",
+                "role": "other"
+              },
+              {
+                "name": "Michael Thomas",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Tova Noel was the MCC guard charged with falsifying records about checking on Epstein; the indictment is directly connected to Epstein's death but Epstein was not present at SDNY.",
+            "evidence": [
+              {
+                "file": "EFTA00009781.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On November 19, 2019, a grand jury sitting in this District returned a six-count indictment (the \"Indictment\"), which charged Tova Noel with committing offenses against the United States... United States District Court, Southern District of New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009781.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00009786.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On November 19, 2019, a grand jury sitting in this District returned a six-count indictment (the \"Indictment\"), which charged Michael Thomas with committing offenses against the United States... United States District Court, Southern District of New York, 19 Cr. 830 (AT)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009786.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "39fe15938cb2c66a",
+            "event_title": "MCC Guards Log 30-Minute Checks on Epstein in Special Housing Unit \u2014 Night Before His Death",
+            "event_type": "presence",
+            "description": "MCC Special Housing Unit L-Tier 30-minute check log documents guards monitoring Epstein the night before his death on August 10, 2019.",
+            "date_start": "2019-08-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically housed in MCC Special Housing Unit L-Tier on August 9, 2019, the night before he was found dead.",
+            "evidence": [
+              {
+                "file": "EFTA00009767.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC NEW YORK\nSPECIAL HOUSING UNIT\n30 MINUTE CHECK SHEET\nL-TIER\nDATE: 08/09/2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009767.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00009775.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC NEW YORK\nSPECIAL HOUSING UNIT\n30 MINUTE CHECK SHEET\nZA\nTIER-G\nDATE: 08/10/2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009775.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039025.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "on August 10, 2019, in the Metropolitan Correctional Center in New York, New York (MCC New York), Epstein was found hanged in his assigned cell within the Special Housing Unit (SHU).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Jeffrey Epstein was a 66-year-old, White male who died on August 10, 2019, while housed at the Metropolitan Correctional Complex (MCC), in New York, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00011510.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein had been found unresponsive in his cell in the Special Housing Unit at around 6:30 am from an apparent suicide at the Metropolitan Correctional Center (MCC) in New York, New York. Responding staff immediately initiated life-saving measures and requested emergency medical services (EMS), by whom Mr. Epstein was transported to a local hospital for treatment of life-threatening injuries. Mr. Epstein was pronounced dead",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011510.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00014348.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "It is frankly unbelievable to me that BOP is issuing public press releases on this before telling us basic information so that we can relay it to his attorneys who can relay it to his family. Saturday August 10, 2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014348.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4a32aef22264a3cd",
+            "event_title": "Charges Dropped Against MCC Guards Noel and Thomas Who Falsified Epstein Watch Records (Jan 2022)",
+            "event_type": "presence",
+            "description": "SDNY filed nolle prosequi dismissing all charges against MCC guards Tova Noel and Michael Thomas after they complied with deferred prosecution agreements for falsifying Epstein watch records.",
+            "date_start": "2022-01-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Tova Noel",
+                "role": "other"
+              },
+              {
+                "name": "Michael Thomas",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Noel and Thomas were the MCC guards charged with falsifying records about monitoring Epstein; the case dismissal is the final legal outcome connected to his death.",
+            "evidence": [
+              {
+                "file": "EFTA00009791.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "filing of this nolle prosequi will dispose of this case with respect to TOVA NOEL and MICHAEL THOMAS... 19 Cr. 830 (AT)... United States District Court, Southern District of New York... DATE FILED: 1/3/2022",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009791.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d375b64871320f33",
+            "event_title": "Maxwell Files Notice of Appearance in 2nd Circuit Appeal (April 13, 2021)",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell filed acknowledgment and notice of appearance as Appellant in U.S. Court of Appeals 2nd Circuit case 21-58 on April 13, 2021.",
+            "date_start": "2021-04-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Maxwell is Epstein's co-conspirator; her appellate court filing is part of proceedings directly stemming from Epstein-related sex trafficking crimes.",
+            "evidence": [
+              {
+                "file": "EFTA00009827.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Case Name: United States of America v. Maxwell\nCase Number: 21-58\nACKNOWLEDGMENT AND NOTICE OF APPEARANCE, on behalf of Appellant Ghislaine Maxwell, FILED. Service date 04/13/2021",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009827.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00011048.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "anything after Ghislaine Maxwell's arraignment at 2:30 won't get much attention.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011048.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "328745262277719e",
+            "event_title": "MCC Guards Fail to Check on Epstein; Epstein Found Dead in SHU Cell",
+            "event_type": "presence",
+            "description": "Correctional officers Tova Noel and Michael Thomas failed to perform required prisoner counts in the MCC Special Housing Unit, during which Jeffrey Epstein died.",
+            "date_start": "2019-08-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Tova Noel",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Michael Thomas",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at MCC and died there while guards were derelict in their duties.",
+            "evidence": [
+              {
+                "file": "EFTA00009747.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On or about August 10, 2019, TOVA NOEL and MICHAEL THOMAS, the defendants, in dereliction of their duties as correctional officers at the Metropolitan Correctional Center (\"MCC\"), repeatedly failed to perform mandated counts of prisoners under their watch in the MCC's Special Housing Unit (\"SHU\").",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009747.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00010968.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "no correctional officer conducted any count or round of the SHU from approximately 10:30 p.m. on August 9 until approximately 6:30 a.m. on August 10, at which time, as alleged herein, NOEL and THOMAS discovered the body of an MCC inmate, Jeffrey Epstein, who had committed suicide overnight while unobserved.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010968.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00014985.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On or about August 10, 2019, TOVA NOEL and MICHAEL THOMAS, the defendants, while on duty as correctional officers at the Manhattan Correctional Center ('MCC'), repeatedly chose not to do mandated counts of prisoners...INDICTMENT...UNITED STATES OF AMERICA v. TOVA NOEL, and MICHAEL THOMAS, Defendants.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014985.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "45a332314485b098",
+            "event_title": "Ghislaine Maxwell Trial Opens at Thurgood Marshall U.S. Courthouse, Nov 29 2021",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell's criminal trial for sex trafficking and related offenses opened at the Thurgood Marshall U.S. Courthouse in New York, with jury selection and opening statements beginning November 29, 2021.",
+            "date_start": "2021-11-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell was Epstein's longtime associate and co-conspirator; her trial directly concerns her role in Epstein's sex trafficking network.",
+            "evidence": [
+              {
+                "file": "EFTA00010818.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Main courtroom: 40 Foley, courtroom 318\nOverflow courtrooms: 110, 506, 905, and 906.\nTiming: we'll start at 8:30 a.m. with peremptory challenges, and we expect to go straight to preliminary instructions and opening statements.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010818.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00010941.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Trial began on November 29, 2021, with jury selection. Specifically, consistent with the District's COVID-19 protocols, the Court will ensure public access (with COVID-19 distancing) to the trial in the courtroom itself and in several overflow rooms at the courthouse with live feeds of the proceedings.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010941.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e2ea555254c8f374",
+            "event_title": "Ghislaine Maxwell Arrested and Charged in Manhattan Federal Court, July 2, 2020",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell was arrested and charged in Manhattan federal court on July 2, 2020 for enticing and transporting minors for criminal sexual activity and conspiracy to commit those offenses, and for perjury in a 2016 deposition, in connection with Jeffrey Epstein's abuse of girls as young as 14 from 1994 to 1997.",
+            "date_start": "2020-07-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell was Epstein's longtime co-conspirator; her arrest directly concerns her facilitation of Epstein's sex trafficking network.",
+            "evidence": [
+              {
+                "file": "EFTA00010990.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "GHISLANE MAXWELL was arrested this morning and charged with enticing a minor to travel to engage in criminal sexual activity, transporting a minor with the intent to engage in criminal sexual activity, conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010990.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013307.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The Court held a lengthy bail hearing on July 14, 2020. After extensive briefing and argument at the hearing, the Court concluded that the Defendant was a clear r",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013307.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0255daba2f51d258",
+            "event_title": "Epstein Detained at MCC \u2014 Defense Counsel Visit, July 14, 2019",
+            "event_type": "presence",
+            "description": "Defense attorney Reid Weingarten visited Jeffrey Epstein at the Metropolitan Correctional Center (MCC) New York on Sunday July 14, 2019, prior to the July 15 bail hearing before Judge Berman.",
+            "date_start": "2019-07-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Reid Weingarten",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Weingarten was Epstein's defense attorney; email confirms he 'just left the jail' on July 14 after visiting Epstein.",
+            "evidence": [
+              {
+                "file": "EFTA00014330.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "So just leaving the jail...tomorrow morn has gotten really jammed....give me a second after the hearing and we can talk about whether or not a visit makes sense... Sunday, July 14, 2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014330.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "61f3a29a73b4f195",
+            "event_title": "Grand Jury Subpoena \u2014 40 Foley Square NYC, July 31, 2019",
+            "event_type": "presence",
+            "description": "Grand jury subpoena in the Epstein case commanding witness to appear at 40 Foley Square, SDNY, Room 220, at 10:00 a.m. on July 31, 2019.",
+            "date_start": "2019-07-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Grand jury subpoena relates to Epstein investigation (18 U.S.C. \u00a7\u00a7 1591, 2421, 2422, 2423, 371 \u2014 sex trafficking statutes).",
+            "evidence": [
+              {
+                "file": "EFTA00014334.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220... Appearance Date: July 31, 2019 Appearance Time: 10:00 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014334.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "1397d6ab24681e13",
+            "event_title": "Epstein Produced Before Judge Berman \u2014 SDNY Courtroom 17B, July 18, 2019",
+            "event_type": "legal",
+            "description": "Jeffrey Epstein was physically produced before Judge Richard M. Berman in Courtroom 17B at SDNY, 500 Pearl Street, at 9:30 AM on July 18, 2019.",
+            "date_start": "2019-07-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Judge Richard M. Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Official prisoner production request confirms Epstein's physical presence in SDNY court on July 18, 2019 for a hearing before Judge Berman.",
+            "evidence": [
+              {
+                "file": "EFTA00014514.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PRISONER PRODUCTION FOR COURT REQUEST... DATE 7/18/19 TIME 9:30 am JUDGE Berman COURT ROOM 17B",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014514.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3e084721112ab129",
+            "event_title": "Conference Before Judge Berman \u2014 US v. Epstein, SDNY, July 31, 2019",
+            "event_type": "legal",
+            "description": "Conference hearing before Judge Richard M. Berman in US v. Epstein (19 Cr. 490) at SDNY on July 31, 2019 at 11:05 AM; Epstein in custody at MCC was produced for this court proceeding.",
+            "date_start": "2019-07-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Martin G. Weinberg",
+                "role": "legal"
+              },
+              {
+                "name": "Judge Richard M. Berman",
+                "role": "legal"
+              },
+              {
+                "name": "Geoffrey S. Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Official court transcript of conference in Epstein's federal criminal case while he was detained; physical presence in SDNY courthouse.",
+            "evidence": [
+              {
+                "file": "EFTA00014546.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "UNITED STATES OF AMERICA v. JEFFREY EPSTEIN, Defendant. Conference. July 31, 2019. 11:05 a.m. HON. RICHARD M. BERMAN, District Judge...New York, N.Y...19 Cr. 490(RMB)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014546.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2305f8c3309684f5",
+            "event_title": "SDNY Press Release: Epstein Charged with Sex Trafficking \u2014 July 8, 2019",
+            "event_type": "presence",
+            "description": "SDNY issued press release on July 8, 2019 announcing charges against Jeffrey Epstein for sex trafficking of minors in both New York and Florida, involving dozens of victims.",
+            "date_start": "2019-07-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Geoffrey S. Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Official DOJ press release announcing federal criminal charges against Epstein at SDNY.",
+            "evidence": [
+              {
+                "file": "EFTA00014638.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Monday, July 8, 2019. JEFFREY EPSTEIN CHARGED IN MANHATTAN FEDERAL COURT WITH SEX TRAFFICKING OF MINORS. Alleged Conduct Occurred in both New York and Florida over Multiple Years, Involving Dozens of Victims. Geoffrey S. Berman, the United States Attorney for the Southern District of New York...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014638.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA01262805",
+            "file": "EFTA01262805.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039025",
+            "file": "EFTA00039025.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039660",
+            "file": "EFTA00039660.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039367",
+            "file": "EFTA00039367.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039383",
+            "file": "EFTA00039383.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013194",
+            "file": "EFTA00013194.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014628",
+            "file": "EFTA00014628.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00008744",
+            "file": "EFTA00008744.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00005740",
+            "file": "EFTA00005740.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00005718",
+            "file": "EFTA00005718.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009781",
+            "file": "EFTA00009781.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009786",
+            "file": "EFTA00009786.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009767",
+            "file": "EFTA00009767.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009775",
+            "file": "EFTA00009775.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00011510",
+            "file": "EFTA00011510.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014348",
+            "file": "EFTA00014348.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009791",
+            "file": "EFTA00009791.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009827",
+            "file": "EFTA00009827.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00011048",
+            "file": "EFTA00011048.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009747",
+            "file": "EFTA00009747.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010968",
+            "file": "EFTA00010968.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014985",
+            "file": "EFTA00014985.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010818",
+            "file": "EFTA00010818.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010941",
+            "file": "EFTA00010941.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010990",
+            "file": "EFTA00010990.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013307",
+            "file": "EFTA00013307.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014330",
+            "file": "EFTA00014330.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014334",
+            "file": "EFTA00014334.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014514",
+            "file": "EFTA00014514.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014546",
+            "file": "EFTA00014546.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014638",
+            "file": "EFTA00014638.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.97552,
           18.342445
         ]
@@ -3047,7 +3859,7 @@
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 11,
-        "evidence_count": 17,
+        "evidence_count": 18,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -3099,6 +3911,10 @@
             "role": "victim"
           },
           {
+            "name": "five underage girls",
+            "role": "victim"
+          },
+          {
             "name": "subject",
             "role": "victim"
           },
@@ -3111,8 +3927,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 13,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA01263156.pdf, EFTA00009809.pdf, EFTA02213008.pdf, ... (+8 more)",
+        "source_count": 14,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA01263156.pdf, EFTA00009809.pdf, EFTA02213008.pdf, ... (+9 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -3457,6 +4273,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "five underage girls",
+                "role": "victim"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               },
@@ -3473,6 +4293,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "In 2005, subject was in 9th grade. They met someone for the first time the night before and went to JE. A message was to be given for 45 minutes, costing $200.00. ... They were at a house in Palm Beach.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009622.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013769.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "After an 11-month investigation, Palm Beach police said there was probable cause to charge Epstein, 53, with unlawful sex acts with a minor and lewd and lascivious molestation. They contend that Epstein...committed those acts with five underage girls.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013769.pdf",
                 "confidence": 0.7
               }
             ]
@@ -3575,8 +4402,667 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00013769",
+            "file": "EFTA00013769.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00010507",
             "file": "EFTA00010507.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8256,
+          18.2999
+        ]
+      },
+      "properties": {
+        "id": "32aca5195cbab655",
+        "name": "Little St. James Island",
+        "location_name": "Little St. James Island",
+        "location_address": "Little St. James Island, U.S. Virgin Islands",
+        "location_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
+        "canonical_name": "Little St. James Island, U.S. Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Little St. James Island",
+        "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
+        "event_count": 11,
+        "evidence_count": 28,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2005-12",
+        "date_end": "2020",
+        "people": [
+          {
+            "name": "victim",
+            "role": "victim"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Paul Byrne",
+            "role": "legal"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          },
+          {
+            "name": "Walter Cronkite",
+            "role": "associate"
+          },
+          {
+            "name": "Kevin Ouvre",
+            "role": "associate"
+          },
+          {
+            "name": "Philippe Van Den Broek",
+            "role": "other"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          }
+        ],
+        "source_count": 26,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01263089.pdf, ... (+21 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
+        "events": [
+          {
+            "event_id": "1f103c36b6bec13a",
+            "event_title": "USVI Officials Interview Trafficking Victims Who Had Been on Epstein's Island \u2014 Late 2020-Early 2021",
+            "event_type": "presence",
+            "description": "USVI officials interviewed underage girls who had been on Epstein's island in late 2020 and early 2021; a trafficking victim participated in approximately two meetings with attorneys about her abuse on the island.",
+            "date_start": "2020",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "victim",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The interviews are of victims who were on Epstein's Little St. James Island; while Epstein was dead, the investigators were probing activities at his property.",
+            "evidence": [
+              {
+                "file": "EFTA02731488.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "US Virgin Islands, in late 2020 and early 2021, officials were trying to interview underage girls who had been on the island; victim was interviewed/participated in around two meetings with a lawyer",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "22f6f8f6af5b4bb6",
+            "event_title": "FBI Seizes 27 Electronic Devices from Little St. James Island \u2014 August 12, 2019",
+            "event_type": "presence",
+            "description": "FBI Task Force Officer Paul Byrne executed search warrant on Epstein's private island Little Saint James, USVI, seizing 27 electronic devices from multiple structures including main residence, pool house, and beach house on August 12, 2019.",
+            "date_start": "2019-08-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Paul Byrne",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Search targeted Epstein's own private island Little Saint James, seizing 27 electronic devices as evidence of his sex trafficking crimes.",
+            "evidence": [
+              {
+                "file": "EFTA01263024.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands. The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands, known as Little Saint James, approximately 75 acres, located four miles off the southeast coast of St. Thomas Island. Multiple structures including a main residence, pool house, sheds, beach house, office, and cabanas.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263024.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01263093.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263093.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262900.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Premises Known as Little Saint James Island, USVI, and Any Buildings, Structures or Containers Thereupon... Little Saint James is an approximately 75 acre island located approximately four (4) miles off the southeast coast of St. Thomas.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262900.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01263089.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands... The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands known as Little Saint James, which is an approximately 75 acre island located approximately four miles off the southeast coast of St. Thomas Island",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263089.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "567a9126fc0f4938",
+            "event_title": "Epstein Requests Karyna Shuliak Booked to 'The Island' (Little St. James) \u2014 May 2017",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein personally requested Lesley Groff book associate Karyna Shuliak for travel to Little St. James Island for Thursday or Friday (around May 25-26, 2017), contingent on Shuliak's visa appointment outcome.",
+            "date_start": "2017-05-20",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally directed the travel arrangements for an associate traveling to his private island, as explicitly stated in the email ('Jeffrey asked to also book').",
+            "evidence": [
+              {
+                "file": "EFTA02212921.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Lesley, Jeffrey asked to also book for Friday if possible please, but keep Thursday for now.\n\nMy current flight to the island is booked for Thursday as you asked, should we rebook for Friday? since my visa appointment is on Wednesday and I will most likely be able to pick up my passport next day",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212921.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213055.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Let's void Karyna's flight to the island this Friday on JetBlue. She will take the flight on Saturday on Delta.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213055.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "78f7f9669f8bc4b5",
+            "event_title": "Epstein Group at Little St. James for Christmas 2005 (Multiple Photo Discs)",
+            "event_type": "presence",
+            "description": "Epstein and associates gathered at Little St. James Island for Christmas 2005, documented across multiple photo discs labeled LSJ XMAS05.",
+            "date_start": "2005-12",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "LSJ (Little St. James) is Epstein's private island; Christmas gathering there is directly connected to him.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ XMAS05 DISK3\n- LSJ XMAS05-DISK2\n- LSJ XMAS05-DISK1\n\t- LSJ XMAS05 SUTON",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6eca02ec414b67ef",
+            "event_title": "Walter Cronkite Visits Little St. James Island with Epstein (January 2007)",
+            "event_type": "presence",
+            "description": "Walter Cronkite visited Jeffrey Epstein at Little St. James Island in January 2007, documented in seized photo discs.",
+            "date_start": "2007-01",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Walter Cronkite",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Walter Cronkite was photographed at Epstein's private island Little St. James in January 2007.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WALTER\nCRONKITE 1/07",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "862753620a743ada",
+            "event_title": "Epstein Group Jet Skiing at Little St. James Island",
+            "event_type": "presence",
+            "description": "Epstein and associates participated in jet ski activities at Little St. James Island, documented in seized photo discs.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jet ski photos at LSJ were seized from Epstein property as evidence.",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ Aerials= jet ski\n\nDSCF0022_1.TIF  DSCF0023_1.TIF",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ boat view\n\nDSCF0001_1.TIF DSCF0002_1.TIF",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004663.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004348.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "LSJ\n\nLSJ00.JPG  LSJ01.JPG  LSJ02.JPG\n...\nLSJ79.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004348.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262960.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The Subject Premises are particularly described as a private island in the U.S. Virgin Islands known as Little Saint James... approximately 75 acre island located approximately four (4) miles off the southeast coast of St. Thomas. The Subject Premises contains multiple structures, including: a main residence with stone exterior and blue roof, cabanas, pool house, dock house, and helipad.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262960.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4e9b5945d175e30c",
+            "event_title": "Epstein Returns from Palm Beach to USVI Permanent Residence (October 13, 2018)",
+            "event_type": "travel",
+            "description": "Epstein planned to return from Palm Beach to his permanent USVI residence on October 13, 2018, per sex offender travel notice submitted by attorney Darren Indyke.",
+            "date_start": "2018-10-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's attorney notified USVI sex offender registry of his return trip from Palm Beach to his permanent USVI residence.",
+            "evidence": [
+              {
+                "file": "EFTA01263156.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On October 13, 2018, Mr. Epstein plans to return from his vacation home in Palm Beach, Florida to his permanent residence in the U.S Virgin Islands and will email you upon his return.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263156.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cc6913c1bcbc0542",
+            "event_title": "Epstein on Little St. James Island Thursday\u2013Friday (May 25\u201326, 2017)",
+            "event_type": "presence",
+            "description": "Epstein was on Little Saint James Island May 25-26, 2017, and invited Philippe Van Den Broek and Kevin Ouvre for a visit and trip to the island.",
+            "date_start": "2017-05-25",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kevin Ouvre",
+                "role": "associate"
+              },
+              {
+                "name": "Philippe Van Den Broek",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Philippe Van den Broek",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's assistant confirms he is physically on his private island (Little Saint James) on May 25-26, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02213447.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213447.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213521.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213521.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213525.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213525.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213537.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213537.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213541.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213541.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213550.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on his island Thursday and Friday...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213550.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213553.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on his island Thursday and Friday...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213553.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214025.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Do you want me to come on the island this week or should we wait until Philippe is back To come together?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214025.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214025.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey...is on his island Thursday and Friday...and says if you would like to make a trip over that would be great",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214025.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214438.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Kevin will not be staying at the Marriott! (Jeffrey invited him to stay on his island instead).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214438.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "926adec19c8e9d3c",
+            "event_title": "Epstein Departs Little St. James Island for New York, May 30, 2017",
+            "event_type": "travel",
+            "description": "Epstein departed Little St. James Island early on May 30, 2017 to travel to New York City",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Calendar shows Epstein physically at Little St. James Island departing May 30.",
+            "evidence": [
+              {
+                "file": "EFTA02213637.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Depart LSI early...Arrive NY",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213637.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213979.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is unfortunately not in town",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213979.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0c41e77fdd370293",
+            "event_title": "Larry Visoski Flies Epstein to Little St. James Island (June 21, 2017)",
+            "event_type": "presence",
+            "description": "Pilot Larry Visoski confirmed he was flying Jeffrey Epstein to Little St. James Island on Wednesday June 21, 2017, with Epstein planning to stay longer than anticipated.",
+            "date_start": "2017-06-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal pilot confirmed directly flying him to his private island.",
+            "evidence": [
+              {
+                "file": "EFTA02215431.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey has me flying to the island on Wed-I think he might stay a bit longer on the island...He did not mention coming back to NY this week.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215431.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3b4159be2038e621",
+            "event_title": "Epstein NY Sex Offender Registration \u2014 Domicile: Little St. James Island (June 2019)",
+            "event_type": "presence",
+            "description": "New York DCJS sex offender registration for Jeffrey Epstein (Offender ID 33216, Risk Level 3) shows his primary registered address as Little St. James Island, USVI as of June 27, 2019.",
+            "date_start": "2019-06-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Official NY sex offender registration confirms Epstein's primary residence as Little St. James Island shortly before his July 6, 2019 arrest.",
+            "evidence": [
+              {
+                "file": "EFTA00014421.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Offender Id 33216...Last Name EPSTEIN...First Name JEFFREY...Risk Level 3...Current Addresses: Type RES (Primary) County Address LITTLE ST JAMES...Photo Date April 27, 2018",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014421.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02731488",
+            "file": "EFTA02731488.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263024",
+            "file": "EFTA01263024.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263093",
+            "file": "EFTA01263093.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262900",
+            "file": "EFTA01262900.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263089",
+            "file": "EFTA01263089.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212921",
+            "file": "EFTA02212921.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213055",
+            "file": "EFTA02213055.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004663",
+            "file": "EFTA00004663.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004348",
+            "file": "EFTA00004348.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262960",
+            "file": "EFTA01262960.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263156",
+            "file": "EFTA01263156.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213447",
+            "file": "EFTA02213447.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213521",
+            "file": "EFTA02213521.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213525",
+            "file": "EFTA02213525.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213537",
+            "file": "EFTA02213537.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213541",
+            "file": "EFTA02213541.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213550",
+            "file": "EFTA02213550.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213553",
+            "file": "EFTA02213553.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214025",
+            "file": "EFTA02214025.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214438",
+            "file": "EFTA02214438.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213637",
+            "file": "EFTA02213637.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213979",
+            "file": "EFTA02213979.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215431",
+            "file": "EFTA02215431.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014421",
+            "file": "EFTA00014421.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -3930,591 +5416,6 @@
           {
             "doc_id": "EFTA00010075",
             "file": "EFTA00010075.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.002663,
-          40.713878
-        ]
-      },
-      "properties": {
-        "id": "4effa815debba2cc",
-        "name": "Thurgood Marshall U.S. Courthouse",
-        "location_name": "Thurgood Marshall U.S. Courthouse",
-        "location_address": "40 Centre Street, New York City, New York 10007, United States",
-        "location_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "canonical_name": "Thurgood Marshall U.S. Courthouse, 40 Foley Square, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Thurgood Marshall U.S. Courthouse",
-        "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 10,
-        "evidence_count": 26,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2019-07-02",
-        "date_end": "2022-01-03",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "subject"
-          },
-          {
-            "name": "Detective (NYPD)",
-            "role": "legal"
-          },
-          {
-            "name": "Geoffrey S. Berman",
-            "role": "legal"
-          },
-          {
-            "name": "Tova Noel",
-            "role": "other"
-          },
-          {
-            "name": "Michael Thomas",
-            "role": "other"
-          }
-        ],
-        "source_count": 23,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+18 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "events": [
-          {
-            "event_id": "a48f10aa264d44f1",
-            "event_title": "Grand Jury Indicts Epstein on Sex Trafficking Charges, Southern District of New York \u2014 July 2, 2019",
-            "event_type": "presence",
-            "description": "Grand jury in the Southern District of New York returned an indictment charging Jeffrey Epstein with sex trafficking of minors and sex trafficking conspiracy on July 2, 2019.",
-            "date_start": "2019-07-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The indictment directly charges Jeffrey Epstein himself with federal sex trafficking crimes in New York.",
-            "evidence": [
-              {
-                "file": "EFTA01262805.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On or about July 2, 2019, a grand jury in this District returned an Indictment charging JEFFREY EPSTEIN with the Subject Offenses.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262805.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039025.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Epstein was assigned to a cell in the SHU on July 7 due to media coverage of his case and inmate awareness of his notoriety. SHU inmates are securely separated from general population inmates and kept locked in their cells for approximately 23 hours a day.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039660.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Good morning: Same presentation today, but he said he thinks his memory for the incident (injury to his neck) may be impaired because of his sleep apnea. He is supposed to get his CPAP machine today... He requested to have one good night of sleep with his CPAP and will return to SHU with a cellmate tomorrow.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039660.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "He was transported to MCC New York and keyed into SENTRY at 9:24 p.m. that evening. Mr. Epstein was placed in a general population housing unit for approximately 22 hours.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On July 7, 2019, at approximately 7:20 p.m. he was moved to the Special Housing Unit (SHU) pending reclassification due to the significant increase in media coverage and awareness of his notoriety among the inmate population.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039383.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "This ruling follows the Court's bail hearing held on July 15, 2019. The issue before the Court is whether the Defendant should continue to be remanded (incarcerated) pending trial or whether he should be granted release while the case proceeds.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00013194.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I reached out to David to see if we want the original ligature used on July 23 to compare to the ligature from August 10th?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013194.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "5885fab1fd1b8e1d",
-            "event_title": "NYPD Detective Testifies Before Maxwell Grand Jury at Foley Square \u2014 March 29, 2021",
-            "event_type": "legal",
-            "description": "An NYPD detective and FBI task force officer testified before the Southern District of New York grand jury regarding the investigation into Jeffrey Epstein and Ghislaine Maxwell at the U.S. Courthouse at Foley Square on March 29, 2021.",
-            "date_start": "2021-03-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              },
-              {
-                "name": "Detective (NYPD)",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The grand jury proceeding directly investigated Epstein's criminal network, with testimony about the Epstein-Maxwell investigation, though Epstein had died by this date.",
-            "evidence": [
-              {
-                "file": "EFTA00008744.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "UNITED STATES GRAND JURY\nSOUTHERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA v. GHISLAINE MAXWELL\nUnited States Courthouse\nFoley Square\nNew York, New York\nMarch 29, 2021\n10:05 a.m.\n\ncalled as a witness, having been duly sworn by the Foreperson of the Grand Jury, was examined and testified as follows",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8446fca7cfedf96e",
-            "event_title": "SDNY Grand Jury Subpoena: Unnamed Witness Ordered to Testify in Epstein Investigation (Jul 2019)",
-            "event_type": "presence",
-            "description": "SDNY grand jury subpoena commanded a redacted witness to appear at 40 Foley Square, Room 220, Manhattan on July 24, 2019 to testify in the federal Epstein sex trafficking investigation under 18 U.S.C. \u00a7\u00a7 1591, 2421-2423.",
-            "date_start": "2019-07-24",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Geoffrey S. Berman",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The subpoena is part of the SDNY federal investigation into Epstein-related sex trafficking offenses but Epstein himself is not the witness being summoned.",
-            "evidence": [
-              {
-                "file": "EFTA00005740.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Grand Jury Subpoena\nSOUTHERN DISTRICT OF NEW YORK\nWE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York\n\nAppearance Date: July 24, 2019\nAppearance Time: 10:00 a.m.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005740.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00005718.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "WE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York, New York, in the Southern District of New York, at the following date, time and place: Appearance Date: July 24, 2019 Appearance Time: 10:00 a.m.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "2a26e6074d641753",
-            "event_title": "MCC Guard Tova Noel Indicted by SDNY Grand Jury for Falsifying Epstein Watch Records (Nov 2019)",
-            "event_type": "presence",
-            "description": "MCC guard Tova Noel indicted by SDNY grand jury on six counts for falsifying federal prison records related to monitoring of Jeffrey Epstein prior to his death.",
-            "date_start": "2019-11-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Tova Noel",
-                "role": "other"
-              },
-              {
-                "name": "Michael Thomas",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Tova Noel was the MCC guard charged with falsifying records about checking on Epstein; the indictment is directly connected to Epstein's death but Epstein was not present at SDNY.",
-            "evidence": [
-              {
-                "file": "EFTA00009781.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On November 19, 2019, a grand jury sitting in this District returned a six-count indictment (the \"Indictment\"), which charged Tova Noel with committing offenses against the United States... United States District Court, Southern District of New York",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009781.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00009786.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On November 19, 2019, a grand jury sitting in this District returned a six-count indictment (the \"Indictment\"), which charged Michael Thomas with committing offenses against the United States... United States District Court, Southern District of New York, 19 Cr. 830 (AT)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009786.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "39fe15938cb2c66a",
-            "event_title": "MCC Guards Log 30-Minute Checks on Epstein in Special Housing Unit \u2014 Night Before His Death",
-            "event_type": "presence",
-            "description": "MCC Special Housing Unit L-Tier 30-minute check log documents guards monitoring Epstein the night before his death on August 10, 2019.",
-            "date_start": "2019-08-09",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically housed in MCC Special Housing Unit L-Tier on August 9, 2019, the night before he was found dead.",
-            "evidence": [
-              {
-                "file": "EFTA00009767.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MCC NEW YORK\nSPECIAL HOUSING UNIT\n30 MINUTE CHECK SHEET\nL-TIER\nDATE: 08/09/2019",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009767.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00009775.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MCC NEW YORK\nSPECIAL HOUSING UNIT\n30 MINUTE CHECK SHEET\nZA\nTIER-G\nDATE: 08/10/2019",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009775.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039025.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "on August 10, 2019, in the Metropolitan Correctional Center in New York, New York (MCC New York), Epstein was found hanged in his assigned cell within the Special Housing Unit (SHU).",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mr. Jeffrey Epstein was a 66-year-old, White male who died on August 10, 2019, while housed at the Metropolitan Correctional Complex (MCC), in New York, New York.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00011510.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mr. Epstein had been found unresponsive in his cell in the Special Housing Unit at around 6:30 am from an apparent suicide at the Metropolitan Correctional Center (MCC) in New York, New York. Responding staff immediately initiated life-saving measures and requested emergency medical services (EMS), by whom Mr. Epstein was transported to a local hospital for treatment of life-threatening injuries. Mr. Epstein was pronounced dead",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011510.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "4a32aef22264a3cd",
-            "event_title": "Charges Dropped Against MCC Guards Noel and Thomas Who Falsified Epstein Watch Records (Jan 2022)",
-            "event_type": "presence",
-            "description": "SDNY filed nolle prosequi dismissing all charges against MCC guards Tova Noel and Michael Thomas after they complied with deferred prosecution agreements for falsifying Epstein watch records.",
-            "date_start": "2022-01-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Tova Noel",
-                "role": "other"
-              },
-              {
-                "name": "Michael Thomas",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Noel and Thomas were the MCC guards charged with falsifying records about monitoring Epstein; the case dismissal is the final legal outcome connected to his death.",
-            "evidence": [
-              {
-                "file": "EFTA00009791.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "filing of this nolle prosequi will dispose of this case with respect to TOVA NOEL and MICHAEL THOMAS... 19 Cr. 830 (AT)... United States District Court, Southern District of New York... DATE FILED: 1/3/2022",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009791.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d375b64871320f33",
-            "event_title": "Maxwell Files Notice of Appearance in 2nd Circuit Appeal (April 13, 2021)",
-            "event_type": "legal",
-            "description": "Ghislaine Maxwell filed acknowledgment and notice of appearance as Appellant in U.S. Court of Appeals 2nd Circuit case 21-58 on April 13, 2021.",
-            "date_start": "2021-04-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Maxwell is Epstein's co-conspirator; her appellate court filing is part of proceedings directly stemming from Epstein-related sex trafficking crimes.",
-            "evidence": [
-              {
-                "file": "EFTA00009827.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Case Name: United States of America v. Maxwell\nCase Number: 21-58\nACKNOWLEDGMENT AND NOTICE OF APPEARANCE, on behalf of Appellant Ghislaine Maxwell, FILED. Service date 04/13/2021",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009827.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00011048.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "anything after Ghislaine Maxwell's arraignment at 2:30 won't get much attention.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00011048.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "328745262277719e",
-            "event_title": "MCC Guards Fail to Check on Epstein; Epstein Found Dead in SHU Cell",
-            "event_type": "presence",
-            "description": "Correctional officers Tova Noel and Michael Thomas failed to perform required prisoner counts in the MCC Special Housing Unit, during which Jeffrey Epstein died.",
-            "date_start": "2019-08-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Tova Noel",
-                "role": "other"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Michael Thomas",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at MCC and died there while guards were derelict in their duties.",
-            "evidence": [
-              {
-                "file": "EFTA00009747.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On or about August 10, 2019, TOVA NOEL and MICHAEL THOMAS, the defendants, in dereliction of their duties as correctional officers at the Metropolitan Correctional Center (\"MCC\"), repeatedly failed to perform mandated counts of prisoners under their watch in the MCC's Special Housing Unit (\"SHU\").",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009747.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00010968.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "no correctional officer conducted any count or round of the SHU from approximately 10:30 p.m. on August 9 until approximately 6:30 a.m. on August 10, at which time, as alleged herein, NOEL and THOMAS discovered the body of an MCC inmate, Jeffrey Epstein, who had committed suicide overnight while unobserved.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010968.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "45a332314485b098",
-            "event_title": "Ghislaine Maxwell Trial Opens at Thurgood Marshall U.S. Courthouse, Nov 29 2021",
-            "event_type": "legal",
-            "description": "Ghislaine Maxwell's criminal trial for sex trafficking and related offenses opened at the Thurgood Marshall U.S. Courthouse in New York, with jury selection and opening statements beginning November 29, 2021.",
-            "date_start": "2021-11-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Maxwell was Epstein's longtime associate and co-conspirator; her trial directly concerns her role in Epstein's sex trafficking network.",
-            "evidence": [
-              {
-                "file": "EFTA00010818.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Main courtroom: 40 Foley, courtroom 318\nOverflow courtrooms: 110, 506, 905, and 906.\nTiming: we'll start at 8:30 a.m. with peremptory challenges, and we expect to go straight to preliminary instructions and opening statements.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010818.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00010941.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Trial began on November 29, 2021, with jury selection. Specifically, consistent with the District's COVID-19 protocols, the Court will ensure public access (with COVID-19 distancing) to the trial in the courtroom itself and in several overflow rooms at the courthouse with live feeds of the proceedings.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010941.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e2ea555254c8f374",
-            "event_title": "Ghislaine Maxwell Arrested and Charged in Manhattan Federal Court, July 2, 2020",
-            "event_type": "legal",
-            "description": "Ghislaine Maxwell was arrested and charged in Manhattan federal court on July 2, 2020 for enticing and transporting minors for criminal sexual activity and conspiracy to commit those offenses, and for perjury in a 2016 deposition, in connection with Jeffrey Epstein's abuse of girls as young as 14 from 1994 to 1997.",
-            "date_start": "2020-07-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Maxwell was Epstein's longtime co-conspirator; her arrest directly concerns her facilitation of Epstein's sex trafficking network.",
-            "evidence": [
-              {
-                "file": "EFTA00010990.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "GHISLANE MAXWELL was arrested this morning and charged with enticing a minor to travel to engage in criminal sexual activity, transporting a minor with the intent to engage in criminal sexual activity, conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00010990.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00013307.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The Court held a lengthy bail hearing on July 14, 2020. After extensive briefing and argument at the hearing, the Court concluded that the Defendant was a clear r",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013307.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA01262805",
-            "file": "EFTA01262805.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039025",
-            "file": "EFTA00039025.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039660",
-            "file": "EFTA00039660.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039367",
-            "file": "EFTA00039367.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039383",
-            "file": "EFTA00039383.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00013194",
-            "file": "EFTA00013194.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00008744",
-            "file": "EFTA00008744.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00005740",
-            "file": "EFTA00005740.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00005718",
-            "file": "EFTA00005718.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009781",
-            "file": "EFTA00009781.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009786",
-            "file": "EFTA00009786.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009767",
-            "file": "EFTA00009767.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009775",
-            "file": "EFTA00009775.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00011510",
-            "file": "EFTA00011510.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009791",
-            "file": "EFTA00009791.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009827",
-            "file": "EFTA00009827.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00011048",
-            "file": "EFTA00011048.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009747",
-            "file": "EFTA00009747.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00010968",
-            "file": "EFTA00010968.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00010818",
-            "file": "EFTA00010818.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00010941",
-            "file": "EFTA00010941.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00010990",
-            "file": "EFTA00010990.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00013307",
-            "file": "EFTA00013307.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -5330,628 +6231,6 @@
           {
             "doc_id": "EFTA02214117",
             "file": "EFTA02214117.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.8256,
-          18.2999
-        ]
-      },
-      "properties": {
-        "id": "32aca5195cbab655",
-        "name": "Little St. James Island",
-        "location_name": "Little St. James Island",
-        "location_address": "Little St. James Island, U.S. Virgin Islands",
-        "location_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "canonical_name": "Little St. James Island, U.S. Virgin Islands",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Little St. James Island",
-        "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "event_count": 10,
-        "evidence_count": 27,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2005-12",
-        "date_end": "2020",
-        "people": [
-          {
-            "name": "victim",
-            "role": "victim"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Paul Byrne",
-            "role": "legal"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Karyna Shuliak",
-            "role": "associate"
-          },
-          {
-            "name": "Walter Cronkite",
-            "role": "associate"
-          },
-          {
-            "name": "Kevin Ouvre",
-            "role": "associate"
-          },
-          {
-            "name": "Philippe Van Den Broek",
-            "role": "other"
-          },
-          {
-            "name": "Larry Visoski",
-            "role": "staff"
-          }
-        ],
-        "source_count": 25,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01263089.pdf, ... (+20 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "events": [
-          {
-            "event_id": "1f103c36b6bec13a",
-            "event_title": "USVI Officials Interview Trafficking Victims Who Had Been on Epstein's Island \u2014 Late 2020-Early 2021",
-            "event_type": "presence",
-            "description": "USVI officials interviewed underage girls who had been on Epstein's island in late 2020 and early 2021; a trafficking victim participated in approximately two meetings with attorneys about her abuse on the island.",
-            "date_start": "2020",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "victim",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The interviews are of victims who were on Epstein's Little St. James Island; while Epstein was dead, the investigators were probing activities at his property.",
-            "evidence": [
-              {
-                "file": "EFTA02731488.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "US Virgin Islands, in late 2020 and early 2021, officials were trying to interview underage girls who had been on the island; victim was interviewed/participated in around two meetings with a lawyer",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "22f6f8f6af5b4bb6",
-            "event_title": "FBI Seizes 27 Electronic Devices from Little St. James Island \u2014 August 12, 2019",
-            "event_type": "presence",
-            "description": "FBI Task Force Officer Paul Byrne executed search warrant on Epstein's private island Little Saint James, USVI, seizing 27 electronic devices from multiple structures including main residence, pool house, and beach house on August 12, 2019.",
-            "date_start": "2019-08-12",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Paul Byrne",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Search targeted Epstein's own private island Little Saint James, seizing 27 electronic devices as evidence of his sex trafficking crimes.",
-            "evidence": [
-              {
-                "file": "EFTA01263024.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands. The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands, known as Little Saint James, approximately 75 acres, located four miles off the southeast coast of St. Thomas Island. Multiple structures including a main residence, pool house, sheds, beach house, office, and cabanas.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263024.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA01263093.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263093.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA01262900.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Premises Known as Little Saint James Island, USVI, and Any Buildings, Structures or Containers Thereupon... Little Saint James is an approximately 75 acre island located approximately four (4) miles off the southeast coast of St. Thomas.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262900.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA01263089.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands... The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands known as Little Saint James, which is an approximately 75 acre island located approximately four miles off the southeast coast of St. Thomas Island",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263089.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "567a9126fc0f4938",
-            "event_title": "Epstein Requests Karyna Shuliak Booked to 'The Island' (Little St. James) \u2014 May 2017",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein personally requested Lesley Groff book associate Karyna Shuliak for travel to Little St. James Island for Thursday or Friday (around May 25-26, 2017), contingent on Shuliak's visa appointment outcome.",
-            "date_start": "2017-05-20",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Karyna Shuliak",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally directed the travel arrangements for an associate traveling to his private island, as explicitly stated in the email ('Jeffrey asked to also book').",
-            "evidence": [
-              {
-                "file": "EFTA02212921.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Lesley, Jeffrey asked to also book for Friday if possible please, but keep Thursday for now.\n\nMy current flight to the island is booked for Thursday as you asked, should we rebook for Friday? since my visa appointment is on Wednesday and I will most likely be able to pick up my passport next day",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212921.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213055.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Let's void Karyna's flight to the island this Friday on JetBlue. She will take the flight on Saturday on Delta.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213055.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "78f7f9669f8bc4b5",
-            "event_title": "Epstein Group at Little St. James for Christmas 2005 (Multiple Photo Discs)",
-            "event_type": "presence",
-            "description": "Epstein and associates gathered at Little St. James Island for Christmas 2005, documented across multiple photo discs labeled LSJ XMAS05.",
-            "date_start": "2005-12",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "LSJ (Little St. James) is Epstein's private island; Christmas gathering there is directly connected to him.",
-            "evidence": [
-              {
-                "file": "EFTA00005091.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "LSJ XMAS05 DISK3\n- LSJ XMAS05-DISK2\n- LSJ XMAS05-DISK1\n\t- LSJ XMAS05 SUTON",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6eca02ec414b67ef",
-            "event_title": "Walter Cronkite Visits Little St. James Island with Epstein (January 2007)",
-            "event_type": "presence",
-            "description": "Walter Cronkite visited Jeffrey Epstein at Little St. James Island in January 2007, documented in seized photo discs.",
-            "date_start": "2007-01",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Walter Cronkite",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Walter Cronkite was photographed at Epstein's private island Little St. James in January 2007.",
-            "evidence": [
-              {
-                "file": "EFTA00005091.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "WALTER\nCRONKITE 1/07",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "862753620a743ada",
-            "event_title": "Epstein Group Jet Skiing at Little St. James Island",
-            "event_type": "presence",
-            "description": "Epstein and associates participated in jet ski activities at Little St. James Island, documented in seized photo discs.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jet ski photos at LSJ were seized from Epstein property as evidence.",
-            "evidence": [
-              {
-                "file": "EFTA00004250.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "LSJ Aerials= jet ski\n\nDSCF0022_1.TIF  DSCF0023_1.TIF",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00004663.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "LSJ boat view\n\nDSCF0001_1.TIF DSCF0002_1.TIF",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004663.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00004348.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "LSJ\n\nLSJ00.JPG  LSJ01.JPG  LSJ02.JPG\n...\nLSJ79.JPG",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004348.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA01262960.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The Subject Premises are particularly described as a private island in the U.S. Virgin Islands known as Little Saint James... approximately 75 acre island located approximately four (4) miles off the southeast coast of St. Thomas. The Subject Premises contains multiple structures, including: a main residence with stone exterior and blue roof, cabanas, pool house, dock house, and helipad.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262960.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "4e9b5945d175e30c",
-            "event_title": "Epstein Returns from Palm Beach to USVI Permanent Residence (October 13, 2018)",
-            "event_type": "travel",
-            "description": "Epstein planned to return from Palm Beach to his permanent USVI residence on October 13, 2018, per sex offender travel notice submitted by attorney Darren Indyke.",
-            "date_start": "2018-10-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's attorney notified USVI sex offender registry of his return trip from Palm Beach to his permanent USVI residence.",
-            "evidence": [
-              {
-                "file": "EFTA01263156.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On October 13, 2018, Mr. Epstein plans to return from his vacation home in Palm Beach, Florida to his permanent residence in the U.S Virgin Islands and will email you upon his return.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263156.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "cc6913c1bcbc0542",
-            "event_title": "Epstein on Little St. James Island Thursday\u2013Friday (May 25\u201326, 2017)",
-            "event_type": "presence",
-            "description": "Epstein was on Little Saint James Island May 25-26, 2017, and invited Philippe Van Den Broek and Kevin Ouvre for a visit and trip to the island.",
-            "date_start": "2017-05-25",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kevin Ouvre",
-                "role": "associate"
-              },
-              {
-                "name": "Philippe Van Den Broek",
-                "role": "other"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Philippe Van den Broek",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's assistant confirms he is physically on his private island (Little Saint James) on May 25-26, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02213447.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213447.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213521.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213521.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213525.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213525.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213537.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213537.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213541.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he is on his island Thursday and Friday...and says if you would like to make a trip over that would be great.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213541.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213550.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he is on his island Thursday and Friday...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213550.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213553.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he is on his island Thursday and Friday...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213553.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214025.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Do you want me to come on the island this week or should we wait until Philippe is back To come together?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214025.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214025.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey...is on his island Thursday and Friday...and says if you would like to make a trip over that would be great",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214025.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214438.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Kevin will not be staying at the Marriott! (Jeffrey invited him to stay on his island instead).",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214438.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "926adec19c8e9d3c",
-            "event_title": "Epstein Departs Little St. James Island for New York, May 30, 2017",
-            "event_type": "travel",
-            "description": "Epstein departed Little St. James Island early on May 30, 2017 to travel to New York City",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Calendar shows Epstein physically at Little St. James Island departing May 30.",
-            "evidence": [
-              {
-                "file": "EFTA02213637.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Depart LSI early...Arrive NY",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213637.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213979.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey is unfortunately not in town",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213979.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "0c41e77fdd370293",
-            "event_title": "Larry Visoski Flies Epstein to Little St. James Island (June 21, 2017)",
-            "event_type": "presence",
-            "description": "Pilot Larry Visoski confirmed he was flying Jeffrey Epstein to Little St. James Island on Wednesday June 21, 2017, with Epstein planning to stay longer than anticipated.",
-            "date_start": "2017-06-21",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's personal pilot confirmed directly flying him to his private island.",
-            "evidence": [
-              {
-                "file": "EFTA02215431.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey has me flying to the island on Wed-I think he might stay a bit longer on the island...He did not mention coming back to NY this week.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215431.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02731488",
-            "file": "EFTA02731488.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263024",
-            "file": "EFTA01263024.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263093",
-            "file": "EFTA01263093.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01262900",
-            "file": "EFTA01262900.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263089",
-            "file": "EFTA01263089.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212921",
-            "file": "EFTA02212921.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213055",
-            "file": "EFTA02213055.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00005091",
-            "file": "EFTA00005091.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00004250",
-            "file": "EFTA00004250.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00004663",
-            "file": "EFTA00004663.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00004348",
-            "file": "EFTA00004348.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01262960",
-            "file": "EFTA01262960.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263156",
-            "file": "EFTA01263156.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213447",
-            "file": "EFTA02213447.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213521",
-            "file": "EFTA02213521.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213525",
-            "file": "EFTA02213525.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213537",
-            "file": "EFTA02213537.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213541",
-            "file": "EFTA02213541.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213550",
-            "file": "EFTA02213550.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213553",
-            "file": "EFTA02213553.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214025",
-            "file": "EFTA02214025.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214438",
-            "file": "EFTA02214438.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213637",
-            "file": "EFTA02213637.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213979",
-            "file": "EFTA02213979.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215431",
-            "file": "EFTA02215431.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -7169,6 +7448,210 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.060281,
+          26.714063
+        ]
+      },
+      "properties": {
+        "id": "c53a7fe1a2108309",
+        "name": "Paul G. Rogers Federal Building and U.S. Courthouse",
+        "location_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
+        "location_address": "701 Clematis Street, West Palm Beach, Florida 33401, United States",
+        "location_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
+        "canonical_name": "Paul G. Rogers Federal Building and U.S. Courthouse, 701 Clematis Street, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
+        "location_descriptor": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
+        "event_count": 4,
+        "evidence_count": 4,
+        "primary_event_type": "legal",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2007-05-15",
+        "date_end": "2009-06-12",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Special Agent",
+            "role": "witness"
+          },
+          {
+            "name": "Judge Marra",
+            "role": "legal"
+          },
+          {
+            "name": "Brad Edwards",
+            "role": "legal"
+          },
+          {
+            "name": "Bradley J. Edwards",
+            "role": "legal"
+          },
+          {
+            "name": "Judge Kenneth A. Marra",
+            "role": "legal"
+          }
+        ],
+        "source_count": 4,
+        "sources_preview": "EFTA00009512.pdf, EFTA00013831.pdf, EFTA00014001.pdf, EFTA00014192.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "legal",
+        "event_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
+        "events": [
+          {
+            "event_id": "a6336432d08ffc3f",
+            "event_title": "FBI Agent Testifies to Grand Jury in Operation Leap Year, West Palm Beach (May 15, 2007)",
+            "event_type": "legal",
+            "description": "FBI Special Agent testified to the Federal Grand Jury (Grand Jury #07-103) at West Palm Beach Division courthouse on May 15, 2007 regarding Operation Leap Year and evidence of Epstein's offenses against underage victims.",
+            "date_start": "2007-05-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Special Agent",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Grand jury testimony is directly about Jeffrey Epstein and his criminal offenses (Operation Leap Year investigation).",
+            "evidence": [
+              {
+                "file": "EFTA00009512.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The sworn testimony of [redacted] before the Federal Grand Jury, West Palm Beach Division, 701 Clematis Street, West Palm Beach, Palm Beach County, state of Florida, on the 15th day of May, 2007.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009512.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "032dd5613226e38c",
+            "event_title": "AUSA Attends Hearing Before Judge Marra on NPA Disclosure to Epstein Victims",
+            "event_type": "legal",
+            "description": "AUSA attended a federal court hearing before Judge Marra in West Palm Beach on August 14, 2008, regarding the court-ordered disclosure of Epstein's non-prosecution agreement to victim plaintiffs under a protective order.",
+            "date_start": "2008-08-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Judge Marra",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Legal proceedings directly related to Epstein's non-prosecution agreement, but Epstein was not personally present at the hearing.",
+            "evidence": [
+              {
+                "file": "EFTA00013831.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We just finished our hearing with Judge Marra. He has ordered us to make the Agreement available to the plaintiffs in this case pursuant to a protective order limiting the disclosure to the victims and their counsel only.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013831.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a7ab1bfa4a1b1ece",
+            "event_title": "CVRA Victims' Petition Hearing Before Judge Marra \u2014 July 11, 2008",
+            "event_type": "presence",
+            "description": "CVRA victims' petition hearing before Judge Marra in West Palm Beach on July 11, 2008, lasting 45 minutes; victim attorneys (Brad Edwards) argued for rights under the Crime Victims' Rights Act regarding Epstein's non-prosecution agreement.",
+            "date_start": "2008-07-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Judge Marra",
+                "role": "legal"
+              },
+              {
+                "name": "Brad Edwards",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Federal court hearing directly about Epstein's non-prosecution agreement and victims' rights, but Epstein was not personally present.",
+            "evidence": [
+              {
+                "file": "EFTA00014001.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The hearing this morning lasted 45 minutes. Judge Marra first heard argument from Brad Edwards",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014001.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "85e00c4059220f4e",
+            "event_title": "Motion Hearing Before Judge Marra \u2014 Jane Doe v. Epstein, West Palm Beach",
+            "event_type": "presence",
+            "description": "Motion hearing before Judge Kenneth A. Marra in the Jane Doe et al. v. Jeffrey Epstein civil case (No. 08-80119) in West Palm Beach on June 12, 2009; victim attorneys Adam Horowitz and Brad Edwards appeared.",
+            "date_start": "2009-06-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Bradley J. Edwards",
+                "role": "legal"
+              },
+              {
+                "name": "Judge Kenneth A. Marra",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Federal civil hearing directly related to Epstein's abuse of victims; legal proceedings about his non-prosecution agreement, but Epstein not personally present.",
+            "evidence": [
+              {
+                "file": "EFTA00014192.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TRANSCRIPT OF MOTION HEARING BEFORE THE HONORABLE KENNETH A. MARRA, UNITED STATES DISTRICT JUDGE...JUNE 12, 2009...WEST PALM BEACH, FLORIDA...JANE DOE, et al., Plaintiffs, vs. JEFFREY EPSTEIN, Defendant.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014192.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00009512",
+            "file": "EFTA00009512.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013831",
+            "file": "EFTA00013831.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014001",
+            "file": "EFTA00014001.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014192",
+            "file": "EFTA00014192.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.003979,
           40.660308
         ]
@@ -7851,7 +8334,7 @@
         "display_name": "Palm Beach County Courthouse",
         "location_descriptor": "The main courthouse for the 15th Judicial Circuit, located in downtown West Palm Beach, Florida, serving Palm Beach County's civil and criminal court proceedings.",
         "event_count": 3,
-        "evidence_count": 3,
+        "evidence_count": 7,
         "primary_event_type": "legal",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -7863,8 +8346,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA00010496.pdf, EFTA00013495.pdf, EFTA00013558.pdf",
+        "source_count": 7,
+        "sources_preview": "EFTA00010496.pdf, EFTA00013495.pdf, EFTA00013558.pdf, EFTA00013828.pdf, EFTA00013878.pdf, ... (+2 more)",
         "epstein_nexus": "direct",
         "event_type": "legal",
         "event_description": "The main courthouse for the 15th Judicial Circuit, located in downtown West Palm Beach, Florida, serving Palm Beach County's civil and criminal court proceedings.",
@@ -7947,6 +8430,34 @@
                 "excerpt": "Just got back from Epstein hearing",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013558.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013828.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein pled this morning. Here's the article from the Palm Beach Post.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013828.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013878.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On June 30, 2008, Jeffrey Epstein (hereinafter referred to as \"Epstein) entered a plea of guilty to violations of Florida Statutes Sections 796.07 (felony solicitation of prostitution) and 796.03 (procurement of minors to engage in prostitution), in the 15th Judicial Circuit in and for Palm Beach County (Case Nos. 2006-cf-009495AXXXMB and 2008- ) and was sentenced to a term of eighteen months' imprisonment to be followed by years of probation.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013878.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013888.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On June 30, 2008, Jeffrey Epstein entered a plea of guilty to violations of Florida Statutes Sections 796.07 (felony solicitation of prostitution) and 796.03 (procurement of minors to engage in prostitution), in the 15th Judicial Circuit in and for Palm Beach County (Case Nos. 2006-cf-009454AXXXMB and 2008-cf-009381AXXXMB) and was sentenced to eighteen months' imprisonment followed by twelve months of Community Control.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013888.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00014087.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Circuit Judge Deborah Dale Pucillo sentenced the 55-year-old money manager Monday to 18 months in the Palm Beach County jail, followed by a year of house arrest. He will also be designated a sex offender.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014087.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -7965,6 +8476,26 @@
           {
             "doc_id": "EFTA00013558",
             "file": "EFTA00013558.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013828",
+            "file": "EFTA00013828.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013878",
+            "file": "EFTA00013878.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013888",
+            "file": "EFTA00013888.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014087",
+            "file": "EFTA00014087.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -8360,6 +8891,158 @@
           {
             "doc_id": "EFTA02214111",
             "file": "EFTA02214111.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.092441,
+          26.671414
+        ]
+      },
+      "properties": {
+        "id": "814325cb3bae1055",
+        "name": "Palm Beach County Sheriff's Office",
+        "location_name": "Palm Beach County Sheriff's Office",
+        "location_address": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
+        "location_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "canonical_name": "Palm Beach County Sheriffs Office, 3228 Gun Club Road, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach County Sheriff's Office",
+        "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "event_count": 2,
+        "evidence_count": 5,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2006-08-09",
+        "date_end": "2008-06-30",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jack Goldberger",
+            "role": "legal"
+          }
+        ],
+        "source_count": 5,
+        "sources_preview": "EFTA00003868.pdf, EFTA00013772.pdf, EFTA00013890.pdf, EFTA00013975.pdf, EFTA00014007.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "events": [
+          {
+            "event_id": "410fa17a7fb8cb53",
+            "event_title": "PBSO Books Epstein for Photo Lineup (Booking ID 20060723017, August 9, 2006)",
+            "event_type": "presence",
+            "description": "Palm Beach County Sheriff's Office booked Jeffrey Epstein (Booking ID 20060723017) for a photo lineup on August 9, 2006, recording his physical description: 6 ft, 180 lbs, age 53.",
+            "date_start": "2006-08-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein was physically present at the Palm Beach Sheriff's Office for a photo lineup booking on this date.",
+            "evidence": [
+              {
+                "file": "EFTA00003868.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PALM BEACH SHERIFFS OFFICE  Date: 08/09/2006\nTime: 2:26 PM\nCase Number:\n    Line Up Information\nPage: 2 of 2\n\nJacket II: 0338617  Birth Date: 0120/1953  Hair Color: CRY\nFull Name: EPSTEIN JEFFREY  Age: 53  Facial Hair: N\nFirst Name: JEFFREY  Race: W  Eye Color: BRU\nLast Name: EPSTEIN  Marital Status SINGLE  Build: M\nBooking Id: 20060723017  Height: 6 ft. 0 in.  Weight: 180 lbs.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00003868.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013772.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein, 53, was booked at the Palm Beach County jail at 1:45 a.m. Sunday. He was released on $3,000 bond.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013772.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "33059e4a143ec38c",
+            "event_title": "Epstein Sentenced to Palm Beach County Detention Facility \u2014 Plea Document",
+            "event_type": "presence",
+            "description": "Epstein sentenced to 12 months at Palm Beach County Detention Facility (Case 06CF009454AMB) plus 6 months as condition of 18 months community control (Case 08CF009381AMB), with 1 day credit for time served; designated a Sexual Offender under Florida law.",
+            "date_start": "2008-06-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jack Goldberger",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically incarcerated at the Palm Beach County Detention Facility pursuant to his guilty plea sentence.",
+            "evidence": [
+              {
+                "file": "EFTA00013890.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Name: Jeffrey E. Epstein\nPlea: Guilty X\nCase No. 06CF009454AMB Felony Solicitation of Prostitution 1 No 3 FEL\n08CF009381AMB Procuring Person Under 18 for Prostitution 1 No 2 FEL\nOn 06CF009454AMB, the Defendant is sentenced to 12 months in the Palm Beach County Detention Facility, with credit for 1 (one) day time served.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013890.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013975.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein is out at the stockade, not the jail. Goldberger and some psychiatrist have already met with him and have told him that, if he receives any less favorable treatment than others, Ken Starr and the whole crew will sue.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013975.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00014007.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein is out at the stockade, not the jail. Goldberger and some psychiatrist have already met with him and have told him that, if he receives any less favorable treatment than others, Ken Starr and the whole crew will sue.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014007.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00003868",
+            "file": "EFTA00003868.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013772",
+            "file": "EFTA00013772.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013890",
+            "file": "EFTA00013890.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013975",
+            "file": "EFTA00013975.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014007",
+            "file": "EFTA00014007.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -10108,6 +10791,134 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.898101,
+          18.344444
+        ]
+      },
+      "properties": {
+        "id": "0bab320bf0197575",
+        "name": "Great St. James Island",
+        "location_name": "Great St. James Island",
+        "location_address": "US Virgin Islands",
+        "location_description": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
+        "canonical_name": "Great St. James Island, U.S. Virgin Islands, US Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Great St. James Island",
+        "location_descriptor": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
+        "event_count": 2,
+        "evidence_count": 3,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2016-01",
+        "date_end": "2017-05-24",
+        "people": [
+          {
+            "name": "Kevin Ouvre",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02214290.pdf, EFTA00014362.pdf, EFTA00014367.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
+        "events": [
+          {
+            "event_id": "bb5a7ce33f476041",
+            "event_title": "Kevin Ouvre Authorized to Visit Great St. James Island with Epstein Staff",
+            "event_type": "presence",
+            "description": "Epstein authorized architect Kevin Ouvre to come to Great St. James Island alone to walk the grounds with staff and clear paths in May 2017.",
+            "date_start": "2017-05-24",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kevin Ouvre",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally directed Kevin Ouvre's visit to his property at Great St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA02214290.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "alone is fine, I suggest he walk GSJ with the guys and cut some paths.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214290.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8c4ad49ee0b242d3",
+            "event_title": "Great St. James Island Property Acquisition by Epstein LLC \u2014 January 2016",
+            "event_type": "transaction",
+            "description": "Epstein's shell company Great St. Jim. LLC purchased parcels on Great St. James Island, USVI for $17,500,000 in January 2016.",
+            "date_start": "2016-01",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Great St. Jim. LLC is Epstein's entity; Great St. James Island was one of his USVI properties.",
+            "evidence": [
+              {
+                "file": "EFTA00014362.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "THIS INDENTURE made the [day] of January, 2016 between Christian Kjaer...and Great St. Jim. LLC, a Virgin Islands Limited Liability Company...for and in consideration of the sum of SEVENTEEN MILLION FIVE HUNDRED THOUSAND and 00/100 DOLLARS",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014362.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00014367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "THIS INDENTURE made the [day] of January 2016 between GSJ Properties Corp...and Great St. Jim. LLC...for and in consideration of the sum of FIVE MILLION and 00/100 DOLLARS ($5,000,000.00)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014367.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02214290",
+            "file": "EFTA02214290.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014362",
+            "file": "EFTA00014362.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014367",
+            "file": "EFTA00014367.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.017073,
           32.350751
         ]
@@ -11830,166 +12641,6 @@
           {
             "doc_id": "EFTA00004250",
             "file": "EFTA00004250.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.092441,
-          26.671414
-        ]
-      },
-      "properties": {
-        "id": "814325cb3bae1055",
-        "name": "Palm Beach County Sheriff's Office",
-        "location_name": "Palm Beach County Sheriff's Office",
-        "location_address": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
-        "location_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
-        "canonical_name": "Palm Beach County Sheriffs Office, 3228 Gun Club Road, West Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Palm Beach County Sheriff's Office",
-        "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2006-08-09",
-        "date_end": "2006-08-09",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00003868.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
-        "events": [
-          {
-            "event_id": "410fa17a7fb8cb53",
-            "event_title": "PBSO Books Epstein for Photo Lineup (Booking ID 20060723017, August 9, 2006)",
-            "event_type": "presence",
-            "description": "Palm Beach County Sheriff's Office booked Jeffrey Epstein (Booking ID 20060723017) for a photo lineup on August 9, 2006, recording his physical description: 6 ft, 180 lbs, age 53.",
-            "date_start": "2006-08-09",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein was physically present at the Palm Beach Sheriff's Office for a photo lineup booking on this date.",
-            "evidence": [
-              {
-                "file": "EFTA00003868.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "PALM BEACH SHERIFFS OFFICE  Date: 08/09/2006\nTime: 2:26 PM\nCase Number:\n    Line Up Information\nPage: 2 of 2\n\nJacket II: 0338617  Birth Date: 0120/1953  Hair Color: CRY\nFull Name: EPSTEIN JEFFREY  Age: 53  Facial Hair: N\nFirst Name: JEFFREY  Race: W  Eye Color: BRU\nLast Name: EPSTEIN  Marital Status SINGLE  Build: M\nBooking Id: 20060723017  Height: 6 ft. 0 in.  Weight: 180 lbs.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00003868.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00003868",
-            "file": "EFTA00003868.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.060281,
-          26.714063
-        ]
-      },
-      "properties": {
-        "id": "c53a7fe1a2108309",
-        "name": "Paul G. Rogers Federal Building and U.S. Courthouse",
-        "location_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
-        "location_address": "701 Clematis Street, West Palm Beach, Florida 33401, United States",
-        "location_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
-        "canonical_name": "Paul G. Rogers Federal Building and U.S. Courthouse, 701 Clematis Street, West Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
-        "location_descriptor": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "legal",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2007-05-15",
-        "date_end": "2007-05-15",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Special Agent",
-            "role": "witness"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00009512.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "legal",
-        "event_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
-        "events": [
-          {
-            "event_id": "a6336432d08ffc3f",
-            "event_title": "FBI Agent Testifies to Grand Jury in Operation Leap Year, West Palm Beach (May 15, 2007)",
-            "event_type": "legal",
-            "description": "FBI Special Agent testified to the Federal Grand Jury (Grand Jury #07-103) at West Palm Beach Division courthouse on May 15, 2007 regarding Operation Leap Year and evidence of Epstein's offenses against underage victims.",
-            "date_start": "2007-05-15",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Special Agent",
-                "role": "witness"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Grand jury testimony is directly about Jeffrey Epstein and his criminal offenses (Operation Leap Year investigation).",
-            "evidence": [
-              {
-                "file": "EFTA00009512.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The sworn testimony of [redacted] before the Federal Grand Jury, West Palm Beach Division, 701 Clematis Street, West Palm Beach, Palm Beach County, state of Florida, on the 15th day of May, 2007.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009512.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00009512",
-            "file": "EFTA00009512.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -14298,90 +14949,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.898101,
-          18.344444
-        ]
-      },
-      "properties": {
-        "id": "0bab320bf0197575",
-        "name": "Great St. James Island",
-        "location_name": "Great St. James Island",
-        "location_address": "US Virgin Islands",
-        "location_description": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
-        "canonical_name": "Great St. James Island, U.S. Virgin Islands, US Virgin Islands",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Great St. James Island",
-        "location_descriptor": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-24",
-        "date_end": "2017-05-24",
-        "people": [
-          {
-            "name": "Kevin Ouvre",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02214290.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
-        "events": [
-          {
-            "event_id": "bb5a7ce33f476041",
-            "event_title": "Kevin Ouvre Authorized to Visit Great St. James Island with Epstein Staff",
-            "event_type": "presence",
-            "description": "Epstein authorized architect Kevin Ouvre to come to Great St. James Island alone to walk the grounds with staff and clear paths in May 2017.",
-            "date_start": "2017-05-24",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kevin Ouvre",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally directed Kevin Ouvre's visit to his property at Great St. James Island.",
-            "evidence": [
-              {
-                "file": "EFTA02214290.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "alone is fine, I suggest he walk GSJ with the guys and cut some paths.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214290.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02214290",
-            "file": "EFTA02214290.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.10694,
           32.74966
         ]
@@ -15582,6 +16149,310 @@
           {
             "doc_id": "EFTA00011438",
             "file": "EFTA00011438.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.063728,
+          26.709389
+        ]
+      },
+      "properties": {
+        "id": "c3bcad4653927fd9",
+        "name": "U.S. Attorney's Office, Southern District of Florida",
+        "location_name": "U.S. Attorney's Office, Southern District of Florida",
+        "location_address": "500 South Australian Avenue, West Palm Beach, Florida 33401, United States",
+        "location_description": "",
+        "canonical_name": "U.S. Attorney's Office, Southern District of Florida, 500 S. Australian Ave, Suite 400, West Palm Beach, FL 33401",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, Southern District of Florida",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2008-02-01",
+        "date_end": "2008-02-01",
+        "people": [
+          {
+            "name": "the girls",
+            "role": "victim"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00013774.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "e6db464e4540e4ac",
+            "event_title": "FBI and AUSA Interview Three Epstein Victims at West Palm Beach Office",
+            "event_type": "presence",
+            "description": "FBI and federal prosecutors interviewed three Epstein victims at West Palm Beach US Attorney's office, with FBI victim-witness coordinator present arranging counseling; four more interviews scheduled next day.",
+            "date_start": "2008-02-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "the girls",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein's victims were physically present at the US Attorney's office for interviews about his crimes, but Epstein himself was not present.",
+            "evidence": [
+              {
+                "file": "EFTA00013774.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi and Alex \u2014 We just finished interviewing three of the girls...The FBI's victim-witness coordinator attended and she has arranged for counseling for several of the girls. We have four more girls coming in tomorrow.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013774.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00013774",
+            "file": "EFTA00013774.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1919,
+          25.773357
+        ]
+      },
+      "properties": {
+        "id": "bce49ac1faa55462",
+        "name": "U.S. Attorney's Office, Southern District of Florida",
+        "location_name": "U.S. Attorney's Office, Southern District of Florida",
+        "location_address": "Miami, Florida, United States",
+        "location_description": "",
+        "canonical_name": "U.S. Attorney's Office, Southern District of Florida, 99 NE 4th Street, Miami, FL 33132",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, Southern District of Florida",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2007-09",
+        "date_end": "2007-09",
+        "people": [
+          {
+            "name": "defense counsel",
+            "role": "legal"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00013801.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "e82b0a3f823725a6",
+            "event_title": "Defense Counsel Meets DOJ/CEOS Reviewer at USAO Miami \u2014 September 2007",
+            "event_type": "presence",
+            "description": "Epstein defense counsel met with DOJ CEOS reviewer at the US Attorney's Office in Miami in September 2007, during which the reviewer expressed strong belief in the prosecution.",
+            "date_start": "2007-09",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "defense counsel",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is a legal proceeding directly related to the Epstein case at the USAO Miami, but Epstein himself was not physically present.",
+            "evidence": [
+              {
+                "file": "EFTA00013801.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "During a meeting with defense counsel at the United States Attorney's Office in Miami (the \"USAO\") in September of 2007, he opined that he so believed in the prosecution that he \"would try the case myself\"",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00013801.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00013801",
+            "file": "EFTA00013801.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.064212,
+          26.712957
+        ]
+      },
+      "properties": {
+        "id": "892e6a73a3221ab6",
+        "name": "Atterbury Goldberger & Weiss, P.A.",
+        "location_name": "Atterbury Goldberger & Weiss, P.A.",
+        "location_address": "250 South Australian Avenue, West Palm Beach, Florida 33407, United States",
+        "location_description": "",
+        "canonical_name": "Atterbury Goldberger & Weiss, P.A., One Clearlake Centre, 250 S. Australian Ave, Suite 1400, West Palm Beach, FL 33401, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Atterbury Goldberger & Weiss, P.A.",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2008-11-20",
+        "date_end": "2008-11-20",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00014044.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "9253e983132ffabd",
+            "event_title": "Epstein on Work Release \u2014 Spends Days at Goldberger's Law Office, Driven Back at Night",
+            "event_type": "presence",
+            "description": "Epstein, on work release, was spending days at defense attorney Goldberger's law office in West Palm Beach under the cover of 'Florida Science Foundation,' getting driven back to the stockade at night.",
+            "date_start": "2008-11-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Goldberger's law office during his work release program.",
+            "evidence": [
+              {
+                "file": "EFTA00014044.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He is hanging out at his lawyer's office during the day, eating a lovely lunch, and getting driven back to the campgrounds at night. He is allegedly working for the \"Florida Science Foundation\" which exists only to employ Epstein. Its offices are conveniently located 3 buildings down from me at Goldberger's office.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014044.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00014044",
+            "file": "EFTA00014044.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.057416,
+          26.705069
+        ]
+      },
+      "properties": {
+        "id": "d65d193fb4380876",
+        "name": "Hilton West Palm Beach",
+        "location_name": "Hilton West Palm Beach",
+        "location_address": "600 Okeechobee Boulevard, West Palm Beach, Florida 33401, United States",
+        "location_description": "",
+        "canonical_name": "Hilton West Palm Beach, 600 Okeechobee Blvd, West Palm Beach, FL 33401, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Hilton West Palm Beach",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-07-12",
+        "date_end": "2019-07-12",
+        "people": [
+          {
+            "name": "Joe Nascimento",
+            "role": "legal"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00014312.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "c6842e7982ece6bf",
+            "event_title": "DOJ Witness Meeting \u2014 Hilton West Palm Beach, July 12, 2019",
+            "event_type": "presence",
+            "description": "DOJ met with defense attorney Joe Nascimento (representing a witness) at Hilton West Palm Beach on July 12, 2019, in connection with US v. Epstein 2019 investigation.",
+            "date_start": "2019-07-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Joe Nascimento",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Meeting was specifically about the Epstein investigation; witness-related meeting at Palm Beach location.",
+            "evidence": [
+              {
+                "file": "EFTA00014312.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We will be at the Hilton in West Palm Beach, at 600 Okeechobee Blvd. Please call me when you are here, and we will meet you in the lobby.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00014312.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00014312",
+            "file": "EFTA00014312.pdf",
             "source_type": "doj_efta"
           }
         ]
