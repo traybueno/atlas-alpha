@@ -262,6 +262,7 @@ function EventCardRow({
 interface EventCardsProps {
   feature: GeoJSONFeature;
   searchQuery?: string;
+  nexusLevels?: string[];
 }
 
 function eventMatchesQuery(event: AtlasEvent, q: string): boolean {
@@ -275,10 +276,14 @@ function eventMatchesQuery(event: AtlasEvent, q: string): boolean {
   return searchable.includes(lower);
 }
 
-export default function EventCards({ feature, searchQuery = "" }: EventCardsProps) {
+export default function EventCards({ feature, searchQuery = "", nexusLevels }: EventCardsProps) {
   const [selectedEvent, setSelectedEvent] = useState<AtlasEvent | null>(null);
 
-  const events: AtlasEvent[] = feature.properties.events || [];
+  const events: AtlasEvent[] = useMemo(() => {
+    const all: AtlasEvent[] = feature.properties.events || [];
+    if (!nexusLevels || nexusLevels.length === 0) return all;
+    return all.filter(e => e.epstein_nexus && nexusLevels.includes(e.epstein_nexus));
+  }, [feature, nexusLevels]);
 
   // Reset selection when feature changes
   useEffect(() => {
@@ -320,12 +325,26 @@ export default function EventCards({ feature, searchQuery = "" }: EventCardsProp
     return items;
   }, [events]);
 
-  if (events.length === 0) return null;
+  const totalCount = feature.properties.events?.length ?? 0;
+
+  if (events.length === 0) {
+    if (nexusLevels?.length) {
+      return (
+        <section>
+          <h3 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-4">
+            Events (0 of {totalCount})
+          </h3>
+          <p className="text-sm text-gray-400 italic">No {nexusLevels.join("/")} events at this location.</p>
+        </section>
+      );
+    }
+    return null;
+  }
 
   return (
     <section>
       <h3 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-4">
-        Events ({events.length})
+        Events ({events.length}{nexusLevels?.length ? ` of ${totalCount}` : ""})
       </h3>
 
       <div className="space-y-2">

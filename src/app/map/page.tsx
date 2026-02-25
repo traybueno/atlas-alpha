@@ -166,6 +166,7 @@ export default function MapPage() {
           allFeatures={rawData?.features ?? []}
           onClose={() => setSelectedFeature(null)}
           searchQuery={filters.searchQuery}
+          nexusLevels={filters.nexusLevels}
         />
       </div>
 
