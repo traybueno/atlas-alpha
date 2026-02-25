@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Disclaimer from "@/components/Disclaimer";
+import StatsCounter from "@/components/StatsCounter";
 
 export default function Home() {
   return (
@@ -27,8 +28,10 @@ export default function Home() {
             </svg>
           </Link>
 
+          <StatsCounter />
+
           {/* Features */}
-          <div className="grid grid-cols-2 gap-5 mt-16 text-left">
+          <div className="grid grid-cols-2 gap-5 mt-10 text-left">
             <div className="p-5 rounded-lg border border-gray-200 bg-white">
               <h3 className="font-semibold text-gray-900 mb-2">🔍 Source-linked</h3>
               <p className="text-sm text-gray-500">
