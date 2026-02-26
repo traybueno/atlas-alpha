@@ -6509,7 +6509,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 66,
-        "evidence_count": 164,
+        "evidence_count": 166,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -6899,10 +6899,14 @@
           {
             "name": "Michael Abramowitz",
             "role": "associate"
+          },
+          {
+            "name": "Peter Thiel",
+            "role": "associate"
           }
         ],
-        "source_count": 148,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+143 more)",
+        "source_count": 150,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+145 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -9401,6 +9405,13 @@
                 "excerpt": "Just checking in to confirm tomorrow's meeting with Jeffrey, Ben and Matthew at 11am at Jeffery's apartment (9 E 71st). Please let me know if there are any changes.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217681.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218543.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey has sent me an email saying Matthew will come see Jeffrey on Thursday-might Matthew be available to come and see him at his NY home? perhaps 11am?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218543.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -9816,6 +9827,10 @@
               {
                 "name": "Lesley Groff",
                 "role": "staff"
+              },
+              {
+                "name": "Peter Thiel",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -9840,6 +9855,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Hi ..may I confirm 2:30pm on Friday with you? Lesley\nYes! See you on Friday at 2.30pm",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218533.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218541.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "yes\nOn Wed, Aug 16, 2017 at 7:39 AM. wrote:\nShould I reach out to Peter Thiel's assistant re a meeting on Friday?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218541.pdf",
                 "confidence": 0.7
               }
             ]
@@ -10518,6 +10540,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02218543",
+            "file": "EFTA02218543.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02217731",
             "file": "EFTA02217731.pdf",
             "source_type": "doj_efta"
@@ -10610,6 +10637,11 @@
           {
             "doc_id": "EFTA02218533",
             "file": "EFTA02218533.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218541",
+            "file": "EFTA02218541.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -17391,6 +17423,1190 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.05974,
+          40.860698
+        ]
+      },
+      "properties": {
+        "id": "ea6b2280bd9a6572",
+        "name": "Teterboro Airport",
+        "location_name": "Teterboro Airport",
+        "location_address": "Teterboro, New Jersey, United States",
+        "location_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
+        "canonical_name": "Teterboro Airport, Teterboro, NJ, New Jersey",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Teterboro Airport",
+        "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
+        "event_count": 27,
+        "evidence_count": 48,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2010-07-26",
+        "date_end": "2019-07-08",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "OSTEN, LINDA",
+            "role": "staff"
+          },
+          {
+            "name": "SHARIFIPOUR, I3AKTAJ",
+            "role": "associate"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          },
+          {
+            "name": "Dave",
+            "role": "staff"
+          },
+          {
+            "name": "Jojo Fontanilla",
+            "role": "staff"
+          },
+          {
+            "name": "2 girls",
+            "role": "victim"
+          },
+          {
+            "name": "Henry B. Pitman",
+            "role": "legal"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Dave Rodgers",
+            "role": "staff"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          }
+        ],
+        "source_count": 42,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+37 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
+        "events": [
+          {
+            "event_id": "f9c150b30015adfa",
+            "event_title": "Epstein Aircraft Flies Teterboro to France, Mid-February 2017",
+            "event_type": "travel",
+            "description": "Epstein private aircraft departed Teterboro (TEB) inbound to France, with two entries in mid-February 2017 calendar.",
+            "date_start": "2017-02",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Flight calendar from Epstein's records shows aircraft departure from his hub at Teterboro to France in February 2017.",
+            "evidence": [
+              {
+                "file": "EFTA00005994.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "February 2017\n                                                      Outbound TEB -      Outbound TEB -\n                                                      Inbound France      Inbound France",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "9fde3a8416aff398",
+            "event_title": "Epstein on N120JE: Teterboro to Goose Bay Canada (CYYR), January 27, 2016",
+            "event_type": "presence",
+            "description": "CBP records Jeffrey Epstein on N120JE departing Teterboro (KTEB) to Goose Bay, Labrador, Canada (CYYR) on January 27, 2016, with Linda Osten also on the manifest.",
+            "date_start": "2016-01-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "OSTEN, LINDA",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein is named passenger in CBP encounter records for this flight to an unusual Canadian destination.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  01/27/2016 16:39  *GA  N120JE  I  AIDD OSTEN, LINDA  APIS  PASSENGER  KTEB CYYR",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b8f0ab91355dfb66",
+            "event_title": "Epstein on N212JE: Teterboro to Le Bourget Paris, July 29, 2018",
+            "event_type": "presence",
+            "description": "CBP records Jeffrey Epstein on N212JE departing Teterboro NJ (KTEB) to Le Bourget Paris (LFPB) on July 29, 2018.",
+            "date_start": "2018-07-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this Teterboro to Paris flight in July 2018.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  07/29/2018 13:18  \"GA  N212JE  I  APIS  PASSENGER INS  KTEB LFPB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bb02bf57e0df845d",
+            "event_title": "Epstein N212JE Round-Trip: Teterboro to Le Bourget Paris, April 2018",
+            "event_type": "presence",
+            "description": "CBP records Jeffrey Epstein returning from Le Bourget Paris (LFPB) to Teterboro (KTEB) on N212JE on March 31, 2018, then flying back Teterboro to Le Bourget on April 9, 2018.",
+            "date_start": "2018-03-31",
+            "date_end": "2018-04-09",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this Paris round-trip on N212JE in spring 2018.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  04/09/2018 13:22  \"GA  N212JE  I  APIS  PASSENGER INS  KTEB LFPB\nEPSTEIN  JEFFREY  01/20/1953  P  469911707  03/31/2018 00.00  \"GA  N212JE  0  APIS  PASSENGER  LFPB KTEB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c2d6e97590030a24",
+            "event_title": "Epstein on N120JE: Teterboro to St. Thomas with Sharifipour, September 22, 2018",
+            "event_type": "presence",
+            "description": "CBP records Jeffrey Epstein on N120JE from Teterboro (KTEB) to St. Thomas USVI (TIST) on September 22, 2018, with associate Sharifipour also on the manifest.",
+            "date_start": "2018-09-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "SHARIFIPOUR, I3AKTAJ",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this flight to the Virgin Islands on N120JE.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  09/22/2018 17:52  *GA  NI2OJE  I  A100 SHARIFIPOUR, I3AKTAJ  APIS  PASSENGER INS  KTEB TIST",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7df15bdeecf826b4",
+            "event_title": "FBI Seizes iPhone and iPad from Epstein at Teterboro Airport Arrest",
+            "event_type": "presence",
+            "description": "FBI seized 2 electronic devices from Jeffrey Epstein personally at time of his arrest on July 6, 2019.",
+            "date_start": "2019-07-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his arrest location when 2 devices were seized from his person on July 6, 2019.",
+            "evidence": [
+              {
+                "file": "EFTA01263093.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2 electronic devices seized on July 6, 2019 from Jeffrey Epstein; 33 electronic devices seized on July 11, 2019 from 9 East 71st Street, New York, NY; 27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263093.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 6, 2019, Mr. Epstein was arrested at Teterboro Airport in New Jersey...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA01262900.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A black iPhone with IMEI number 357201093322785, which was seized from JEFFREY EPSTEIN on or about July 6, 2019 (\"Subject Item-1\"). A silver iPad with serial number DLXQGM3KGMW3, which was seized from JEFFREY EPSTEIN on or about July 6, 2019 (\"Subject Item-2\").",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262900.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00015561.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Attached for review is a draft search warrant application for the phone and ipad that were seized from Epstein on the day of his arrest.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015561.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00018172.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein was arrested Saturday night aboard a private jet at Teterboro Airport after arriving from Paris.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018172.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00040076.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein was arrested on July 6 at Teterboro Airport in New Jersey after his private plane landed on a flight from Paris.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040076.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d8bb1680f0290d37",
+            "event_title": "Private Jet N415LM (Gulfstream V) Departs Teterboro for Palm Beach (May 6, 2017)",
+            "event_type": "travel",
+            "description": "Gulfstream V private jet N415LM departed Teterboro Airport at 5:40 PM EDT for Palm Beach International Airport, with estimated arrival 6:32 PM, on May 6, 2017.",
+            "date_start": "2017-05-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Flight alert monitored as part of Epstein investigation; N415LM is not a confirmed Epstein aircraft but was tracked by investigators.",
+            "evidence": [
+              {
+                "file": "EFTA02212962.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) departed Teterboro (KTEB) at 05:40PM EDT enroute to Palm Beach Intl (KPBI) for an estimated arrival at 06:32PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212962.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213018.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM arrived at Palm Beach Intl (KPBI) at 07:55PM EDT from Teterboro (KTEB)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213018.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f1ced2f0f6bbe1af",
+            "event_title": "Epstein flies from Santa Fe to Teterboro Airport, June 12",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein directed his pilot Larry Visoski to fly direct from Santa Fe (SAF) to New York, arriving Teterboro at 7 PM on June 12, 2017; canceled Dulles car pickup.",
+            "date_start": "2017-06-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Email from Jeffrey Epstein himself directing his pilot for a flight from Santa Fe to Teterboro, confirming his physical travel.",
+            "evidence": [
+              {
+                "file": "EFTA02215807.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Wheels up 130, straight to New York\nOk I confirm SAF-NY,.\nI'll cancel the car in Dulles,\nArrival Teterboro 7pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215807.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ad4ace6c1740c227",
+            "event_title": "Epstein flies Teterboro to Islip to Palm Beach with pilot Dave",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein flew from Teterboro at 8am to Islip, then departed Islip at 9:30am for Palm Beach on June 3, 2017",
+            "date_start": "2017-06-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dave",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally flew on this trip from Teterboro to Palm Beach on his private plane",
+            "evidence": [
+              {
+                "file": "EFTA02213919.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I think Jeffrey is departing Teterboro at 8:00 a.m. and flying to Islip. After that we are departing Islip at 9:30 a.m. for Palm Beach.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213919.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213932.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "earliest he will leave tomorrow is 2pm...Teterboro",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213932.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214369.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dave would like to confirm: departing Teterboro at 8:00 a.m. and flying to blip. After that we are departing Islip at 9:30 a.m. for Palm Beach.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214369.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213852.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I think Jeffrey is departing Teterboro at 8:00 a.m. and flying to Islip. After that we are departing Islip at 9:30 a.m. for Palm Beach.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213852.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216343.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 12:14PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216343.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216420.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Palm Beach Intl (KPBI) at 12:16PM EDT from Long Island MacArthur (KISP)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216420.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "df5de41c30d56d8e",
+            "event_title": "Epstein flies from Teterboro to Boston area, June 30, 2017",
+            "event_type": "travel",
+            "description": "Epstein departs NYC June 2 at earliest 2pm",
+            "date_start": "2017-06-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein departing.",
+            "evidence": [
+              {
+                "file": "EFTA02215527.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Teterboro (KTEB) at 11:25AM EDT enroute to Laurence G Hanscom Fld (KBED) for an estimated arrival at 12:00PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215527.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217143.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Teterboro (KTEB) at I I:15AM EDT from Palm Beach Intl (KPBI)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217143.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ad146e659f2c67db",
+            "event_title": "Epstein's Plane N212JE Arrives at Teterboro from St. Thomas",
+            "event_type": "travel",
+            "description": "FlightAware alert indicates N212JE, Epstein's registered plane, expected to arrive at Teterboro Airport (KTEB) at 08:14 PM EDT.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "N212JE is Epstein's registered aircraft; arrival at Teterboro implies Epstein or his passengers were aboard.",
+            "evidence": [
+              {
+                "file": "EFTA02214374.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 45 minutes at 08:14PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214374.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214469.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Teterboro (KTEB) at 08:21 PM EDT from Cyril E King (TIST/STT)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214469.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216245.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 45 minutes at 03:11PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216245.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216578.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Teterboro (KTEB) at 03:11PM EDT from Santa Fe Muni (KSAF)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216578.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "577f037f8a35f74a",
+            "event_title": "Epstein's Plane Departs Teterboro Meridian at 3PM (June 17, 2017)",
+            "event_type": "presence",
+            "description": "Lesley Groff directed Jojo and Merwin that Epstein's plane wheels up from Teterboro Meridian FBO at 3pm on June 17, 2017.",
+            "date_start": "2017-06-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jojo Fontanilla",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "2 girls",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Lesley Groff coordinating Epstein's plane departure from Teterboro for Epstein's travel.",
+            "evidence": [
+              {
+                "file": "EFTA02215070.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Wheels up tomorrow from Teterboro Meridian is 3pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215070.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216758.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "we are flying N212JE the GIV",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216758.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3848e16d05cd9c4c",
+            "event_title": "Visoski Plans Teterboro-to-St. Thomas Flight Arriving Little St. James at 7:30pm",
+            "event_type": "presence",
+            "description": "Larry Visoski notified of departure from Teterboro to St. Thomas at 4:30 PM, arriving Little St. James at 7:30 PM on April 23, 2017.",
+            "date_start": "2017-04-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Larry Visoski was Epstein's personal pilot and Little St. James is Epstein's private island, making this a direct flight to Epstein's property.",
+            "evidence": [
+              {
+                "file": "EFTA02212971.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "we will depart at 4:30 PM today from Teterboro to St Thomas\n> Arrival LSJ at 7:30pm\n> Thlx\n> Larry",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212971.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "275918b3ec786425",
+            "event_title": "Epstein Arrested on Federal Sex Trafficking Charges",
+            "event_type": "legal",
+            "description": "Jeffrey Epstein was arrested Saturday on federal charges of sex trafficking of minors and conspiracy to commit sex trafficking of minors; Jeffrey Epstein expected to appear in Manhattan federal court before U.S. Magistrate Judge Henry B. Pitman for initial court appearance",
+            "date_start": "2019-07-06",
+            "date_end": "2019-07-08",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Henry B. Pitman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was personally arrested and physically present for the arrest.",
+            "evidence": [
+              {
+                "file": "EFTA00015350.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JEFFREY EPSTEIN was arrested Saturday and charged with sex trafficking of minors and conspiracy to commit sex trafficking of minors.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00015350.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN is expected to be presented in Manhattan federal court this afternoon before U.S. Magistrate Judge Henry B. Pitman.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a3487cd6e8590961",
+            "event_title": "Maxwell Operates Private Aircraft N17ND and N923CL from Teterboro Airport, NJ (2010)",
+            "event_type": "presence",
+            "description": "Ghislaine Maxwell used private aircraft N17ND and N923CL from Teterboro Airport, NJ in 2010.",
+            "date_start": "2010-07-26",
+            "date_end": "2010-10-01",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell at Teterboro on her own private aircraft in 2010.",
+            "evidence": [
+              {
+                "file": "EFTA00040478.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MAXWELL GHISLAINE P 10/01/2010 15:43 N923CL APIS TEB XXX...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040478.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c15a9e90f6244fa6",
+            "event_title": "N908JC Flight from Teterboro to DCA (Washington)",
+            "event_type": "presence",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00008863.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "22 G-1159B N908JC TEB DCA 1419 JG, AP",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00008863.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "5f3eb1835984fa97",
+            "event_title": "Flight N212JE: Teterboro to Long Island MacArthur Airport \u2014 June 3, 2017",
+            "event_type": "travel",
+            "description": "Epstein's plane N212JE (Gulfstream IV) departed Teterboro Airport at 7:29 AM on June 3, 2017, bound for Long Island MacArthur Airport, estimated arrival 7:54 AM.",
+            "date_start": "2017-06-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "N212JE is Epstein's registered aircraft; this flight corresponds to the planned meeting at Islip with Eric Roth.",
+            "evidence": [
+              {
+                "file": "EFTA02216069.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Teterboro (KTEB) at 07:29AM EDT en route to Long Island MacArthur (KISP) for an estimated arrival at 07:54AM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216069.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0e12f163a6c8705f",
+            "event_title": "Flight N212JE: Teterboro to St. Thomas, Epstein Departs for Island \u2014 June 17, 2017",
+            "event_type": "travel",
+            "description": "Epstein's plane N212JE (Gulfstream IV) departed Teterboro Airport at 3:00 PM on June 17, 2017, arriving at St. Thomas jet center at 6:20 PM\u2014confirming Epstein's departure for Little St. James Island.",
+            "date_start": "2017-06-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's pilot confirmed departure to St. Thomas on N212JE, the nearest airport to Little St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA02216193.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Depart Teterboro Meridian at 3pm tomorrow Saturday. N212JE GIV. Arrival St Thomas jet center, 6:20pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216193.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d32de8bfb1bb77d5",
+            "event_title": "N212JE (Epstein Jet) Arrives Teterboro Airport, July 11, 2017",
+            "event_type": "travel",
+            "description": "FlightAware alert sent to Epstein staff: aircraft N212JE (Epstein's private jet) expected to arrive Teterboro Airport (KTEB) at 08:32 AM EDT on July 11, 2017.",
+            "date_start": "2017-07-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "N212JE is Jeffrey Epstein's registered aircraft; its arrival at Teterboro implies Epstein or associates were on board.",
+            "evidence": [
+              {
+                "file": "EFTA02216915.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 45 minutes at 08:32AM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216915.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We will be arriving the Teterboro airport (KTEB/TEB) at approximately 8:30 a.m. Tuesday, July 11, 2017. We will be clearing U.S. Customs next door to Jet Aviation.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217663.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218411.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thur. July 13. 2017 NY-PB\n11:00am Appt w/Matthew Hiltzik and Ben Sosenko\n1-2:00pm Appt w/Peter Attia\n5:00pm Depart Teterboro\n5:30pm Arrive Islip",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218411.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6defec07ed07fe43",
+            "event_title": "FBI Agents and NYPD Detectives Arrest Epstein at Teterboro Airport (July 2019)",
+            "event_type": "presence",
+            "description": "FBI agents and NYPD detectives arrested Jeffrey Epstein at Teterboro Airport on federal sex trafficking charges in July 2019.",
+            "date_start": "2019-07",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.9,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein physically present at Teterboro Airport during arrest.",
+            "evidence": [
+              {
+                "file": "EFTA00069870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He was arrested in July by F.B.I. agents",
+                "document_url": "",
+                "confidence": 0.9
+              },
+              {
+                "file": "EFTA00069870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He was arrested in July by F.B.I. agents and New York police detectives at Teterboro Airport and charged with federal sex trafficking following renewed interest in his case.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069870.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "30245aa60f02186e",
+            "event_title": "Epstein Arrives Teterboro on N120JE, Transferred to 9 E 71st St, Tuesday August 15, 2017 (9:30 PM)",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein arrived at Teterboro Airport (Meridian FBO) on aircraft N120JE on Tuesday August 15, 2017 at 9:30pm, and was picked up by SUV to be taken to 9 East 71st Street, NYC.",
+            "date_start": "2017-08-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein physically arrived at Teterboro Airport and was transported to his NYC residence on August 15, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02218167.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SUV\nTail #120JE\nPax: Jeffrey Epstein\nPick up: Tues, Aug. 15 @ 930pm from Meridian, Teterboro and take to 9 East 71st Street.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218167.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218167.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SUV\nTail #120JE\nPax: Jeffrey Epstein\nPick up:Tues, Aug. 15 @ 930pm from Meridian, Teterboro and take to 9 East 71st Street.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218167.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a2b360334d804b22",
+            "event_title": "Epstein's Plane N212JE Arrives at Teterboro \u2014 June 30, 2017",
+            "event_type": "travel",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02216455.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 30 minutes at 07:06PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216455.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4d49186c7de94149",
+            "event_title": "Epstein's Plane N212JE Arrives at Teterboro from Hanscom Field \u2014 June 30, 2017",
+            "event_type": "travel",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02216499.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Teterboro (KTEB) at 07:04PM EDT from Laurence G Hanscom Fld (KBED)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216499.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "604823a0f9ba4518",
+            "event_title": "Epstein Departs Teterboro Airport, June 2, 2017",
+            "event_type": "travel",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02213976.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "plane at Teterboro...is he going to Islip",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213976.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d900f2ac78194f68",
+            "event_title": "Epstein Departs Teterboro with Two Women for Little St. James Island \u2014 June 17, 2017",
+            "event_type": "presence",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02217151.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey says wheels up is to be 3pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217151.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "57a7dfd7d82e02c5",
+            "event_title": "Epstein Orders Pilot: Depart Teterboro at 5 PM Thursday for Islip then Palm Beach (July 13)",
+            "event_type": "communication",
+            "description": "Jeffrey Epstein emailed pilot Dave Rodgers and Karyna Shuliak to leave Teterboro at 5pm Thursday July 13, fly first to Islip then to Palm Beach.",
+            "date_start": "2017-07-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dave Rodgers",
+                "role": "staff"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally sent this email to his pilot ordering the Teterboro departure time and route.",
+            "evidence": [
+              {
+                "file": "EFTA02218413.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "leave terberboro at 5 thurs fly to islip first then palm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218413.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ca3368fee75769dc",
+            "event_title": "Epstein Arrives at Teterboro Airport via Chartered Flight, Wednesday August 2, 2017",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein arrived at Teterboro Airport on Wednesday August 2, 2017, using Larry Visoski's car service (Carosa) for pickup rather than Uber.",
+            "date_start": "2017-08-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally confirmed he would arrive at Teterboro Airport on August 2, 2017 and use Larry's car service for pickup.",
+            "evidence": [
+              {
+                "file": "EFTA02218544.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Do we need to organize pick up for you from Teterboro on Wed.? Larry's car service people? (Carosa) or will you Uber?\nlarrys service",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218544.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005994",
+            "file": "EFTA00005994.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263197",
+            "file": "EFTA01263197.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263093",
+            "file": "EFTA01263093.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039367",
+            "file": "EFTA00039367.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262900",
+            "file": "EFTA01262900.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015561",
+            "file": "EFTA00015561.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00018172",
+            "file": "EFTA00018172.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00040076",
+            "file": "EFTA00040076.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212962",
+            "file": "EFTA02212962.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213018",
+            "file": "EFTA02213018.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215807",
+            "file": "EFTA02215807.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213919",
+            "file": "EFTA02213919.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213932",
+            "file": "EFTA02213932.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214369",
+            "file": "EFTA02214369.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213852",
+            "file": "EFTA02213852.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216343",
+            "file": "EFTA02216343.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216420",
+            "file": "EFTA02216420.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215527",
+            "file": "EFTA02215527.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217143",
+            "file": "EFTA02217143.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214374",
+            "file": "EFTA02214374.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214469",
+            "file": "EFTA02214469.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216245",
+            "file": "EFTA02216245.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216578",
+            "file": "EFTA02216578.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215070",
+            "file": "EFTA02215070.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216758",
+            "file": "EFTA02216758.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212971",
+            "file": "EFTA02212971.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015350",
+            "file": "EFTA00015350.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00040478",
+            "file": "EFTA00040478.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00008863",
+            "file": "EFTA00008863.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216069",
+            "file": "EFTA02216069.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216193",
+            "file": "EFTA02216193.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216915",
+            "file": "EFTA02216915.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217663",
+            "file": "EFTA02217663.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218411",
+            "file": "EFTA02218411.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00069870",
+            "file": "EFTA00069870.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218167",
+            "file": "EFTA02218167.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216455",
+            "file": "EFTA02216455.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216499",
+            "file": "EFTA02216499.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213976",
+            "file": "EFTA02213976.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217151",
+            "file": "EFTA02217151.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218413",
+            "file": "EFTA02218413.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218544",
+            "file": "EFTA02218544.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.8256,
           18.2999
         ]
@@ -18869,1154 +20085,6 @@
           {
             "doc_id": "EFTA00071674",
             "file": "EFTA00071674.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.05974,
-          40.860698
-        ]
-      },
-      "properties": {
-        "id": "ea6b2280bd9a6572",
-        "name": "Teterboro Airport",
-        "location_name": "Teterboro Airport",
-        "location_address": "Teterboro, New Jersey, United States",
-        "location_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "canonical_name": "Teterboro Airport, Teterboro, NJ, New Jersey",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Teterboro Airport",
-        "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 26,
-        "evidence_count": 47,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2010-07-26",
-        "date_end": "2019-07-08",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "OSTEN, LINDA",
-            "role": "staff"
-          },
-          {
-            "name": "SHARIFIPOUR, I3AKTAJ",
-            "role": "associate"
-          },
-          {
-            "name": "Larry Visoski",
-            "role": "staff"
-          },
-          {
-            "name": "Dave",
-            "role": "staff"
-          },
-          {
-            "name": "Jojo Fontanilla",
-            "role": "staff"
-          },
-          {
-            "name": "2 girls",
-            "role": "victim"
-          },
-          {
-            "name": "Henry B. Pitman",
-            "role": "legal"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "Dave Rodgers",
-            "role": "staff"
-          },
-          {
-            "name": "Karyna Shuliak",
-            "role": "associate"
-          }
-        ],
-        "source_count": 41,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+36 more)",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "events": [
-          {
-            "event_id": "f9c150b30015adfa",
-            "event_title": "Epstein Aircraft Flies Teterboro to France, Mid-February 2017",
-            "event_type": "travel",
-            "description": "Epstein private aircraft departed Teterboro (TEB) inbound to France, with two entries in mid-February 2017 calendar.",
-            "date_start": "2017-02",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight calendar from Epstein's records shows aircraft departure from his hub at Teterboro to France in February 2017.",
-            "evidence": [
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "February 2017\n                                                      Outbound TEB -      Outbound TEB -\n                                                      Inbound France      Inbound France",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "9fde3a8416aff398",
-            "event_title": "Epstein on N120JE: Teterboro to Goose Bay Canada (CYYR), January 27, 2016",
-            "event_type": "presence",
-            "description": "CBP records Jeffrey Epstein on N120JE departing Teterboro (KTEB) to Goose Bay, Labrador, Canada (CYYR) on January 27, 2016, with Linda Osten also on the manifest.",
-            "date_start": "2016-01-27",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "OSTEN, LINDA",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein is named passenger in CBP encounter records for this flight to an unusual Canadian destination.",
-            "evidence": [
-              {
-                "file": "EFTA01263197.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  01/27/2016 16:39  *GA  N120JE  I  AIDD OSTEN, LINDA  APIS  PASSENGER  KTEB CYYR",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b8f0ab91355dfb66",
-            "event_title": "Epstein on N212JE: Teterboro to Le Bourget Paris, July 29, 2018",
-            "event_type": "presence",
-            "description": "CBP records Jeffrey Epstein on N212JE departing Teterboro NJ (KTEB) to Le Bourget Paris (LFPB) on July 29, 2018.",
-            "date_start": "2018-07-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this Teterboro to Paris flight in July 2018.",
-            "evidence": [
-              {
-                "file": "EFTA01263197.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  07/29/2018 13:18  \"GA  N212JE  I  APIS  PASSENGER INS  KTEB LFPB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bb02bf57e0df845d",
-            "event_title": "Epstein N212JE Round-Trip: Teterboro to Le Bourget Paris, April 2018",
-            "event_type": "presence",
-            "description": "CBP records Jeffrey Epstein returning from Le Bourget Paris (LFPB) to Teterboro (KTEB) on N212JE on March 31, 2018, then flying back Teterboro to Le Bourget on April 9, 2018.",
-            "date_start": "2018-03-31",
-            "date_end": "2018-04-09",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this Paris round-trip on N212JE in spring 2018.",
-            "evidence": [
-              {
-                "file": "EFTA01263197.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  04/09/2018 13:22  \"GA  N212JE  I  APIS  PASSENGER INS  KTEB LFPB\nEPSTEIN  JEFFREY  01/20/1953  P  469911707  03/31/2018 00.00  \"GA  N212JE  0  APIS  PASSENGER  LFPB KTEB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c2d6e97590030a24",
-            "event_title": "Epstein on N120JE: Teterboro to St. Thomas with Sharifipour, September 22, 2018",
-            "event_type": "presence",
-            "description": "CBP records Jeffrey Epstein on N120JE from Teterboro (KTEB) to St. Thomas USVI (TIST) on September 22, 2018, with associate Sharifipour also on the manifest.",
-            "date_start": "2018-09-22",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "SHARIFIPOUR, I3AKTAJ",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this flight to the Virgin Islands on N120JE.",
-            "evidence": [
-              {
-                "file": "EFTA01263197.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  09/22/2018 17:52  *GA  NI2OJE  I  A100 SHARIFIPOUR, I3AKTAJ  APIS  PASSENGER INS  KTEB TIST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "7df15bdeecf826b4",
-            "event_title": "FBI Seizes iPhone and iPad from Epstein at Teterboro Airport Arrest",
-            "event_type": "presence",
-            "description": "FBI seized 2 electronic devices from Jeffrey Epstein personally at time of his arrest on July 6, 2019.",
-            "date_start": "2019-07-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at his arrest location when 2 devices were seized from his person on July 6, 2019.",
-            "evidence": [
-              {
-                "file": "EFTA01263093.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "2 electronic devices seized on July 6, 2019 from Jeffrey Epstein; 33 electronic devices seized on July 11, 2019 from 9 East 71st Street, New York, NY; 27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263093.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On July 6, 2019, Mr. Epstein was arrested at Teterboro Airport in New Jersey...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA01262900.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "A black iPhone with IMEI number 357201093322785, which was seized from JEFFREY EPSTEIN on or about July 6, 2019 (\"Subject Item-1\"). A silver iPad with serial number DLXQGM3KGMW3, which was seized from JEFFREY EPSTEIN on or about July 6, 2019 (\"Subject Item-2\").",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262900.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00015561.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Attached for review is a draft search warrant application for the phone and ipad that were seized from Epstein on the day of his arrest.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015561.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00018172.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mr. Epstein was arrested Saturday night aboard a private jet at Teterboro Airport after arriving from Paris.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018172.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00040076.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mr. Epstein was arrested on July 6 at Teterboro Airport in New Jersey after his private plane landed on a flight from Paris.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040076.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d8bb1680f0290d37",
-            "event_title": "Private Jet N415LM (Gulfstream V) Departs Teterboro for Palm Beach (May 6, 2017)",
-            "event_type": "travel",
-            "description": "Gulfstream V private jet N415LM departed Teterboro Airport at 5:40 PM EDT for Palm Beach International Airport, with estimated arrival 6:32 PM, on May 6, 2017.",
-            "date_start": "2017-05-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Flight alert monitored as part of Epstein investigation; N415LM is not a confirmed Epstein aircraft but was tracked by investigators.",
-            "evidence": [
-              {
-                "file": "EFTA02212962.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM (GLF5) departed Teterboro (KTEB) at 05:40PM EDT enroute to Palm Beach Intl (KPBI) for an estimated arrival at 06:32PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212962.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213018.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM arrived at Palm Beach Intl (KPBI) at 07:55PM EDT from Teterboro (KTEB)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213018.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f1ced2f0f6bbe1af",
-            "event_title": "Epstein flies from Santa Fe to Teterboro Airport, June 12",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein directed his pilot Larry Visoski to fly direct from Santa Fe (SAF) to New York, arriving Teterboro at 7 PM on June 12, 2017; canceled Dulles car pickup.",
-            "date_start": "2017-06-12",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Email from Jeffrey Epstein himself directing his pilot for a flight from Santa Fe to Teterboro, confirming his physical travel.",
-            "evidence": [
-              {
-                "file": "EFTA02215807.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Wheels up 130, straight to New York\nOk I confirm SAF-NY,.\nI'll cancel the car in Dulles,\nArrival Teterboro 7pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215807.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ad4ace6c1740c227",
-            "event_title": "Epstein flies Teterboro to Islip to Palm Beach with pilot Dave",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein flew from Teterboro at 8am to Islip, then departed Islip at 9:30am for Palm Beach on June 3, 2017",
-            "date_start": "2017-06-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Dave",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally flew on this trip from Teterboro to Palm Beach on his private plane",
-            "evidence": [
-              {
-                "file": "EFTA02213919.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I think Jeffrey is departing Teterboro at 8:00 a.m. and flying to Islip. After that we are departing Islip at 9:30 a.m. for Palm Beach.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213919.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213932.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "earliest he will leave tomorrow is 2pm...Teterboro",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213932.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214369.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Dave would like to confirm: departing Teterboro at 8:00 a.m. and flying to blip. After that we are departing Islip at 9:30 a.m. for Palm Beach.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214369.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213852.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I think Jeffrey is departing Teterboro at 8:00 a.m. and flying to Islip. After that we are departing Islip at 9:30 a.m. for Palm Beach.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213852.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216343.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 12:14PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216343.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216420.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE arrived at Palm Beach Intl (KPBI) at 12:16PM EDT from Long Island MacArthur (KISP)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216420.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "df5de41c30d56d8e",
-            "event_title": "Epstein flies from Teterboro to Boston area, June 30, 2017",
-            "event_type": "travel",
-            "description": "Epstein departs NYC June 2 at earliest 2pm",
-            "date_start": "2017-06-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein departing.",
-            "evidence": [
-              {
-                "file": "EFTA02215527.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE (GLF4) departed Teterboro (KTEB) at 11:25AM EDT enroute to Laurence G Hanscom Fld (KBED) for an estimated arrival at 12:00PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215527.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217143.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE arrived at Teterboro (KTEB) at I I:15AM EDT from Palm Beach Intl (KPBI)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217143.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ad146e659f2c67db",
-            "event_title": "Epstein's Plane N212JE Arrives at Teterboro from St. Thomas",
-            "event_type": "travel",
-            "description": "FlightAware alert indicates N212JE, Epstein's registered plane, expected to arrive at Teterboro Airport (KTEB) at 08:14 PM EDT.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "N212JE is Epstein's registered aircraft; arrival at Teterboro implies Epstein or his passengers were aboard.",
-            "evidence": [
-              {
-                "file": "EFTA02214374.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 45 minutes at 08:14PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214374.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214469.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE arrived at Teterboro (KTEB) at 08:21 PM EDT from Cyril E King (TIST/STT)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214469.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216245.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 45 minutes at 03:11PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216245.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216578.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE arrived at Teterboro (KTEB) at 03:11PM EDT from Santa Fe Muni (KSAF)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216578.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "577f037f8a35f74a",
-            "event_title": "Epstein's Plane Departs Teterboro Meridian at 3PM (June 17, 2017)",
-            "event_type": "presence",
-            "description": "Lesley Groff directed Jojo and Merwin that Epstein's plane wheels up from Teterboro Meridian FBO at 3pm on June 17, 2017.",
-            "date_start": "2017-06-17",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jojo Fontanilla",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "2 girls",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Lesley Groff coordinating Epstein's plane departure from Teterboro for Epstein's travel.",
-            "evidence": [
-              {
-                "file": "EFTA02215070.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Wheels up tomorrow from Teterboro Meridian is 3pm.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215070.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216758.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "we are flying N212JE the GIV",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216758.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "3848e16d05cd9c4c",
-            "event_title": "Visoski Plans Teterboro-to-St. Thomas Flight Arriving Little St. James at 7:30pm",
-            "event_type": "presence",
-            "description": "Larry Visoski notified of departure from Teterboro to St. Thomas at 4:30 PM, arriving Little St. James at 7:30 PM on April 23, 2017.",
-            "date_start": "2017-04-23",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Larry Visoski was Epstein's personal pilot and Little St. James is Epstein's private island, making this a direct flight to Epstein's property.",
-            "evidence": [
-              {
-                "file": "EFTA02212971.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "we will depart at 4:30 PM today from Teterboro to St Thomas\n> Arrival LSJ at 7:30pm\n> Thlx\n> Larry",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212971.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "275918b3ec786425",
-            "event_title": "Epstein Arrested on Federal Sex Trafficking Charges",
-            "event_type": "legal",
-            "description": "Jeffrey Epstein was arrested Saturday on federal charges of sex trafficking of minors and conspiracy to commit sex trafficking of minors; Jeffrey Epstein expected to appear in Manhattan federal court before U.S. Magistrate Judge Henry B. Pitman for initial court appearance",
-            "date_start": "2019-07-06",
-            "date_end": "2019-07-08",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Henry B. Pitman",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was personally arrested and physically present for the arrest.",
-            "evidence": [
-              {
-                "file": "EFTA00015350.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "JEFFREY EPSTEIN was arrested Saturday and charged with sex trafficking of minors and conspiracy to commit sex trafficking of minors.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00015350.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN is expected to be presented in Manhattan federal court this afternoon before U.S. Magistrate Judge Henry B. Pitman.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "a3487cd6e8590961",
-            "event_title": "Maxwell Operates Private Aircraft N17ND and N923CL from Teterboro Airport, NJ (2010)",
-            "event_type": "presence",
-            "description": "Ghislaine Maxwell used private aircraft N17ND and N923CL from Teterboro Airport, NJ in 2010.",
-            "date_start": "2010-07-26",
-            "date_end": "2010-10-01",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Maxwell at Teterboro on her own private aircraft in 2010.",
-            "evidence": [
-              {
-                "file": "EFTA00040478.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MAXWELL GHISLAINE P 10/01/2010 15:43 N923CL APIS TEB XXX...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040478.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c15a9e90f6244fa6",
-            "event_title": "N908JC Flight from Teterboro to DCA (Washington)",
-            "event_type": "presence",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA00008863.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "22 G-1159B N908JC TEB DCA 1419 JG, AP",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00008863.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "5f3eb1835984fa97",
-            "event_title": "Flight N212JE: Teterboro to Long Island MacArthur Airport \u2014 June 3, 2017",
-            "event_type": "travel",
-            "description": "Epstein's plane N212JE (Gulfstream IV) departed Teterboro Airport at 7:29 AM on June 3, 2017, bound for Long Island MacArthur Airport, estimated arrival 7:54 AM.",
-            "date_start": "2017-06-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "N212JE is Epstein's registered aircraft; this flight corresponds to the planned meeting at Islip with Eric Roth.",
-            "evidence": [
-              {
-                "file": "EFTA02216069.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE (GLF4) departed Teterboro (KTEB) at 07:29AM EDT en route to Long Island MacArthur (KISP) for an estimated arrival at 07:54AM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216069.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "0e12f163a6c8705f",
-            "event_title": "Flight N212JE: Teterboro to St. Thomas, Epstein Departs for Island \u2014 June 17, 2017",
-            "event_type": "travel",
-            "description": "Epstein's plane N212JE (Gulfstream IV) departed Teterboro Airport at 3:00 PM on June 17, 2017, arriving at St. Thomas jet center at 6:20 PM\u2014confirming Epstein's departure for Little St. James Island.",
-            "date_start": "2017-06-17",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's pilot confirmed departure to St. Thomas on N212JE, the nearest airport to Little St. James Island.",
-            "evidence": [
-              {
-                "file": "EFTA02216193.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Depart Teterboro Meridian at 3pm tomorrow Saturday. N212JE GIV. Arrival St Thomas jet center, 6:20pm.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216193.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d32de8bfb1bb77d5",
-            "event_title": "N212JE (Epstein Jet) Arrives Teterboro Airport, July 11, 2017",
-            "event_type": "travel",
-            "description": "FlightAware alert sent to Epstein staff: aircraft N212JE (Epstein's private jet) expected to arrive Teterboro Airport (KTEB) at 08:32 AM EDT on July 11, 2017.",
-            "date_start": "2017-07-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "N212JE is Jeffrey Epstein's registered aircraft; its arrival at Teterboro implies Epstein or associates were on board.",
-            "evidence": [
-              {
-                "file": "EFTA02216915.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 45 minutes at 08:32AM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216915.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217663.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We will be arriving the Teterboro airport (KTEB/TEB) at approximately 8:30 a.m. Tuesday, July 11, 2017. We will be clearing U.S. Customs next door to Jet Aviation.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217663.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02218411.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Thur. July 13. 2017 NY-PB\n11:00am Appt w/Matthew Hiltzik and Ben Sosenko\n1-2:00pm Appt w/Peter Attia\n5:00pm Depart Teterboro\n5:30pm Arrive Islip",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218411.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6defec07ed07fe43",
-            "event_title": "FBI Agents and NYPD Detectives Arrest Epstein at Teterboro Airport (July 2019)",
-            "event_type": "presence",
-            "description": "FBI agents and NYPD detectives arrested Jeffrey Epstein at Teterboro Airport on federal sex trafficking charges in July 2019.",
-            "date_start": "2019-07",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.9,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein physically present at Teterboro Airport during arrest.",
-            "evidence": [
-              {
-                "file": "EFTA00069870.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "He was arrested in July by F.B.I. agents",
-                "document_url": "",
-                "confidence": 0.9
-              },
-              {
-                "file": "EFTA00069870.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "He was arrested in July by F.B.I. agents and New York police detectives at Teterboro Airport and charged with federal sex trafficking following renewed interest in his case.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069870.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "30245aa60f02186e",
-            "event_title": "Epstein Arrives Teterboro on N120JE, Transferred to 9 E 71st St, Tuesday August 15, 2017 (9:30 PM)",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein arrived at Teterboro Airport (Meridian FBO) on aircraft N120JE on Tuesday August 15, 2017 at 9:30pm, and was picked up by SUV to be taken to 9 East 71st Street, NYC.",
-            "date_start": "2017-08-15",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein physically arrived at Teterboro Airport and was transported to his NYC residence on August 15, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02218167.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SUV\nTail #120JE\nPax: Jeffrey Epstein\nPick up: Tues, Aug. 15 @ 930pm from Meridian, Teterboro and take to 9 East 71st Street.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218167.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02218167.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SUV\nTail #120JE\nPax: Jeffrey Epstein\nPick up:Tues, Aug. 15 @ 930pm from Meridian, Teterboro and take to 9 East 71st Street.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218167.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "a2b360334d804b22",
-            "event_title": "Epstein's Plane N212JE Arrives at Teterboro \u2014 June 30, 2017",
-            "event_type": "travel",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02216455.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 30 minutes at 07:06PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216455.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "4d49186c7de94149",
-            "event_title": "Epstein's Plane N212JE Arrives at Teterboro from Hanscom Field \u2014 June 30, 2017",
-            "event_type": "travel",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02216499.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE arrived at Teterboro (KTEB) at 07:04PM EDT from Laurence G Hanscom Fld (KBED)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216499.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "604823a0f9ba4518",
-            "event_title": "Epstein Departs Teterboro Airport, June 2, 2017",
-            "event_type": "travel",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02213976.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "plane at Teterboro...is he going to Islip",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213976.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d900f2ac78194f68",
-            "event_title": "Epstein Departs Teterboro with Two Women for Little St. James Island \u2014 June 17, 2017",
-            "event_type": "presence",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02217151.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey says wheels up is to be 3pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217151.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "57a7dfd7d82e02c5",
-            "event_title": "Epstein Orders Pilot: Depart Teterboro at 5 PM Thursday for Islip then Palm Beach (July 13)",
-            "event_type": "communication",
-            "description": "Jeffrey Epstein emailed pilot Dave Rodgers and Karyna Shuliak to leave Teterboro at 5pm Thursday July 13, fly first to Islip then to Palm Beach.",
-            "date_start": "2017-07-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Dave Rodgers",
-                "role": "staff"
-              },
-              {
-                "name": "Karyna Shuliak",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally sent this email to his pilot ordering the Teterboro departure time and route.",
-            "evidence": [
-              {
-                "file": "EFTA02218413.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "leave terberboro at 5 thurs fly to islip first then palm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218413.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005994",
-            "file": "EFTA00005994.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263197",
-            "file": "EFTA01263197.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263093",
-            "file": "EFTA01263093.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039367",
-            "file": "EFTA00039367.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01262900",
-            "file": "EFTA01262900.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015561",
-            "file": "EFTA00015561.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00018172",
-            "file": "EFTA00018172.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00040076",
-            "file": "EFTA00040076.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212962",
-            "file": "EFTA02212962.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213018",
-            "file": "EFTA02213018.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215807",
-            "file": "EFTA02215807.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213919",
-            "file": "EFTA02213919.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213932",
-            "file": "EFTA02213932.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214369",
-            "file": "EFTA02214369.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213852",
-            "file": "EFTA02213852.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216343",
-            "file": "EFTA02216343.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216420",
-            "file": "EFTA02216420.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215527",
-            "file": "EFTA02215527.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217143",
-            "file": "EFTA02217143.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214374",
-            "file": "EFTA02214374.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214469",
-            "file": "EFTA02214469.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216245",
-            "file": "EFTA02216245.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216578",
-            "file": "EFTA02216578.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215070",
-            "file": "EFTA02215070.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216758",
-            "file": "EFTA02216758.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212971",
-            "file": "EFTA02212971.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015350",
-            "file": "EFTA00015350.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00040478",
-            "file": "EFTA00040478.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00008863",
-            "file": "EFTA00008863.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216069",
-            "file": "EFTA02216069.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216193",
-            "file": "EFTA02216193.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216915",
-            "file": "EFTA02216915.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217663",
-            "file": "EFTA02217663.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218411",
-            "file": "EFTA02218411.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00069870",
-            "file": "EFTA00069870.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218167",
-            "file": "EFTA02218167.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216455",
-            "file": "EFTA02216455.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216499",
-            "file": "EFTA02216499.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213976",
-            "file": "EFTA02213976.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217151",
-            "file": "EFTA02217151.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218413",
-            "file": "EFTA02218413.pdf",
             "source_type": "doj_efta"
           }
         ]
