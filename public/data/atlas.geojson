@@ -6509,7 +6509,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 66,
-        "evidence_count": 166,
+        "evidence_count": 167,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -6905,8 +6905,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 150,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+145 more)",
+        "source_count": 151,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+146 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -7806,6 +7806,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "is requesting a ticket to NY July 22 and returning Aug. 12 or 13...OK to purchase her a ticket? Yes...shall I set aside an apartment as well for her? Yes",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214058.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218572.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is in NY and hoping Peter could come by and see him on Friday Aug 18. Breakfast, lunch or dinner would work if he is available!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218572.pdf",
                 "confidence": 0.7
               }
             ]
@@ -10132,6 +10139,11 @@
           {
             "doc_id": "EFTA02214058",
             "file": "EFTA02214058.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218572",
+            "file": "EFTA02218572.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -17439,7 +17451,7 @@
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
         "event_count": 27,
-        "evidence_count": 48,
+        "evidence_count": 49,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -17483,6 +17495,10 @@
             "role": "associate"
           },
           {
+            "name": "Merwin Dela Cruz",
+            "role": "staff"
+          },
+          {
             "name": "Dave Rodgers",
             "role": "staff"
           },
@@ -17491,8 +17507,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 42,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+37 more)",
+        "source_count": 43,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+38 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -18137,6 +18153,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Merwin Dela Cruz",
+                "role": "staff"
               }
             ],
             "epstein_nexus": "implied",
@@ -18161,6 +18181,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Thur. July 13. 2017 NY-PB\n11:00am Appt w/Matthew Hiltzik and Ben Sosenko\n1-2:00pm Appt w/Peter Attia\n5:00pm Depart Teterboro\n5:30pm Arrive Islip",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218411.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218574.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JE to depart Teterboro for Islip at 5pm on Thursday then on to PB\nbelow from Jeffrey: leave terberboro at 5 thurs fly to islip first then palm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218574.pdf",
                 "confidence": 0.7
               }
             ]
@@ -18557,6 +18584,11 @@
           {
             "doc_id": "EFTA02218411",
             "file": "EFTA02218411.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218574",
+            "file": "EFTA02218574.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -21060,7 +21092,7 @@
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 20,
-        "evidence_count": 33,
+        "evidence_count": 34,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -21144,8 +21176,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 26,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA01263156.pdf, EFTA00009809.pdf, EFTA00015350.pdf, ... (+21 more)",
+        "source_count": 27,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA01263156.pdf, EFTA00009809.pdf, EFTA00015350.pdf, ... (+22 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -21868,6 +21900,13 @@
                 "excerpt": "to confirm: Mathew Hiltzik at I !pm on Thursday in PB?\nhiltzik on thurs at 11 p,",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218476.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218563.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I I am\\\nOn Mon, Jul 10, 2017 at 7:36 PM, wrote:\nto confirm: Mathew Hiltzik at 11pm on Thursday in PB?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218563.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -22001,6 +22040,11 @@
           {
             "doc_id": "EFTA02218476",
             "file": "EFTA02218476.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218563",
+            "file": "EFTA02218563.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -22899,8 +22943,8 @@
         "property_type": "event",
         "display_name": "Palm Beach County Courthouse",
         "location_descriptor": "The main courthouse for the 15th Judicial Circuit, located in downtown West Palm Beach, Florida, serving Palm Beach County's civil and criminal court proceedings.",
-        "event_count": 17,
-        "evidence_count": 37,
+        "event_count": 18,
+        "evidence_count": 38,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -22934,10 +22978,14 @@
           {
             "name": "Janusz Banasiak",
             "role": "other"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
           }
         ],
-        "source_count": 19,
-        "sources_preview": "EFTA00010496.pdf, EFTA00013495.pdf, EFTA00013558.pdf, EFTA00013828.pdf, EFTA00013878.pdf, ... (+14 more)",
+        "source_count": 20,
+        "sources_preview": "EFTA00010496.pdf, EFTA00013495.pdf, EFTA00013558.pdf, EFTA00013828.pdf, EFTA00013878.pdf, ... (+15 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main courthouse for the 15th Judicial Circuit, located in downtown West Palm Beach, Florida, serving Palm Beach County's civil and criminal court proceedings.",
@@ -23533,6 +23581,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "97c69132c3a58c97",
+            "event_title": "N120JE Departs Palm Beach (Atlantic Aviation) for Albuquerque at 10:30 AM, August 9, 2017",
+            "event_type": "travel",
+            "description": "Epstein's Gulfstream IV N120JE departed Atlantic Aviation at Palm Beach on August 9, 2017 at 10:30 AM, arriving at Albuquerque Atlantic Aviation at noon local time (likely Zorro Ranch trip).",
+            "date_start": "2017-08-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "N120JE is registered to Epstein's entity; flight from his Palm Beach FBO to Albuquerque (gateway to Zorro Ranch) strongly implies his travel to New Mexico.",
+            "evidence": [
+              {
+                "file": "EFTA02218550.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "current plan is to depart tomorrow / Wednesday at 10:30 AM from Atlantic aviation Palm Beach\nArrival Albuquerque Atlantic aviation at Noon local time\nN120JE GIV in use",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218550.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -23629,6 +23704,11 @@
           {
             "doc_id": "EFTA00040278",
             "file": "EFTA00040278.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218550",
+            "file": "EFTA02218550.pdf",
             "source_type": "doj_efta"
           }
         ]
