@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 96,
-        "evidence_count": 335,
+        "event_count": 98,
+        "evidence_count": 337,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -452,10 +452,18 @@
           {
             "name": "Communications Technician, BOP TDY",
             "role": "official"
+          },
+          {
+            "name": "David Patton",
+            "role": "legal"
+          },
+          {
+            "name": "US Marshals",
+            "role": "other"
           }
         ],
-        "source_count": 277,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+272 more)",
+        "source_count": 279,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+274 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -5017,6 +5025,68 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "d692bfb4b327cdf1",
+            "event_title": "David Patton Congressional Testimony Addresses Epstein Suicide at MCC in BOP Oversight Hearing",
+            "event_type": "legal",
+            "description": "David Patton's congressional testimony before the Judiciary Committee briefly addresses Epstein's suicide at MCC while discussing conditions at Bureau of Prisons facilities.",
+            "date_start": "2019-10-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "David Patton",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at MCC at the time of his death.",
+            "evidence": [
+              {
+                "file": "EFTA00071788.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Patton's testimony, which runs twelve pages, discusses among other things conditions at the MCC and MDC, particularly this winter's power outage at the MDC, and, briefly, suicide at the MCC, with mention of Jeffrey Epstein.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00071788.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "64b355711d3cb090",
+            "event_title": "Ghislaine Maxwell Transported to 500 Pearl Street for Defense Evidence Review, April 2021",
+            "event_type": "presence",
+            "description": "Maxwell transported to 500 Pearl St. for defense evidence review April 13-15, 2021.",
+            "date_start": "2021-04-13",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "US Marshals",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell's transportation to USAO relates to Epstein case.",
+            "evidence": [
+              {
+                "file": "EFTA00072508.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "For next week, you will be meeting at 500 Pearl Street, New York, New York... this is where you will need to go to get Maxwell; she will need to be escorted down the hallway to the proffer room.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00072508.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -6404,6 +6474,16 @@
             "doc_id": "EFTA00015515",
             "file": "EFTA00015515.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00071788",
+            "file": "EFTA00071788.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00072508",
+            "file": "EFTA00072508.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -6428,8 +6508,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 65,
-        "evidence_count": 159,
+        "event_count": 66,
+        "evidence_count": 164,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -6454,6 +6534,10 @@
           },
           {
             "name": "unnamed minor victim",
+            "role": "victim"
+          },
+          {
+            "name": "Victim-I",
             "role": "victim"
           },
           {
@@ -6817,8 +6901,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 144,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+139 more)",
+        "source_count": 148,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+143 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -6851,6 +6935,10 @@
               },
               {
                 "name": "unnamed minor victim",
+                "role": "victim"
+              },
+              {
+                "name": "Victim-I",
                 "role": "victim"
               }
             ],
@@ -6932,6 +7020,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "dozens of minor girls to visit his mansion in New York, New York (the \"New York Residence\"), and his estate in Palm Beach, Florida (the \"Palm Beach Residence\"), to engage in sex acts with him",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00071802.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "from at least in or about 2002, up to and including at least in or about 2005. EPSTEIN sexually abused numerous minor victims at the Subject Premises.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00071802.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00071802.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Between approximately 2002 and 2005. EPSTEIN sexually abused Victim-I on multiple occasions in the Subject Premises.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00071802.pdf",
                 "confidence": 0.7
               }
             ]
@@ -9075,6 +9177,13 @@
                 "excerpt": "Jeffrey will be in NY this Wed. and Thursday...he is asking if Leon might have some time to come and see him\u2014Perhaps breakfast or lunch on Wed or Thurs?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218460.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218532.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please come see Jeffrey this morning. Is 10:30 am good for you? He has an 8 am with Deepak and Leon is coming for lunch at 12:30.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218532.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -9725,6 +9834,44 @@
                 "excerpt": "Hi ..may I confirm 2:30pm on Friday with you?\nYes! See you on Friday at 2.30pm",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218459.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218533.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi ..may I confirm 2:30pm on Friday with you? Lesley\nYes! See you on Friday at 2.30pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218533.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e8d4aa846bffa886",
+            "event_title": "USAO SDNY Seeks Forfeiture of Epstein Residences in NY, FL, and U.S. Virgin Islands",
+            "event_type": "presence",
+            "description": "U.S. Attorney Geoffrey Berman directed forfeiture theories for Epstein's residences after his death.",
+            "date_start": "2019-08-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Geoffrey Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "These are Epstein's known residences.",
+            "evidence": [
+              {
+                "file": "EFTA00072127.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I want a cognizable theory to pursue residences in NY, FL and VI.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00072127.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -9763,6 +9910,11 @@
           {
             "doc_id": "EFTA00015350",
             "file": "EFTA00015350.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00071802",
+            "file": "EFTA00071802.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -10326,6 +10478,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02218532",
+            "file": "EFTA02218532.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02216936",
             "file": "EFTA02216936.pdf",
             "source_type": "doj_efta"
@@ -10448,6 +10605,16 @@
           {
             "doc_id": "EFTA02218459",
             "file": "EFTA02218459.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218533",
+            "file": "EFTA02218533.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00072127",
+            "file": "EFTA00072127.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -19876,7 +20043,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 21,
-        "evidence_count": 31,
+        "evidence_count": 32,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -19960,8 +20127,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 29,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+24 more)",
+        "source_count": 30,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+25 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -20499,6 +20666,13 @@
                 "excerpt": "I am travelling from M, I think the train is a good option. since Jeffrey is arriving late , I think the best train for me to take would be 4,30 pm. Do you think its going to be possible to organise a car to pick me up in paris to go to Jeffrey's house?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218449.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218530.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "norwegian\nXL AIRWAYS FRANCE\n1 SE 50 14JUL CDG JFK 0735P 0945P\n2 SE 51 21JUL JFK CDG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218530.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -20762,6 +20936,11 @@
           {
             "doc_id": "EFTA02218449",
             "file": "EFTA02218449.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218530",
+            "file": "EFTA02218530.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -21779,8 +21958,8 @@
         "property_type": "event",
         "display_name": "Metropolitan Detention Center Brooklyn",
         "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
-        "event_count": 18,
-        "evidence_count": 35,
+        "event_count": 19,
+        "evidence_count": 36,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -21816,8 +21995,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 30,
-        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+25 more)",
+        "source_count": 31,
+        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+26 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
@@ -22444,6 +22623,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "4c2bcf553877f38d",
+            "event_title": "Ghislaine Maxwell Detained at Brooklyn MDC, Guards Check Every 15 Minutes at Night",
+            "event_type": "presence",
+            "description": "Ghislaine Maxwell was detained at the Metropolitan Detention Center Brooklyn with guards checking every 15 minutes at night.",
+            "date_start": "2021-02-08",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell's detention relates to Epstein case.",
+            "evidence": [
+              {
+                "file": "EFTA00071962.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A Look at Ghislaine Maxwell's Life in Jail And Why Prosecutors Say it's Better Than Most Federal prosecutors say that guards at the Brooklyn facility check in on Ghislaine Maxwell every 15 minutes at night, shining a flashlight",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00071962.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -22595,6 +22801,11 @@
           {
             "doc_id": "EFTA00066949",
             "file": "EFTA00066949.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00071962",
+            "file": "EFTA00071962.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -26784,7 +26995,7 @@
         "display_name": "Long Island MacArthur Airport",
         "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
         "event_count": 6,
-        "evidence_count": 8,
+        "evidence_count": 9,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -26812,8 +27023,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+3 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
@@ -27007,6 +27218,13 @@
                 "excerpt": "5:30pm Arrive Islip\nTBD Depart Islip\nTBD Arrive PB",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218411.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218524.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "no i leave for palm beach thurs at 5 go to islip?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218524.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -27050,6 +27268,11 @@
           {
             "doc_id": "EFTA02218411",
             "file": "EFTA02218411.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218524",
+            "file": "EFTA02218524.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -30181,7 +30404,7 @@
         "display_name": "Albuquerque International Sunport",
         "location_descriptor": "The primary commercial airport serving Albuquerque, New Mexico and the surrounding region, located in the south-central part of the city.",
         "event_count": 4,
-        "evidence_count": 12,
+        "evidence_count": 13,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -30201,8 +30424,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 12,
-        "sources_preview": "EFTA02213687.pdf, EFTA02214641.pdf, EFTA02213884.pdf, EFTA02214367.pdf, EFTA02214639.pdf, ... (+7 more)",
+        "source_count": 13,
+        "sources_preview": "EFTA02213687.pdf, EFTA02214641.pdf, EFTA02213884.pdf, EFTA02214367.pdf, EFTA02214639.pdf, ... (+8 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The primary commercial airport serving Albuquerque, New Mexico and the surrounding region, located in the south-central part of the city.",
@@ -30349,6 +30572,13 @@
                 "excerpt": "Jeffrey now says he wants to take the Jet Blue direct flight out on Sat. night Aug. 12 to Alb.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218452.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218497.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey now says he wants to take the Jet Blue direct flight out on Sat. night Aug. 12 to Alb.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218497.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -30429,6 +30659,11 @@
           {
             "doc_id": "EFTA02218452",
             "file": "EFTA02218452.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218497",
+            "file": "EFTA02218497.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -48360,7 +48595,7 @@
         "display_name": "Southampton, NY",
         "location_descriptor": "An affluent Hamptons village on the South Shore of Long Island, New York, known as a luxury resort community and retreat for wealthy New Yorkers.",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 2,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -48372,8 +48607,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA02218488.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA02218488.pdf, EFTA02218503.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "An affluent Hamptons village on the South Shore of Long Island, New York, known as a luxury resort community and retreat for wealthy New Yorkers.",
@@ -48402,6 +48637,13 @@
                 "excerpt": "Peggy was wondering if Jeffrey saw this email and how he would like to proceed?\nRe: 70th Birthday Dinner in Southampton",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218488.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218503.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Re: 70th Birthday Dinner in Southampton\nHey Lesley! Any updates?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218503.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -48410,6 +48652,11 @@
           {
             "doc_id": "EFTA02218488",
             "file": "EFTA02218488.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218503",
+            "file": "EFTA02218503.pdf",
             "source_type": "doj_efta"
           }
         ]
