@@ -6182,7 +6182,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 48,
-        "evidence_count": 142,
+        "evidence_count": 143,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -6486,6 +6486,10 @@
             "role": "associate"
           },
           {
+            "name": "Debby",
+            "role": "associate"
+          },
+          {
             "name": "Nili Peled Barak",
             "role": "other"
           },
@@ -6526,8 +6530,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 127,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+122 more)",
+        "source_count": 128,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+123 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -8536,6 +8540,10 @@
                 "role": "subject"
               },
               {
+                "name": "Debby",
+                "role": "associate"
+              },
+              {
                 "name": "Brad Karp",
                 "role": "legal"
               }
@@ -8555,6 +8563,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Would you like snacks for the 2:30pm meeting with Brad Karp?\n\nFrom: Jeffrey E.: Yes",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217001.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217629.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: Jeffrey Epstein 5pm\nGood morning Debby. Reconfirming you will come see Jeffrey Epstein today at 5pm.\nJeffrey's home address is [9 East 71st Street]\nWed Jul 12, 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217629.pdf",
                 "confidence": 0.7
               }
             ]
@@ -9514,6 +9529,11 @@
           {
             "doc_id": "EFTA02217001",
             "file": "EFTA02217001.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217629",
+            "file": "EFTA02217629.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -15201,7 +15221,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 20,
-        "evidence_count": 52,
+        "evidence_count": 53,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -15305,8 +15325,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 43,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215836.pdf, EFTA02215018.pdf, ... (+38 more)",
+        "source_count": 44,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215836.pdf, EFTA02215018.pdf, ... (+39 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -15518,6 +15538,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "2 DL 676 20JUN STT JFK 0155P 0559P",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216911.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217033.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1 M 1350 20JUN STT MIA 0945A 1241P\n1 SU 111 20JUN MIA SVO 0505P 1110A",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217033.pdf",
                 "confidence": 0.7
               }
             ]
@@ -16216,6 +16243,11 @@
           {
             "doc_id": "EFTA02216911",
             "file": "EFTA02216911.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217033",
+            "file": "EFTA02217033.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -24043,7 +24075,7 @@
         "display_name": "Moscow",
         "location_descriptor": "The capital and largest city of Russia, a major global metropolis and financial center served by three international airports: Sheremetyevo, Domodedovo, and Vnukovo.",
         "event_count": 5,
-        "evidence_count": 13,
+        "evidence_count": 14,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -24083,8 +24115,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 13,
-        "sources_preview": "EFTA02213034.pdf, EFTA02213716.pdf, EFTA02213788.pdf, EFTA02213801.pdf, EFTA02212851.pdf, ... (+8 more)",
+        "source_count": 14,
+        "sources_preview": "EFTA02213034.pdf, EFTA02213716.pdf, EFTA02213788.pdf, EFTA02213801.pdf, EFTA02212851.pdf, ... (+9 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of Russia, a major global metropolis and financial center served by three international airports: Sheremetyevo, Domodedovo, and Vnukovo.",
@@ -24270,6 +24302,13 @@
                 "excerpt": "1 SU 100 17JUN SVO JFK 0920A 1205P",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217260.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217033.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1 SU 100 17JUN SVO JFK 0920A 1205P\n...TOTAL FARE - USD 1384.82",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217033.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -24360,6 +24399,11 @@
           {
             "doc_id": "EFTA02217260",
             "file": "EFTA02217260.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217033",
+            "file": "EFTA02217033.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -45538,12 +45582,12 @@
         "name": "Nantucket",
         "location_name": "Nantucket",
         "location_address": "Nantucket, Massachusetts, United States",
-        "location_description": "",
+        "location_description": "An island and county off the coast of Cape Cod, Massachusetts, known as a historic whaling hub and affluent summer resort destination.",
         "canonical_name": "Nantucket, MA, Massachusetts",
         "region": "",
         "property_type": "event",
         "display_name": "Nantucket",
-        "location_descriptor": "",
+        "location_descriptor": "An island and county off the coast of Cape Cod, Massachusetts, known as a historic whaling hub and affluent summer resort destination.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -45569,7 +45613,7 @@
         "sources_preview": "EFTA02217645.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "",
+        "event_description": "An island and county off the coast of Cape Cod, Massachusetts, known as a historic whaling hub and affluent summer resort destination.",
         "events": [
           {
             "event_id": "396ef8ed7f1bcc68",
