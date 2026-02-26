@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 88,
-        "evidence_count": 325,
+        "evidence_count": 331,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -124,6 +124,10 @@
           {
             "name": "MCC personnel who responded",
             "role": "witness"
+          },
+          {
+            "name": "Geoffrey Berman",
+            "role": "legal"
           },
           {
             "name": "[redacted] BOP nurse/medic",
@@ -264,10 +268,6 @@
           {
             "name": "[redacted corrections officer]",
             "role": "witness"
-          },
-          {
-            "name": "Geoffrey Berman",
-            "role": "legal"
           },
           {
             "name": "Mr. Berman",
@@ -450,8 +450,8 @@
             "role": "official"
           }
         ],
-        "source_count": 268,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+263 more)",
+        "source_count": 273,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+268 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -829,6 +829,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "PENDING DHO FOR CODE 228 SELF.MUTILATION/ INMATE SUICIDE ATTEMPT ON 7-23-2019",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00068458.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00070036.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I can confirm that, although an internal investigation was completed regarding the July 23, 2019 incident, the current investigations by the FBI and OIG will include this incident as well.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00070036.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1429,6 +1436,10 @@
                 "role": "witness"
               },
               {
+                "name": "Geoffrey Berman",
+                "role": "legal"
+              },
+              {
                 "name": "[redacted] BOP nurse/medic",
                 "role": "other"
               },
@@ -1575,6 +1586,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "On August 10, 2019, inmate Jeffrey Epstein committed suicide while housed in the Special Housing Unit at the MCC.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00068566.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00070031.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey Epstein, who faced charges brought by this Office of engaging in the sex trafficking of minors, had been found unresponsive in his cell and was pronounced dead shortly thereafter of an apparent suicide.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00070031.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2732,6 +2750,20 @@
                 "excerpt": "was the camera system that was already on site and installed the week ending August 16, 2019, ever scheduled to be installed prior to August 10, 2019? If so, when was it scheduled to be installed... can you please confirm that this is the documentation regarding the purchase of the camera system that was on site at the MCC in August 2019, which was installed immediately after the Epstein incident on August 10, 2019?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064578.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "roughly 15 employees at the Metropolitan Correctional Center where Jeffrey Epstein killed himself in his jail cell have been subpoenaed\nThe New York City medical examiner determined that Mr. Epstein's Aug. 10 death was a suicide by hanging.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069870.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The New York City medical examiner determined that Mr. Epstein s Aug. 10 death was a suicide by hanging.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069870.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -3267,6 +3299,13 @@
                 "excerpt": "There will be two proceedings in regards to the above-mentioned matter today. July 8. 2019. The first will occur this marring In courtroom 238 of the Daniel Patrick Moynihan Courthouse.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00068407.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00071665.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JEFFREY EPSTEIN was arrested Saturday and charged with sex trafficking of minors and conspiracy to commit sex trafficking of minors. He committed these offenses in locations including New York, New York, and Palm Beach, Florida. EPSTEIN is expected to be presented in Manhattan federal court this afternoon before U.S. Magistrate Judge Henry B. Pitman.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00071665.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -3372,6 +3411,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "OIG reviewed MCC New York SHU surveillance footage from August 9 4PM to August 10 7AM. Epstein was found unresponsive in cell Z06-220 on L-tier. FBI lab in Quantico extracted footage from video arrays seized on August 10-11, 2019.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062045.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00070037.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "took Epstein to the SHU showers to make the phone call. Epstein told he was calling his mother.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00070037.pdf",
                 "confidence": 0.7
               }
             ]
@@ -5029,6 +5075,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00070036",
+            "file": "EFTA00070036.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00008744",
             "file": "EFTA00008744.pdf",
             "source_type": "doj_efta"
@@ -5311,6 +5362,11 @@
           {
             "doc_id": "EFTA00068566",
             "file": "EFTA00068566.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00070031",
+            "file": "EFTA00070031.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -5749,6 +5805,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00069870",
+            "file": "EFTA00069870.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015296",
             "file": "EFTA00015296.pdf",
             "source_type": "doj_efta"
@@ -5849,6 +5910,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00071665",
+            "file": "EFTA00071665.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015630",
             "file": "EFTA00015630.pdf",
             "source_type": "doj_efta"
@@ -5876,6 +5942,11 @@
           {
             "doc_id": "EFTA00062045",
             "file": "EFTA00062045.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00070037",
+            "file": "EFTA00070037.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -6181,8 +6252,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 48,
-        "evidence_count": 143,
+        "event_count": 49,
+        "evidence_count": 149,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -6502,6 +6573,14 @@
             "role": "associate"
           },
           {
+            "name": "Deepak",
+            "role": "associate"
+          },
+          {
+            "name": "Leo",
+            "role": "associate"
+          },
+          {
             "name": "John Steele",
             "role": "associate"
           },
@@ -6528,10 +6607,18 @@
           {
             "name": "Ben",
             "role": "associate"
+          },
+          {
+            "name": "Juleanna Glover",
+            "role": "associate"
+          },
+          {
+            "name": "Michael Abramowitz",
+            "role": "associate"
           }
         ],
-        "source_count": 128,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+123 more)",
+        "source_count": 134,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+129 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -8088,6 +8175,20 @@
                 "excerpt": "In her position at the front door, she observed that Maxwell was regularly bringing school-aged girls to the mansion and that the girls were always escorted upstairs. Maxwell described her role to [witness] as recruiting models for Epstein, and told [witness] that the girls were interviewing for modeling positions with Victoria's Secret.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00068892.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069900.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Scientists gathered at dinner parties at Mr. Epstein s Manhattan mansion, where Dom Perignon and expensive wines flowed freely, even though Mr. Epstein did not drink.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069900.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069926.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Scientists gathered at dinner parties at Mr. Epstein s Manhattan mansion, where Dom Perignon and expensive wines flowed freely, even though Mr. Epstein did not drink.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069926.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -8712,6 +8813,22 @@
                 "role": "subject"
               },
               {
+                "name": "Deepak",
+                "role": "associate"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Leo",
+                "role": "associate"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
                 "name": "John Steele",
                 "role": "associate"
               },
@@ -8760,6 +8877,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Reconfirming Dr Bard will now come see Jeffrey at the originally requested time of 4:30pm. 9 East 71st Street between 5th and Madison",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217575.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217716.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please come see jeffrey this morning. Is 10:30 am good for you? He has an 8 am with Deepak and Leo",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217716.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217773.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello [REDACTED]. Might you be available to come see Jeffrey at his home next wed. July 12th at 2pm? Jeffrey's home address is 9 East 71st Street between 5th and Madison.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217773.pdf",
                 "confidence": 0.7
               }
             ]
@@ -8970,6 +9101,48 @@
                 "source_type": "doj_efta",
                 "excerpt": "Subject: RE: Jeffrey Epstein\nFrom: Elisha McGinnis [Hiltzik Strategies]\nJust checking in to confirm tomorrow's meeting with Jeffrey, Ben and Matthew at 11am\nWed 7/12/2017",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217632.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217681.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Just checking in to confirm tomorrow's meeting with Jeffrey, Ben and Matthew at 11am at Jeffery's apartment (9 E 71st). Please let me know if there are any changes.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217681.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "761fcc538bb45a90",
+            "event_title": "Juleanna Glover and Mike Abramowitz Meet Epstein at 9 E 71st St, June 24 2017 at 2pm",
+            "event_type": "presence",
+            "description": "Juleanna Glover (PR consultant) and Mike Abramowitz (Freedom House) met with Jeffrey Epstein at his NYC residence at 9 E 71st Street on June 24, 2017 at 2pm to discuss democracy funding.",
+            "date_start": "2017-06-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Juleanna Glover",
+                "role": "associate"
+              },
+              {
+                "name": "Michael Abramowitz",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his NYC residence for this confirmed in-person meeting.",
+            "evidence": [
+              {
+                "file": "EFTA02217731.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Can we pls do 2 PM on the 24th at your residence? Thank you.\nok great\nHow about 1230 or after on the 24th?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217731.pdf",
                 "confidence": 0.7
               }
             ]
@@ -9412,6 +9585,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00069900",
+            "file": "EFTA00069900.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00069926",
+            "file": "EFTA00069926.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00017716",
             "file": "EFTA00017716.pdf",
             "source_type": "doj_efta"
@@ -9587,6 +9770,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02217716",
+            "file": "EFTA02217716.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217773",
+            "file": "EFTA02217773.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02216936",
             "file": "EFTA02216936.pdf",
             "source_type": "doj_efta"
@@ -9615,6 +9808,16 @@
             "doc_id": "EFTA02217632",
             "file": "EFTA02217632.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217681",
+            "file": "EFTA02217681.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217731",
+            "file": "EFTA02217731.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -9640,7 +9843,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 41,
-        "evidence_count": 93,
+        "evidence_count": 95,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -9832,8 +10035,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 89,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA02212893.pdf, EFTA00039367.pdf, ... (+84 more)",
+        "source_count": 91,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02212893.pdf, ... (+86 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -9895,6 +10098,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Ms. was abused by Jeffrey Epstein on numerous occasions at his townhome in New York and his caribbean island home in the Virgin Islands.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015992.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069180.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Rubbed hand & leg in movie theatre in NYC",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069180.pdf",
                 "confidence": 0.7
               }
             ]
@@ -11318,6 +11528,13 @@
                 "excerpt": "fly from Paris to NY on Sat June 17",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216949.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217671.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Maureen and hope you are well! Jeffrey will be in NY this Wed. and Thursday (July 12/13) He is wondering if by any chance Dr. Watson might be around as well and available to come see him?!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217671.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -11506,6 +11723,11 @@
           {
             "doc_id": "EFTA00015992",
             "file": "EFTA00015992.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00069180",
+            "file": "EFTA00069180.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -11906,6 +12128,11 @@
           {
             "doc_id": "EFTA02216949",
             "file": "EFTA02216949.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217671",
+            "file": "EFTA02217671.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -13893,7 +14120,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 24,
-        "evidence_count": 58,
+        "evidence_count": 60,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -13923,6 +14150,10 @@
           {
             "name": "Walter Cronkite",
             "role": "associate"
+          },
+          {
+            "name": "Stephen Hawking",
+            "role": "other"
           },
           {
             "name": "Ms.",
@@ -13973,8 +14204,8 @@
             "role": "other"
           }
         ],
-        "source_count": 53,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+48 more)",
+        "source_count": 55,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+50 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -14183,6 +14414,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Stephen Hawking",
+                "role": "other"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               },
@@ -14213,6 +14448,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "LSJ\n\nLSJ00.JPG  LSJ01.JPG  LSJ02.JPG\n...\nLSJ79.JPG",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004348.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069900.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Others flew to conferences sponsored by Mr. Epstein in the United States Virgin Islands and were feted on his private island there. Once, the scientists \u2014 including Mr. Hawking \u2014 crowded on board a submarine that Mr. Epstein had chartered.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069900.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069926.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Others flew to conferences sponsored by Mr. Epstein in the United States Virgin Islands and were feted on his private island there. Once, the scientists \u2014 including Mr. Hawking \u2014 crowded on board a submarine that Mr. Epstein had chartered.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069926.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14998,6 +15247,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00069900",
+            "file": "EFTA00069900.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00069926",
+            "file": "EFTA00069926.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA01263156",
             "file": "EFTA01263156.pdf",
             "source_type": "doj_efta"
@@ -15220,8 +15479,8 @@
         "property_type": "event",
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
-        "event_count": 20,
-        "evidence_count": 53,
+        "event_count": 21,
+        "evidence_count": 54,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -15325,8 +15584,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 44,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215836.pdf, EFTA02215018.pdf, ... (+39 more)",
+        "source_count": 45,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215836.pdf, EFTA02215018.pdf, ... (+40 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -16197,6 +16456,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "4124ead26e68548e",
+            "event_title": "Epstein Signs USVI Sex Offender Registry Travel Notification Form (Mar 15, 2019)",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein personally signed the U.S. Virgin Islands sex offender registry IML Notification of Duty to Report Travel form on March 15, 2019.",
+            "date_start": "2019-03-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein physically signed the USVI sex offender registry form, confirming his presence in the U.S. Virgin Islands on that date.",
+            "evidence": [
+              {
+                "file": "EFTA00070029.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On March 15, 2019 Mr. Epstein signed the Virgin Islands sex offender registry Notification of Duty to Report Travel (IML) form.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00070029.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -16418,6 +16704,11 @@
           {
             "doc_id": "EFTA00067068",
             "file": "EFTA00067068.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00070029",
+            "file": "EFTA00070029.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -17370,8 +17661,8 @@
         "property_type": "event",
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 17,
-        "evidence_count": 34,
+        "event_count": 18,
+        "evidence_count": 37,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -17415,8 +17706,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 30,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+25 more)",
+        "source_count": 32,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+27 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -18014,6 +18305,47 @@
                 "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 45 minutes at 08:32AM EDT",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216915.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We will be arriving the Teterboro airport (KTEB/TEB) at approximately 8:30 a.m. Tuesday, July 11, 2017. We will be clearing U.S. Customs next door to Jet Aviation.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217663.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6defec07ed07fe43",
+            "event_title": "FBI Agents and NYPD Detectives Arrest Epstein at Teterboro Airport (July 2019)",
+            "event_type": "presence",
+            "description": "FBI agents and NYPD detectives arrested Jeffrey Epstein at Teterboro Airport on federal sex trafficking charges in July 2019.",
+            "date_start": "2019-07",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.9,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein physically present at Teterboro Airport during arrest.",
+            "evidence": [
+              {
+                "file": "EFTA00069870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He was arrested in July by F.B.I. agents",
+                "document_url": "",
+                "confidence": 0.9
+              },
+              {
+                "file": "EFTA00069870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He was arrested in July by F.B.I. agents and New York police detectives at Teterboro Airport and charged with federal sex trafficking following renewed interest in his case.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069870.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -18167,6 +18499,16 @@
           {
             "doc_id": "EFTA02216915",
             "file": "EFTA02216915.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217663",
+            "file": "EFTA02217663.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00069870",
+            "file": "EFTA00069870.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -21743,7 +22085,7 @@
         "display_name": "Epstein's Zorro Ranch",
         "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
         "event_count": 10,
-        "evidence_count": 17,
+        "evidence_count": 18,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -21803,8 +22145,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 16,
-        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+11 more)",
+        "source_count": 17,
+        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+12 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
@@ -21872,6 +22214,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "MAXWELL played a critical role in the grooming and abuse of minor victims that took place in locations including New York, Florida, and New Mexico.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00065088.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069180.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Foot massages in NM with Maxwell\nPointers on how to do it how Epstein likes it",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069180.pdf",
                 "confidence": 0.7
               }
             ]
@@ -22207,6 +22556,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00069180",
+            "file": "EFTA00069180.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00004250",
             "file": "EFTA00004250.pdf",
             "source_type": "doj_efta"
@@ -22284,13 +22638,13 @@
         "property_type": "event",
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "One of the busiest international airports in the United States, located in the Jamaica neighborhood of Queens, New York City.",
-        "event_count": 9,
-        "evidence_count": 12,
+        "event_count": 10,
+        "evidence_count": 14,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2017-05-27",
-        "date_end": "2017-07-14",
+        "date_end": "2017-07-16",
         "people": [
           {
             "name": "Natalia Molotkova",
@@ -22345,8 +22699,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 12,
-        "sources_preview": "EFTA02213837.pdf, EFTA02214617.pdf, EFTA02214717.pdf, EFTA02214775.pdf, EFTA02216178.pdf, ... (+7 more)",
+        "source_count": 14,
+        "sources_preview": "EFTA02213837.pdf, EFTA02214617.pdf, EFTA02214717.pdf, EFTA02214775.pdf, EFTA02216178.pdf, ... (+9 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "One of the busiest international airports in the United States, located in the Jamaica neighborhood of Queens, New York City.",
@@ -22639,6 +22993,44 @@
                 "excerpt": "flights from Paris to NYC and back:\nNORWEGIAN AIR: DY 7019 14JUL CDG JFK 0615P 0830P; DY 7020 21JUL JFK CDG 1025P 1125A\n\nBoth of them: AA 936 16JUL JFK STT 0930A 0139P; AA 936 20JUL STT JFK 0240P 0701P\n\nthanks...the XXX's on [name] is just that I typed 'P Russian' but spelled out...Oops",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217117.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217695.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Date 14 Jul 2017 Airline Norwegian Air Shuttle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217695.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6d4c04c4b5ca16d3",
+            "event_title": "Karyna Shuliak Arrives JFK Terminal 4 at 3:37 PM on Delta DL3299, July 16 2017",
+            "event_type": "travel",
+            "description": "Karyna Shuliak arrived at JFK Terminal 4 at 3:37 PM on July 16, 2017, on Delta DL3299 from Palm Beach, traveling to visit Epstein in New York.",
+            "date_start": "2017-07-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein approved this Epstein-arranged trip for Karyna Shuliak coming to New York specifically to be with him.",
+            "evidence": [
+              {
+                "file": "EFTA02217717.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Destination New York, John F Kennedy International Departing 12:39 PM Arriving 03:37 PM Arrival Terminal Terminal 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217717.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -22702,6 +23094,16 @@
           {
             "doc_id": "EFTA02217117",
             "file": "EFTA02217117.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217695",
+            "file": "EFTA02217695.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217717",
+            "file": "EFTA02217717.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -26235,6 +26637,230 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.090477,
+          26.688241
+        ]
+      },
+      "properties": {
+        "id": "fcdade6e73d1523e",
+        "name": "Palm Beach International Airport",
+        "location_name": "Palm Beach International Airport",
+        "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
+        "location_description": "The main commercial airport serving Palm Beach County, Florida, located in West Palm Beach about 3 km west of downtown.",
+        "canonical_name": "Palm Beach International Airport, 1000 James L Turnage Blvd, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach International Airport",
+        "location_descriptor": "The main commercial airport serving Palm Beach County, Florida, located in West Palm Beach about 3 km west of downtown.",
+        "event_count": 4,
+        "evidence_count": 7,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-05",
+        "date_end": "2018-12-14",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          }
+        ],
+        "source_count": 7,
+        "sources_preview": "EFTA00040497.pdf, EFTA02216007.pdf, EFTA02216195.pdf, EFTA02216343.pdf, EFTA02216420.pdf, ... (+2 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "The main commercial airport serving Palm Beach County, Florida, located in West Palm Beach about 3 km west of downtown.",
+        "events": [
+          {
+            "event_id": "a3feae6fcce214dd",
+            "event_title": "Epstein Departs and Arrives at Palm Beach International Airport Multiple Times in 2018 on Private Aircraft",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein cleared CBP at Palm Beach International Airport multiple times in 2018 on private aircraft N212JE and N120JE, per CBP APIS records showing customs clearance while traveling between Palm Beach and St. Thomas USVI.",
+            "date_start": "2018-08-05",
+            "date_end": "2018-12-14",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally cleared customs at Palm Beach International Airport, adjacent to his 358 El Brillo Way residence, multiple times in 2018.",
+            "evidence": [
+              {
+                "file": "EFTA00040497.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 P 469911707 12/14/2018 08:49 \u2022GA N212JE I A523 APIS PASSENGER CUSTOMS KPBI TIST\nEPSTEIN JEFFREY 01/20/1953 P 469911707 10/28/2018 00:00 \u2022GA N212JE O APIS PASSENGER TIST KPBI\nEPSTEIN JEFFREY EDWARD 01/20/1953 P 547017616 08/29/2018 17:44 \u2022GA N120JE I A523 APIS PASSENGER CUSTOMS KPBI TIST",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040497.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e900435c8bae1ce2",
+            "event_title": "Associate Flies Palm Beach to New York \u2014 June 5, 2017",
+            "event_type": "travel",
+            "description": "An Epstein associate flew from Palm Beach to New York on Monday June 5, 2017, with the ticket forwarded via Lesley Groff.",
+            "date_start": "2017-06-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Epstein's assistant Lesley Groff for an associate flying from Palm Beach to New York.",
+            "evidence": [
+              {
+                "file": "EFTA02216007.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ticket from PB to NY on Monday June 5th...OK to send to M?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216007.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216195.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mon. June 5. 2017 PH\nReminder: Dr. Moskowitz at Zorro June 5, 6\n2:15pm to depart PB via Delta#1078 (Rec. Loc#GEVLJE)\n3:30pm Phone Date w/Christian Glauser (Oppenheim Architecture)\n4:00pm SKYPE Date w/Kevin Ouvre and Philippe",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216195.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216343.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 12:14PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216343.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216420.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Palm Beach Intl (KPBI) at 12:16PM EDT from Long Island MacArthur (KISP)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216420.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "88f9d6ebf8e4b3f0",
+            "event_title": "Epstein Pilot Larry Visoski Available to Fly from Palm Beach \u2014 June 5, 2017",
+            "event_type": "presence",
+            "description": "Larry Visoski confirmed he was in Palm Beach and available to fly Jeffrey Epstein on Wednesday morning, June 7, 2017.",
+            "date_start": "2017-06-07",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein's pilot was stationed in Palm Beach ready to fly Epstein, confirming Epstein's presence in the Palm Beach area.",
+            "evidence": [
+              {
+                "file": "EFTA02216175.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I told JE I'd be able to fly Wed morn in Palm beach. Whether he waits for me or not?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216175.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a6707c81a951a0b7",
+            "event_title": "Karyna Shuliak Flies Palm Beach to JFK on Delta DL3299, July 16 2017 (Epstein-Arranged)",
+            "event_type": "travel",
+            "description": "Karyna Shuliak departed Palm Beach International Airport on Delta flight DL3299 first class (seat 3D) to JFK, July 16 2017; ticket arranged by Epstein's staff (AmEx Centurion Travel, record HGVV86).",
+            "date_start": "2017-07-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally approved sending the ticket to Karyna Shuliak, confirming his direct involvement in arranging her travel.",
+            "evidence": [
+              {
+                "file": "EFTA02217717.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Here is Karyna's ticket from PB to NY on Sunday July 16th. OK to send to her?\nFlight/Class DL 3299 P First Class Origin West Palm Beach, Palm Beach International Destination New York, John F Kennedy International Departing 12:39 PM Arriving 03:37 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217717.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00040497",
+            "file": "EFTA00040497.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216007",
+            "file": "EFTA02216007.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216195",
+            "file": "EFTA02216195.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216343",
+            "file": "EFTA02216343.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216420",
+            "file": "EFTA02216420.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216175",
+            "file": "EFTA02216175.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217717",
+            "file": "EFTA02217717.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.005994,
           40.712749
         ]
@@ -27287,6 +27913,234 @@
           {
             "doc_id": "EFTA00015134",
             "file": "EFTA00015134.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983493,
+          40.77176
+        ]
+      },
+      "properties": {
+        "id": "a992ce1044a52cdf",
+        "name": "David H. Koch Theater",
+        "location_name": "David H. Koch Theater",
+        "location_address": "20 West 63rd Street, New York City, New York 10023, United States",
+        "location_description": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
+        "canonical_name": "David H. Koch Theater, Lincoln Center, 20 Lincoln Center Plaza, New York, NY 10023, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "David H. Koch Theater",
+        "location_descriptor": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
+        "event_count": 3,
+        "evidence_count": 6,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-05",
+        "date_end": "2017-05-09",
+        "people": [
+          {
+            "name": "Lila Walker",
+            "role": "other"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Peggy Siegal",
+            "role": "other"
+          },
+          {
+            "name": "Gary Jaworski",
+            "role": "other"
+          },
+          {
+            "name": "Ehud Barak",
+            "role": "associate"
+          },
+          {
+            "name": "Nili Priell-Barak",
+            "role": "associate"
+          },
+          {
+            "name": "Juleanna Glover",
+            "role": "associate"
+          }
+        ],
+        "source_count": 6,
+        "sources_preview": "EFTA02212907.pdf, EFTA02212919.pdf, EFTA02212862.pdf, EFTA02212870.pdf, EFTA02213120.pdf, ... (+1 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
+        "events": [
+          {
+            "event_id": "e8c594ad10c71e11",
+            "event_title": "Epstein Underwrites Table at Peggy Siegal Event, Sends Assistants to Lincoln Center (May 7, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein underwrote a table of 12 tickets for Peggy Siegal's event at Lincoln Center; sought 2 additional tickets for his assistants for May 7, 2017 event.",
+            "date_start": "2017-05-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lila Walker",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Peggy Siegal",
+                "role": "other"
+              },
+              {
+                "name": "Gary Jaworski",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein underwrote a table at this Lincoln Center event and sought tickets for his staff, implying his involvement or attendance.",
+            "evidence": [
+              {
+                "file": "EFTA02212907.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I mixed the 12 tickets I sold and the 12 tickets Jeffrey underwrote... I will send Jeffrey the table seating... Jeffrey is asking if you might have 2 extra tickets to your event tomorrow night",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212907.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02212919.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Yes. We'll have 2 tickets for them at the show. Starts at 7 pm at the DAVID H. Koch Theater at Lincoln Center. Ends about 9 pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212919.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02212862.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "They both have tickets and they can pick them up after 5:30 pm at the David H. Koch Theater, 20 Lincoln Plaza",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212862.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02212870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "They both have tickets and they can pick them up after 5:30 pm at the David H. Koch Theater, 20 Lincoln Plaza, at the \"Guest Services\" table in the lobby.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212870.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "77c4e9ab22cf717a",
+            "event_title": "Ehud Barak Attends Oslo at Lincoln Center Theater (May 9, 2017)",
+            "event_type": "presence",
+            "description": "Ehud Barak and Nili Priell-Barak attended the play Oslo at Lincoln Center Theater in New York on May 9, 2017, at 7pm.",
+            "date_start": "2017-05-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ehud Barak",
+                "role": "associate"
+              },
+              {
+                "name": "Nili Priell-Barak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Ehud Barak attending theater with Epstein-connected tickets, connected to Epstein's NY network.",
+            "evidence": [
+              {
+                "file": "EFTA02213120.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EB has a meeting at 2:30 PM for let say an hour and a half, not far from J house...purchased tickets for OSLO, at the Lincoln center theatre. it starts at 7PM till 10 PM.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213120.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fb3626c33bc5221c",
+            "event_title": "Epstein Buys Out Vivian Beaumont Theatre at Lincoln Center for UN Diplomats, May 5 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein anonymously bought out the entire Vivian Beaumont Theatre at Lincoln Center on May 5, 2017, for UN diplomats to see OSLO (Tony-nominated play), with private gathering at 7pm.",
+            "date_start": "2017-05-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Juleanna Glover",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Lincoln Center organizing and hosting the private gathering for UN diplomats.",
+            "evidence": [
+              {
+                "file": "EFTA02217731.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tonight I anonymously bought out he entire vivian beaumont theatre in order that a mojority U. N diplomats could be see OSLO. the tony nominated play. If you and your guest were free. (fully aware of the last minute nature ), you would be part of the private gatherings. many interesting people will attend . Tonight at 7 , Lincoln center",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217731.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212907",
+            "file": "EFTA02212907.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212919",
+            "file": "EFTA02212919.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212862",
+            "file": "EFTA02212862.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212870",
+            "file": "EFTA02212870.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213120",
+            "file": "EFTA02213120.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217731",
+            "file": "EFTA02217731.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -28994,52 +29848,159 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.090477,
-          26.688241
+          -64.932094,
+          18.341129
         ]
       },
       "properties": {
-        "id": "fcdade6e73d1523e",
-        "name": "Palm Beach International Airport",
-        "location_name": "Palm Beach International Airport",
-        "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
-        "location_description": "The main commercial airport serving Palm Beach County, Florida, located in West Palm Beach about 3 km west of downtown.",
-        "canonical_name": "Palm Beach International Airport, 1000 James L Turnage Blvd, West Palm Beach, FL, Florida",
+        "id": "3109d0d9924081b6",
+        "name": "Government House, St. Thomas USVI",
+        "location_name": "Government House, St. Thomas USVI",
+        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
+        "location_description": "The official residence and office of the Governor of the U.S. Virgin Islands, located in Charlotte Amalie, St. Thomas.",
+        "canonical_name": "Government House, 21 Kongens Gade, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
         "region": "",
         "property_type": "event",
-        "display_name": "Palm Beach International Airport",
-        "location_descriptor": "The main commercial airport serving Palm Beach County, Florida, located in West Palm Beach about 3 km west of downtown.",
+        "display_name": "Government House, St. Thomas USVI",
+        "location_descriptor": "The official residence and office of the Governor of the U.S. Virgin Islands, located in Charlotte Amalie, St. Thomas.",
         "event_count": 3,
         "evidence_count": 6,
-        "primary_event_type": "travel",
+        "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-06-05",
-        "date_end": "2018-12-14",
+        "date_start": "2004-04",
+        "date_end": "2017-06-19",
         "people": [
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
           },
           {
-            "name": "Larry Visoski",
+            "name": "Daphne Wallace",
             "role": "staff"
+          },
+          {
+            "name": "Carmen Potter",
+            "role": "other"
+          },
+          {
+            "name": "Kenneth Mapp",
+            "role": "other"
+          },
+          {
+            "name": "Thomas VanSluytman",
+            "role": "associate"
           }
         ],
         "source_count": 6,
-        "sources_preview": "EFTA00040497.pdf, EFTA02216007.pdf, EFTA02216195.pdf, EFTA02216343.pdf, EFTA02216420.pdf, ... (+1 more)",
+        "sources_preview": "EFTA02214926.pdf, EFTA02216822.pdf, EFTA02216892.pdf, EFTA02217114.pdf, EFTA02217497.pdf, ... (+1 more)",
         "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "The main commercial airport serving Palm Beach County, Florida, located in West Palm Beach about 3 km west of downtown.",
+        "event_type": "presence",
+        "event_description": "The official residence and office of the Governor of the U.S. Virgin Islands, located in Charlotte Amalie, St. Thomas.",
         "events": [
           {
-            "event_id": "a3feae6fcce214dd",
-            "event_title": "Epstein Departs and Arrives at Palm Beach International Airport Multiple Times in 2018 on Private Aircraft",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein cleared CBP at Palm Beach International Airport multiple times in 2018 on private aircraft N212JE and N120JE, per CBP APIS records showing customs clearance while traveling between Palm Beach and St. Thomas USVI.",
-            "date_start": "2018-08-05",
-            "date_end": "2018-12-14",
+            "event_id": "1fbcda41d2312ff7",
+            "event_title": "Epstein Pursues Meeting with USVI Governor Mapp, June 19, 2017",
+            "event_type": "presence",
+            "description": "Epstein's staff asking if Daphne Wallace heard back about scheduling an appointment with USVI Governor Kenneth Mapp for Monday June 19, 2017.",
+            "date_start": "2017-06-16",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Daphne Wallace",
+                "role": "staff"
+              },
+              {
+                "name": "Carmen Potter",
+                "role": "other"
+              },
+              {
+                "name": "Kenneth Mapp",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein pursuing meeting with USVI Gov Mapp \u2014 inquiry only, no confirmation meeting occurred",
+            "evidence": [
+              {
+                "file": "EFTA02214926.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Did Daphne hear back re appt with Gov. Mapp on Monday?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214926.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216822.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Gov Mapp monday",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216822.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216892.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "From: \"Jeffrey E.\" <jeevacation@gmail.com>\nDate: June 15, 2017\nTo: Daphne Wallace\nGov Mapp monday\n\nGreetings L, Ms. Carmen Potter, Governor Mapp's assistant, is reaching out to the Governor to confirm the time. Ms. Potter believes the arrangements may have been made between our Principals directly",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216892.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217114.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is asking you to please confirm a time with Gov. Mapp on Monday-(sounds like Jeffrey did not set a time, just that they would meet on Monday...whatever time is good for Gov. Mapp should work for JE.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217114.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "17a27212f1cff81d",
+            "event_title": "Epstein Staff Confirms 1:30pm Appointment with USVI Governor \u2014 Monday June 19 2017",
+            "event_type": "presence",
+            "description": "Epstein's staff confirmed a 1:30pm appointment for Monday June 19, 2017 with the USVI Governor; recipients included Carmen Potter and Thomas VanSluytman from the Governor's office.",
+            "date_start": "2017-06-19",
+            "date_end": null,
             "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Thomas VanSluytman",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Carmen Potter",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Confirmation of a formal 1:30pm meeting between Epstein and the USVI Governor on June 19, 2017, documenting Epstein's political connections in the USVI where he maintained his primary residence for tax purposes.",
+            "evidence": [
+              {
+                "file": "EFTA02217497.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: Re: 1:30 pm Monday, June 19 Appointment with Governor Confirmed\nGreetings. [signed Epstein staff, with cc to Carmen Potter, Thomas VanSluytman, Daphne Wallace]",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217497.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3d3b53e8a4076b74",
+            "event_title": "Epstein Phone Roaming in Charlotte Amalie, St. Thomas, USVI (Apr 6\u20138, 2004)",
+            "event_type": "transaction",
+            "description": "Jeffrey Epstein s AT&T wireless phone was roaming in Charlotte Amalie, St. Thomas, USVI from April 6 through April 8, 2004, incurring roaming charges for numerous calls including international calls to Brazil and Belgium.",
+            "date_start": "2004-04",
+            "date_end": null,
+            "date_precision": "range",
             "confidence": 0.75,
             "people": [
               {
@@ -29048,92 +30009,13 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally cleared customs at Palm Beach International Airport, adjacent to his 358 El Brillo Way residence, multiple times in 2018.",
+            "nexus_reasoning": "The AT&T billing record is in Epstein s name and shows roaming charges specifically while physically present in Charlotte Amalie, St. Thomas, USVI, indicating Epstein was personally in the U.S. Virgin Islands April 6\u20138, 2004.",
             "evidence": [
               {
-                "file": "EFTA00040497.pdf",
+                "file": "EFTA00068996.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 P 469911707 12/14/2018 08:49 \u2022GA N212JE I A523 APIS PASSENGER CUSTOMS KPBI TIST\nEPSTEIN JEFFREY 01/20/1953 P 469911707 10/28/2018 00:00 \u2022GA N212JE O APIS PASSENGER TIST KPBI\nEPSTEIN JEFFREY EDWARD 01/20/1953 P 547017616 08/29/2018 17:44 \u2022GA N120JE I A523 APIS PASSENGER CUSTOMS KPBI TIST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040497.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e900435c8bae1ce2",
-            "event_title": "Associate Flies Palm Beach to New York \u2014 June 5, 2017",
-            "event_type": "travel",
-            "description": "An Epstein associate flew from Palm Beach to New York on Monday June 5, 2017, with the ticket forwarded via Lesley Groff.",
-            "date_start": "2017-06-05",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel arranged by Epstein's assistant Lesley Groff for an associate flying from Palm Beach to New York.",
-            "evidence": [
-              {
-                "file": "EFTA02216007.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "ticket from PB to NY on Monday June 5th...OK to send to M?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216007.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216195.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mon. June 5. 2017 PH\nReminder: Dr. Moskowitz at Zorro June 5, 6\n2:15pm to depart PB via Delta#1078 (Rec. Loc#GEVLJE)\n3:30pm Phone Date w/Christian Glauser (Oppenheim Architecture)\n4:00pm SKYPE Date w/Kevin Ouvre and Philippe",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216195.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216343.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 12:14PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216343.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216420.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE arrived at Palm Beach Intl (KPBI) at 12:16PM EDT from Long Island MacArthur (KISP)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216420.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "88f9d6ebf8e4b3f0",
-            "event_title": "Epstein Pilot Larry Visoski Available to Fly from Palm Beach \u2014 June 5, 2017",
-            "event_type": "presence",
-            "description": "Larry Visoski confirmed he was in Palm Beach and available to fly Jeffrey Epstein on Wednesday morning, June 7, 2017.",
-            "date_start": "2017-06-07",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein's pilot was stationed in Palm Beach ready to fly Epstein, confirming Epstein's presence in the Palm Beach area.",
-            "evidence": [
-              {
-                "file": "EFTA02216175.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I told JE I'd be able to fly Wed morn in Palm beach. Whether he waits for me or not?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216175.pdf",
+                "excerpt": "ROAMER USAGE FOR WHILE IN CHTAMSTTHS VI\n04/06 01:00P NEW YORK NY 2MIN ROAMING VOICE\n04/06 01:02P NEW YORK NY 10 MIN ROAMING VOICE\n04/07 06:47P NEW YORK NY 1 MIN ROAMING VOICE\n04/08 09:10A NEW YORK NY 3 MIN ROAMING VOICE",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00068996.pdf",
                 "confidence": 0.7
               }
             ]
@@ -29141,33 +30023,33 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00040497",
-            "file": "EFTA00040497.pdf",
+            "doc_id": "EFTA02214926",
+            "file": "EFTA02214926.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02216007",
-            "file": "EFTA02216007.pdf",
+            "doc_id": "EFTA02216822",
+            "file": "EFTA02216822.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02216195",
-            "file": "EFTA02216195.pdf",
+            "doc_id": "EFTA02216892",
+            "file": "EFTA02216892.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02216343",
-            "file": "EFTA02216343.pdf",
+            "doc_id": "EFTA02217114",
+            "file": "EFTA02217114.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02216420",
-            "file": "EFTA02216420.pdf",
+            "doc_id": "EFTA02217497",
+            "file": "EFTA02217497.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02216175",
-            "file": "EFTA02216175.pdf",
+            "doc_id": "EFTA00068996",
+            "file": "EFTA00068996.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -30062,194 +30944,6 @@
           {
             "doc_id": "EFTA02214972",
             "file": "EFTA02214972.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.983493,
-          40.77176
-        ]
-      },
-      "properties": {
-        "id": "a992ce1044a52cdf",
-        "name": "David H. Koch Theater",
-        "location_name": "David H. Koch Theater",
-        "location_address": "20 West 63rd Street, New York City, New York 10023, United States",
-        "location_description": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
-        "canonical_name": "David H. Koch Theater, Lincoln Center, 20 Lincoln Center Plaza, New York, NY 10023, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "David H. Koch Theater",
-        "location_descriptor": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
-        "event_count": 2,
-        "evidence_count": 5,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-07",
-        "date_end": "2017-05-09",
-        "people": [
-          {
-            "name": "Lila Walker",
-            "role": "other"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Peggy Siegal",
-            "role": "other"
-          },
-          {
-            "name": "Gary Jaworski",
-            "role": "other"
-          },
-          {
-            "name": "Ehud Barak",
-            "role": "associate"
-          },
-          {
-            "name": "Nili Priell-Barak",
-            "role": "associate"
-          }
-        ],
-        "source_count": 5,
-        "sources_preview": "EFTA02212907.pdf, EFTA02212919.pdf, EFTA02212862.pdf, EFTA02212870.pdf, EFTA02213120.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "A major performing arts theater at Lincoln Center for the Performing Arts in Manhattan, serving as the home of the New York City Ballet.",
-        "events": [
-          {
-            "event_id": "e8c594ad10c71e11",
-            "event_title": "Epstein Underwrites Table at Peggy Siegal Event, Sends Assistants to Lincoln Center (May 7, 2017)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein underwrote a table of 12 tickets for Peggy Siegal's event at Lincoln Center; sought 2 additional tickets for his assistants for May 7, 2017 event.",
-            "date_start": "2017-05-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lila Walker",
-                "role": "other"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Peggy Siegal",
-                "role": "other"
-              },
-              {
-                "name": "Gary Jaworski",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein underwrote a table at this Lincoln Center event and sought tickets for his staff, implying his involvement or attendance.",
-            "evidence": [
-              {
-                "file": "EFTA02212907.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I mixed the 12 tickets I sold and the 12 tickets Jeffrey underwrote... I will send Jeffrey the table seating... Jeffrey is asking if you might have 2 extra tickets to your event tomorrow night",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212907.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02212919.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Yes. We'll have 2 tickets for them at the show. Starts at 7 pm at the DAVID H. Koch Theater at Lincoln Center. Ends about 9 pm.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212919.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02212862.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "They both have tickets and they can pick them up after 5:30 pm at the David H. Koch Theater, 20 Lincoln Plaza",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212862.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02212870.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "They both have tickets and they can pick them up after 5:30 pm at the David H. Koch Theater, 20 Lincoln Plaza, at the \"Guest Services\" table in the lobby.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212870.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "77c4e9ab22cf717a",
-            "event_title": "Ehud Barak Attends Oslo at Lincoln Center Theater (May 9, 2017)",
-            "event_type": "presence",
-            "description": "Ehud Barak and Nili Priell-Barak attended the play Oslo at Lincoln Center Theater in New York on May 9, 2017, at 7pm.",
-            "date_start": "2017-05-09",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ehud Barak",
-                "role": "associate"
-              },
-              {
-                "name": "Nili Priell-Barak",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Ehud Barak attending theater with Epstein-connected tickets, connected to Epstein's NY network.",
-            "evidence": [
-              {
-                "file": "EFTA02213120.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EB has a meeting at 2:30 PM for let say an hour and a half, not far from J house...purchased tickets for OSLO, at the Lincoln center theatre. it starts at 7PM till 10 PM.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213120.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212907",
-            "file": "EFTA02212907.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212919",
-            "file": "EFTA02212919.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212862",
-            "file": "EFTA02212862.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212870",
-            "file": "EFTA02212870.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213120",
-            "file": "EFTA02213120.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -33724,186 +34418,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.932094,
-          18.341129
-        ]
-      },
-      "properties": {
-        "id": "3109d0d9924081b6",
-        "name": "Government House, St. Thomas USVI",
-        "location_name": "Government House, St. Thomas USVI",
-        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
-        "location_description": "The official residence and office of the Governor of the U.S. Virgin Islands, located in Charlotte Amalie, St. Thomas.",
-        "canonical_name": "Government House, 21 Kongens Gade, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Government House, St. Thomas USVI",
-        "location_descriptor": "The official residence and office of the Governor of the U.S. Virgin Islands, located in Charlotte Amalie, St. Thomas.",
-        "event_count": 2,
-        "evidence_count": 5,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-06-16",
-        "date_end": "2017-06-19",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Daphne Wallace",
-            "role": "staff"
-          },
-          {
-            "name": "Carmen Potter",
-            "role": "other"
-          },
-          {
-            "name": "Kenneth Mapp",
-            "role": "other"
-          },
-          {
-            "name": "Thomas VanSluytman",
-            "role": "associate"
-          }
-        ],
-        "source_count": 5,
-        "sources_preview": "EFTA02214926.pdf, EFTA02216822.pdf, EFTA02216892.pdf, EFTA02217114.pdf, EFTA02217497.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "The official residence and office of the Governor of the U.S. Virgin Islands, located in Charlotte Amalie, St. Thomas.",
-        "events": [
-          {
-            "event_id": "1fbcda41d2312ff7",
-            "event_title": "Epstein Pursues Meeting with USVI Governor Mapp, June 19, 2017",
-            "event_type": "presence",
-            "description": "Epstein's staff asking if Daphne Wallace heard back about scheduling an appointment with USVI Governor Kenneth Mapp for Monday June 19, 2017.",
-            "date_start": "2017-06-16",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Daphne Wallace",
-                "role": "staff"
-              },
-              {
-                "name": "Carmen Potter",
-                "role": "other"
-              },
-              {
-                "name": "Kenneth Mapp",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein pursuing meeting with USVI Gov Mapp \u2014 inquiry only, no confirmation meeting occurred",
-            "evidence": [
-              {
-                "file": "EFTA02214926.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Did Daphne hear back re appt with Gov. Mapp on Monday?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214926.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216822.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Gov Mapp monday",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216822.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216892.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "From: \"Jeffrey E.\" <jeevacation@gmail.com>\nDate: June 15, 2017\nTo: Daphne Wallace\nGov Mapp monday\n\nGreetings L, Ms. Carmen Potter, Governor Mapp's assistant, is reaching out to the Governor to confirm the time. Ms. Potter believes the arrangements may have been made between our Principals directly",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216892.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217114.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey is asking you to please confirm a time with Gov. Mapp on Monday-(sounds like Jeffrey did not set a time, just that they would meet on Monday...whatever time is good for Gov. Mapp should work for JE.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217114.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "17a27212f1cff81d",
-            "event_title": "Epstein Staff Confirms 1:30pm Appointment with USVI Governor \u2014 Monday June 19 2017",
-            "event_type": "presence",
-            "description": "Epstein's staff confirmed a 1:30pm appointment for Monday June 19, 2017 with the USVI Governor; recipients included Carmen Potter and Thomas VanSluytman from the Governor's office.",
-            "date_start": "2017-06-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Thomas VanSluytman",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Carmen Potter",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Confirmation of a formal 1:30pm meeting between Epstein and the USVI Governor on June 19, 2017, documenting Epstein's political connections in the USVI where he maintained his primary residence for tax purposes.",
-            "evidence": [
-              {
-                "file": "EFTA02217497.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Subject: Re: 1:30 pm Monday, June 19 Appointment with Governor Confirmed\nGreetings. [signed Epstein staff, with cc to Carmen Potter, Thomas VanSluytman, Daphne Wallace]",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217497.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02214926",
-            "file": "EFTA02214926.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216822",
-            "file": "EFTA02216822.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216892",
-            "file": "EFTA02216892.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217114",
-            "file": "EFTA02217114.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217497",
-            "file": "EFTA02217497.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.97617,
           40.738511
         ]
@@ -34679,7 +35193,7 @@
         "display_name": "Paris Le Bourget Airport",
         "location_descriptor": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
         "event_count": 2,
-        "evidence_count": 4,
+        "evidence_count": 5,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -34703,8 +35217,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA02216157.pdf, EFTA00066572.pdf, EFTA02216282.pdf, EFTA02217448.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA02216157.pdf, EFTA00066572.pdf, EFTA02216282.pdf, EFTA02217448.pdf, EFTA02217663.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
@@ -34786,6 +35300,13 @@
                 "excerpt": "Subject: N212JE has departed LFPB/LBG for LSGG/GVA\nN212JE (GLF4) departed Paris Le Bourget for Geneva on Fri Jul 7 2017 at 9:40 AM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217448.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be departing Paris Le Bourget airport (LFPB/LBG) at 6:30 a.m. on Tuesday, July 11, 2017.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217663.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -34809,6 +35330,11 @@
           {
             "doc_id": "EFTA02217448",
             "file": "EFTA02217448.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217663",
+            "file": "EFTA02217663.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -40506,7 +41032,7 @@
         "display_name": "Vienna, Austria",
         "location_descriptor": "The capital and largest city of Austria, located in the northeastern corner of the country along the Danube River, known as a historic center of European culture and diplomacy.",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 2,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -40518,8 +41044,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA00018159.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA00018159.pdf, EFTA00070029.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of Austria, located in the northeastern corner of the country along the Danube River, known as a historic center of European culture and diplomacy.",
@@ -40548,6 +41074,13 @@
                 "excerpt": "On March 22, 2019 Mr. Epstein travelled to Vienna, Austria where he and three (3) female passengers went to coffee and it appears this travel was not reported.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018159.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00070029.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On March 22, 2019 Mr. Epstein travelled to Vienna, Austria where he and three (3) female passengers went to coffee and it appears this travel was not reported.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00070029.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -40556,6 +41089,11 @@
           {
             "doc_id": "EFTA00018159",
             "file": "EFTA00018159.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00070029",
+            "file": "EFTA00070029.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -40666,7 +41204,7 @@
         "display_name": "Cambridge, MA",
         "location_descriptor": "A city in Middlesex County, Massachusetts, directly across the Charles River from Boston, home to Harvard University and the Massachusetts Institute of Technology.",
         "event_count": 1,
-        "evidence_count": 2,
+        "evidence_count": 4,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -40682,8 +41220,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA00018441.pdf, EFTA00018466.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA00018441.pdf, EFTA00018466.pdf, EFTA00069900.pdf, EFTA00069926.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A city in Middlesex County, Massachusetts, directly across the Charles River from Boston, home to Harvard University and the Massachusetts Institute of Technology.",
@@ -40723,6 +41261,20 @@
                 "excerpt": "Alan M. Dershowitz, a professor emeritus of law at Harvard, recalled that at a lunch Mr. Epstein hosted in Cambridge, Mass., he steered the conversation toward the question of how humans could be improved genetically.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069900.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He hosted buffet lunches at Harvard s Program for Evolutionary Dynamics, which he had helped start with a \\.5 million donation.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069900.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069926.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He hosted buffet lunches at Harvard s Program for Evolutionary Dynamics, which he had helped start with a \\.5 million donation.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069926.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -40736,6 +41288,16 @@
           {
             "doc_id": "EFTA00018466",
             "file": "EFTA00018466.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00069900",
+            "file": "EFTA00069900.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00069926",
+            "file": "EFTA00069926.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -45589,7 +46151,7 @@
         "display_name": "Nantucket",
         "location_descriptor": "An island and county off the coast of Cape Cod, Massachusetts, known as a historic whaling hub and affluent summer resort destination.",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 2,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -45609,8 +46171,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA02217645.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA02217645.pdf, EFTA02217668.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An island and county off the coast of Cape Cod, Massachusetts, known as a historic whaling hub and affluent summer resort destination.",
@@ -45647,6 +46209,13 @@
                 "excerpt": "Subject: Ehud in Nantucket\nEhud is in Nantucket with his editor, only Nih is in NY...Ehud is due b[ack soon].\nTue 7/11/2017",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217645.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217668.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ehud is now in Nantucket with his editor, only Nili is in NY...Ehud is due back in NY on July 22nd at the moment.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217668.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -45655,6 +46224,255 @@
           {
             "doc_id": "EFTA02217645",
             "file": "EFTA02217645.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217668",
+            "file": "EFTA02217668.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.711449,
+          40.41742
+        ]
+      },
+      "properties": {
+        "id": "783cab1eba5b1edf",
+        "name": "Ohio",
+        "location_name": "Ohio",
+        "location_address": "Ohio, United States",
+        "location_description": "A Midwestern U.S. state bordered by Lake Erie to the north, known for its major cities of Columbus, Cleveland, and Cincinnati.",
+        "canonical_name": "Ohio, United States",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Ohio",
+        "location_descriptor": "A Midwestern U.S. state bordered by Lake Erie to the north, known for its major cities of Columbus, Cleveland, and Cincinnati.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": null,
+        "date_end": null,
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00069180.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A Midwestern U.S. state bordered by Lake Erie to the north, known for its major cities of Columbus, Cleveland, and Cincinnati.",
+        "events": [
+          {
+            "event_id": "3c716660c3b6f4c5",
+            "event_title": "Victim Flees Epstein and Maxwell in Ohio Incident",
+            "event_type": "presence",
+            "description": "Victim was on a bed with Epstein and Maxwell in Ohio, asked to give foot massage; both began assaulting her and she fled fearing rape.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present in Ohio during the incident described by the victim.",
+            "evidence": [
+              {
+                "file": "EFTA00069180.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "All in Ohio\nOn bed with Epstein & Maxwell \u2014 asked to give foot massage\nBetween the two of them \u2014 they both started\nAfraid of rape, ran away",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069180.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00069180",
+            "file": "EFTA00069180.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.517709,
+          49.00382
+        ]
+      },
+      "properties": {
+        "id": "c732c80a3f45b74d",
+        "name": "Paris Charles de Gaulle Airport",
+        "location_name": "Paris Charles de Gaulle Airport",
+        "location_address": "Roissy-en-France, Val-d'Oise, France",
+        "location_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "canonical_name": "Paris Charles de Gaulle Airport, Roissy-en-France, France, Val-d'Oise",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris Charles de Gaulle Airport",
+        "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-14",
+        "date_end": "2017-07-14",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02217695.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "events": [
+          {
+            "event_id": "ebf9a29b9e3a28d2",
+            "event_title": "Epstein Arranges Travel for Paris Contact: CDG to JFK, July 14 2017 (Norwegian Air)",
+            "event_type": "travel",
+            "description": "Epstein arranged travel for an unidentified contact from Paris Charles de Gaulle to JFK on July 14, 2017 via Norwegian Air Shuttle economy class.",
+            "date_start": "2017-07-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein arranged and paid for this flight ticket to bring an unidentified person from Paris to New York to visit him.",
+            "evidence": [
+              {
+                "file": "EFTA02217695.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight Information Date 14 Jul 2017 Airline Norwegian Air Shuttle Flight/Class E Economy Class Origin Paris, Charles De Gaulle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217695.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02217695",
+            "file": "EFTA02217695.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657425,
+          39.716763
+        ]
+      },
+      "properties": {
+        "id": "83a2a85b5f6ed9d3",
+        "name": "Delpark Manor",
+        "location_name": "Delpark Manor",
+        "location_address": "Delpark Manor, Wilmington, Delaware, United States",
+        "location_description": "A residential and commercial neighborhood in Wilmington, Delaware, home to aviation training facilities used by corporate flight crews.",
+        "canonical_name": "Wilmington, Delaware, DE",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Delpark Manor",
+        "location_descriptor": "A residential and commercial neighborhood in Wilmington, Delaware, home to aviation training facilities used by corporate flight crews.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-08-21",
+        "date_end": "2017-09-10",
+        "people": [
+          {
+            "name": "Bill Hammond",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02217715.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "A residential and commercial neighborhood in Wilmington, Delaware, home to aviation training facilities used by corporate flight crews.",
+        "events": [
+          {
+            "event_id": "625aa95c92157def",
+            "event_title": "Pilot Bill Hammond Attends Gulfstream G550 Training in Wilmington, DE Aug 21\u2013Sept 10 2017",
+            "event_type": "presence",
+            "description": "Epstein pilot Bill Hammond attended Gulfstream G550 aircraft training school in Wilmington, Delaware from August 21 to September 10, 2017.",
+            "date_start": "2017-08-21",
+            "date_end": "2017-09-10",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Bill Hammond",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Bill Hammond is a pilot for Epstein's aircraft (G550), and his training is related to maintaining Epstein's flight operations.",
+            "evidence": [
+              {
+                "file": "EFTA02217715.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Larry...I show Bill Hammond is to go to G550 school in Wilmington, Delaware Aug. 21...does this still hold true? when will he be finished?\nYes Bill starts Aug 21st and finishes Sept 10th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217715.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02217715",
+            "file": "EFTA02217715.pdf",
             "source_type": "doj_efta"
           }
         ]
