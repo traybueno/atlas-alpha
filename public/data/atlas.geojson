@@ -6508,8 +6508,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 66,
-        "evidence_count": 167,
+        "event_count": 68,
+        "evidence_count": 178,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -6905,8 +6905,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 151,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+146 more)",
+        "source_count": 162,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+157 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -9195,6 +9195,41 @@
                 "excerpt": "Please come see Jeffrey this morning. Is 10:30 am good for you? He has an 8 am with Deepak and Leon is coming for lunch at 12:30.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218532.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218594.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "deepak at 8\nI understand Deepak did not come this morning...Is this 8pm tonight for Deepak??",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218594.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218630.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi - Leon said lunch on Wednesday - 12:30??",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218630.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218641.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Yes he can see him at 4:30 today.\nOn Jul 12, 2017, at 7:54 AM, wrote:\nMorning",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218641.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218671.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reconfirming Leon will come see Jeffrey today at 12:30 for lunch!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218671.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218698.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "YES! perfect! We will see him then.\n> Hi - Leon said lunch on Wednesday - 12:30??",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218698.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -9392,6 +9427,10 @@
                 "role": "associate"
               },
               {
+                "name": "Ben Sosenko",
+                "role": "associate"
+              },
+              {
                 "name": "Elisha McGinnis",
                 "role": "associate"
               }
@@ -9418,6 +9457,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey has sent me an email saying Matthew will come see Jeffrey on Thursday-might Matthew be available to come and see him at his NY home? perhaps 11am?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218543.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218588.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "11am at Jeffrey's home works perfectly. Matthew and Ben Sosenko will be there.\n9 East 71st correct?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218588.pdf",
                 "confidence": 0.7
               }
             ]
@@ -9900,6 +9946,113 @@
                 "source_type": "doj_efta",
                 "excerpt": "I want a cognizable theory to pursue residences in NY, FL and VI.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00072127.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8155285ea7bd4a83",
+            "event_title": "Epstein in NYC Aug 17, 2017: 8:30 AM Breakfast w/Leon Black, 7 PM Dinner w/Woody Allen & Soon-Yi",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein at his NYC mansion on August 17, 2017 with 8:30am breakfast with Leon Black, noon appointment with Rich Kahn and Darren Indyke, TBD meeting with Ronald Lauder, and 7pm dinner with Woody Allen and Soon-Yi Previn.",
+            "date_start": "2017-08-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Soon-Yi Previn",
+                "role": "associate"
+              },
+              {
+                "name": "Darren Indyke",
+                "role": "legal"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ronald Lauder",
+                "role": "associate"
+              },
+              {
+                "name": "Woody Allen",
+                "role": "associate"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              },
+              {
+                "name": "Rich Kahn",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Lesley Groff's schedule confirms Epstein at his NYC mansion on August 17, 2017 with specific high-profile meetings.",
+            "evidence": [
+              {
+                "file": "EFTA02218590.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thurs. Aug. 17. 2017 NY\nReminder:\n8:30am BREAKFAST w/Leon Black a)\n12:00pm Appt w/Rich and Darren\nTBD Ronald Lauder\n7:00pm DINNER w/Woody and Soon Yi",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218590.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218633.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ron is leaving now!!\nOn Aug 17, 2017, at 2:06 PM, Richard Kahn wrote:\nshall i join or wait for you",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218633.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c8969360598cb900",
+            "event_title": "Epstein in NYC August 16, 2017, Seeking Meeting with Leon Black",
+            "event_type": "presence",
+            "description": "Epstein was in New York on August 16, 2017, and asked his assistant to see if Leon Black preferred to meet that day.",
+            "date_start": "2017-08-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              },
+              {
+                "name": "David Mitchell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Email confirms Epstein was physically in NY on August 16, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02218605.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is in NY today and asking if Leon would prefer to meet today...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218605.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218665.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Train delays due to earlier fire on tracks. I will be late. So sorry.\nno wory",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218665.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218705.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Can I come at 1pm today,\nDAVID MITCHELL\nMitchell Holdings LLC\n801 Madison Avenue\nNew York NY 10065",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218705.pdf",
                 "confidence": 0.7
               }
             ]
@@ -10517,6 +10670,31 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02218594",
+            "file": "EFTA02218594.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218630",
+            "file": "EFTA02218630.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218641",
+            "file": "EFTA02218641.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218671",
+            "file": "EFTA02218671.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218698",
+            "file": "EFTA02218698.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02216936",
             "file": "EFTA02216936.pdf",
             "source_type": "doj_efta"
@@ -10554,6 +10732,11 @@
           {
             "doc_id": "EFTA02218543",
             "file": "EFTA02218543.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218588",
+            "file": "EFTA02218588.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -10660,6 +10843,31 @@
             "doc_id": "EFTA00072127",
             "file": "EFTA00072127.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218590",
+            "file": "EFTA02218590.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218633",
+            "file": "EFTA02218633.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218605",
+            "file": "EFTA02218605.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218665",
+            "file": "EFTA02218665.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218705",
+            "file": "EFTA02218705.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -10685,7 +10893,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 53,
-        "evidence_count": 99,
+        "evidence_count": 100,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -10893,8 +11101,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 94,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02212893.pdf, ... (+89 more)",
+        "source_count": 95,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02212893.pdf, ... (+90 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -12484,6 +12692,13 @@
                 "excerpt": "fly from Paris to NY on Sat June 17",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216949.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218617.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey says you, your mom and brother can come see him today at 12:45pm-does this work for you?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218617.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -13230,6 +13445,11 @@
           {
             "doc_id": "EFTA02216949",
             "file": "EFTA02216949.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218617",
+            "file": "EFTA02218617.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -14722,8 +14942,8 @@
         "property_type": "event",
         "display_name": "Palm Beach International Airport",
         "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "event_count": 37,
-        "evidence_count": 46,
+        "event_count": 38,
+        "evidence_count": 48,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -14763,8 +14983,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 35,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf, EFTA02212890.pdf, EFTA02212929.pdf, ... (+30 more)",
+        "source_count": 37,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf, EFTA02212890.pdf, EFTA02212929.pdf, ... (+32 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
@@ -15798,6 +16018,44 @@
                 "excerpt": "N212JE is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 08:56AM EDT",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218485.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218585.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Palm Beach Intl (KPBI) at 08:57AM EDT from Cyril E King (TIST/STT)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218585.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b265eb6e93614487",
+            "event_title": "Epstein's Jet Departs Palm Beach for St. Thomas (TIST), Helicopter Waiting, July 16, 2017",
+            "event_type": "travel",
+            "description": "Epstein's jet departed Palm Beach for St. Thomas (TIST) on July 16, 2017, to arrive before midnight; Epstein wanted the helicopter pilot to be ready to fly from St. Thomas to Little St. James Island.",
+            "date_start": "2017-07-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Flight schedule confirms Epstein personally planned departure from Palm Beach to St. Thomas on July 16, 2017, with helicopter arrangements to his island.",
+            "evidence": [
+              {
+                "file": "EFTA02218607.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Sunday, July 16 PBI-TIST, get to TIST before Midnight, JE wants you to fly the helicopter",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218607.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -15976,6 +16234,16 @@
           {
             "doc_id": "EFTA02218485",
             "file": "EFTA02218485.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218585",
+            "file": "EFTA02218585.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218607",
+            "file": "EFTA02218607.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -17450,8 +17718,8 @@
         "property_type": "event",
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 27,
-        "evidence_count": 49,
+        "event_count": 29,
+        "evidence_count": 54,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -17507,8 +17775,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 43,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+38 more)",
+        "source_count": 48,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+43 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -18257,6 +18525,20 @@
                 "excerpt": "SUV\nTail #120JE\nPax: Jeffrey Epstein\nPick up:Tues, Aug. 15 @ 930pm from Meridian, Teterboro and take to 9 East 71st Street.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218167.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218586.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Pax: Jeffrey Epstein\nPick up:Wed, Aug. 16 @ ? from Teterboro airport and take to 9 East 71st Street.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218586.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218703.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I am confirming the following;\nSUV\nTail \nPax: Jeffrey Epstein\nPick up:Wed, Aug. 16 (4) Meridian [Teterboro]",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218703.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -18410,6 +18692,62 @@
                 "source_type": "doj_efta",
                 "excerpt": "Do we need to organize pick up for you from Teterboro on Wed.? Larry's car service people? (Carosa) or will you Uber?\nlarrys service",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218544.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218642.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We should arrive :30pm at Meridian Teterboro for the pick up,. Send a SUV since its main VIP please",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218642.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "83eaa35f1293df88",
+            "event_title": "Epstein's Jet Departs Teterboro (TEB) for Palm Beach (PBI) at 12:00, July 14, 2017",
+            "event_type": "travel",
+            "description": "Epstein's private jet departed Teterboro Airport at 12:00 (noon) on July 14, 2017, heading to Palm Beach International Airport.",
+            "date_start": "2017-07-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Flight schedule from Jeffrey's pilot confirms Teterboro to Palm Beach departure on July 14, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02218607.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Friday. July 14, TEB-PBI, Depart at 1200",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218607.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "208b4895b58807c4",
+            "event_title": "N212JE Departs Teterboro (KTEB) for St. Thomas at 3:44 PM EDT, June 17, 2017",
+            "event_type": "travel",
+            "description": "Epstein's Gulfstream N212JE departed Teterboro Airport at 3:44 PM EDT on June 17, 2017, heading to Cyril E. King Airport in St. Thomas with estimated arrival 7:06 PM AST.",
+            "date_start": "2017-06-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "N212JE is Epstein's aircraft; departure from Teterboro to his USVI base on June 17 strongly implies he was aboard.",
+            "evidence": [
+              {
+                "file": "EFTA02218679.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Teterboro (KTEB) at 03:44PM EDT enroute to Cyril E King (TIST/STT) for an estimated arrival at 07:06PM AST",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218679.pdf",
                 "confidence": 0.7
               }
             ]
@@ -18602,6 +18940,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02218586",
+            "file": "EFTA02218586.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218703",
+            "file": "EFTA02218703.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02216455",
             "file": "EFTA02216455.pdf",
             "source_type": "doj_efta"
@@ -18630,6 +18978,21 @@
             "doc_id": "EFTA02218544",
             "file": "EFTA02218544.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218642",
+            "file": "EFTA02218642.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218607",
+            "file": "EFTA02218607.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218679",
+            "file": "EFTA02218679.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -18654,8 +19017,8 @@
         "property_type": "event",
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "event_count": 27,
-        "evidence_count": 63,
+        "event_count": 28,
+        "evidence_count": 64,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -18755,8 +19118,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 58,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+53 more)",
+        "source_count": 59,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+54 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -19826,6 +20189,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "9030636914932c49",
+            "event_title": "Epstein at Little St. James Island, August 20-29, 2017",
+            "event_type": "presence",
+            "description": "Epstein planned to be at his private island (Little St. James) from approximately August 20 to August 29, 2017 before returning to New York.",
+            "date_start": "2017-08-20",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's own email confirms he planned to be at his island from Aug 20-29, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02218686.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "stay in new york until 20th then island until 29 then new york till 1 st then paris till 11 th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218686.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -20118,6 +20508,11 @@
             "doc_id": "EFTA00071674",
             "file": "EFTA00071674.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218686",
+            "file": "EFTA02218686.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -20142,8 +20537,8 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 21,
-        "evidence_count": 32,
+        "event_count": 22,
+        "evidence_count": 33,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -20227,8 +20622,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 30,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+25 more)",
+        "source_count": 31,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+26 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -20915,6 +21310,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "6581c6c8d562f610",
+            "event_title": "Epstein in Paris from September 1-11, 2017",
+            "event_type": "presence",
+            "description": "Epstein planned to be in Paris from September 1 to September 11, 2017, after stays at his island and in New York.",
+            "date_start": "2017-09-01",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's own email confirms his Paris plans for September 1-11, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02218686.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "new york till 1 st then paris till 11 th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218686.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -21066,6 +21488,11 @@
           {
             "doc_id": "EFTA02218405",
             "file": "EFTA02218405.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218686",
+            "file": "EFTA02218686.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -24480,6 +24907,592 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.977697,
+          35.147641
+        ]
+      },
+      "properties": {
+        "id": "86028436d75ad1df",
+        "name": "Epstein's Zorro Ranch",
+        "location_name": "Epstein's Zorro Ranch",
+        "location_address": "Stanley, New Mexico, United States",
+        "location_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
+        "canonical_name": "Zorro Ranch, Stanley, NM, New Mexico",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Epstein's Zorro Ranch",
+        "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
+        "event_count": 11,
+        "evidence_count": 19,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1994-01-01",
+        "date_end": "2019-07-07",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Minor Victim-2",
+            "role": "victim"
+          },
+          {
+            "name": "unnamed minor victim",
+            "role": "victim"
+          },
+          {
+            "name": "Dr. Moskowitz",
+            "role": "associate"
+          },
+          {
+            "name": "Bruce Moskowitz",
+            "role": "associate"
+          },
+          {
+            "name": "Marsha Moskowitz",
+            "role": "associate"
+          },
+          {
+            "name": "Moscowitz",
+            "role": "associate"
+          },
+          {
+            "name": "Brice",
+            "role": "other"
+          },
+          {
+            "name": "Karen",
+            "role": "other"
+          },
+          {
+            "name": "Dr. Bruce Moskowitz",
+            "role": "associate"
+          },
+          {
+            "name": "Jude Hess",
+            "role": "associate"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          }
+        ],
+        "source_count": 18,
+        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+13 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
+        "events": [
+          {
+            "event_id": "cbc2663138ecafa2",
+            "event_title": "Maxwell Gives Unsolicited Topless Massage to Minor Victim-2 at Zorro Ranch (1996)",
+            "event_type": "travel",
+            "description": "Victim traveled with Epstein and Maxwell to Epstein's ranch in New Mexico; she has few specific memories from these trips and does not recall whether abuse occurred at that location.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Minor Victim-2",
+                "role": "victim"
+              },
+              {
+                "name": "unnamed minor victim",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his New Mexico ranch during these trips with the minor victim and Maxwell.",
+            "evidence": [
+              {
+                "file": "EFTA02731168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "also recalls traveling to Epstein's ranch in New Mexico with Epstein and Maxwell. She has few specific memories from these trips, and does not recall whether Epstein abused her at that location.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00017716.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MAXWELL and Epstein's victims were groomed or abused at Epstein's residences in New York, Florida, and New Mexico",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017716.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00018407.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "c. A ranch in Santa Fe, New Mexico owned by Epstein (the \"New Mexico Residence\")... In or about 1996, when Minor Victim-2 was under the age of 18, MAXWELL provided Minor Victim-2 with an unsolicited massage in New Mexico, during which Minor Victim-2 was topless.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018407.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00016373.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MAXWELL interacted with Minor Victim-2 on at least one occasion in or about 1996 at Epstein's residence in New Mexico when Minor Victim-2 was under the age of 18. Minor Victim-2 had flown into New Mexico from out of state at Epstein's invitation... While in New Mexico, MAXWELL and Epstein took Minor Victim-2 to a movie and MAXWELL took Minor Victim-2 shopping.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016373.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00065088.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MAXWELL played a critical role in the grooming and abuse of minor victims that took place in locations including New York, Florida, and New Mexico.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00065088.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00069180.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Foot massages in NM with Maxwell\nPointers on how to do it how Epstein likes it",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069180.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "92443ccf5ea5df96",
+            "event_title": "Epstein Group at Zorro Ranch, New Mexico (Photo Disc)",
+            "event_type": "presence",
+            "description": "Epstein and associates visited Zorro Ranch in New Mexico, documented in photo disc labeled Zorro/Vegas/Aspen.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Zorro Ranch is Epstein New Mexico property; photos seized from his possession.",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Zorro/Vegas/Aspen IMG_6122.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8e08727a3f67a61d",
+            "event_title": "CDs from Epstein's Safe Reference 'Zorro Ranch' in New Mexico and 'LSJ' (Little Saint James, USVI)",
+            "event_type": "presence",
+            "description": "Compact discs found in safe at Epstein's Manhattan residence bear labels referencing 'Zorro' (Zorro Ranch, NM) and 'LSJ' (Little Saint James, USVI), Epstein's two other known properties.",
+            "date_start": "2019-07-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "CDs found in Epstein's safe reference his properties at Zorro Ranch NM and LSJI USVI.",
+            "evidence": [
+              {
+                "file": "EFTA01262829.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the Search Team discovered... several binders... Some discs contain the word 'Zorro' or 'LSJ.'",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262829.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e9fbb63895f0cd14",
+            "event_title": "Dr. Bruce Moskowitz and Wife Visit Zorro Ranch, June 5-6, 2017",
+            "event_type": "presence",
+            "description": "Epstein inquired whether a person named Moscowitz was scheduled to visit Zorro Ranch on June 5-6, 2017",
+            "date_start": "2017-06-05",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Dr. Moskowitz",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bruce Moskowitz",
+                "role": "associate"
+              },
+              {
+                "name": "Marsha Moskowitz",
+                "role": "associate"
+              },
+              {
+                "name": "Moscowitz",
+                "role": "associate"
+              },
+              {
+                "name": "Brice",
+                "role": "other"
+              },
+              {
+                "name": "Karen",
+                "role": "other"
+              },
+              {
+                "name": "Dr. Bruce Moskowitz",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein was coordinating a visit by Moscowitz to his Zorro Ranch in New Mexico.",
+            "evidence": [
+              {
+                "file": "EFTA02213625.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "is moscoqwitz set for zorro 5 6 june?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213625.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213626.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dr. Moskowitz says he will be driving the two of them there June 5/6",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213626.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215631.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Good Evening Dr. Moskowitz\nwe are all looking forward to your visit to the Ranch...The Ranch is at mile marker 45 on Highway 41...Zorro Management LLC\n49 Zorro Ranch Rd\nStanley, NM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215631.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214752.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Dr. Moskowitz. Reconfirming you and Marsha will be driving to Jeffrey's ranch on Monday June 5th! If there is anything you need please let us know. Brice and will ta",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214752.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "da905e8a29eb0ada",
+            "event_title": "Jude Hess Mentions Epstein Had a Property in New Mexico Desert (Pre-2000)",
+            "event_type": "communication",
+            "description": "Jude Hess recalled that Epstein had loaned him his New Mexico desert property for 3 days approximately 23 years before 2017 (circa 1994)",
+            "date_start": "1994-01-01",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jude Hess",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "",
+                "source_type": "doj_efta",
+                "excerpt": "remind him he had loaned me his place in the desert in New Mexico when I was going through a bit of a tough time, I went there for 3 days",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213753.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f3c205a9f581abf9",
+            "event_title": "Jude Hess at Epstein NM 1994",
+            "event_type": "presence",
+            "description": "Hess at Zorro Ranch 1994",
+            "date_start": "1994-01-01",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jude Hess",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Old reference.",
+            "evidence": [
+              {
+                "file": "EFTA02213753.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "place in the desert in New Mexico",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213753.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b0fbb104a3ede295",
+            "event_title": "Maxwell Interacts with Minor Victim-2 at Epstein's New Mexico Ranch, ~1996",
+            "event_type": "presence",
+            "description": "Ghislaine Maxwell interacted with Minor Victim-2 at Epstein's New Mexico ranch (Zorro Ranch) around 1996, when the minor had flown into New Mexico from out of state.",
+            "date_start": "1996",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Minor Victim-2",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's Zorro Ranch in New Mexico was the location where Maxwell groomed a minor on Epstein's behalf.",
+            "evidence": [
+              {
+                "file": "EFTA00008998.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In or about 1996, when Minor Victim-2 was under the age of 18, [Maxwell] interacted with Minor Victim-2... at Epstein's residence in New Mexico when Minor Victim-2 was under the age of 18. Minor Victim-2 had flown into New Mexico from out of state",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00008998.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a7c19170782248ac",
+            "event_title": "Unknown Associate Requests Room at Zorro Ranch, June 4-6, 2017",
+            "event_type": "presence",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02213086.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Any room at the ranch 4,5,6 of June? Thanks",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213086.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e3041786e358307e",
+            "event_title": "Epstein Staff Books Flight to Zorro Ranch, June 9, 2017",
+            "event_type": "travel",
+            "description": "Staff alert June 9 2017 to book ticket for associate to Zorro Ranch.",
+            "date_start": "2017-06-09",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel to Epstein's ranch arranged.",
+            "evidence": [
+              {
+                "file": "EFTA02214927.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ticket for to the ranch!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214927.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "726da987faf204c5",
+            "event_title": "Larry Visoski Checks if Epstein Departing to Zorro Ranch, June 6, 2017",
+            "event_type": "presence",
+            "description": "Epstein's pilot Larry Visoski asks about Epstein's planned Tuesday June 6, 2017 departure to Zorro Ranch, New Mexico.",
+            "date_start": "2017-06-06",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's pilot asking about his departure to Epstein's own Zorro Ranch on June 6, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02215103.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Do you think JE is departing Tuesday to Zorro Ranch?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215103.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e0c99d2d13c0d7e1",
+            "event_title": "Epstein's Aug-Sep 2017 Itinerary: Zorro Ranch\u2192NYC\u2192USVI\u2192NYC\u2192Paris",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein planned to leave Zorro Ranch on August 17, 2017, stay in New York until August 20, go to his island (Little St. James) until August 29, return to New York until September 1, then Paris until September 11.",
+            "date_start": "2017-08-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's own email confirms he would be at Zorro Ranch until August 17, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02218686.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "i will now leave zorro on the 17, stay in new york until 20th then island until 29 then new york till 1 st then paris till 11 th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218686.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02731168",
+            "file": "EFTA02731168.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00017716",
+            "file": "EFTA00017716.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00018407",
+            "file": "EFTA00018407.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00016373",
+            "file": "EFTA00016373.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00065088",
+            "file": "EFTA00065088.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00069180",
+            "file": "EFTA00069180.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01262829",
+            "file": "EFTA01262829.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213625",
+            "file": "EFTA02213625.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213626",
+            "file": "EFTA02213626.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215631",
+            "file": "EFTA02215631.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214752",
+            "file": "EFTA02214752.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213753",
+            "file": "",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00008998",
+            "file": "EFTA00008998.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213086",
+            "file": "EFTA02213086.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214927",
+            "file": "EFTA02214927.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215103",
+            "file": "EFTA02215103.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218686",
+            "file": "EFTA02218686.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.036503,
           26.70222
         ]
@@ -25011,560 +26024,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.977697,
-          35.147641
-        ]
-      },
-      "properties": {
-        "id": "86028436d75ad1df",
-        "name": "Epstein's Zorro Ranch",
-        "location_name": "Epstein's Zorro Ranch",
-        "location_address": "Stanley, New Mexico, United States",
-        "location_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
-        "canonical_name": "Zorro Ranch, Stanley, NM, New Mexico",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Epstein's Zorro Ranch",
-        "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
-        "event_count": 10,
-        "evidence_count": 18,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "1994-01-01",
-        "date_end": "2019-07-07",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "Minor Victim-2",
-            "role": "victim"
-          },
-          {
-            "name": "unnamed minor victim",
-            "role": "victim"
-          },
-          {
-            "name": "Dr. Moskowitz",
-            "role": "associate"
-          },
-          {
-            "name": "Bruce Moskowitz",
-            "role": "associate"
-          },
-          {
-            "name": "Marsha Moskowitz",
-            "role": "associate"
-          },
-          {
-            "name": "Moscowitz",
-            "role": "associate"
-          },
-          {
-            "name": "Brice",
-            "role": "other"
-          },
-          {
-            "name": "Karen",
-            "role": "other"
-          },
-          {
-            "name": "Dr. Bruce Moskowitz",
-            "role": "associate"
-          },
-          {
-            "name": "Jude Hess",
-            "role": "associate"
-          },
-          {
-            "name": "Larry Visoski",
-            "role": "staff"
-          }
-        ],
-        "source_count": 17,
-        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+12 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
-        "events": [
-          {
-            "event_id": "cbc2663138ecafa2",
-            "event_title": "Maxwell Gives Unsolicited Topless Massage to Minor Victim-2 at Zorro Ranch (1996)",
-            "event_type": "travel",
-            "description": "Victim traveled with Epstein and Maxwell to Epstein's ranch in New Mexico; she has few specific memories from these trips and does not recall whether abuse occurred at that location.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "Minor Victim-2",
-                "role": "victim"
-              },
-              {
-                "name": "unnamed minor victim",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at his New Mexico ranch during these trips with the minor victim and Maxwell.",
-            "evidence": [
-              {
-                "file": "EFTA02731168.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "also recalls traveling to Epstein's ranch in New Mexico with Epstein and Maxwell. She has few specific memories from these trips, and does not recall whether Epstein abused her at that location.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00017716.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MAXWELL and Epstein's victims were groomed or abused at Epstein's residences in New York, Florida, and New Mexico",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017716.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00018407.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "c. A ranch in Santa Fe, New Mexico owned by Epstein (the \"New Mexico Residence\")... In or about 1996, when Minor Victim-2 was under the age of 18, MAXWELL provided Minor Victim-2 with an unsolicited massage in New Mexico, during which Minor Victim-2 was topless.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018407.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00016373.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MAXWELL interacted with Minor Victim-2 on at least one occasion in or about 1996 at Epstein's residence in New Mexico when Minor Victim-2 was under the age of 18. Minor Victim-2 had flown into New Mexico from out of state at Epstein's invitation... While in New Mexico, MAXWELL and Epstein took Minor Victim-2 to a movie and MAXWELL took Minor Victim-2 shopping.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016373.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00065088.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MAXWELL played a critical role in the grooming and abuse of minor victims that took place in locations including New York, Florida, and New Mexico.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00065088.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00069180.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Foot massages in NM with Maxwell\nPointers on how to do it how Epstein likes it",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00069180.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "92443ccf5ea5df96",
-            "event_title": "Epstein Group at Zorro Ranch, New Mexico (Photo Disc)",
-            "event_type": "presence",
-            "description": "Epstein and associates visited Zorro Ranch in New Mexico, documented in photo disc labeled Zorro/Vegas/Aspen.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Zorro Ranch is Epstein New Mexico property; photos seized from his possession.",
-            "evidence": [
-              {
-                "file": "EFTA00004250.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Zorro/Vegas/Aspen IMG_6122.JPG",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8e08727a3f67a61d",
-            "event_title": "CDs from Epstein's Safe Reference 'Zorro Ranch' in New Mexico and 'LSJ' (Little Saint James, USVI)",
-            "event_type": "presence",
-            "description": "Compact discs found in safe at Epstein's Manhattan residence bear labels referencing 'Zorro' (Zorro Ranch, NM) and 'LSJ' (Little Saint James, USVI), Epstein's two other known properties.",
-            "date_start": "2019-07-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "CDs found in Epstein's safe reference his properties at Zorro Ranch NM and LSJI USVI.",
-            "evidence": [
-              {
-                "file": "EFTA01262829.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "the Search Team discovered... several binders... Some discs contain the word 'Zorro' or 'LSJ.'",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262829.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e9fbb63895f0cd14",
-            "event_title": "Dr. Bruce Moskowitz and Wife Visit Zorro Ranch, June 5-6, 2017",
-            "event_type": "presence",
-            "description": "Epstein inquired whether a person named Moscowitz was scheduled to visit Zorro Ranch on June 5-6, 2017",
-            "date_start": "2017-06-05",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Dr. Moskowitz",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bruce Moskowitz",
-                "role": "associate"
-              },
-              {
-                "name": "Marsha Moskowitz",
-                "role": "associate"
-              },
-              {
-                "name": "Moscowitz",
-                "role": "associate"
-              },
-              {
-                "name": "Brice",
-                "role": "other"
-              },
-              {
-                "name": "Karen",
-                "role": "other"
-              },
-              {
-                "name": "Dr. Bruce Moskowitz",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein was coordinating a visit by Moscowitz to his Zorro Ranch in New Mexico.",
-            "evidence": [
-              {
-                "file": "EFTA02213625.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "is moscoqwitz set for zorro 5 6 june?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213625.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213626.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Dr. Moskowitz says he will be driving the two of them there June 5/6",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213626.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02215631.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Good Evening Dr. Moskowitz\nwe are all looking forward to your visit to the Ranch...The Ranch is at mile marker 45 on Highway 41...Zorro Management LLC\n49 Zorro Ranch Rd\nStanley, NM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215631.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214752.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hello Dr. Moskowitz. Reconfirming you and Marsha will be driving to Jeffrey's ranch on Monday June 5th! If there is anything you need please let us know. Brice and will ta",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214752.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "da905e8a29eb0ada",
-            "event_title": "Jude Hess Mentions Epstein Had a Property in New Mexico Desert (Pre-2000)",
-            "event_type": "communication",
-            "description": "Jude Hess recalled that Epstein had loaned him his New Mexico desert property for 3 days approximately 23 years before 2017 (circa 1994)",
-            "date_start": "1994-01-01",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jude Hess",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "",
-                "source_type": "doj_efta",
-                "excerpt": "remind him he had loaned me his place in the desert in New Mexico when I was going through a bit of a tough time, I went there for 3 days",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213753.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f3c205a9f581abf9",
-            "event_title": "Jude Hess at Epstein NM 1994",
-            "event_type": "presence",
-            "description": "Hess at Zorro Ranch 1994",
-            "date_start": "1994-01-01",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jude Hess",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Old reference.",
-            "evidence": [
-              {
-                "file": "EFTA02213753.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "place in the desert in New Mexico",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213753.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b0fbb104a3ede295",
-            "event_title": "Maxwell Interacts with Minor Victim-2 at Epstein's New Mexico Ranch, ~1996",
-            "event_type": "presence",
-            "description": "Ghislaine Maxwell interacted with Minor Victim-2 at Epstein's New Mexico ranch (Zorro Ranch) around 1996, when the minor had flown into New Mexico from out of state.",
-            "date_start": "1996",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "Minor Victim-2",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's Zorro Ranch in New Mexico was the location where Maxwell groomed a minor on Epstein's behalf.",
-            "evidence": [
-              {
-                "file": "EFTA00008998.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "In or about 1996, when Minor Victim-2 was under the age of 18, [Maxwell] interacted with Minor Victim-2... at Epstein's residence in New Mexico when Minor Victim-2 was under the age of 18. Minor Victim-2 had flown into New Mexico from out of state",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00008998.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "a7c19170782248ac",
-            "event_title": "Unknown Associate Requests Room at Zorro Ranch, June 4-6, 2017",
-            "event_type": "presence",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02213086.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Any room at the ranch 4,5,6 of June? Thanks",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213086.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e3041786e358307e",
-            "event_title": "Epstein Staff Books Flight to Zorro Ranch, June 9, 2017",
-            "event_type": "travel",
-            "description": "Staff alert June 9 2017 to book ticket for associate to Zorro Ranch.",
-            "date_start": "2017-06-09",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Travel to Epstein's ranch arranged.",
-            "evidence": [
-              {
-                "file": "EFTA02214927.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Ticket for to the ranch!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214927.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "726da987faf204c5",
-            "event_title": "Larry Visoski Checks if Epstein Departing to Zorro Ranch, June 6, 2017",
-            "event_type": "presence",
-            "description": "Epstein's pilot Larry Visoski asks about Epstein's planned Tuesday June 6, 2017 departure to Zorro Ranch, New Mexico.",
-            "date_start": "2017-06-06",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's pilot asking about his departure to Epstein's own Zorro Ranch on June 6, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02215103.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Do you think JE is departing Tuesday to Zorro Ranch?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215103.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02731168",
-            "file": "EFTA02731168.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017716",
-            "file": "EFTA00017716.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00018407",
-            "file": "EFTA00018407.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00016373",
-            "file": "EFTA00016373.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00065088",
-            "file": "EFTA00065088.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00069180",
-            "file": "EFTA00069180.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00004250",
-            "file": "EFTA00004250.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01262829",
-            "file": "EFTA01262829.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213625",
-            "file": "EFTA02213625.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213626",
-            "file": "EFTA02213626.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215631",
-            "file": "EFTA02215631.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214752",
-            "file": "EFTA02214752.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213753",
-            "file": "",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00008998",
-            "file": "EFTA00008998.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213086",
-            "file": "EFTA02213086.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214927",
-            "file": "EFTA02214927.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215103",
-            "file": "EFTA02215103.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.960667,
           40.765071
         ]
@@ -25580,8 +26039,8 @@
         "property_type": "event",
         "display_name": "Epstein East 66th Street Apartment Building",
         "location_descriptor": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
-        "event_count": 10,
-        "evidence_count": 15,
+        "event_count": 11,
+        "evidence_count": 16,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -25675,10 +26134,14 @@
           {
             "name": "Zorro Ranch",
             "role": "other"
+          },
+          {
+            "name": "Dr. Bard",
+            "role": "associate"
           }
         ],
-        "source_count": 14,
-        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+9 more)",
+        "source_count": 15,
+        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+10 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
@@ -26050,6 +26513,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "da535888bb088c12",
+            "event_title": "Dr. Bard Stays at Epstein's 301 East 66th Street Apt 10B, July 12-17, 2017",
+            "event_type": "presence",
+            "description": "Dr. Bard was staying in apartment 10B at Epstein's property at 301 East 66th Street in New York City from July 12-17, 2017, noted in the schedule as 'in NY for her knee surgery July 14.'",
+            "date_start": "2017-07-12",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Dr. Bard",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Dr. Bard was staying at Epstein's NYC apartment building for surgery during July 12-17, 2017, while Epstein had scheduled meetings with her.",
+            "evidence": [
+              {
+                "file": "EFTA02218710.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Leave Welcome letter for 10B for Dr. Bard arriving July 12-17",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218710.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -26121,6 +26611,11 @@
           {
             "doc_id": "EFTA02218474",
             "file": "EFTA02218474.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218710",
+            "file": "EFTA02218710.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -29642,7 +30137,7 @@
         "display_name": "Paris Le Bourget Airport",
         "location_descriptor": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
         "event_count": 5,
-        "evidence_count": 7,
+        "evidence_count": 8,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -29666,8 +30161,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA00040504.pdf, EFTA02216157.pdf, EFTA02217448.pdf, EFTA02216282.pdf, EFTA02217663.pdf, ... (+2 more)",
+        "source_count": 8,
+        "sources_preview": "EFTA00040504.pdf, EFTA02216157.pdf, EFTA02217448.pdf, EFTA02216282.pdf, EFTA02217663.pdf, ... (+3 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
@@ -29825,6 +30320,13 @@
                 "excerpt": "Jeffrey will be departing Paris, France for Geneva, Switzerland on July 7, 2017 at 11:35 a.m. Local Time. We will be arriving Geneva at approximately 12:30 p.m. Local Time.\nWe will be departing the Paris Le Bourget airport (LFPB/LBG) and arriving at the Geneva, Switzerland airport (LSGG/GVA).",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218431.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218607.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tuesday. July 11 LFPB-TEB, Depart at 1600",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218607.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -29863,6 +30365,11 @@
           {
             "doc_id": "EFTA02218431",
             "file": "EFTA02218431.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218607",
+            "file": "EFTA02218607.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -30552,7 +31059,7 @@
         "display_name": "Albuquerque International Sunport",
         "location_descriptor": "The primary commercial airport serving Albuquerque, New Mexico and the surrounding region, located in the south-central part of the city.",
         "event_count": 4,
-        "evidence_count": 13,
+        "evidence_count": 14,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -30572,8 +31079,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 13,
-        "sources_preview": "EFTA02213687.pdf, EFTA02214641.pdf, EFTA02213884.pdf, EFTA02214367.pdf, EFTA02214639.pdf, ... (+8 more)",
+        "source_count": 14,
+        "sources_preview": "EFTA02213687.pdf, EFTA02214641.pdf, EFTA02213884.pdf, EFTA02214367.pdf, EFTA02214639.pdf, ... (+9 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The primary commercial airport serving Albuquerque, New Mexico and the surrounding region, located in the south-central part of the city.",
@@ -30727,6 +31234,13 @@
                 "excerpt": "Jeffrey now says he wants to take the Jet Blue direct flight out on Sat. night Aug. 12 to Alb.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218497.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218692.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N120JE arrived at Albuquerque Intl Sunport (KABQ) at 12:25PM MDT from Palm Beach Intl (KPBI)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218692.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -30812,6 +31326,11 @@
           {
             "doc_id": "EFTA02218497",
             "file": "EFTA02218497.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218692",
+            "file": "EFTA02218692.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -39448,7 +39967,7 @@
         "display_name": "Geneva International Airport",
         "location_descriptor": "The main international airport serving Geneva, Switzerland, located partially in the municipality of Grand-Saconnex and the only major airport in Switzerland.",
         "event_count": 2,
-        "evidence_count": 6,
+        "evidence_count": 7,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -39464,8 +39983,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 6,
-        "sources_preview": "EFTA02217430.pdf, EFTA02217467.pdf, EFTA02217835.pdf, EFTA02218381.pdf, EFTA02218399.pdf, ... (+1 more)",
+        "source_count": 7,
+        "sources_preview": "EFTA02217430.pdf, EFTA02217467.pdf, EFTA02217835.pdf, EFTA02218381.pdf, EFTA02218399.pdf, ... (+2 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main international airport serving Geneva, Switzerland, located partially in the municipality of Grand-Saconnex and the only major airport in Switzerland.",
@@ -39553,6 +40072,13 @@
                 "excerpt": "Jeffrey will be departing Paris, France for Geneva, Switzerland on July 7, 2017... arriving at the Geneva, Switzerland airport (LSGG/GVA).",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218431.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218607.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Friday, July 7, LSGG-LFPB, Depart at 1820",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218607.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -39586,6 +40112,11 @@
           {
             "doc_id": "EFTA02218431",
             "file": "EFTA02218431.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218607",
+            "file": "EFTA02218607.pdf",
             "source_type": "doj_efta"
           }
         ]
