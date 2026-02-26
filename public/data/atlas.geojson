@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 60,
-        "evidence_count": 171,
+        "evidence_count": 174,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -210,8 +210,8 @@
             "role": "witness"
           }
         ],
-        "source_count": 123,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+118 more)",
+        "source_count": 125,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+120 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -428,6 +428,27 @@
                 "source_type": "doj_efta",
                 "excerpt": "7.6.19- Epstein Arrives and is placed in GP (on a Saturday)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00055963.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00056410.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NYM SUIC WATCH SUICIDE WATCH 07-23-2019 0140 07-24-2019 0845",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00056410.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00056410.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He first came to MCC on July 6, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00056410.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00057410.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Inmate is being placed on Psych Observation.\nPsych Observation\n1. Epstein #76318-054",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00057410.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2871,6 +2892,16 @@
           {
             "doc_id": "EFTA00055963",
             "file": "EFTA00055963.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00056410",
+            "file": "EFTA00056410.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00057410",
+            "file": "EFTA00057410.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -12886,13 +12917,13 @@
         "property_type": "event",
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 15,
-        "evidence_count": 26,
+        "event_count": 16,
+        "evidence_count": 28,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2010-07-26",
-        "date_end": "2019-07-06",
+        "date_end": "2019-07-08",
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -12919,12 +12950,16 @@
             "role": "staff"
           },
           {
+            "name": "Henry B. Pitman",
+            "role": "legal"
+          },
+          {
             "name": "Ghislaine Maxwell",
             "role": "associate"
           }
         ],
-        "source_count": 23,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+18 more)",
+        "source_count": 24,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+19 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -13373,6 +13408,44 @@
             ]
           },
           {
+            "event_id": "275918b3ec786425",
+            "event_title": "Epstein Arrested on Federal Sex Trafficking Charges",
+            "event_type": "legal",
+            "description": "Jeffrey Epstein was arrested Saturday on federal charges of sex trafficking of minors and conspiracy to commit sex trafficking of minors; Jeffrey Epstein expected to appear in Manhattan federal court before U.S. Magistrate Judge Henry B. Pitman for initial court appearance",
+            "date_start": "2019-07-06",
+            "date_end": "2019-07-08",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Henry B. Pitman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was personally arrested and physically present for the arrest.",
+            "evidence": [
+              {
+                "file": "EFTA00015350.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JEFFREY EPSTEIN was arrested Saturday and charged with sex trafficking of minors and conspiracy to commit sex trafficking of minors.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00015350.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN is expected to be presented in Manhattan federal court this afternoon before U.S. Magistrate Judge Henry B. Pitman.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
             "event_id": "a3487cd6e8590961",
             "event_title": "Maxwell Operates Private Aircraft N17ND and N923CL from Teterboro Airport, NJ (2010)",
             "event_type": "presence",
@@ -13529,6 +13602,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00015350",
+            "file": "EFTA00015350.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00040478",
             "file": "EFTA00040478.pdf",
             "source_type": "doj_efta"
@@ -13536,6 +13614,692 @@
           {
             "doc_id": "EFTA00008863",
             "file": "EFTA00008863.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00479,
+          40.71338
+        ]
+      },
+      "properties": {
+        "id": "986cd2b4c7dade75",
+        "name": "U.S. Attorney's Office, SDNY",
+        "location_name": "U.S. Attorney's Office, SDNY",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The U.S. Attorney's Office for the Southern District of New York, located at One Saint Andrew's Plaza in lower Manhattan, one of the nation's preeminent federal law enforcement offices.",
+        "canonical_name": "One St. Andrew's Plaza, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, SDNY",
+        "location_descriptor": "The U.S. Attorney's Office for the Southern District of New York, located at One Saint Andrew's Plaza in lower Manhattan, one of the nation's preeminent federal law enforcement offices.",
+        "event_count": 15,
+        "evidence_count": 17,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2016-03",
+        "date_end": "2021-10-21",
+        "people": [
+          {
+            "name": "Mark Epstein",
+            "role": "other"
+          },
+          {
+            "name": "Client",
+            "role": "subject"
+          },
+          {
+            "name": "MI Esq.",
+            "role": "legal"
+          },
+          {
+            "name": "Assistant United States Attorney",
+            "role": "legal"
+          },
+          {
+            "name": "AUSA",
+            "role": "legal"
+          },
+          {
+            "name": "counsel",
+            "role": "legal"
+          },
+          {
+            "name": "you",
+            "role": "legal"
+          },
+          {
+            "name": "Assistant United States Attorney (AUSA)",
+            "role": "legal"
+          },
+          {
+            "name": "SA",
+            "role": "legal"
+          },
+          {
+            "name": "New York City Police Detective",
+            "role": "legal"
+          },
+          {
+            "name": "Lieutenant",
+            "role": "other"
+          },
+          {
+            "name": "Federal Bureau of Investigation (FBI) Special Agent (SA)",
+            "role": "legal"
+          },
+          {
+            "name": "Bruce A. Barket",
+            "role": "legal"
+          },
+          {
+            "name": "Aida Ferrer Leisenring",
+            "role": "legal"
+          },
+          {
+            "name": "prosecutors",
+            "role": "legal"
+          },
+          {
+            "name": "Santos Felix",
+            "role": "other"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Audrey Strauss",
+            "role": "legal"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "subject"
+          },
+          {
+            "name": "Alison Nathan",
+            "role": "legal"
+          },
+          {
+            "name": "Counsel to the Acting United States Attorney",
+            "role": "legal"
+          },
+          {
+            "name": "Jennifer Seidel",
+            "role": "legal"
+          },
+          {
+            "name": "Clien",
+            "role": "other"
+          },
+          {
+            "name": "witness",
+            "role": "witness"
+          }
+        ],
+        "source_count": 16,
+        "sources_preview": "EFTA00039662.pdf, EFTA00009859.pdf, EFTA00009870.pdf, EFTA00015011.pdf, EFTA00016895.pdf, ... (+11 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The U.S. Attorney's Office for the Southern District of New York, located at One Saint Andrew's Plaza in lower Manhattan, one of the nation's preeminent federal law enforcement offices.",
+        "events": [
+          {
+            "event_id": "20ef774369b2ec7e",
+            "event_title": "Mark Epstein Meets with SDNY Prosecutors (October 28, 2019)",
+            "event_type": "presence",
+            "description": "Mark Epstein (Jeffrey Epstein's brother) confirmed for a 3:00 PM meeting with SDNY prosecutors on October 28, 2019.",
+            "date_start": "2019-10-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Mark Epstein",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Mark Epstein (Jeffrey's brother) met with SDNY prosecutors as part of the investigation into Jeffrey Epstein's criminal enterprise.",
+            "evidence": [
+              {
+                "file": "EFTA00039662.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We are confirmed for a meeting at 3:00 p.m. on Monday at [SDNY]. See you then.\nAssistant United States Attorney\nSouthern District of New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039662.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00009859.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Event: Mark Epstein Meeting\nStart Date: 2019-11-07 15:00:00 +0000\nEnd Date: 2019-11-07 16:00:00 +0000\nLocation: 863",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009859.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b4232073e86b4368",
+            "event_title": "SDNY Prosecutors Hold Meeting on Jeffrey Epstein Case (March 2016)",
+            "event_type": "presence",
+            "description": "SDNY Senior Litigation Counsel for Human Trafficking coordinated a meeting to discuss Jeffrey Epstein case in March 2016.",
+            "date_start": "2016-03",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "SDNY's Human Trafficking unit conducting a meeting about the Jeffrey Epstein case in 2016, part of the federal investigation into his conduct.",
+            "evidence": [
+              {
+                "file": "EFTA00009870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Next week meet re: Jeffrey Epstein... Tuesday at 4 is good. Thanks.\nSenior Litigation Counsel\nHuman Trafficking & Project Safe Childhood Coordinator\nUnited States Attorney's Office",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009870.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "191c3f1dd932d2fc",
+            "event_title": "Client Video Conference Meeting with AUSA at SDNY Office",
+            "event_type": "presence",
+            "description": "Client and attorney participated in video conference proffer meeting with Assistant United States Attorney to provide information for government evaluation of prosecutive decisions",
+            "date_start": "2020-10-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Client",
+                "role": "subject"
+              },
+              {
+                "name": "MI Esq.",
+                "role": "legal"
+              },
+              {
+                "name": "Assistant United States Attorney",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Document found in Epstein case files but redacted client identity means direct connection to Epstein cannot be confirmed from this document alone.",
+            "evidence": [
+              {
+                "file": "EFTA00015011.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "With respect to the meeting of \"Client\") and his attorney,. MI Esq., with Assistant United States Attorney o be held by video conference at the Office of the United States Attorney for the Southern District of New York on October 7, 2020 (\"the meeting\")",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015011.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "06e1c4cd6fff9eb9",
+            "event_title": "Continuation of Client Proffer Meeting at SDNY Office",
+            "event_type": "presence",
+            "description": "Client and legal counsel continued proffer meeting discussions with Assistant United States Attorney as part of ongoing cooperation evaluation process",
+            "date_start": "2020-10-27",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Client",
+                "role": "subject"
+              },
+              {
+                "name": "AUSA",
+                "role": "legal"
+              },
+              {
+                "name": "counsel",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Document found in Epstein case files but redacted client identity means direct connection to Epstein cannot be confirmed from this document alone.",
+            "evidence": [
+              {
+                "file": "EFTA00015011.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The understandings set forth in paragraphs 1 through 7 al ove extend to the continuation of this meeting on the dates that appear below. Dates of Continuation 1 027 202- 0",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015011.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3a228840ab1e5d4e",
+            "event_title": "Attorney Reviews Epstein Document at SDNY Office",
+            "event_type": "communication",
+            "description": "Attorney physically present at SDNY office to review Epstein-related document under supervised conditions with specific restrictions on handling and reproduction",
+            "date_start": "2019-12-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "you",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The document being reviewed is related to Epstein but the attorney's presence at the office is for legal review purposes, not Epstein's direct involvement.",
+            "evidence": [
+              {
+                "file": "EFTA00016895.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We have considered your request and are willing to let you take the document you reviewed yesterday to your office for review today",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016895.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00016901.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We have considered your request and are willing to let you take the document you reviewed yesterday to your office for review today on the following conditions:",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016901.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2c9a9a5d1b6f3ad1",
+            "event_title": "DOJ OIG Interview of MCC Lieutenant at SDNY Office",
+            "event_type": "communication",
+            "description": "DOJ Office of Inspector General conducted voluntary interview with MCC Lieutenant regarding actions at MCC the night of August 9, 2019 and morning of August 10, 2019, specifically involving Jeffrey Epstein",
+            "date_start": "2019-08-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Assistant United States Attorney (AUSA)",
+                "role": "legal"
+              },
+              {
+                "name": "SA",
+                "role": "legal"
+              },
+              {
+                "name": "New York City Police Detective",
+                "role": "legal"
+              },
+              {
+                "name": "Lieutenant",
+                "role": "other"
+              },
+              {
+                "name": "Federal Bureau of Investigation (FBI) Special Agent (SA)",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The interview was specifically about Jeffrey Epstein and the events surrounding him at MCC on August 9-10, 2019.",
+            "evidence": [
+              {
+                "file": "EFTA00016903.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On August 14, 2019, at the United States Attorney's Office for the Southern District of New York (SDNY), an interview was conducted with Federal Bureau of Prisons (BOP) Metropolitan Correction Center (MCC) Lieutenant",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016903.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b8711c746a4fc32b",
+            "event_title": "Defense Attorneys Review July 23 Incident Materials at Prosecutor's Office",
+            "event_type": "presence",
+            "description": "Defense attorneys Aida Leisenring and Bruce Barket reviewed sensitive disclosure materials related to the July 23 incident at the prosecutor's office",
+            "date_start": "2019-12-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Bruce A. Barket",
+                "role": "legal"
+              },
+              {
+                "name": "Aida Ferrer Leisenring",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This meeting involved reviewing materials related to Jeffrey Epstein's July 23 incident in custody, making it directly connected to his case.",
+            "evidence": [
+              {
+                "file": "EFTA00016907.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thank you for taking the time to let us review sensitive disclosure materials in your office on Friday.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016907.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3706a3200afe38f9",
+            "event_title": "Scheduled Proffer Session at US Attorney's Office (Santos Felix)",
+            "event_type": "presence",
+            "description": "Scheduled proffer session at 2:00 p.m. with Santos Felix and prosecutors at the US Attorney's Office regarding Epstein matter",
+            "date_start": "2019-09-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "prosecutors",
+                "role": "legal"
+              },
+              {
+                "name": "Santos Felix",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is a proffer session related to the Epstein investigation involving a potential witness or defendant, but Epstein himself is not present.",
+            "evidence": [
+              {
+                "file": "EFTA00015339.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Great. Let's do 2:00 p.m. on Tuesday, September 3. We'll have ht to our office. The prosecutors handling the proffer will be",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015339.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "48396e9afc06fd63",
+            "event_title": "Ghislaine Maxwell Press Conference Announcing Charges for Role in Epstein Case",
+            "event_type": "presence",
+            "description": "Press conference held by Acting U.S. Attorney Audrey Strauss and FBI Assistant Director to announce charges against Ghislaine Maxwell for her role in Jeffrey Epstein's sexual exploitation and abuse of minor girls",
+            "date_start": "2020-07-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Audrey Strauss",
+                "role": "legal"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The press conference directly announces charges against Maxwell for her role in Epstein's crimes, making this a direct legal proceeding in the Epstein case.",
+            "evidence": [
+              {
+                "file": "EFTA00015353.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "There will be a press conference today at XX:00 a.m. to announce charges against Ghislaine Maxwell for her role in the sexual exploitation and abuse of multiple minor girls by Jeffrey Epstein. The press conference will be livestreamed on Facebook @USAOSDNY.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015353.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "19f17a4c0669050d",
+            "event_title": "SDNY Press Conference Announcing Ghislaine Maxwell Charges",
+            "event_type": "presence",
+            "description": "Acting U.S. Attorney Audrey Strauss held a press conference to announce federal charges against Ghislaine Maxwell for her role in Jeffrey Epstein's sexual exploitation of minors",
+            "date_start": "2020-07-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Audrey Strauss",
+                "role": "legal"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The press conference directly concerns charges against Maxwell for her role in Epstein's crimes, making this a direct Epstein-related event.",
+            "evidence": [
+              {
+                "file": "EFTA00015355.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "There will be a press conference today at XX:00 a.m. to announce charges against Ghislaine Maxwell for her role in the sexual exploitation and abuse of multiple minor girls by Jeffrey Epstein. WHO: Audrey Strauss, Acting United States Attorney for the Southern District of New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015355.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c5e7c8ae2c31d451",
+            "event_title": "Judge Nathan Holds Maxwell Trial Jury Selection Teleconference",
+            "event_type": "legal",
+            "description": "Judge Nathan conducted a telephone conference to discuss jury selection matters for the Maxwell trial with public and press access via conference call",
+            "date_start": "2021-10-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Alison Nathan",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is a court proceeding for Ghislaine Maxwell's trial, which is related to Epstein's case, but Epstein himself was not present or directly involved in this specific teleconference.",
+            "evidence": [
+              {
+                "file": "EFTA00016954.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The Court will hold a telephone conference to discuss jury selection matters on October 21, 2021 at 12:00 p.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016954.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e38e014b90b61479",
+            "event_title": "AUSA Drops Discovery Envelope at SDNY Office Doorway",
+            "event_type": "communication",
+            "description": "Assistant United States Attorney physically dropped off an envelope containing discovery drive at office doorway in SDNY building, avoiding entering colleague's office",
+            "date_start": "2020-08-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Assistant United States Attorney",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The envelope contained discovery materials returned by Epstein's attorneys after his death, but this is routine legal file management by prosecutors, not Epstein's direct involvement.",
+            "evidence": [
+              {
+                "file": "EFTA00017067.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "For whenever you're reviewing the paralegal file: I dropped off an envelope that can go in the para file. I didn't want to go into your office, so I put it in the doorway.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017067.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "98e8c9c5299c7bbc",
+            "event_title": "Attorney Executes Declaration at SDNY Office",
+            "event_type": "presence",
+            "description": "Legal counsel executed a declaration under penalty of perjury at the U.S. Attorney's Office for the Southern District of New York",
+            "date_start": "2020-08-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Counsel to the Acting United States Attorney",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Document is part of Epstein case files but describes routine legal filing activity without Epstein's direct involvement or presence.",
+            "evidence": [
+              {
+                "file": "EFTA00017794.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Executed this 5 day of August 2020. Counsel to the Acting United States Attorney United States Attorney's Office for the Southern District of New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017794.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f271281885579215",
+            "event_title": "Client Proffer Meeting with SDNY Prosecutors and Attorney Jennifer Seidel",
+            "event_type": "presence",
+            "description": "Client and attorney Jennifer Seidel met with Assistant United States Attorney at SDNY office for proffer agreement meeting regarding government evaluation of client's information for prosecutive decisions",
+            "date_start": "2021-04-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jennifer Seidel",
+                "role": "legal"
+              },
+              {
+                "name": "Clien",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is a proffer agreement meeting in what appears to be an Epstein-related case file, but Epstein himself was not present at this meeting.",
+            "evidence": [
+              {
+                "file": "EFTA00017844.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "With respect to the meeting o \"Clien and her attorney, Jennifer Seidel, Esq., with Assistant United States Attorney to be held with the Office of the United States Attorney for the Southern District of New York on April 27, 2021 (\"the meeting\")",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017844.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "56a859b3a092c105",
+            "event_title": "Fact Witness Travels to SDNY for Maxwell Trial Preparation Meeting",
+            "event_type": "travel",
+            "description": "Fact witness traveled to Southern District of New York office for trial preparation meeting in the Maxwell case on the morning of August 20th",
+            "date_start": "2021-08-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "witness",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This relates to the Maxwell case trial preparation which is connected to the Epstein investigation, but involves witness testimony rather than Epstein's direct presence.",
+            "evidence": [
+              {
+                "file": "EFTA00017864.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Attached is a request for a witness to travel to SDNY for trial prep in the Maxwell case later this month. The meeting is on the morning of August 20th, and the witness is hoping to fly up the day before hand and fly home the same day of our meeting.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017864.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00039662",
+            "file": "EFTA00039662.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009859",
+            "file": "EFTA00009859.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009870",
+            "file": "EFTA00009870.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015011",
+            "file": "EFTA00015011.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00016895",
+            "file": "EFTA00016895.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00016901",
+            "file": "EFTA00016901.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00016903",
+            "file": "EFTA00016903.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00016907",
+            "file": "EFTA00016907.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015339",
+            "file": "EFTA00015339.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015353",
+            "file": "EFTA00015353.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015355",
+            "file": "EFTA00015355.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00016954",
+            "file": "EFTA00016954.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00017067",
+            "file": "EFTA00017067.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00017794",
+            "file": "EFTA00017794.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00017844",
+            "file": "EFTA00017844.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00017864",
+            "file": "EFTA00017864.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -15352,537 +16116,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.00479,
-          40.71338
-        ]
-      },
-      "properties": {
-        "id": "986cd2b4c7dade75",
-        "name": "U.S. Attorney's Office, SDNY",
-        "location_name": "U.S. Attorney's Office, SDNY",
-        "location_address": "New York City, New York, United States",
-        "location_description": "The U.S. Attorney's Office for the Southern District of New York, located at One Saint Andrew's Plaza in lower Manhattan, one of the nation's preeminent federal law enforcement offices.",
-        "canonical_name": "One St. Andrew's Plaza, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "U.S. Attorney's Office, SDNY",
-        "location_descriptor": "The U.S. Attorney's Office for the Southern District of New York, located at One Saint Andrew's Plaza in lower Manhattan, one of the nation's preeminent federal law enforcement offices.",
-        "event_count": 11,
-        "evidence_count": 11,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2019-08-14",
-        "date_end": "2021-10-21",
-        "people": [
-          {
-            "name": "Client",
-            "role": "subject"
-          },
-          {
-            "name": "MI Esq.",
-            "role": "legal"
-          },
-          {
-            "name": "Assistant United States Attorney",
-            "role": "legal"
-          },
-          {
-            "name": "AUSA",
-            "role": "legal"
-          },
-          {
-            "name": "counsel",
-            "role": "legal"
-          },
-          {
-            "name": "Assistant United States Attorney (AUSA)",
-            "role": "legal"
-          },
-          {
-            "name": "SA",
-            "role": "legal"
-          },
-          {
-            "name": "New York City Police Detective",
-            "role": "legal"
-          },
-          {
-            "name": "Lieutenant",
-            "role": "other"
-          },
-          {
-            "name": "Federal Bureau of Investigation (FBI) Special Agent (SA)",
-            "role": "legal"
-          },
-          {
-            "name": "Bruce A. Barket",
-            "role": "legal"
-          },
-          {
-            "name": "Aida Ferrer Leisenring",
-            "role": "legal"
-          },
-          {
-            "name": "prosecutors",
-            "role": "legal"
-          },
-          {
-            "name": "Santos Felix",
-            "role": "other"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Audrey Strauss",
-            "role": "legal"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "subject"
-          },
-          {
-            "name": "Alison Nathan",
-            "role": "legal"
-          },
-          {
-            "name": "Counsel to the Acting United States Attorney",
-            "role": "legal"
-          },
-          {
-            "name": "Jennifer Seidel",
-            "role": "legal"
-          },
-          {
-            "name": "Clien",
-            "role": "other"
-          },
-          {
-            "name": "witness",
-            "role": "witness"
-          }
-        ],
-        "source_count": 10,
-        "sources_preview": "EFTA00015011.pdf, EFTA00016903.pdf, EFTA00016907.pdf, EFTA00015339.pdf, EFTA00015353.pdf, ... (+5 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "The U.S. Attorney's Office for the Southern District of New York, located at One Saint Andrew's Plaza in lower Manhattan, one of the nation's preeminent federal law enforcement offices.",
-        "events": [
-          {
-            "event_id": "191c3f1dd932d2fc",
-            "event_title": "Client Video Conference Meeting with AUSA at SDNY Office",
-            "event_type": "presence",
-            "description": "Client and attorney participated in video conference proffer meeting with Assistant United States Attorney to provide information for government evaluation of prosecutive decisions",
-            "date_start": "2020-10-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Client",
-                "role": "subject"
-              },
-              {
-                "name": "MI Esq.",
-                "role": "legal"
-              },
-              {
-                "name": "Assistant United States Attorney",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Document found in Epstein case files but redacted client identity means direct connection to Epstein cannot be confirmed from this document alone.",
-            "evidence": [
-              {
-                "file": "EFTA00015011.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "With respect to the meeting of \"Client\") and his attorney,. MI Esq., with Assistant United States Attorney o be held by video conference at the Office of the United States Attorney for the Southern District of New York on October 7, 2020 (\"the meeting\")",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015011.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "06e1c4cd6fff9eb9",
-            "event_title": "Continuation of Client Proffer Meeting at SDNY Office",
-            "event_type": "presence",
-            "description": "Client and legal counsel continued proffer meeting discussions with Assistant United States Attorney as part of ongoing cooperation evaluation process",
-            "date_start": "2020-10-27",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Client",
-                "role": "subject"
-              },
-              {
-                "name": "AUSA",
-                "role": "legal"
-              },
-              {
-                "name": "counsel",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Document found in Epstein case files but redacted client identity means direct connection to Epstein cannot be confirmed from this document alone.",
-            "evidence": [
-              {
-                "file": "EFTA00015011.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The understandings set forth in paragraphs 1 through 7 al ove extend to the continuation of this meeting on the dates that appear below. Dates of Continuation 1 027 202- 0",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015011.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "2c9a9a5d1b6f3ad1",
-            "event_title": "DOJ OIG Interview of MCC Lieutenant at SDNY Office",
-            "event_type": "communication",
-            "description": "DOJ Office of Inspector General conducted voluntary interview with MCC Lieutenant regarding actions at MCC the night of August 9, 2019 and morning of August 10, 2019, specifically involving Jeffrey Epstein",
-            "date_start": "2019-08-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Assistant United States Attorney (AUSA)",
-                "role": "legal"
-              },
-              {
-                "name": "SA",
-                "role": "legal"
-              },
-              {
-                "name": "New York City Police Detective",
-                "role": "legal"
-              },
-              {
-                "name": "Lieutenant",
-                "role": "other"
-              },
-              {
-                "name": "Federal Bureau of Investigation (FBI) Special Agent (SA)",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The interview was specifically about Jeffrey Epstein and the events surrounding him at MCC on August 9-10, 2019.",
-            "evidence": [
-              {
-                "file": "EFTA00016903.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On August 14, 2019, at the United States Attorney's Office for the Southern District of New York (SDNY), an interview was conducted with Federal Bureau of Prisons (BOP) Metropolitan Correction Center (MCC) Lieutenant",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016903.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b8711c746a4fc32b",
-            "event_title": "Defense Attorneys Review July 23 Incident Materials at Prosecutor's Office",
-            "event_type": "presence",
-            "description": "Defense attorneys Aida Leisenring and Bruce Barket reviewed sensitive disclosure materials related to the July 23 incident at the prosecutor's office",
-            "date_start": "2019-12-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Bruce A. Barket",
-                "role": "legal"
-              },
-              {
-                "name": "Aida Ferrer Leisenring",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "This meeting involved reviewing materials related to Jeffrey Epstein's July 23 incident in custody, making it directly connected to his case.",
-            "evidence": [
-              {
-                "file": "EFTA00016907.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Thank you for taking the time to let us review sensitive disclosure materials in your office on Friday.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016907.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "3706a3200afe38f9",
-            "event_title": "Scheduled Proffer Session at US Attorney's Office (Santos Felix)",
-            "event_type": "presence",
-            "description": "Scheduled proffer session at 2:00 p.m. with Santos Felix and prosecutors at the US Attorney's Office regarding Epstein matter",
-            "date_start": "2019-09-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "prosecutors",
-                "role": "legal"
-              },
-              {
-                "name": "Santos Felix",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This is a proffer session related to the Epstein investigation involving a potential witness or defendant, but Epstein himself is not present.",
-            "evidence": [
-              {
-                "file": "EFTA00015339.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Great. Let's do 2:00 p.m. on Tuesday, September 3. We'll have ht to our office. The prosecutors handling the proffer will be",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015339.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "48396e9afc06fd63",
-            "event_title": "Ghislaine Maxwell Press Conference Announcing Charges for Role in Epstein Case",
-            "event_type": "presence",
-            "description": "Press conference held by Acting U.S. Attorney Audrey Strauss and FBI Assistant Director to announce charges against Ghislaine Maxwell for her role in Jeffrey Epstein's sexual exploitation and abuse of minor girls",
-            "date_start": "2020-07-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Audrey Strauss",
-                "role": "legal"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The press conference directly announces charges against Maxwell for her role in Epstein's crimes, making this a direct legal proceeding in the Epstein case.",
-            "evidence": [
-              {
-                "file": "EFTA00015353.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "There will be a press conference today at XX:00 a.m. to announce charges against Ghislaine Maxwell for her role in the sexual exploitation and abuse of multiple minor girls by Jeffrey Epstein. The press conference will be livestreamed on Facebook @USAOSDNY.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015353.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "19f17a4c0669050d",
-            "event_title": "SDNY Press Conference Announcing Ghislaine Maxwell Charges",
-            "event_type": "presence",
-            "description": "Acting U.S. Attorney Audrey Strauss held a press conference to announce federal charges against Ghislaine Maxwell for her role in Jeffrey Epstein's sexual exploitation of minors",
-            "date_start": "2020-07-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Audrey Strauss",
-                "role": "legal"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The press conference directly concerns charges against Maxwell for her role in Epstein's crimes, making this a direct Epstein-related event.",
-            "evidence": [
-              {
-                "file": "EFTA00015355.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "There will be a press conference today at XX:00 a.m. to announce charges against Ghislaine Maxwell for her role in the sexual exploitation and abuse of multiple minor girls by Jeffrey Epstein. WHO: Audrey Strauss, Acting United States Attorney for the Southern District of New York",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015355.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c5e7c8ae2c31d451",
-            "event_title": "Judge Nathan Holds Maxwell Trial Jury Selection Teleconference",
-            "event_type": "legal",
-            "description": "Judge Nathan conducted a telephone conference to discuss jury selection matters for the Maxwell trial with public and press access via conference call",
-            "date_start": "2021-10-21",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Alison Nathan",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This is a court proceeding for Ghislaine Maxwell's trial, which is related to Epstein's case, but Epstein himself was not present or directly involved in this specific teleconference.",
-            "evidence": [
-              {
-                "file": "EFTA00016954.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The Court will hold a telephone conference to discuss jury selection matters on October 21, 2021 at 12:00 p.m.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016954.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "98e8c9c5299c7bbc",
-            "event_title": "Attorney Executes Declaration at SDNY Office",
-            "event_type": "presence",
-            "description": "Legal counsel executed a declaration under penalty of perjury at the U.S. Attorney's Office for the Southern District of New York",
-            "date_start": "2020-08-05",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Counsel to the Acting United States Attorney",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Document is part of Epstein case files but describes routine legal filing activity without Epstein's direct involvement or presence.",
-            "evidence": [
-              {
-                "file": "EFTA00017794.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Executed this 5 day of August 2020. Counsel to the Acting United States Attorney United States Attorney's Office for the Southern District of New York",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017794.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f271281885579215",
-            "event_title": "Client Proffer Meeting with SDNY Prosecutors and Attorney Jennifer Seidel",
-            "event_type": "presence",
-            "description": "Client and attorney Jennifer Seidel met with Assistant United States Attorney at SDNY office for proffer agreement meeting regarding government evaluation of client's information for prosecutive decisions",
-            "date_start": "2021-04-27",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jennifer Seidel",
-                "role": "legal"
-              },
-              {
-                "name": "Clien",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This is a proffer agreement meeting in what appears to be an Epstein-related case file, but Epstein himself was not present at this meeting.",
-            "evidence": [
-              {
-                "file": "EFTA00017844.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "With respect to the meeting o \"Clien and her attorney, Jennifer Seidel, Esq., with Assistant United States Attorney to be held with the Office of the United States Attorney for the Southern District of New York on April 27, 2021 (\"the meeting\")",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017844.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "56a859b3a092c105",
-            "event_title": "Fact Witness Travels to SDNY for Maxwell Trial Preparation Meeting",
-            "event_type": "travel",
-            "description": "Fact witness traveled to Southern District of New York office for trial preparation meeting in the Maxwell case on the morning of August 20th",
-            "date_start": "2021-08-20",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "witness",
-                "role": "witness"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This relates to the Maxwell case trial preparation which is connected to the Epstein investigation, but involves witness testimony rather than Epstein's direct presence.",
-            "evidence": [
-              {
-                "file": "EFTA00017864.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Attached is a request for a witness to travel to SDNY for trial prep in the Maxwell case later this month. The meeting is on the morning of August 20th, and the witness is hoping to fly up the day before hand and fly home the same day of our meeting.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017864.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00015011",
-            "file": "EFTA00015011.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00016903",
-            "file": "EFTA00016903.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00016907",
-            "file": "EFTA00016907.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015339",
-            "file": "EFTA00015339.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015353",
-            "file": "EFTA00015353.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015355",
-            "file": "EFTA00015355.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00016954",
-            "file": "EFTA00016954.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017794",
-            "file": "EFTA00017794.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017844",
-            "file": "EFTA00017844.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017864",
-            "file": "EFTA00017864.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.977697,
           35.147641
         ]
@@ -17391,205 +17624,6 @@
           {
             "doc_id": "EFTA00014192",
             "file": "EFTA00014192.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.00479,
-          40.71338
-        ]
-      },
-      "properties": {
-        "id": "40c8687513c5a6c6",
-        "name": "U.S. Attorney's Office \u2013 Southern District of New York",
-        "location_name": "U.S. Attorney's Office \u2013 Southern District of New York",
-        "location_address": "New York City, New York, United States",
-        "location_description": "The federal prosecutor's office for the Southern District of New York, located at One Saint Andrew's Plaza in Lower Manhattan.",
-        "canonical_name": "One Saint Andrew's Plaza, New York, NY 10007, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "U.S. Attorney's Office \u2013 Southern District of New York",
-        "location_descriptor": "The federal prosecutor's office for the Southern District of New York, located at One Saint Andrew's Plaza in Lower Manhattan.",
-        "event_count": 4,
-        "evidence_count": 6,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2016-03",
-        "date_end": "2020-08-03",
-        "people": [
-          {
-            "name": "Mark Epstein",
-            "role": "other"
-          },
-          {
-            "name": "you",
-            "role": "legal"
-          },
-          {
-            "name": "Assistant United States Attorney",
-            "role": "legal"
-          }
-        ],
-        "source_count": 6,
-        "sources_preview": "EFTA00039662.pdf, EFTA00009859.pdf, EFTA00009870.pdf, EFTA00016895.pdf, EFTA00016901.pdf, ... (+1 more)",
-        "epstein_nexus": "contextual",
-        "event_type": "presence",
-        "event_description": "The federal prosecutor's office for the Southern District of New York, located at One Saint Andrew's Plaza in Lower Manhattan.",
-        "events": [
-          {
-            "event_id": "20ef774369b2ec7e",
-            "event_title": "Mark Epstein Meets with SDNY Prosecutors (October 28, 2019)",
-            "event_type": "presence",
-            "description": "Mark Epstein (Jeffrey Epstein's brother) confirmed for a 3:00 PM meeting with SDNY prosecutors on October 28, 2019.",
-            "date_start": "2019-10-28",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Mark Epstein",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Mark Epstein (Jeffrey's brother) met with SDNY prosecutors as part of the investigation into Jeffrey Epstein's criminal enterprise.",
-            "evidence": [
-              {
-                "file": "EFTA00039662.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We are confirmed for a meeting at 3:00 p.m. on Monday at [SDNY]. See you then.\nAssistant United States Attorney\nSouthern District of New York",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039662.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00009859.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Event: Mark Epstein Meeting\nStart Date: 2019-11-07 15:00:00 +0000\nEnd Date: 2019-11-07 16:00:00 +0000\nLocation: 863",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009859.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b4232073e86b4368",
-            "event_title": "SDNY Prosecutors Hold Meeting on Jeffrey Epstein Case (March 2016)",
-            "event_type": "presence",
-            "description": "SDNY Senior Litigation Counsel for Human Trafficking coordinated a meeting to discuss Jeffrey Epstein case in March 2016.",
-            "date_start": "2016-03",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "SDNY's Human Trafficking unit conducting a meeting about the Jeffrey Epstein case in 2016, part of the federal investigation into his conduct.",
-            "evidence": [
-              {
-                "file": "EFTA00009870.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Next week meet re: Jeffrey Epstein... Tuesday at 4 is good. Thanks.\nSenior Litigation Counsel\nHuman Trafficking & Project Safe Childhood Coordinator\nUnited States Attorney's Office",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009870.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "3a228840ab1e5d4e",
-            "event_title": "Attorney Reviews Epstein Document at SDNY Office",
-            "event_type": "communication",
-            "description": "Attorney physically present at SDNY office to review Epstein-related document under supervised conditions with specific restrictions on handling and reproduction",
-            "date_start": "2019-12-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "you",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The document being reviewed is related to Epstein but the attorney's presence at the office is for legal review purposes, not Epstein's direct involvement.",
-            "evidence": [
-              {
-                "file": "EFTA00016895.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We have considered your request and are willing to let you take the document you reviewed yesterday to your office for review today",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016895.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00016901.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We have considered your request and are willing to let you take the document you reviewed yesterday to your office for review today on the following conditions:",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016901.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e38e014b90b61479",
-            "event_title": "AUSA Drops Discovery Envelope at SDNY Office Doorway",
-            "event_type": "communication",
-            "description": "Assistant United States Attorney physically dropped off an envelope containing discovery drive at office doorway in SDNY building, avoiding entering colleague's office",
-            "date_start": "2020-08-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Assistant United States Attorney",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The envelope contained discovery materials returned by Epstein's attorneys after his death, but this is routine legal file management by prosecutors, not Epstein's direct involvement.",
-            "evidence": [
-              {
-                "file": "EFTA00017067.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "For whenever you're reviewing the paralegal file: I dropped off an envelope that can go in the para file. I didn't want to go into your office, so I put it in the doorway.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017067.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00039662",
-            "file": "EFTA00039662.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009859",
-            "file": "EFTA00009859.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009870",
-            "file": "EFTA00009870.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00016895",
-            "file": "EFTA00016895.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00016901",
-            "file": "EFTA00016901.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017067",
-            "file": "EFTA00017067.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -22562,145 +22596,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.986664,
-          40.759071
-        ]
-      },
-      "properties": {
-        "id": "a9555c48e7412931",
-        "name": "Richard Rodgers Theatre",
-        "location_name": "Richard Rodgers Theatre",
-        "location_address": "226 West 46th Street, New York City, New York 10036, United States",
-        "location_description": "A Broadway theater located at 226 West 46th Street in the Theater District of Midtown Manhattan, originally built in 1925 and named after composer Richard Rodgers.",
-        "canonical_name": "Richard Rodgers Theatre, 226 W 46th St, New York, NY 10036, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Richard Rodgers Theatre",
-        "location_descriptor": "A Broadway theater located at 226 West 46th Street in the Theater District of Midtown Manhattan, originally built in 1925 and named after composer Richard Rodgers.",
-        "event_count": 2,
-        "evidence_count": 3,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-25",
-        "date_end": "2019-07-08",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Bobby Slayton",
-            "role": "associate"
-          },
-          {
-            "name": "Dominique",
-            "role": "associate"
-          },
-          {
-            "name": "Henry B. Pitman",
-            "role": "legal"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02213723.pdf, EFTA00015350.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A Broadway theater located at 226 West 46th Street in the Theater District of Midtown Manhattan, originally built in 1925 and named after composer Richard Rodgers.",
-        "events": [
-          {
-            "event_id": "278e0df1a5688032",
-            "event_title": "Bobby Slayton and Girlfriend Dominique See Hamilton on Broadway, NYC, May 25, 2017",
-            "event_type": "presence",
-            "description": "Bobby Slayton and his girlfriend Dominique were in NYC watching Hamilton on Broadway on May 25, 2017, and planned to meet Epstein on Tuesday May 30 after lunch",
-            "date_start": "2017-05-25",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bobby Slayton",
-                "role": "associate"
-              },
-              {
-                "name": "Dominique",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Slayton and Dominique were Epstein associates; their NYC presence was followed by a confirmed meeting with Epstein on May 30.",
-            "evidence": [
-              {
-                "file": "EFTA02213723.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Yes sir!! Got in very late - had a midnight dinner at UVA down the street and going to Friars for lunch and then the THREE HOUR Hamilton. Would love you to meet Dominique. (My girlfriend!)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213723.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "275918b3ec786425",
-            "event_title": "Epstein Arrested on Federal Sex Trafficking Charges",
-            "event_type": "legal",
-            "description": "Jeffrey Epstein was arrested Saturday on federal charges of sex trafficking of minors and conspiracy to commit sex trafficking of minors; Jeffrey Epstein expected to appear in Manhattan federal court before U.S. Magistrate Judge Henry B. Pitman for initial court appearance",
-            "date_start": "2019-07-06",
-            "date_end": "2019-07-08",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Henry B. Pitman",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was personally arrested and physically present for the arrest.",
-            "evidence": [
-              {
-                "file": "EFTA00015350.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "JEFFREY EPSTEIN was arrested Saturday and charged with sex trafficking of minors and conspiracy to commit sex trafficking of minors.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00015350.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN is expected to be presented in Manhattan federal court this afternoon before U.S. Magistrate Judge Henry B. Pitman.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213723",
-            "file": "EFTA02213723.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015350",
-            "file": "EFTA00015350.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -117.273665,
           32.848596
         ]
@@ -26675,6 +26570,98 @@
           {
             "doc_id": "EFTA02214367",
             "file": "EFTA02214367.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986664,
+          40.759071
+        ]
+      },
+      "properties": {
+        "id": "a9555c48e7412931",
+        "name": "Richard Rodgers Theatre",
+        "location_name": "Richard Rodgers Theatre",
+        "location_address": "226 West 46th Street, New York City, New York 10036, United States",
+        "location_description": "A Broadway theater located at 226 West 46th Street in the Theater District of Midtown Manhattan, originally built in 1925 and named after composer Richard Rodgers.",
+        "canonical_name": "Richard Rodgers Theatre, 226 W 46th St, New York, NY 10036, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Richard Rodgers Theatre",
+        "location_descriptor": "A Broadway theater located at 226 West 46th Street in the Theater District of Midtown Manhattan, originally built in 1925 and named after composer Richard Rodgers.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-25",
+        "date_end": "2017-05-25",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Bobby Slayton",
+            "role": "associate"
+          },
+          {
+            "name": "Dominique",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02213723.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "A Broadway theater located at 226 West 46th Street in the Theater District of Midtown Manhattan, originally built in 1925 and named after composer Richard Rodgers.",
+        "events": [
+          {
+            "event_id": "278e0df1a5688032",
+            "event_title": "Bobby Slayton and Girlfriend Dominique See Hamilton on Broadway, NYC, May 25, 2017",
+            "event_type": "presence",
+            "description": "Bobby Slayton and his girlfriend Dominique were in NYC watching Hamilton on Broadway on May 25, 2017, and planned to meet Epstein on Tuesday May 30 after lunch",
+            "date_start": "2017-05-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bobby Slayton",
+                "role": "associate"
+              },
+              {
+                "name": "Dominique",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Slayton and Dominique were Epstein associates; their NYC presence was followed by a confirmed meeting with Epstein on May 30.",
+            "evidence": [
+              {
+                "file": "EFTA02213723.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Yes sir!! Got in very late - had a midnight dinner at UVA down the street and going to Friars for lunch and then the THREE HOUR Hamilton. Would love you to meet Dominique. (My girlfriend!)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213723.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213723",
+            "file": "EFTA02213723.pdf",
             "source_type": "doj_efta"
           }
         ]
