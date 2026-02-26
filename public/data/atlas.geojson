@@ -21,13 +21,13 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 70,
-        "evidence_count": 261,
+        "event_count": 88,
+        "evidence_count": 306,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2017",
-        "date_end": "2022-01-03",
+        "date_end": "2023-04-05",
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -62,6 +62,10 @@
             "role": "staff"
           },
           {
+            "name": "Inmate Bright #76309-054",
+            "role": "inmate"
+          },
+          {
             "name": "Thomas, M",
             "role": "staff"
           },
@@ -70,12 +74,24 @@
             "role": "legal"
           },
           {
+            "name": "Michael Thomas, MCC guard",
+            "role": "official"
+          },
+          {
+            "name": "MCC SHU guards",
+            "role": "official"
+          },
+          {
             "name": "Efrain Reyes",
             "role": "present"
           },
           {
             "name": "Inmate Reyes #85993-054",
             "role": "other"
+          },
+          {
+            "name": "S/O/S Grijalva",
+            "role": "official"
           },
           {
             "name": "Attorney Michael Miller",
@@ -90,6 +106,10 @@
             "role": "staff"
           },
           {
+            "name": "Inmate Gentile #171230-054",
+            "role": "inmate"
+          },
+          {
             "name": "I",
             "role": "legal"
           },
@@ -98,8 +118,24 @@
             "role": "staff"
           },
           {
+            "name": "MCC official",
+            "role": "official"
+          },
+          {
+            "name": "MCC personnel who responded",
+            "role": "witness"
+          },
+          {
             "name": "[redacted] BOP nurse/medic",
             "role": "other"
+          },
+          {
+            "name": "Michael Thomas, BOP guard, username BOP19012",
+            "role": "official"
+          },
+          {
+            "name": "SHU officer",
+            "role": "official"
           },
           {
             "name": "Palm Beach School District",
@@ -266,11 +302,23 @@
             "role": "witness"
           },
           {
+            "name": "Facilities Manager, BOP, MCC",
+            "role": "witness"
+          },
+          {
             "name": "Operations Lieutenant (on duty Aug 9, 2019)",
             "role": "witness"
           },
           {
             "name": "Correctional Systems Officer",
+            "role": "witness"
+          },
+          {
+            "name": "Electronics Technician =, Federal Bureau of Prisons (BOP)",
+            "role": "witness"
+          },
+          {
+            "name": "Correctional Officer, MCC",
             "role": "witness"
           },
           {
@@ -292,10 +340,90 @@
           {
             "name": "Material Handler, MCC",
             "role": "witness"
+          },
+          {
+            "name": "retired Regional Director, BOP",
+            "role": "witness"
+          },
+          {
+            "name": "Unit Manager, MCC New York",
+            "role": "witness"
+          },
+          {
+            "name": "Staff Attorney, CLC New York",
+            "role": "legal"
+          },
+          {
+            "name": "MCC BOP official",
+            "role": "witness"
+          },
+          {
+            "name": "MCC guard",
+            "role": "official"
+          },
+          {
+            "name": "MCC New York staff",
+            "role": "official"
+          },
+          {
+            "name": "Unit Manager, MCC",
+            "role": "witness"
+          },
+          {
+            "name": "SHU Lieutenant (female)",
+            "role": "official"
+          },
+          {
+            "name": "MCC witness under proffer agreement",
+            "role": "witness"
+          },
+          {
+            "name": "MCC New York IT/facilities staff",
+            "role": "official"
+          },
+          {
+            "name": "BOP Electrician from Butner, TDY at MCC",
+            "role": "official"
+          },
+          {
+            "name": "Federal Bureau of Prisons correctional officer lieutenant",
+            "role": "witness"
+          },
+          {
+            "name": "Lamine N'Diaye",
+            "role": "witness"
+          },
+          {
+            "name": "Facilities Manager, MCC New York",
+            "role": "official"
+          },
+          {
+            "name": "BOP Facilities Manager, MCC",
+            "role": "witness"
+          },
+          {
+            "name": "MCC witness",
+            "role": "witness"
+          },
+          {
+            "name": "Warden (Retired)",
+            "role": "official"
+          },
+          {
+            "name": "Michael E. Horowitz, Inspector General",
+            "role": "official"
+          },
+          {
+            "name": "MCC Facilities Manager",
+            "role": "official"
+          },
+          {
+            "name": "Communications Technician, BOP TDY",
+            "role": "official"
           }
         ],
-        "source_count": 205,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+200 more)",
+        "source_count": 249,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+244 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -646,6 +774,13 @@
                 "excerpt": "Partially legible document describing Epstein's BOP SENTRY inmate housing history (INMATE HISTORY) at MCC New York, showing cell assignments from July 6, 2019 through August 10, 2019, including his final SHU cell Z04-206LAD.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00060740.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00063388.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MANDATORY ROUNDS MUST BE CONDUCTED EVERY 30 MINUTES ON EPSTEIN #76318-054 AS PER GOD!!!!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00063388.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -782,6 +917,10 @@
                 "role": "staff"
               },
               {
+                "name": "Inmate Bright #76309-054",
+                "role": "inmate"
+              },
+              {
                 "name": "Thomas, M",
                 "role": "staff"
               },
@@ -794,12 +933,24 @@
                 "role": "legal"
               },
               {
+                "name": "Michael Thomas, MCC guard",
+                "role": "official"
+              },
+              {
+                "name": "MCC SHU guards",
+                "role": "official"
+              },
+              {
                 "name": "Efrain Reyes",
                 "role": "present"
               },
               {
                 "name": "Inmate Reyes #85993-054",
                 "role": "other"
+              },
+              {
+                "name": "S/O/S Grijalva",
+                "role": "official"
               },
               {
                 "name": "Attorney Michael Miller",
@@ -812,6 +963,10 @@
               {
                 "name": "ANDERSON-LAYNE, GLEBA (TF21247)",
                 "role": "staff"
+              },
+              {
+                "name": "Inmate Gentile #171230-054",
+                "role": "inmate"
               }
             ],
             "epstein_nexus": "direct",
@@ -1047,6 +1202,34 @@
                 "excerpt": "Per our conversation, I spoke to two of his attorneys yesterday, August 9, 2019, primarily in relation to his request for access to water in attorney conference. Attorney Mariel Colon, with whom I spoke in person in the late morning, had asked as an aside whether we would consider housing him in the Cadre. Attorney Michael Miller on the phone. He had asked whether we could house Mr. Epstein alone in SHU, to which I replied that we could not based on his prior suicide attempt/gesture.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061048.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062283.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC Video Review Day: 8/09/2019 4pm-8/10/2019 7am. 4:01pm: Black Male (BM) walks out of Door 46 with something in his hand and walks to the desk area. 4:04pm: A lot of movement around the desk area. 4:05:03pm: 2 people walk from behind the desk toward the exit to the laundry room. 4:06pm: 2 people walk from the desk area up the stairs toward G Tier. Black male opened Door 46 and pushed out a cart.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062283.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062227.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC Daily Lieutenant's Log for August 9, 2019 identifies two inmates on suicide watch: Inmate Bright (Register #76309-054) and Inmate Gentile (Register #171230-054), both with inmate companions, and Inmate Ramos pending SHU bed space.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062227.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00063392.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MEMORANDUM. Metropolitan Correctional Center, New York. DATE: August 12, 2019. SUBJECT: Passed information from Special Housing Unit. On Friday August 9, 2019 at approximately 1:50 p.m, I S/O/S Grijalva passed on to oncoming staff member Officer and present shift staff S/O/S and Officer. That Inmate was going WAB and possibly may not return. Also that Inmate Epstein #76318-054 will be needing a cell mate upon arrival from his attorney visit.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00063392.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00064007.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Michael Thomas - proxy user (BOP). 8/9/2019 09:22 AM: Medical Restraint Administration - Complete. 4/5/2019 04:00 PM: Cardio Pulmonary Resuscitation/Automated External Defibrillation - Complete.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064007.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -1185,8 +1368,28 @@
                 "role": "other"
               },
               {
+                "name": "Michael Thomas, MCC guard",
+                "role": "official"
+              },
+              {
+                "name": "MCC official",
+                "role": "official"
+              },
+              {
+                "name": "MCC personnel who responded",
+                "role": "witness"
+              },
+              {
                 "name": "[redacted] BOP nurse/medic",
                 "role": "other"
+              },
+              {
+                "name": "Michael Thomas, BOP guard, username BOP19012",
+                "role": "official"
+              },
+              {
+                "name": "SHU officer",
+                "role": "official"
               }
             ],
             "epstein_nexus": "direct",
@@ -1260,6 +1463,41 @@
                 "source_type": "doj_efta",
                 "excerpt": "MCC NEW YORK Daily Assignment Roster Saturday August 10, 2019\nSHU 1 Noel, T\nSHU 2 Thomas, M",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061033.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061680.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-G DATE: 08/10/2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061680.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062231.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Why did the count change from 73 to 72 between 12am and 3am? Date: Saturday, August 10, 2019 6:13:09 PM.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062231.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062276.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Michael Thomas (BOP19012) logged onto SHU computer at 8/10/2019 0:36:54. At 0:38:36, launched GroupWise email. At 0:39:31, downloaded 'SHU 30 CHECK SHEET (CONDENSED)_1.docx'. At 0:43:00, printed the check sheet template.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062276.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00064023.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC NEW YORK. Thomas, M - Daily Assignments. 8/10/2019 3RD QTR 2019 SHU #2 OT MW 2. 8/9/2019 3RD QTR 2019 SHU #2 OT MAN 2.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064023.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00064309.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "recalled that there was a body alarm around 6am on August 10, 2019...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064309.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1718,6 +1956,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "On July 23, 2019 at approx. 1:27 a.m.. a call for assistance on the Special Housing Unit was announced by the Control Center... I observed inmate Epstein, Jeffrey #76318-054 lying in the fetal position on the floor of his cell wearing a t-shirt and boxers... His neck was red with no abrasions... inmate Epstein stated... Tartaglione stated that he sleeps on the bottom bunk, but gave it to inmate Epstein because he's old.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059394.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062510.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Were you aware that Epstein had attempted to commit suicide on July 23rd? : Yes. Were you one of the responding officers? : Yes, I was. So, I was working Special Housing Unit on overtime and me and the officer had heard some sort of commotion and we were about to do our round down that tier, I believe it was M tier and inmate Tartaglione was his bunkie and he was at the door asking for help.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062510.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2293,6 +2538,76 @@
                 "source_type": "doj_efta",
                 "excerpt": "Partially legible document describing the MCC New York Daily Lieutenant's Log for Saturday, August 10, 2019 (Morning Watch), showing beginning count of 758 with SHU count 73/5, four inmates on psychology observation with inmate companions, and one inmate on dry cell with institutional staff.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061404.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Suicide Watch/Psych Observation Update Date: 7/30/2019 12:30 PM\nInmate Epstein #76318-054 is being taken off of Psych Observation and needs to be housed with an appropriate cellmate.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061623.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061641.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "BOP inmate roster document showing reg no 76256-054 assigned to HOSP category at unit K05-133U with SUICIDE OR (suicide observation) status at MCC New York facility, dated 08-09-2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061641.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061658.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "August 11, 2019. Attorney for. spoke with JE at app'x 7 pm on Friday 8/9, for app'x 20 minutes. He said the press has gotten crazy. They discussed personal things. She described a piece of music that started out dark but ended on a lighter note. He talked about a b[ook?].",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061658.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061693.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "BOP OFFICIAL - LEGAL HOLD NOTICE for (INMATE DEATH). Legal Hold Notice: Record Custodians. U.S. Department of Justice. Date: Wednesday, August 14, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061693.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061648.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "on Friday August 9, 2019 at approximately 1:50 p.m ... that Inmate Epstein #76318-054 will be needinv. a cell mute upon arrival From his attorney visit.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061648.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062274.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "REPORT OF FORENSIC EXAMINATION. DATE SUBMITTED: August 13, 2019. CASE NUMBER: 2019-010614. OIG Cyber Investigations Office. Digital Forensic Image of a Seagate 500GB hard drive serial Z6E8M349 from HP EliteDesk 800 serial 2UA4381YNJ, BOP barcode 0214 207268 (Device 1) and a Seagate 500GB hard drive serial Z6E8K1EV from HP EliteDesk 800 serial 2UA4381YMW, BOP barcode 0214 207270 (Device 2). Devices seized from the MCC Special Housing Unit.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062274.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062270.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On August 9, 2019, I spoke with inmate Epstein and escorted him to the SHU around 7:00 p.m. I placed inmate Epstein in the shower on G Tier to make a social call. I asked who he was calling and he stated his mother. The number started with 347. The call lasted 15 minutes.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062270.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00063418.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SHIFT-DAY-DATE: D/W - Friday, August 09, 2019 ... 1:10 PM off suicide watch",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00063418.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00064560.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "FBI Collected Item Log. Event Title: Seizure of DVR System #2. Date: 08/15/2019. Case ID: 90A-NY-3151227. JEFFREY EPSTEIN - VICTIM; DEATH INVESTIGATION. Collected From: Electronics Technician, Metropolitan Correctional Center.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064560.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00064562.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "FBI Collected Item Log. Event Title: Seizure of DVR Controller and DVR System #1. Date: 08/15/2019. Case ID: 90A-NY-3151227. JEFFREY EPSTEIN - VICTIM; DEATH INVESTIGATION. Collected From: Electronics Technician, Metropolitan Correctional Center.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064562.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2901,6 +3216,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "MANADATORY ROUNDS MUST BE CONDUCTED EVERY 30 MINUTES ON EPSTEIN #76318-054 AS PER GOD!!!!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00060720.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062045.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "OIG reviewed MCC New York SHU surveillance footage from August 9 4PM to August 10 7AM. Epstein was found unresponsive in cell Z06-220 on L-tier. FBI lab in Quantico extracted footage from video arrays seized on August 10-11, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062045.pdf",
                 "confidence": 0.7
               }
             ]
@@ -3556,6 +3878,10 @@
                 "role": "witness"
               },
               {
+                "name": "Facilities Manager, BOP, MCC",
+                "role": "witness"
+              },
+              {
                 "name": "Operations Lieutenant (on duty Aug 9, 2019)",
                 "role": "witness"
               }
@@ -3576,6 +3902,13 @@
                 "excerpt": "Partially legible document describing DOJ OIG Memorandum of Investigation \u2014 interview conducted on August 4, 2021 with a Operations Lieutenant (on duty Aug 9, 2019) at Metropolitan Correctional Center (MCC) New York, regarding the death of Jeffrey Epstein (Reg. #76318-054).",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00060820.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00064425.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On August 4, 2021, OIG conducted a voluntary interview of Facilities Manager, Federal Bureau of Prisons, Metropolitan Correctional Center. The interview was in reference to official OIG investigation surrounding the death of Jeffrey Epstein.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064425.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -3591,6 +3924,18 @@
             "people": [
               {
                 "name": "Correctional Systems Officer",
+                "role": "witness"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Electronics Technician =, Federal Bureau of Prisons (BOP)",
+                "role": "witness"
+              },
+              {
+                "name": "Correctional Officer, MCC",
                 "role": "witness"
               }
             ],
@@ -3609,6 +3954,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Partially legible document describing DOJ OIG Memorandum of Investigation \u2014 interview conducted on August 5, 2021 with a Correctional Systems Officer at Metropolitan Correctional Center (MCC) New York, regarding the death of Jeffrey Epstein (Reg. #76318-054).",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00060818.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061686.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Interview of [Correctional Officer]. On July 15, 2021, OIG conducted a voluntary interview of Correctional Officer, Federal Bureau of Prisons (BOP) Metropolitan Correctional Center (MCC) New York, in reference to official OIG investigation surrounding the death of BOP inmate Jeffrey Epstein.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061686.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062498.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 15, 2021, Senior Special Agent and Special Agent =, U.S. Department of Justice Office of the Inspector General (OIG), conducted a voluntary interview of Electronics Technician =, Federal Bureau of Prisons (BOP), Metropolitan Correctional Center (MCC) New York, New York, within the MCC New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062498.pdf",
                 "confidence": 0.7
               }
             ]
@@ -3744,6 +4103,522 @@
                 "source_type": "doj_efta",
                 "excerpt": ", Material Handler, at Bureau of Prison's (BOP) METROPOLITAN CORRECTIONAL CENTER (MCC), 150 Park Row, New York, New York, date of birth was interviewed at the United States Attorneys Office (USAO), Southern District of New York (SDNY), 1 St. Andrews Plaza, New York, New York.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061424.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "47f48d3aeb13cb5d",
+            "event_title": "DOJ OIG Interviews Retired BOP Regional Director by Telephone \u2014 October 13, 2021",
+            "event_type": "presence",
+            "description": "DOJ OIG Special Agents conducted telephonic interview of a retired BOP Regional Director on October 13, 2021 as part of official investigation into Epstein's death at MCC New York.",
+            "date_start": "2021-10-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "retired Regional Director, BOP",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The telephonic interview was part of the OIG investigation into Epstein's death at MCC New York.",
+            "evidence": [
+              {
+                "file": "EFTA00061639.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing DOJ OIG telephonic interview on October 13, 2021 of retired BOP Regional Director, conducted in reference to official OIG investigation into Jeffrey Epstein's death (Reg. #76318-054) at MCC New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061639.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "34a65d0bed4bc49f",
+            "event_title": "DOJ OIG Interviews MCC Unit Manager \u2014 September 22, 2021",
+            "event_type": "presence",
+            "description": "DOJ OIG Special Agents conducted voluntary interview of an MCC New York Unit Manager on September 22, 2021 in the OIG investigation surrounding the death of Jeffrey Epstein.",
+            "date_start": "2021-09-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Unit Manager, MCC New York",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The Unit Manager interview was part of the OIG investigation into Epstein's death at MCC New York.",
+            "evidence": [
+              {
+                "file": "EFTA00061649.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Interview of S Unit Manager, Federal Bureau of Prisons. On September 22, 2021, OIG conducted a voluntary interview of Unit Manager, Metropolitan Correctional Center (MCC) New York. The interview was conducted in reference to an official OIG investigation surrounding the death of Jeffrey Epstein.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061649.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "71fdd1a4db46e3bb",
+            "event_title": "MCC New York Staff Attorney Communication About Attorney Access \u2014 August 7-9, 2019",
+            "event_type": "presence",
+            "description": "MCC New York CLC (Central Legal Community) staff attorney communication dated August 7, 2019 referencing Friday August 9, 2019, related to attorney access at MCC New York.",
+            "date_start": "2019-08-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Staff Attorney, CLC New York",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The attorney communication is related to Epstein's attorney visit at MCC on August 9, 2019.",
+            "evidence": [
+              {
+                "file": "EFTA00061650.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Staff Attorney CLC New York Metropolitan Correctional Center 150 Park Row New York, NY 10007. Date: Wednesday, August 7, 2019. Friday, August 9",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061650.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4349d42f284c5273",
+            "event_title": "DOJ OIG Interviews BOP/MCC Official \u2014 August 5, 2021",
+            "event_type": "presence",
+            "description": "DOJ OIG Special Agents conducted voluntary interview of BOP/MCC official on August 5, 2021 in connection with investigation into Jeffrey Epstein's death.",
+            "date_start": "2021-08-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "MCC BOP official",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The OIG interview was part of the investigation into Epstein's death at MCC New York.",
+            "evidence": [
+              {
+                "file": "EFTA00061691.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Interview of [BOP official]. On August 5, 2021, OIG conducted a voluntary interview of Federal Bureau of Prisons (BOP) Metropolitan Correctional Center (MCC) employee in reference to investigation into death of Jeffrey Epstein.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061691.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3201c72c5f8edc63",
+            "event_title": "MCC Guard Denies Any Discussion About Epstein Incident in Email \u2014 August 12, 2019",
+            "event_type": "communication",
+            "description": "An MCC guard sent an email on August 12, 2019 denying that they had spoken to anyone about the Epstein incident or August 10, 2019, and noting they had been properly relieved before the incident \u2014 suggesting management was soliciting statements from staff about Epstein's death.",
+            "date_start": "2019-08-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "MCC guard",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The guard's email directly concerns the incident involving inmate Epstein on August 10, 2019 and staff communications about it.",
+            "evidence": [
+              {
+                "file": "EFTA00061696.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In your email, you state, am reminding you: I haven't spoken to you or anyone else regarding the incident involving inmate Epstein or anything else pertaining to August 10, 2019, so how is it possible for you to be reminding me? Second, I'd been properly relieved prior to the... Date: Monday, August 12, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061696.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "336e9226b283c3a1",
+            "event_title": "MCC New York Changes Suicide Watch Policy After Epstein's Death \u2014 August 16, 2019",
+            "event_type": "presence",
+            "description": "MCC New York implemented a significant change to its suicide watch procedures on August 16, 2019 \u2014 six days after Epstein's death \u2014 requiring new steps when an inmate expresses intentions to harm themselves.",
+            "date_start": "2019-08-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "MCC New York staff",
+                "role": "official"
+              },
+              {
+                "name": "Unit Manager, MCC",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The policy change was implemented 6 days after Epstein's death and was likely prompted by that event.",
+            "evidence": [
+              {
+                "file": "EFTA00061697.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "There has been a significant change concerning the placement of inmates on suicide watch at MCC. Starting 8/16/19 when an inmate expresses intentions to physically harm themselves or behavior warrants placement on watch please make... Date: Friday, August 16, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061697.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00062221.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Unit Manager at the Bureau of Prison's (BOP) METROPOLITAN CORRECTIONAL CENTER (MCC), 150 Park Row, New York, New York, was interviewed by FBI Special Agent, Office of the Inspector General (OIG). Date of entry 08/16/2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062221.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "1619fae0a837bef4",
+            "event_title": "MCC SHU Lieutenant Training Docs Referenced in Epstein Investigation \u2014 'NO SHORTCUTS' Rule, Sep 2022",
+            "event_type": "presence",
+            "description": "OIG/prosecutor retrieved MCC SHU Lieutenant training documentation from 2011 showing the 'NO SHORTCUTS!' rule explicitly in the training materials \u2014 evidence being used in the Epstein investigation/prosecution to show that MCC guards knew the proper procedures for conducting 30-minute welfare checks.",
+            "date_start": "2022-09-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "SHU Lieutenant (female)",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The SHU Lieutenant training showing 'NO SHORTCUTS!' is evidence that guards were trained to properly conduct welfare checks \u2014 relevant to the falsification charges in the Epstein case.",
+            "evidence": [
+              {
+                "file": "EFTA00062282.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SHU LT Training 2011. Date: Monday, September 12, 2022. Lieutenant attended LT training in 2011. Attached is the Lesson Plan/Instructor Guide from 2010 that was used to train her. Few points I found in the document. Page 2: NO SHORTCUTS! - This is the most evident observation",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062282.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6999eabc6c144186",
+            "event_title": "FBI Interviews Witness Under Proffer Agreement at USAO SDNY \u2014 December 20, 2019",
+            "event_type": "presence",
+            "description": "FBI interviewed an MCC-connected witness under a Proffer Agreement at USAO SDNY (1 St. Andrews) on December 20, 2019, as part of the investigation into Epstein's death.",
+            "date_start": "2019-12-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "MCC witness under proffer agreement",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Proffer agreement interview at USAO SDNY was part of investigation into Epstein's death at MCC New York.",
+            "evidence": [
+              {
+                "file": "EFTA00062964.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Pursuant to a Proffer Agreement, was interviewed at the United States Attorneys Office of the Southern District of New York, 1 St. Andrews, New York, New York. Date of entry 12/20/2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062964.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "25a429c4ac161c21",
+            "event_title": "MCC New York RAID Hard Drive Crashes \u2014 Earlier Service Request February 28, 2019",
+            "event_type": "presence",
+            "description": "MCC New York filed a service request on February 28, 2019 for a RAID crash (status closed). This earlier crash shows a pattern of failing storage infrastructure at MCC, relevant to video surveillance reliability.",
+            "date_start": "2019-02-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "MCC New York IT/facilities staff",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Earlier RAID crash at MCC establishes pattern of infrastructure failures relevant to surveillance issues on night of Epstein's death.",
+            "evidence": [
+              {
+                "file": "EFTA00063386.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Service Request #22855. Raid just crashed. Status: Closed. Priority P3 (Next Day). Date Created: Feb 28, 2019. Customer: FBOP MCC New York. Service Location: 150 PARK ROW, NEW YORK, NY 10007.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00063386.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6fec291bf5c415a1",
+            "event_title": "BOP Electrician Describes Failed Hard Drives at MCC in August 2019 \u2014 Equipment End of Life",
+            "event_type": "presence",
+            "description": "A BOP electrician on TDY from Butner Federal Correctional Complex worked at MCC New York in August 2019 to replace failing hard drives; the surveillance system equipment was at end of life with no parts available, so he had to find a second-hand replacement.",
+            "date_start": "2019-08-01",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "BOP Electrician from Butner, TDY at MCC",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Equipment failures at MCC New York in August 2019 are relevant to surveillance system reliability during Epstein's detention and death.",
+            "evidence": [
+              {
+                "file": "EFTA00063405.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Date: Tuesday, October 5, 2021. 1. is a BOP Electrician from Butner, he was TDY. We were working together doing conduit, installing equipment cabinet and doing power. The problem in August 2019 was bad hard drives / the equipment is at the end of life there were no parts. I was able to get a second hand hard drive.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00063405.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fb1a87fbe8322873",
+            "event_title": "DOJ OIG Interviews MCC Correctional Lieutenant at MCC New York re: Epstein Death (Sep 23, 2021)",
+            "event_type": "presence",
+            "description": "DOJ OIG Special Agent and Senior Special Agent conducted interview of BOP correctional officer lieutenant at MCC New York on September 23, 2021, as part of official investigation into the death of inmate Jeffrey Epstein.",
+            "date_start": "2021-09-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Federal Bureau of Prisons correctional officer lieutenant",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "OIG interview of MCC lieutenant.",
+            "evidence": [
+              {
+                "file": "EFTA00064266.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Today's date is September 23rd, 2021.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064266.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0d7aedd55e7ea12d",
+            "event_title": "FBI and Task Force Interview Witness at USAO SDNY \u2014 March 12, 2020",
+            "event_type": "presence",
+            "description": "FBI Special Agent, Task Force Officer/Detective, and AUSA interviewed a witness at USAO SDNY on March 12, 2020 in connection with investigation into Epstein's death.",
+            "date_start": "2020-03-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "witness",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Interview at USAO SDNY was part of the investigation into Epstein's death at MCC New York.",
+            "evidence": [
+              {
+                "file": "EFTA00064309.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On March 12, 2020, [witness] was interviewed by Assistant United States Attorney, Task Force Officer Detective and Special Agent at the United States Attorneys Office (USAO), Southern District of New York. Date of entry 03/04/2021.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064309.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "9228a73066090217",
+            "event_title": "DOJ OIG Takes Sworn Statement of Lamine N'Diaye (MCC Staff) \u2014 October 27, 2021",
+            "event_type": "presence",
+            "description": "DOJ OIG took a digitally recorded sworn statement from Lamine N'Diaye (MCC staff member) on October 27, 2021 in connection with the investigation into Epstein's death.",
+            "date_start": "2021-10-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lamine N'Diaye",
+                "role": "witness"
+              },
+              {
+                "name": "Facilities Manager, MCC New York",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The sworn statement of Lamine N'Diaye was taken as part of the OIG investigation into Epstein's death at MCC New York.",
+            "evidence": [
+              {
+                "file": "EFTA00064311.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DIGITALLY RECORDED SWORN STATEMENT OF LAMINE N'DIAYE. OIG CASE #: 2019-010614. DEPARTMENT OF JUSTICE OFFICE OF THE INSPECTOR GENERAL. OCTOBER 27, 2021.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064311.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00064572.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Attached is the Synopsis for the camera project at MCC New York. From: Facilities Manager, MCC New York, Metropolitan Correctional Center, 150 Park Row, New York, NY 10007. Date: Wednesday, October 27, 2021.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064572.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e3a24a21cd88b464",
+            "event_title": "OIG Receives Camera System Documentation from MCC Facilities Manager \u2014 October 2021 to March 2022",
+            "event_type": "presence",
+            "description": "DOJ OIG Assistant Special Agent in Charge received camera system documentation and information from MCC Facilities Manager over a period from October 1, 2021 through March 10, 2022, in connection with the investigation into Epstein's death.",
+            "date_start": "2021-10-01",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "BOP Facilities Manager, MCC",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Surveillance camera documentation from MCC is directly relevant to Epstein's death investigation, particularly the gap in video coverage from the SHU.",
+            "evidence": [
+              {
+                "file": "EFTA00064426.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Receipt of Information from Facility Manager, Federal Bureau of Prisons. On October 1, 2021, through March 10, 2022, Assistant Special Agent in Charge, Office of Inspector General (OIG) received information from BOP Facilities Manager about surveillance camera system at MCC.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064426.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cb01c80f06b95997",
+            "event_title": "DOJ OIG Takes Sworn Statement from MCC Witness \u2014 August 12, 2019 (2 Days After Epstein's Death)",
+            "event_type": "presence",
+            "description": "DOJ OIG took a sworn statement from an MCC witness on August 12, 2019 \u2014 just 2 days after Epstein was found dead, indicating the investigation began immediately.",
+            "date_start": "2019-08-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "MCC witness",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Early sworn statement taken on August 12, 2019 was the beginning of the formal OIG investigation into Epstein's death.",
+            "evidence": [
+              {
+                "file": "EFTA00064519.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DIGITALLY RECORDED SWORN STATEMENT OF [witness]. OIG CASE #: 2019-010614. DEPARTMENT OF JUSTICE OFFICE OF THE INSPECTOR GENERAL. AUGUST 12, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064519.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "251ac91b0773eae5",
+            "event_title": "Retired MCC Warden Responds to OIG Draft Report on Epstein Suicide \u2014 April 5, 2023",
+            "event_type": "presence",
+            "description": "A retired MCC Warden submitted a formal response memorandum to Inspector General Michael E. Horowitz on April 5, 2023 after reviewing the OIG's draft report on Jeffrey Epstein's suicide at MCC.",
+            "date_start": "2023-04-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Warden (Retired)",
+                "role": "official"
+              },
+              {
+                "name": "Michael E. Horowitz, Inspector General",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Retired Warden's response to the OIG draft report directly concerns Epstein's suicide at MCC and the investigation into institutional failures.",
+            "evidence": [
+              {
+                "file": "EFTA00064564.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MEMORANDUM FOR MICHAEL E. HOROWITZ, INSPECTOR GENERAL, DEPARTMENT OF JUSTICE. FROM: Warden (Retired). SUBJECT: Response to Draft for the Office of Inspector General Investigation (OIG) of Jeffrey Epstein Suicide. On Wednesday April 5, 2023, I reviewed the OIG draft report for the suicide of Jeffrey Epstein at the Metropolitan Correctional Center (MCC).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064564.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3a4d683139d023b5",
+            "event_title": "MCC New York Camera Surveillance System Installed in August 2019 (Month of Epstein's Death)",
+            "event_type": "transaction",
+            "description": "MCC New York installed a new camera surveillance system in August 2019, the same month Epstein was held and died there. The new system was purchased and installed, potentially explaining surveillance gaps during Epstein's custody.",
+            "date_start": "2019-08-01",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "MCC Facilities Manager",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "New surveillance cameras were being installed at MCC New York in August 2019, directly relevant to the surveillance video gaps during Epstein's custody and death.",
+            "evidence": [
+              {
+                "file": "EFTA00064566.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The documentation that I submitted to you in a previous email was for the purchase of the camera system that was installed August 2019. After speaking to the distributor as per our conversation regarding the camera system. Date: Tuesday, October 5, 2021.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064566.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f3107a78fb91d611",
+            "event_title": "MCC New York Camera System Installation Began March 17, 2019 \u2014 One Technician Available",
+            "event_type": "presence",
+            "description": "MCC New York began installing a new camera surveillance system on March 17, 2019, with only one Communications Technician available for the project \u2014 explaining why the installation was still ongoing when Epstein was housed there in July-August 2019.",
+            "date_start": "2019-03-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Communications Technician, BOP TDY",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Camera installation began March 17, 2019 and continued through August 2019, directly relevant to surveillance system completeness during Epstein's detention.",
+            "evidence": [
+              {
+                "file": "EFTA00064568.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Yes, the camera system was scheduled to start March 17, 2019 and started on schedule. When I arrived TDY February 2019 we only had one Communication Technician.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064568.pdf",
                 "confidence": 0.7
               }
             ]
@@ -3941,6 +4816,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00063388",
+            "file": "EFTA00063388.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00008744",
             "file": "EFTA00008744.pdf",
             "source_type": "doj_efta"
@@ -4091,6 +4971,26 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00062283",
+            "file": "EFTA00062283.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062227",
+            "file": "EFTA00062227.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00063392",
+            "file": "EFTA00063392.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064007",
+            "file": "EFTA00064007.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00009791",
             "file": "EFTA00009791.pdf",
             "source_type": "doj_efta"
@@ -4158,6 +5058,31 @@
           {
             "doc_id": "EFTA00061033",
             "file": "EFTA00061033.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061680",
+            "file": "EFTA00061680.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062231",
+            "file": "EFTA00062231.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062276",
+            "file": "EFTA00062276.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064023",
+            "file": "EFTA00064023.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064309",
+            "file": "EFTA00064309.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -4288,6 +5213,11 @@
           {
             "doc_id": "EFTA00059394",
             "file": "EFTA00059394.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062510",
+            "file": "EFTA00062510.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -4511,6 +5441,56 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00061623",
+            "file": "EFTA00061623.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061641",
+            "file": "EFTA00061641.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061658",
+            "file": "EFTA00061658.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061693",
+            "file": "EFTA00061693.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061648",
+            "file": "EFTA00061648.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062274",
+            "file": "EFTA00062274.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062270",
+            "file": "EFTA00062270.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00063418",
+            "file": "EFTA00063418.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064560",
+            "file": "EFTA00064560.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064562",
+            "file": "EFTA00064562.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015296",
             "file": "EFTA00015296.pdf",
             "source_type": "doj_efta"
@@ -4623,6 +5603,11 @@
           {
             "doc_id": "EFTA00060720",
             "file": "EFTA00060720.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062045",
+            "file": "EFTA00062045.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -4741,6 +5726,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00064425",
+            "file": "EFTA00064425.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00060817",
             "file": "EFTA00060817.pdf",
             "source_type": "doj_efta"
@@ -4748,6 +5738,16 @@
           {
             "doc_id": "EFTA00060818",
             "file": "EFTA00060818.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061686",
+            "file": "EFTA00061686.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062498",
+            "file": "EFTA00062498.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -4773,6 +5773,101 @@
           {
             "doc_id": "EFTA00061424",
             "file": "EFTA00061424.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061639",
+            "file": "EFTA00061639.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061649",
+            "file": "EFTA00061649.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061650",
+            "file": "EFTA00061650.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061691",
+            "file": "EFTA00061691.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061696",
+            "file": "EFTA00061696.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061697",
+            "file": "EFTA00061697.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062221",
+            "file": "EFTA00062221.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062282",
+            "file": "EFTA00062282.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062964",
+            "file": "EFTA00062964.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00063386",
+            "file": "EFTA00063386.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00063405",
+            "file": "EFTA00063405.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064266",
+            "file": "EFTA00064266.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064311",
+            "file": "EFTA00064311.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064572",
+            "file": "EFTA00064572.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064426",
+            "file": "EFTA00064426.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064519",
+            "file": "EFTA00064519.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064564",
+            "file": "EFTA00064564.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064566",
+            "file": "EFTA00064566.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064568",
+            "file": "EFTA00064568.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -19384,6 +20479,281 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.972539,
+          40.76042
+        ]
+      },
+      "properties": {
+        "id": "5e22776e3fa57bc8",
+        "name": "Dangene: The Institute of Skinovation",
+        "location_name": "Dangene: The Institute of Skinovation",
+        "location_address": "66 East 55th Street, New York City, New York 10022, United States",
+        "location_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "canonical_name": "Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor, New York, NY 10022, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Dangene: The Institute of Skinovation",
+        "location_descriptor": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "event_count": 5,
+        "evidence_count": 8,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-11",
+        "date_end": "2021-10-27",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Angie Palumbo",
+            "role": "other"
+          },
+          {
+            "name": "Julia",
+            "role": "associate"
+          },
+          {
+            "name": "Bobby Slayton",
+            "role": "associate"
+          },
+          {
+            "name": "Lamine N'Diaye",
+            "role": "witness"
+          }
+        ],
+        "source_count": 7,
+        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213470.pdf, EFTA02213901.pdf, ... (+2 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "events": [
+          {
+            "event_id": "23072bfb818b2e0c",
+            "event_title": "Julia Visits Dangene Institute of Skinovation in NYC, Epstein Pays, May 18, 2017",
+            "event_type": "transaction",
+            "description": "Person named Julia visited Dangene skincare institute in NYC and received products worth $187.26, with Epstein authorizing payment via Amex on May 18 2017",
+            "date_start": "2017-05-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Angie Palumbo",
+                "role": "other"
+              },
+              {
+                "name": "Julia",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein personally authorized payment for Julia's skincare products at this location, indicating she was visiting at his expense.",
+            "evidence": [
+              {
+                "file": "EFTA02213534.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Julia was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213534.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213539.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "was given two products today totaling $187.26...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213539.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213554.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213554.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213470.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "thank you again for fitting Jeffrey in today...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213470.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c1fe898de5b6ba81",
+            "event_title": "Slayton at Friars Club May 25",
+            "event_type": "presence",
+            "description": "Slayton at Friars Club May 25",
+            "date_start": "2017-05-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bobby Slayton",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein associate.",
+            "evidence": [
+              {
+                "file": "EFTA02213901.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Friars Club lunch May 25",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213901.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bed04f18a37607fd",
+            "event_title": "Epstein Appointment at Dangene Institute of Skinovation (May 19, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein had appointment with Anne at Dangene Institute of Skinovation, 66 East 55th Street, New York at 3pm on May 19, 2017.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's assistant confirmed he would physically attend this appointment at the Dangene Institute.",
+            "evidence": [
+              {
+                "file": "EFTA02213153.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dangene: The Institute of Skinovation\n66 E 55th Street, 6th Floor\nBetween Park and Madison\nSouth Side of the Street\nNew York, NY 10022",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213153.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "442c084f8ee2501f",
+            "event_title": "Julia's Facial Appointments at Dangene, NYC, May 11 and 18, 2017",
+            "event_type": "presence",
+            "description": "Julia (an Epstein associate) had facial appointments at Dangene salon at 66 East 55th Street, New York on May 11 and possibly May 18, 2017, arranged by Epstein's staff.",
+            "date_start": "2017-05-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Julia",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Julia's salon appointments were arranged through Epstein's assistant Lesley Groff, indicating she is in Epstein's network.",
+            "evidence": [
+              {
+                "file": "EFTA02213470.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Did Julia see you again on May 18th (yesterday)? I made her a facial appointment for May 11th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213470.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "313fb7d4d4de3fff",
+            "event_title": "OIG Interviews BOP Employee Lamine N'Diaye at 515 Madison Ave re: Epstein Death (Oct 27, 2021)",
+            "event_type": "presence",
+            "description": "DOJ OIG Senior Special Agent and Special Agent conducted interview of BOP employee Lamine N'Diaye at attorney's office at 515 Madison Avenue, 31st Floor, New York on October 27, 2021 at 1:53 PM, as part of investigation into inmate Jeffrey Epstein's death (Case 2019-010614).",
+            "date_start": "2021-10-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lamine N'Diaye",
+                "role": "witness"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This OIG interview of a BOP employee was part of the investigation into Epstein's death; Epstein is the subject of investigation but not present at this 2021 interview.",
+            "evidence": [
+              {
+                "file": "EFTA00064311.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Today's date is October 27th, 2021, and the time is 1:53 p.m. This interview is being conducted - 515 Madison Avenue, 31st floor. New York, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064311.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213534",
+            "file": "EFTA02213534.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213539",
+            "file": "EFTA02213539.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213554",
+            "file": "EFTA02213554.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213470",
+            "file": "EFTA02213470.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213901",
+            "file": "EFTA02213901.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213153",
+            "file": "EFTA02213153.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064311",
+            "file": "EFTA00064311.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.060281,
           26.714063
         ]
@@ -20040,241 +21410,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.972539,
-          40.76042
-        ]
-      },
-      "properties": {
-        "id": "5e22776e3fa57bc8",
-        "name": "Dangene: The Institute of Skinovation",
-        "location_name": "Dangene: The Institute of Skinovation",
-        "location_address": "66 East 55th Street, New York City, New York 10022, United States",
-        "location_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
-        "canonical_name": "Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor, New York, NY 10022, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Dangene: The Institute of Skinovation",
-        "location_descriptor": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
-        "event_count": 4,
-        "evidence_count": 7,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-11",
-        "date_end": "2017-05-25",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Angie Palumbo",
-            "role": "other"
-          },
-          {
-            "name": "Julia",
-            "role": "associate"
-          },
-          {
-            "name": "Bobby Slayton",
-            "role": "associate"
-          }
-        ],
-        "source_count": 6,
-        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213470.pdf, EFTA02213901.pdf, ... (+1 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
-        "events": [
-          {
-            "event_id": "23072bfb818b2e0c",
-            "event_title": "Julia Visits Dangene Institute of Skinovation in NYC, Epstein Pays, May 18, 2017",
-            "event_type": "transaction",
-            "description": "Person named Julia visited Dangene skincare institute in NYC and received products worth $187.26, with Epstein authorizing payment via Amex on May 18 2017",
-            "date_start": "2017-05-18",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Angie Palumbo",
-                "role": "other"
-              },
-              {
-                "name": "Julia",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein personally authorized payment for Julia's skincare products at this location, indicating she was visiting at his expense.",
-            "evidence": [
-              {
-                "file": "EFTA02213534.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Julia was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213534.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213539.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "was given two products today totaling $187.26...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213539.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213554.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213554.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213470.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "thank you again for fitting Jeffrey in today...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213470.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c1fe898de5b6ba81",
-            "event_title": "Slayton at Friars Club May 25",
-            "event_type": "presence",
-            "description": "Slayton at Friars Club May 25",
-            "date_start": "2017-05-25",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bobby Slayton",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Epstein associate.",
-            "evidence": [
-              {
-                "file": "EFTA02213901.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Friars Club lunch May 25",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213901.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bed04f18a37607fd",
-            "event_title": "Epstein Appointment at Dangene Institute of Skinovation (May 19, 2017)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein had appointment with Anne at Dangene Institute of Skinovation, 66 East 55th Street, New York at 3pm on May 19, 2017.",
-            "date_start": "2017-05-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's assistant confirmed he would physically attend this appointment at the Dangene Institute.",
-            "evidence": [
-              {
-                "file": "EFTA02213153.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Dangene: The Institute of Skinovation\n66 E 55th Street, 6th Floor\nBetween Park and Madison\nSouth Side of the Street\nNew York, NY 10022",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213153.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "442c084f8ee2501f",
-            "event_title": "Julia's Facial Appointments at Dangene, NYC, May 11 and 18, 2017",
-            "event_type": "presence",
-            "description": "Julia (an Epstein associate) had facial appointments at Dangene salon at 66 East 55th Street, New York on May 11 and possibly May 18, 2017, arranged by Epstein's staff.",
-            "date_start": "2017-05-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Julia",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Julia's salon appointments were arranged through Epstein's assistant Lesley Groff, indicating she is in Epstein's network.",
-            "evidence": [
-              {
-                "file": "EFTA02213470.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Did Julia see you again on May 18th (yesterday)? I made her a facial appointment for May 11th",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213470.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213534",
-            "file": "EFTA02213534.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213539",
-            "file": "EFTA02213539.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213554",
-            "file": "EFTA02213554.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213470",
-            "file": "EFTA02213470.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213901",
-            "file": "EFTA02213901.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213153",
-            "file": "EFTA02213153.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.43547,
           34.048183
         ]
@@ -20628,6 +21763,185 @@
           {
             "doc_id": "EFTA00017875",
             "file": "EFTA00017875.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005349,
+          40.714791
+        ]
+      },
+      "properties": {
+        "id": "526043fdea2b0152",
+        "name": "FBI New York Field Office",
+        "location_name": "FBI New York Field Office",
+        "location_address": "290 Broadway, New York City, New York 10007, United States",
+        "location_description": "The Federal Bureau of Investigation's primary field office in New York City, located at 290 Broadway in Lower Manhattan, overseeing federal law enforcement operations in the New York area.",
+        "canonical_name": "FBI New York Field Office, 290 Broadway, New York, NY 10278, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "FBI New York Field Office",
+        "location_descriptor": "The Federal Bureau of Investigation's primary field office in New York City, located at 290 Broadway in Lower Manhattan, overseeing federal law enforcement operations in the New York area.",
+        "event_count": 4,
+        "evidence_count": 4,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-08-12",
+        "date_end": "2021-09-29",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Electronics Technician, Federal Bureau of Prisons (BOP), Metropolitan Correctional Center (MCC)",
+            "role": "witness"
+          },
+          {
+            "name": "Captain, BOP MCC New York",
+            "role": "witness"
+          }
+        ],
+        "source_count": 4,
+        "sources_preview": "EFTA00039972.pdf, EFTA00062499.pdf, EFTA00064185.pdf, EFTA00064553.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The Federal Bureau of Investigation's primary field office in New York City, located at 290 Broadway in Lower Manhattan, overseeing federal law enforcement operations in the New York area.",
+        "events": [
+          {
+            "event_id": "97445013d500d76d",
+            "event_title": "MCC Captain Interviewed at FBI New York Field Office About Epstein Death Investigation",
+            "event_type": "presence",
+            "description": "MCC Captain was interviewed at FBI New York Field Office by FBI Special Agent and OIG Special Agent regarding the death of Jeffrey Epstein at MCC.",
+            "date_start": "2019-08-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "MCC Captain interviewed as witness in investigation into Epstein death; Epstein not personally present.",
+            "evidence": [
+              {
+                "file": "EFTA00039972.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "[MCC Captain] was interviewed at the FBI New York Field Office, 290 Broadway, New York, NY 10278 by FBI Special Agent and DIG Special Agent",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039972.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f22ac6b24872e4a2",
+            "event_title": "OIG Re-Interviews MCC Electronics Technician at OIG NY Field Office re: Epstein Camera System (Sep 29, 2021)",
+            "event_type": "communication",
+            "description": "DOJ OIG Senior Special Agent and Special Agent conducted second voluntary interview of BOP Electronics Technician at OIG New York Field Office on Sep 29, 2021, including discussion of SigNet service requests (Aug 8, 2019 and Feb 28, 2019) and emails about MCC camera DVR issues.",
+            "date_start": "2021-09-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Electronics Technician, Federal Bureau of Prisons (BOP), Metropolitan Correctional Center (MCC)",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This OIG interview investigated the MCC camera/DVR system related to Epstein's death; the technician is a witness and Epstein is the subject of the investigation but not present.",
+            "evidence": [
+              {
+                "file": "EFTA00062499.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On September 29, 2021, Senior Special Agent Assistant Special Agent in Charge and Special Agent U.S. Department of Justice Office of the Inspector General (OIG), conducted a voluntary interview of Electronics Technician, Federal Bureau of Prisons (BOP), Metropolitan Correctional Center (MCC) New York, New York, within the OIG New York Field Office located in New York, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062499.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ec79265df8977c28",
+            "event_title": "FBI Digital Evidence Laboratory Opens Forensic Examination for Jeffrey Epstein Death Investigation \u2014 August 16, 2019",
+            "event_type": "presence",
+            "description": "FBI Digital Evidence Laboratory received digital evidence items on August 16, 2019 and opened a forensic examination report for the Jeffrey Epstein death investigation (Serial 58) \u2014 one week after Epstein's death.",
+            "date_start": "2019-08-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "FBI Digital Evidence Lab examination was opened specifically for the Jeffrey Epstein death investigation, handling physical/digital evidence collected at MCC.",
+            "evidence": [
+              {
+                "file": "EFTA00064185.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Federal Bureau of Investigation Digital Evidence Laboratory. REPORT OF EXAMINATION. Date: August 16, 2019. Serial 58. UNSUB(S): JEFFREY EPSTEIN - VICTIM; DEATH INVESTIGATION. Date item(s) received: August 16, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064185.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f33669323494253d",
+            "event_title": "FBI Interviews MCC Captain at FBI NY Field Office (290 Broadway) \u2014 August 15, 2019",
+            "event_type": "presence",
+            "description": "FBI Special Agent and OIG Special Agent interviewed MCC Captain at the FBI New York Field Office (290 Broadway) on August 15, 2019 \u2014 five days after Epstein's death.",
+            "date_start": "2019-08-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Captain, BOP MCC New York",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "FBI interview of MCC Captain was part of the early investigation into Epstein's death at MCC.",
+            "evidence": [
+              {
+                "file": "EFTA00064553.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Captain, FEDERAL BUREAU OF PRISONS (BOP), METROPOLITAN CORRECTIONAL CENTER (MCC), 150 Park Row, New York, NY 10007, was interviewed at the FBI New York Field Office, 290 Broadway, New York, NY 10278 by FBI Special Agent and OIG Special Agent. Date of entry 08/15/2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064553.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00039972",
+            "file": "EFTA00039972.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00062499",
+            "file": "EFTA00062499.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064185",
+            "file": "EFTA00064185.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064553",
+            "file": "EFTA00064553.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -27374,6 +28688,118 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.97617,
+          40.738511
+        ]
+      },
+      "properties": {
+        "id": "4c8ad07358d73407",
+        "name": "NYC Office of the Chief Medical Examiner",
+        "location_name": "NYC Office of the Chief Medical Examiner",
+        "location_address": "421 East 26th Street, New York City, New York 10016, United States",
+        "location_description": "The New York City Office of the Chief Medical Examiner, located on East 26th Street in Manhattan, is the municipal forensic science facility responsible for investigating deaths occurring in New York City, including conducting autopsies.",
+        "canonical_name": "421 E 26th St, New York, NY 10016, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "NYC Office of the Chief Medical Examiner",
+        "location_descriptor": "The New York City Office of the Chief Medical Examiner, located on East 26th Street in Manhattan, is the municipal forensic science facility responsible for investigating deaths occurring in New York City, including conducting autopsies.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2022-03-02",
+        "date_end": "2022-05-31",
+        "people": [
+          {
+            "name": "Doctor, Medical Examiner, NYC OCME",
+            "role": "official"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA00063395.pdf, EFTA00063517.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The New York City Office of the Chief Medical Examiner, located on East 26th Street in Manhattan, is the municipal forensic science facility responsible for investigating deaths occurring in New York City, including conducting autopsies.",
+        "events": [
+          {
+            "event_id": "c1c728f5a19738b9",
+            "event_title": "DOJ OIG Interviews NYC Chief Medical Examiner Doctor \u2014 May 31, 2022",
+            "event_type": "presence",
+            "description": "DOJ OIG conducted interview of a NYC Chief Medical Examiner doctor on May 31, 2022 as part of the investigation into Jeffrey Epstein's death, to review forensic/autopsy findings.",
+            "date_start": "2022-05-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Doctor, Medical Examiner, NYC OCME",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Interview of NYC Medical Examiner was part of OIG investigation into Epstein's death and cause/manner of death.",
+            "evidence": [
+              {
+                "file": "EFTA00063395.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Interview of Doctor Medical Examiner, New York City Office of the Chief Medical Examiner. On May 31, 2022, OIG conducted an interview of Doctor, Medical Examiner, New York City Office of the Chief Medical Examiner.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00063395.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2df85111c5c9b914",
+            "event_title": "DOJ OIG Formally Requests NYC Medical Examiner's Complete Case File for Epstein's Death \u2014 March 2, 2022",
+            "event_type": "presence",
+            "description": "DOJ OIG formally requested the complete medical examiner's case file (M19-19432) associated with Jeffrey Epstein's death from the NYC Office of the Chief Medical Examiner on March 2, 2022.",
+            "date_start": "2022-03-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "DOJ OIG requested the NYC Medical Examiner's complete case file for Epstein's death as part of the official investigation into his death.",
+            "evidence": [
+              {
+                "file": "EFTA00063517.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "March 2, 2022. Office of the Chief Medical Examiner, City of New York, New York, NY 10016. M19-19432. I am writing to request the complete Medical Examiner's case file associated with the death of inmate Jeffrey Epstein, Metropolitan Correctional Center.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00063517.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00063395",
+            "file": "EFTA00063395.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00063517",
+            "file": "EFTA00063517.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.753462,
           42.120246
         ]
@@ -33467,72 +34893,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.005349,
-          40.714791
-        ]
-      },
-      "properties": {
-        "id": "526043fdea2b0152",
-        "name": "FBI New York Field Office",
-        "location_name": "FBI New York Field Office",
-        "location_address": "290 Broadway, New York City, New York 10007, United States",
-        "location_description": "The Federal Bureau of Investigation's primary field office in New York City, located at 290 Broadway in Lower Manhattan, overseeing federal law enforcement operations in the New York area.",
-        "canonical_name": "FBI New York Field Office, 290 Broadway, New York, NY 10278, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "FBI New York Field Office",
-        "location_descriptor": "The Federal Bureau of Investigation's primary field office in New York City, located at 290 Broadway in Lower Manhattan, overseeing federal law enforcement operations in the New York area.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2019-08-12",
-        "date_end": "2019-08-12",
-        "people": [],
-        "source_count": 1,
-        "sources_preview": "EFTA00039972.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "presence",
-        "event_description": "The Federal Bureau of Investigation's primary field office in New York City, located at 290 Broadway in Lower Manhattan, overseeing federal law enforcement operations in the New York area.",
-        "events": [
-          {
-            "event_id": "97445013d500d76d",
-            "event_title": "MCC Captain Interviewed at FBI New York Field Office About Epstein Death Investigation",
-            "event_type": "presence",
-            "description": "MCC Captain was interviewed at FBI New York Field Office by FBI Special Agent and OIG Special Agent regarding the death of Jeffrey Epstein at MCC.",
-            "date_start": "2019-08-12",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "MCC Captain interviewed as witness in investigation into Epstein death; Epstein not personally present.",
-            "evidence": [
-              {
-                "file": "EFTA00039972.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "[MCC Captain] was interviewed at the FBI New York Field Office, 290 Broadway, New York, NY 10278 by FBI Special Agent and DIG Special Agent",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039972.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00039972",
-            "file": "EFTA00039972.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.985245,
           40.744633
         ]
@@ -36060,6 +37420,430 @@
           {
             "doc_id": "EFTA00061577",
             "file": "EFTA00061577.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.198,
+          40.698169
+        ]
+      },
+      "properties": {
+        "id": "c6d497adae6830ad",
+        "name": "Law Offices in Newark, NJ",
+        "location_name": "Law Offices in Newark, NJ",
+        "location_address": "07102 Frelinghuysen Avenue, Newark, New Jersey 07114, United States",
+        "location_description": "A law office located in Newark, New Jersey, used as the site of a voluntary OIG interview of an MCC staff member in connection with the investigation into Jeffrey Epstein's death.",
+        "canonical_name": "Newark, NJ 07102, New Jersey",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Law Offices in Newark, NJ",
+        "location_descriptor": "A law office located in Newark, New Jersey, used as the site of a voluntary OIG interview of an MCC staff member in connection with the investigation into Jeffrey Epstein's death.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2021-06-17",
+        "date_end": "2021-06-17",
+        "people": [
+          {
+            "name": "Michael Thomas",
+            "role": "witness"
+          },
+          {
+            "name": "Montel Figgins",
+            "role": "legal"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA00061594.pdf, EFTA00063613.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A law office located in Newark, New Jersey, used as the site of a voluntary OIG interview of an MCC staff member in connection with the investigation into Jeffrey Epstein's death.",
+        "events": [
+          {
+            "event_id": "1138bb45253b3a37",
+            "event_title": "DOJ OIG Interviews Michael Thomas (MCC Guard, Epstein's SHU) at Law Offices in Newark, NJ \u2014 June 17, 2021",
+            "event_type": "presence",
+            "description": "DOJ OIG Special Agents interviewed MCC guard Michael Thomas on June 17, 2021 at law offices in Newark, NJ; Thomas was the guard assigned to MCC New York SHU on August 10, 2019 when Epstein was found unresponsive, and was later indicted for falsifying watch records.",
+            "date_start": "2021-06-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Michael Thomas",
+                "role": "witness"
+              },
+              {
+                "name": "Montel Figgins",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Michael Thomas was directly responsible for monitoring Epstein's SHU tier on August 10, 2019, and was later indicted for falsifying his monitoring records related to Epstein's death.",
+            "evidence": [
+              {
+                "file": "EFTA00061594.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Interview of Michael Thomas. On June 17, 2021, OIG conducted a voluntary interview of Material Handler Specialist Michael Thomas, Federal Bureau of Prisons (BOP), Metropolitan Correctional Center (MCC) New York, New York, within the Law Offices of Montel Figgins located at 1 Newark, New Jersey. Thomas was an MCC New York staff member assigned to the MCC New York Special Housing Unit on August 10, 2019, the day Epstein was found unresponsive within his cell.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061594.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00063613.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DIGITALLY RECORDED SWORN STATEMENT OF MICHAEL THOMAS. OIG CASE #: 2019-010614. DEPARTMENT OF JUSTICE OFFICE OF THE INSPECTOR GENERAL. JUNE 17, 2021.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00063613.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00061594",
+            "file": "EFTA00061594.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00063613",
+            "file": "EFTA00063613.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.451483,
+          41.393712
+        ]
+      },
+      "properties": {
+        "id": "0fa9fb33cf810efa",
+        "name": "FCI Danbury SIPE Training Center",
+        "location_name": "FCI Danbury SIPE Training Center",
+        "location_address": "Danbury, Connecticut, United States",
+        "location_description": "The Staff Initial Preparation and Evaluation (SIPE) training center located on the grounds of Federal Correctional Institution Danbury in Danbury, Connecticut, used for Bureau of Prisons staff training and official interviews.",
+        "canonical_name": "Federal Correctional Institution Danbury, 33 1/2 Pemberton Rd, Danbury, CT, Connecticut",
+        "region": "",
+        "property_type": "event",
+        "display_name": "FCI Danbury SIPE Training Center",
+        "location_descriptor": "The Staff Initial Preparation and Evaluation (SIPE) training center located on the grounds of Federal Correctional Institution Danbury in Danbury, Connecticut, used for Bureau of Prisons staff training and official interviews.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2021-07-12",
+        "date_end": "2021-07-12",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "federal Bureau of Prisons lieutenant",
+            "role": "witness"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00062649.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The Staff Initial Preparation and Evaluation (SIPE) training center located on the grounds of Federal Correctional Institution Danbury in Danbury, Connecticut, used for Bureau of Prisons staff training and official interviews.",
+        "events": [
+          {
+            "event_id": "da291d2f82bdd6b7",
+            "event_title": "DOJ OIG Interviews MCC BOP Lieutenant at FCI Danbury re: Epstein Death (Jul 12, 2021)",
+            "event_type": "presence",
+            "description": "DOJ OIG Senior Special Agent conducted sworn interview of BOP Lieutenant at FCI Danbury SIPE Training Center on July 12, 2021, regarding investigation of inmate Jeffrey Epstein's death and surrounding circumstances at MCC New York on August 9-10, 2019.",
+            "date_start": "2021-07-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "federal Bureau of Prisons lieutenant",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This OIG interview investigates Epstein's death at MCC New York; the lieutenant was activities officer on August 9, 2019, and Epstein is the subject of investigation but not present at this interview.",
+            "evidence": [
+              {
+                "file": "EFTA00062649.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Today's date is July 12, 2021, and the time is 1:06 p.m. This interview is being conducted at the federal correctional institution Danbury, located in Danbury, Connecticut. This is the training center. ... SIPE Center. ... the training center right outside of the FCI Danbury on the FCI Danbury property.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062649.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00062649",
+            "file": "EFTA00062649.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014501,
+          40.704835
+        ]
+      },
+      "properties": {
+        "id": "8a465cf28e218351",
+        "name": "DOJ OIG New York Field Office",
+        "location_name": "DOJ OIG New York Field Office",
+        "location_address": "1 Battery Place, New York City, New York 10004, United States",
+        "location_description": "The New York Field Office of the U.S. Department of Justice Office of the Inspector General, located at 1 Battery Park Plaza on the 29th floor in lower Manhattan, responsible for investigating federal criminal and misconduct matters in the New York region.",
+        "canonical_name": "DOJ Office of the Inspector General, New York Field Office, 1 Battery Park Plaza, New York, NY 10004, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "DOJ OIG New York Field Office",
+        "location_descriptor": "The New York Field Office of the U.S. Department of Justice Office of the Inspector General, located at 1 Battery Park Plaza on the 29th floor in lower Manhattan, responsible for investigating federal criminal and misconduct matters in the New York region.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2021-09-29",
+        "date_end": "2021-09-29",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Federal Bureau of Prisons employee, Electronics tech. Bureau of Prisons.",
+            "role": "witness"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00064194.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The New York Field Office of the U.S. Department of Justice Office of the Inspector General, located at 1 Battery Park Plaza on the 29th floor in lower Manhattan, responsible for investigating federal criminal and misconduct matters in the New York region.",
+        "events": [
+          {
+            "event_id": "70376982f18f52a4",
+            "event_title": "OIG Interviews MCC Electronics Technician at 1 Battery Park Plaza re: Epstein DVR Failure (Sep 29, 2021)",
+            "event_type": "presence",
+            "description": "DOJ OIG Senior Special Agent and ASAC conducted sworn interview of MCC Electronics Technician at OIG New York Field Office, 1 Battery Park Plaza, on September 29, 2021 at 8:16 AM, investigating Epstein death and MCC DVR/camera system failures.",
+            "date_start": "2021-09-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Federal Bureau of Prisons employee, Electronics tech. Bureau of Prisons.",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "OIG investigators interviewed MCC Electronics Technician about camera system failures related to Epstein's death; Epstein is the subject of investigation but not present at this 2021 interview.",
+            "evidence": [
+              {
+                "file": "EFTA00064194.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Today's date is September 29th, 2021. And the time is 8:16 a.m. This interview is being conducted at the OIG New York Field Office, located at 1 Battery Park Plaza, New York, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064194.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00064194",
+            "file": "EFTA00064194.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "74d58786d19fedbe",
+        "name": "U.S. Attorney's Office SDNY",
+        "location_name": "U.S. Attorney's Office SDNY",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The U.S. Attorney's Office for the Southern District of New York, located at 1 Saint Andrews Plaza in lower Manhattan, is one of the most prominent federal prosecutors' offices in the country, handling major federal criminal cases in New York.",
+        "canonical_name": "U.S. Attorney's Office, Southern District of New York, 1 Saint Andrews Plaza, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office SDNY",
+        "location_descriptor": "The U.S. Attorney's Office for the Southern District of New York, located at 1 Saint Andrews Plaza in lower Manhattan, is one of the most prominent federal prosecutors' offices in the country, handling major federal criminal cases in New York.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2020-03-12",
+        "date_end": "2020-03-12",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "MCC Electronics Technician",
+            "role": "witness"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00064309.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The U.S. Attorney's Office for the Southern District of New York, located at 1 Saint Andrews Plaza in lower Manhattan, is one of the most prominent federal prosecutors' offices in the country, handling major federal criminal cases in New York.",
+        "events": [
+          {
+            "event_id": "ffa2d694ca3c7073",
+            "event_title": "FBI Interviews MCC Technician at SDNY About Epstein Death and MCC Camera Failures (Mar 12, 2020)",
+            "event_type": "presence",
+            "description": "FBI Special Agent, Task Force Officer Detective, and AUSA at SDNY interviewed MCC Electronics Technician on March 12, 2020 at 1 St. Andrews Plaza about the MCC camera system failures on July 29, August 8, and August 10, 2019, and the technician's presence when Epstein was found.",
+            "date_start": "2020-03-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "MCC Electronics Technician",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The interview investigated the MCC camera failures and Epstein's death; the technician was a witness present during the response to Epstein's death.",
+            "evidence": [
+              {
+                "file": "EFTA00064309.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On March 12, 2020, ... was interviewed by Assistant United States Attorney ... at the United States Attorneys Office (USAO), Southern District of New York (SDNY), 1 St. Andrews Plaza, New York, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064309.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00064309",
+            "file": "EFTA00064309.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.012427,
+          38.894311
+        ]
+      },
+      "properties": {
+        "id": "991a2bdb558f534c",
+        "name": "Federal Bureau of Prisons Central Office",
+        "location_name": "Federal Bureau of Prisons Central Office",
+        "location_address": "320 1st Street Northwest, Washington, District of Columbia 20534, United States",
+        "location_description": "The Federal Bureau of Prisons headquarters, located at 320 First Street NW in Washington, D.C., oversees the administration of federal penitentiaries and detention centers throughout the United States.",
+        "canonical_name": "320 First St NW, Washington, DC 20534, District of Columbia",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Federal Bureau of Prisons Central Office",
+        "location_descriptor": "The Federal Bureau of Prisons headquarters, located at 320 First Street NW in Washington, D.C., oversees the administration of federal penitentiaries and detention centers throughout the United States.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2023-06-22",
+        "date_end": "2023-06-22",
+        "people": [
+          {
+            "name": "Director, Federal Bureau of Prisons",
+            "role": "official"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00064575.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The Federal Bureau of Prisons headquarters, located at 320 First Street NW in Washington, D.C., oversees the administration of federal penitentiaries and detention centers throughout the United States.",
+        "events": [
+          {
+            "event_id": "f1e08ac02e979c25",
+            "event_title": "BOP Director Responds to OIG Draft Report on Federal Bureau of Prisons' Custody (of Epstein) \u2014 June 22, 2023",
+            "event_type": "presence",
+            "description": "BOP Director submitted a formal response memorandum on June 22, 2023 to the OIG's draft report on the Bureau's custody review (of Jeffrey Epstein at MCC New York).",
+            "date_start": "2023-06-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Director, Federal Bureau of Prisons",
+                "role": "official"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "BOP Director's response to OIG's draft report directly concerns the Bureau of Prisons' custody of Jeffrey Epstein and the investigation into his death.",
+            "evidence": [
+              {
+                "file": "EFTA00064575.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "June 22, 2023. MEMORANDUM FOR ASSISTANT INSPECTOR GENERAL, INVESTIGATIONS DIVISION. FROM: Director. SUBJECT: Response to the Office of Inspector General's (OIG) Draft Report: Investigation and Review of the Federal Bureau of Prisons' Cus[tody]...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064575.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00064575",
+            "file": "EFTA00064575.pdf",
             "source_type": "doj_efta"
           }
         ]
