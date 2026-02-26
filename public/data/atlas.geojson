@@ -6798,7 +6798,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 86,
-        "evidence_count": 260,
+        "evidence_count": 262,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -7294,8 +7294,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 241,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+236 more)",
+        "source_count": 243,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+238 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -10862,6 +10862,20 @@
                 "excerpt": "Fri. Aug. 18.2017 NY\nnip Peter Thiel",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219694.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219958.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the lunch today at 12:30 will be for 2 pp ...the guest is a VIP!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219958.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219849.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Morning! Jeffrey says Leon will still come for breakfast this morning but at 8am! Wanted to keep you in the loop!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219849.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -12659,6 +12673,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219958",
+            "file": "EFTA02219958.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219849",
+            "file": "EFTA02219849.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02218605",
             "file": "EFTA02218605.pdf",
             "source_type": "doj_efta"
@@ -12846,8 +12870,8 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 65,
-        "evidence_count": 157,
+        "event_count": 66,
+        "evidence_count": 163,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -13099,12 +13123,16 @@
             "role": "staff"
           },
           {
+            "name": "Dillon",
+            "role": "associate"
+          },
+          {
             "name": "Ronald Lauder",
             "role": "associate"
           }
         ],
-        "source_count": 151,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02212893.pdf, ... (+146 more)",
+        "source_count": 157,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02212893.pdf, ... (+152 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -15033,6 +15061,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "James Watson",
+                "role": "associate"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               },
@@ -15110,6 +15142,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey and I Skyped yesterday - he said he may be in NY on Friday and suggested that, if so, we meet.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219783.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219792.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Following his return from Russia, Jim Watson finds himself knee-deep in meetings. Is Mr. Epstein available any time next week?\n...Jeffrey will be in NY this week some...perhaps Tues-Thurs...he is wondering if Dr. Watson might be in NY.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219792.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15338,6 +15377,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey is to be in NY [Sept 20]...Hi Bebe...I rec'd a summons for jury duty...it is for Sept. 20th...Jeffrey is to be in NY...can you keep on your calendar that you may need to sit in for me this day?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219781.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219797.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "FYI. Jim Watson returned from Russia, busy. Jeffrey will be in NY Tues-Thurs (week of Jul 30).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219797.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219809.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Unfortunately jeffrey will not be in NY next week. We will have to keep trying!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219809.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15622,6 +15675,13 @@
                 "excerpt": "Let's talk ... Sure, when will you be in town? ... July 14 but phone ok ... Ok, feel free to call me If you had a specific time in mind, let me know when.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219429.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219806.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will call you at 1:45pm today! (July 3, 2017)\n...Would it be possible to meet with Jeffrey? (July 20 follow-up)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219806.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -15712,6 +15772,10 @@
                 "role": "subject"
               },
               {
+                "name": "Dillon",
+                "role": "associate"
+              },
+              {
                 "name": "Leon Black",
                 "role": "associate"
               }
@@ -15731,6 +15795,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey is coming to NY asking Leon Black",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219632.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219830.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: [unnamed] and Dillon to depart NY today Aug. 2",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219830.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15773,6 +15844,37 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey will be in NY this Thursday and Friday Aug. 17 and 18...he is wondering if Dr. Watson might be around and have some time to come for a visit!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219779.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a385b34f8cba4b26",
+            "event_title": "Epstein Away from NY Week of July 24, Robert Kuhn Visit Postponed",
+            "event_type": "travel",
+            "description": "Robert Kuhn arrived in NY from Beijing but Epstein is away; meeting postponed.",
+            "date_start": "2017-07-21",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Robert Lawrence Kuhn",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein was NOT in NYC during the week of July 24, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02219823.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Robert...Jeffrey will be away as I had thought...we will circle back. I've arrived in New York - checking when works to meet with Jeffrey.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219823.pdf",
                 "confidence": 0.7
               }
             ]
@@ -16340,6 +16442,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219792",
+            "file": "EFTA02219792.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02214189",
             "file": "EFTA02214189.pdf",
             "source_type": "doj_efta"
@@ -16435,6 +16542,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219797",
+            "file": "EFTA02219797.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219809",
+            "file": "EFTA02219809.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02218934",
             "file": "EFTA02218934.pdf",
             "source_type": "doj_efta"
@@ -16500,6 +16617,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219806",
+            "file": "EFTA02219806.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219547",
             "file": "EFTA02219547.pdf",
             "source_type": "doj_efta"
@@ -16525,6 +16647,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219830",
+            "file": "EFTA02219830.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219650",
             "file": "EFTA02219650.pdf",
             "source_type": "doj_efta"
@@ -16532,6 +16659,11 @@
           {
             "doc_id": "EFTA02219779",
             "file": "EFTA02219779.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219823",
+            "file": "EFTA02219823.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -19544,7 +19676,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 38,
-        "evidence_count": 79,
+        "evidence_count": 82,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -19660,8 +19792,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 70,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215018.pdf, EFTA02216389.pdf, ... (+65 more)",
+        "source_count": 73,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215018.pdf, EFTA02216389.pdf, ... (+68 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -20850,6 +20982,20 @@
                 "excerpt": "Received the ticket to STT tomorrow! Thank you!\n...AA 936 28JUL JFK STT\n...KRXZTS",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219788.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219802.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Received the ticket to STT tomorrow! AA936 28JUL JFK STT. KRXZTS thread.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219802.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219845.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Fri. July 28. 2017 LSJ\n1:39pm no Arrive STT via AA#936 (Rec. Loc#CBIORA)\n2:40pm to depart SIT via AA#936 (Rec. Loc#DFQQRO)\nleaving for I month????",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219845.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -20894,6 +21040,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "DL 465 23AUG JFK STT 0900A 0105P, $452.10. He is doing the usual...changing out the traveling assistant! Lesley. Seats for both girls also.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219727.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219813.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DL 465 23AUG JFK STT 0900A 0105P. He is doing the usual...changing out the traveling assistant! Seat is $65.00.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219813.pdf",
                 "confidence": 0.7
               }
             ]
@@ -21352,6 +21505,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219802",
+            "file": "EFTA02219802.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219845",
+            "file": "EFTA02219845.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219285",
             "file": "EFTA02219285.pdf",
             "source_type": "doj_efta"
@@ -21364,6 +21527,11 @@
           {
             "doc_id": "EFTA02219727",
             "file": "EFTA02219727.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219813",
+            "file": "EFTA02219813.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -21435,7 +21603,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 35,
-        "evidence_count": 84,
+        "evidence_count": 85,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -21547,8 +21715,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 75,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+70 more)",
+        "source_count": 76,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+71 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -22819,6 +22987,13 @@
                 "excerpt": "Hi M. I left to Hampton with JE knows about it.. Also I know that s in NYC already after she got back from island a few days ago..",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219154.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219818.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You can take the flight off hold. Jeffrey will NOT have her fly to island after all.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219818.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -23309,6 +23484,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219818",
+            "file": "EFTA02219818.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00073205",
             "file": "EFTA00073205.pdf",
             "source_type": "doj_efta"
@@ -23347,7 +23527,7 @@
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
         "event_count": 32,
-        "evidence_count": 71,
+        "evidence_count": 73,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -23415,8 +23595,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 65,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+60 more)",
+        "source_count": 67,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+62 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -24379,6 +24559,20 @@
                 "excerpt": "TEB-PBI Friday Aug 4th JE will depart meridian Teterboro at 11am Arrival Atlantic Aviation Palm Beach 1:30pm Tail number N120JE the GIV",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218996.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219852.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Cyril E King (TIST/STT) at 06:59AM AST enroute to Teterboro (KTEB) for an estimated arrival at 10:34AM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219852.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219841.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "CARosa Car service set up to pick up Jeffrey upon arrival tomorrow at Jet Aviation at 11 AM - I would expect him at 71st by 11:45 AM. Larry",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219841.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -24849,6 +25043,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219852",
+            "file": "EFTA02219852.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219841",
+            "file": "EFTA02219841.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02218607",
             "file": "EFTA02218607.pdf",
             "source_type": "doj_efta"
@@ -24941,8 +25145,8 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 25,
-        "evidence_count": 60,
+        "event_count": 27,
+        "evidence_count": 63,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -25042,8 +25246,8 @@
             "role": "other"
           }
         ],
-        "source_count": 58,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+53 more)",
+        "source_count": 61,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+56 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -25397,6 +25601,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Morning! We need a ticket, round trip, coach for from Paris to Marrakech depart Sunday May 21 return Mon. May 29. Best price is...?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212868.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219997.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 1076 K Economy Class\nParis, Charles De Gaulle\nMarrakech, Menara\n07:05 AM\n08:25 AM\nTerminal 2 E\n21 May 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219997.pdf",
                 "confidence": 0.7
               }
             ]
@@ -26034,6 +26245,60 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "0d965d54b229407a",
+            "event_title": "Elina Returns Paris CDG to JFK on AF 6, Apr 12 2017",
+            "event_type": "travel",
+            "description": "Elina departed Paris CDG on AF 6 to JFK on April 12, 2017.",
+            "date_start": "2017-04-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Elina",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return flight arranged by Lesley Groff.",
+            "evidence": [
+              {
+                "file": "EFTA02220015.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 6 R Economy Class\nParis, Charles De Gaulle",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220015.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0e9b94535ac30e4d",
+            "event_title": "Woman Flies Paris\u2192JFK December 15, 2016 (10pm), Asked to 'Come See' Epstein Next Day",
+            "event_type": "presence",
+            "description": "Unnamed woman arranged to fly Norwegian DY7019 from Paris CDG to JFK on December 15, 2016 (arriving 10pm), booked via Epstein's AmEx Centurion (rec loc YTNVUR); Epstein's staff asks if he wants her to 'come see' him on Thursday after arrival.",
+            "date_start": "2016-12-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's staff asks Jeffrey if the arriving woman should 'come see you' \u2014 direct evidence of Epstein directing women's access to him after international arrivals.",
+            "evidence": [
+              {
+                "file": "EFTA02219832.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "does not arrive until 10pm Wed...did you want her to come see you Thursday Dec. 15th?\nDY 7019 M Economy, Paris Charles De Gaulle\u2192New York JFK, Dec 15 2016, 07:35PM\u201310:00PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219832.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -26105,6 +26370,11 @@
           {
             "doc_id": "EFTA02212868",
             "file": "EFTA02212868.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219997",
+            "file": "EFTA02219997.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -26325,6 +26595,16 @@
           {
             "doc_id": "EFTA02219615",
             "file": "EFTA02219615.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220015",
+            "file": "EFTA02220015.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219832",
+            "file": "EFTA02219832.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -29330,7 +29610,7 @@
         "display_name": "Epstein East 66th Street Apartment Building",
         "location_descriptor": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
         "event_count": 17,
-        "evidence_count": 27,
+        "evidence_count": 29,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -29450,8 +29730,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 26,
-        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+21 more)",
+        "source_count": 28,
+        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+23 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
@@ -29912,6 +30192,13 @@
                 "excerpt": "let Karyna know pilots will stay in 8A and 11P Aug. 2-4",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219403.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219848.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Exterminator to go to 11J today...must go and let him in. August 2, 2017 7:00 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219848.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -30058,6 +30345,13 @@
                 "excerpt": "Pick up: Friday. Aug 11 @ 845pm from 301 East 66th St and take to JFK for her flight departing at 12:30am on Ukraine Internati",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219375.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219827.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Car to pick up from 301 East 66th Street tomorrow, Friday Aug. 11th at 8:45pm and take to JFK for her flight departing at 12:30am on Ukraine International Airlines 0232.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219827.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -30181,6 +30475,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219848",
+            "file": "EFTA02219848.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219166",
             "file": "EFTA02219166.pdf",
             "source_type": "doj_efta"
@@ -30208,6 +30507,11 @@
           {
             "doc_id": "EFTA02219375",
             "file": "EFTA02219375.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219827",
+            "file": "EFTA02219827.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -32445,6 +32749,581 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.8283,
+          40.7135
+        ]
+      },
+      "properties": {
+        "id": "f0414c4573b0fa55",
+        "name": "John F. Kennedy International Airport",
+        "location_name": "John F. Kennedy International Airport",
+        "location_address": "Queens, New York, United States",
+        "location_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
+        "canonical_name": "John F. Kennedy International Airport, Jamaica, Queens, NY, New York City, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "John F. Kennedy International Airport",
+        "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
+        "event_count": 9,
+        "evidence_count": 30,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-04-05",
+        "date_end": "2017-08-23",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "M",
+            "role": "other"
+          },
+          {
+            "name": "Dylan",
+            "role": "associate"
+          },
+          {
+            "name": "Bella Klein",
+            "role": "staff"
+          },
+          {
+            "name": "Elina",
+            "role": "associate"
+          }
+        ],
+        "source_count": 23,
+        "sources_preview": "EFTA02218163.pdf, EFTA02219098.pdf, EFTA02219224.pdf, EFTA02219101.pdf, EFTA02219150.pdf, ... (+18 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
+        "events": [
+          {
+            "event_id": "8095ad1751c676dd",
+            "event_title": "Epstein Staff Books JFK to Paris Flight via Norwegian Air #7020, Aug 7, 2017",
+            "event_type": "travel",
+            "description": "Epstein (jeevacation@gmail.com) requested changing a ticket for a woman to depart JFK Monday night via Norwegian Air flight 7020 to Paris, returning on the 19th.",
+            "date_start": "2017-08-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein arranged the travel on behalf of an associate/guest, but he was not physically on this flight himself.",
+            "evidence": [
+              {
+                "file": "EFTA02218163.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "please change ticket to monday ; tomorrw night back to paris. she will return on the 19th.\n10:25pm to depart JFK via Norwegian Air#7020",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218163.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219098.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder; Begin forwarded message: From: \"American Express Travel\" Subject: Itinerary INCL TICKETNO for 14JUL17 KRXZTS ... Flight Information Date 28 Jul 2017 Airline Norwegian Air Shuttle Flight/Class DY 7020 W Economy Class Origin New York, John F Kennedy International Destination Paris, Charles De Gaulle Departing 10:25 PM Arriving 11:25 AM / 29 Jul 2017 Seats 11C Confirmed",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219098.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219224.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jet Blue B6 65 13AUG JFK ABQ 0808P 1108P TOTAL FARE - USD 630.97 ... Lowest fare on the market is with Delta (we can use credit under her name): DL 436 13AUG JFK ATL 0605A 0830A DL 1185 13AUG ATL ABQ 0940A 1053A TOTAL FARE - USD 281.80",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219224.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bd0863d32d697b86",
+            "event_title": "AmEx Centurion Travel Itinerary KRXZTS: Norwegian Air DY7020 JFK to Paris CDG, Jul 28 2017",
+            "event_type": "travel",
+            "description": "American Express Centurion Travel itinerary KRXZTS shows Norwegian Air Shuttle flight DY7020 departing JFK Terminal 1 at 10:25 PM on July 28, 2017 bound for Paris CDG, seat 11C, for Epstein.",
+            "date_start": "2017-07-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "This itinerary was booked via Epstein's AmEx Centurion account and forwarded by his personal assistant Lesley Groff, implying Epstein was the traveler.",
+            "evidence": [
+              {
+                "file": "EFTA02219101.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DY 7020 Origin New York. John F Kennedy International Destination Paris. Charles De Gaulle Departing 10:25 PM Arriving 1125 AM/ 29 Jul 2017 Class W Economy Class Seats 11C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219101.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219150.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DY 7020 Origin New York. John F Kennedy International Destination Paris. Charles De Gaulle Departing 10:25 PM Arriving 1125 AM/ 29 Jul 2017 Class W Economy Class Seats =Spec Request",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219150.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219572.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 936 28JUL JFK STT 0930A 0139P TOTAL FARE USD 407.00 PRIVATE",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219572.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0ff1c833e389037a",
+            "event_title": "Unnamed Woman Departs JFK on Ukraine International Air Flt 232 at 12:30am",
+            "event_type": "travel",
+            "description": "An unnamed woman (initial M) arranged by Epstein staff to depart from JFK on Ukraine International Air flight 232 at 12:30am, with staff arranging car to airport.",
+            "date_start": "2017-08-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "M",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein staff coordinated airport transport for an unnamed woman.",
+            "evidence": [
+              {
+                "file": "EFTA02219493.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alert - to depart tomorrow via Ukraine Intl Air #232 at 12:30am JFK...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219493.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c5d6c3e6d3158353",
+            "event_title": "AA 2382 JFK\u2192MIA then AA 2379 MIA\u2192STT Booked, Jul 31 2017",
+            "event_type": "travel",
+            "description": "AmEx Centurion booked AA2382 JFK\u2192MIA then AA2379 MIA\u2192STT July 31 2017.",
+            "date_start": "2017-07-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "STT flights via Epstein AmEx.",
+            "evidence": [
+              {
+                "file": "EFTA02219534.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA2382 JFK MIA then AA2379 MIA STT Jul 31",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219534.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219563.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Same NY\u2192STT thread July 31",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219563.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219581.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Red-eye B6 1503 JFK SJU then B6 1236 SJU STT Jul 31",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219581.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219620.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY STT Jul 31 AA2382 2379",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219620.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY STT Jul 31 AA2382 2379",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219623.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219634.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY STT Jul 31 AA2382 2379",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219634.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219620.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY\u2192STT booking thread Jul 31 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219620.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY\u2192STT booking thread Jul 31 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219623.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219634.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY\u2192STT booking thread Jul 31 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219634.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219620.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing: Email in same NY-to-STT July 31 2017 booking thread; AA 936 JFK\u2192STT July 28 and/or AA2382/2379 JFK\u2192MIA\u2192STT July 31 bookings referenced.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219620.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing: Email in same NY-to-STT July 31 2017 booking thread; AA 936 JFK\u2192STT July 28 and/or AA2382/2379 JFK\u2192MIA\u2192STT July 31 bookings referenced.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219623.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219634.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing: Email in same NY-to-STT July 31 2017 booking thread; AA 936 JFK\u2192STT July 28 and/or AA2382/2379 JFK\u2192MIA\u2192STT July 31 bookings referenced.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219634.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219673.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight to STT from NY TODAY? Only 11:50pm red-eye option after 2:30pm. AmEx books AA 2382 JFK MIA and AA 2379 MIA STT on July 31, 2017.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219673.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219705.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight to STT from NY TODAY? AA 2382 31JUL JFK MIA and AA 2379 MIA STT booked on July 31 2017.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219705.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "db6d0c0318f5ec36",
+            "event_title": "DL465 JFK\u2192STT August 23 2017: Lesley Books 3 Seats ('Changing Out Traveling Assistant')",
+            "event_type": "travel",
+            "description": "Lesley Groff books Delta DL465 JFK\u2192STT for August 23, 2017 (9am dep, 1:05pm arr), noting Epstein is 'doing the usual...changing out the traveling assistant' and requesting seats for 'both girls' in addition to primary traveler \u2014 3 total seats to St. Thomas.",
+            "date_start": "2017-08-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Lesley Groff explicitly describes the JFK\u2192STT booking as Epstein 'changing out the traveling assistant' \u2014 a pattern of rotating young women to his USVI estate.",
+            "evidence": [
+              {
+                "file": "EFTA02219662.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Delta: DL 465 23AUG JFK STT 0900A 0105P\n...we need seats for both girls also\n...from New York to Saint Thomas direct flight...on Wednesday, August 23!! (He is doing the usual...changing out the traveling assistant!). Lesley",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219662.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219959.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 1458\nNew York. John F Kennedy International\nPhoenix, Sky Harbor Intl\n01:30 PM\n03:46 PM\nTerminal 8\n02 Aug 17",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219959.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d3fb09016b4da567",
+            "event_title": "Epstein-Linked Traveler Departs JFK for Moscow (Sheremetyevo) on Aeroflot SU 103, June 22 2017",
+            "event_type": "travel",
+            "description": "Person whose travel was arranged by Lesley Groff per Epstein instructions departed JFK on Aeroflot SU 103 to Moscow Sheremetyevo on June 22, 2017.",
+            "date_start": "2017-06-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel was arranged by Epstein staff but no indication Epstein was personally present at JFK or Moscow.",
+            "evidence": [
+              {
+                "file": "EFTA02219868.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 103 H Economy Class\nNew York, John F Kennedy International\nMoscow, Sheremetyevo\nDeparting 07:10 PM\nArriving 11:15 AM / 23 Jun 2017\n22 Jun 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219868.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219872.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 103\nNew York, John F Kennedy International\nMoscow, Sheremelyevo\n07:10 PM\n11:15 AM/ 23 Jun 2017\nTerminal 1\nTerminal D",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219872.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219959.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 2527 S Economy Class\nPhoenix, Sky Harbor Intl\nNew York, John F Kennedy International\n12:10 PM\n08:11 PM\nTerminal 8\n16 Jul 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219959.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f3a872aad5296ca2",
+            "event_title": "AmEx Centurion Seeks JFK\u2192Monterey Flights for Two, Aug 3-4 2017",
+            "event_type": "travel",
+            "description": "Bella Klein coordinating with AmEx Centurion to find JFK\u2192Monterey, CA flights for two unnamed persons on August 3-4, 2017; no availability found.",
+            "date_start": "2017-08-03",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Dylan",
+                "role": "associate"
+              },
+              {
+                "name": "Bella Klein",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Bella Klein (Epstein's assistant) coordinating travel via Epstein's AmEx Centurion.",
+            "evidence": [
+              {
+                "file": "EFTA02219702.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I checked availability for today with Americans from JFK to Monterey for [unnamed] and [unnamed], nothing for two people...Even with two stops, nothing, will keep watching.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219702.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219713.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I checked availability for today with Americans from JFK to Monterey for [unnamed] and Dylan...nothing for two people.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219713.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8521f746bb6ca338",
+            "event_title": "Associate Arrives JFK from Phoenix Sky Harbor on AA 2527, Jul 16 2017 (Itinerary Copy)",
+            "event_type": "travel",
+            "description": "Epstein network traveler arrived JFK Terminal 8 on AA 2527 at 8:11 PM on July 16, 2017 per printed Amex Centurion itinerary arranged by Lesley Groff.",
+            "date_start": "2017-07-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Arrival in New York on Epstein network arranged ticket.",
+            "evidence": [
+              {
+                "file": "EFTA02219963.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 2527\nPhoenix. Sky Harbor Intl\nNew York, John F Kennedy International\n12:10 PM\n08:11 PM\nTerminal 4\nTerminal 8\nS Economy Class\n28D. 28E",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219963.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4348959ab350c1ec",
+            "event_title": "Elina (Russian) Departs JFK for Paris CDG on AF 23, Apr 5 2017",
+            "event_type": "presence",
+            "description": "Lesley Groff arranged for Elina to fly JFK to Paris CDG on AF 23 on April 5, 2017.",
+            "date_start": "2017-04-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Elina",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Lesley Groff.",
+            "evidence": [
+              {
+                "file": "EFTA02220015.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 23 K Economy Class\nNew York, John F Kennedy International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220015.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02218163",
+            "file": "EFTA02218163.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219098",
+            "file": "EFTA02219098.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219224",
+            "file": "EFTA02219224.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219101",
+            "file": "EFTA02219101.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219150",
+            "file": "EFTA02219150.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219572",
+            "file": "EFTA02219572.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219493",
+            "file": "EFTA02219493.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219534",
+            "file": "EFTA02219534.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219563",
+            "file": "EFTA02219563.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219581",
+            "file": "EFTA02219581.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219620",
+            "file": "EFTA02219620.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219623",
+            "file": "EFTA02219623.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219634",
+            "file": "EFTA02219634.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219673",
+            "file": "EFTA02219673.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219705",
+            "file": "EFTA02219705.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219662",
+            "file": "EFTA02219662.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219959",
+            "file": "EFTA02219959.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219868",
+            "file": "EFTA02219868.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219872",
+            "file": "EFTA02219872.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219702",
+            "file": "EFTA02219702.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219713",
+            "file": "EFTA02219713.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219963",
+            "file": "EFTA02219963.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220015",
+            "file": "EFTA02220015.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.898101,
           18.344444
         ]
@@ -33168,292 +34047,231 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8283,
-          40.7135
+          -64.932094,
+          18.341129
         ]
       },
       "properties": {
-        "id": "f0414c4573b0fa55",
-        "name": "John F. Kennedy International Airport",
-        "location_name": "John F. Kennedy International Airport",
-        "location_address": "Queens, New York, United States",
-        "location_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
-        "canonical_name": "John F. Kennedy International Airport, Jamaica, Queens, NY, New York City, New York",
+        "id": "95327c017b2b14e0",
+        "name": "Cyril E. King Airport",
+        "location_name": "Cyril E. King Airport",
+        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
+        "location_description": "The main commercial and general aviation airport serving St. Thomas in the U.S. Virgin Islands, located on the western tip of the island near Charlotte Amalie.",
+        "canonical_name": "Cyril E. King Airport, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
         "region": "",
         "property_type": "event",
-        "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
+        "display_name": "Cyril E. King Airport",
+        "location_descriptor": "The main commercial and general aviation airport serving St. Thomas in the U.S. Virgin Islands, located on the western tip of the island near Charlotte Amalie.",
         "event_count": 7,
-        "evidence_count": 26,
+        "evidence_count": 10,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-06-22",
+        "date_start": "2001",
         "date_end": "2017-08-23",
         "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
           {
             "name": "Lesley Groff",
             "role": "staff"
           },
           {
-            "name": "M",
-            "role": "other"
+            "name": "Jeffrey Epstein",
+            "role": "subject"
           },
           {
-            "name": "Dylan",
+            "name": "Elina",
             "role": "associate"
-          },
-          {
-            "name": "Bella Klein",
-            "role": "staff"
           }
         ],
-        "source_count": 20,
-        "sources_preview": "EFTA02218163.pdf, EFTA02219098.pdf, EFTA02219224.pdf, EFTA02219101.pdf, EFTA02219150.pdf, ... (+15 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA02218401.pdf, EFTA02218446.pdf, EFTA02219868.pdf, EFTA02218823.pdf, EFTA02218858.pdf, ... (+5 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
-        "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
+        "event_description": "The main commercial and general aviation airport serving St. Thomas in the U.S. Virgin Islands, located on the western tip of the island near Charlotte Amalie.",
         "events": [
           {
-            "event_id": "8095ad1751c676dd",
-            "event_title": "Epstein Staff Books JFK to Paris Flight via Norwegian Air #7020, Aug 7, 2017",
+            "event_id": "3a7317150cef26cb",
+            "event_title": "N212JE Departs Cyril E. King Airport (St. Thomas) for Palm Beach at 6:38 AM AST",
             "event_type": "travel",
-            "description": "Epstein (jeevacation@gmail.com) requested changing a ticket for a woman to depart JFK Monday night via Norwegian Air flight 7020 to Paris, returning on the 19th.",
-            "date_start": "2017-08-07",
+            "description": "Epstein's Gulfstream N212JE departed Cyril E. King Airport in St. Thomas, U.S. Virgin Islands at 6:38 AM AST, estimated arrival at Palm Beach International at 9:00 AM EDT.",
+            "date_start": "2017-06",
             "date_end": null,
-            "date_precision": "exact_day",
+            "date_precision": "month",
             "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
+            "people": [],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein arranged the travel on behalf of an associate/guest, but he was not physically on this flight himself.",
+            "nexus_reasoning": "N212JE is Jeffrey Epstein's registered aircraft; this departure from his USVI base implies his involvement though passengers not named.",
             "evidence": [
               {
-                "file": "EFTA02218163.pdf",
+                "file": "EFTA02218401.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "please change ticket to monday ; tomorrw night back to paris. she will return on the 19th.\n10:25pm to depart JFK via Norwegian Air#7020",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218163.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219098.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Reminder; Begin forwarded message: From: \"American Express Travel\" Subject: Itinerary INCL TICKETNO for 14JUL17 KRXZTS ... Flight Information Date 28 Jul 2017 Airline Norwegian Air Shuttle Flight/Class DY 7020 W Economy Class Origin New York, John F Kennedy International Destination Paris, Charles De Gaulle Departing 10:25 PM Arriving 11:25 AM / 29 Jul 2017 Seats 11C Confirmed",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219098.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219224.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jet Blue B6 65 13AUG JFK ABQ 0808P 1108P TOTAL FARE - USD 630.97 ... Lowest fare on the market is with Delta (we can use credit under her name): DL 436 13AUG JFK ATL 0605A 0830A DL 1185 13AUG ATL ABQ 0940A 1053A TOTAL FARE - USD 281.80",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219224.pdf",
+                "excerpt": "N212JE (GLF4) departed Cyril E King (TIST/STT) at 06:38AM AST enroute to Palm Beach Intl (KPBI) for an estimated arrival at 09:00AM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218401.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "bd0863d32d697b86",
-            "event_title": "AmEx Centurion Travel Itinerary KRXZTS: Norwegian Air DY7020 JFK to Paris CDG, Jul 28 2017",
-            "event_type": "travel",
-            "description": "American Express Centurion Travel itinerary KRXZTS shows Norwegian Air Shuttle flight DY7020 departing JFK Terminal 1 at 10:25 PM on July 28, 2017 bound for Paris CDG, seat 11C, for Epstein.",
-            "date_start": "2017-07-28",
+            "event_id": "76c9d76c6fe38020",
+            "event_title": "Unknown Person Flies NY to St. Thomas (Epstein Network), June 21, 2017",
+            "event_type": "presence",
+            "description": "Lesley Groff (Epstein's assistant) booked a one-way direct coach ticket for an unnamed person to fly from New York to St. Thomas, U.S. Virgin Islands on June 21, 2017.",
+            "date_start": "2017-06-21",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
               {
                 "name": "Lesley Groff",
                 "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "This itinerary was booked via Epstein's AmEx Centurion account and forwarded by his personal assistant Lesley Groff, implying Epstein was the traveler.",
-            "evidence": [
-              {
-                "file": "EFTA02219101.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DY 7020 Origin New York. John F Kennedy International Destination Paris. Charles De Gaulle Departing 10:25 PM Arriving 1125 AM/ 29 Jul 2017 Class W Economy Class Seats 11C",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219101.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219150.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DY 7020 Origin New York. John F Kennedy International Destination Paris. Charles De Gaulle Departing 10:25 PM Arriving 1125 AM/ 29 Jul 2017 Class W Economy Class Seats =Spec Request",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219150.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219572.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AA 936 28JUL JFK STT 0930A 0139P TOTAL FARE USD 407.00 PRIVATE",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219572.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "0ff1c833e389037a",
-            "event_title": "Unnamed Woman Departs JFK on Ukraine International Air Flt 232 at 12:30am",
-            "event_type": "travel",
-            "description": "An unnamed woman (initial M) arranged by Epstein staff to depart from JFK on Ukraine International Air flight 232 at 12:30am, with staff arranging car to airport.",
-            "date_start": "2017-08-12",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "M",
-                "role": "other"
               }
             ],
             "epstein_nexus": "contextual",
-            "nexus_reasoning": "Epstein staff coordinated airport transport for an unnamed woman.",
+            "nexus_reasoning": "Epstein's assistant arranged travel to his USVI property, suggesting network activity at Little St. James Island, but the traveler's identity and Epstein's presence are not stated.",
             "evidence": [
               {
-                "file": "EFTA02219493.pdf",
+                "file": "EFTA02218446.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Alert - to depart tomorrow via Ukraine Intl Air #232 at 12:30am JFK...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219493.pdf",
+                "excerpt": "We need a ticket for [unnamed] to go from NY (any airport) to St Thomas on wed June 21, direct, coach, best price, one way.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218446.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219868.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 936 M Economy Class\nCharlotte Amalie, Cyril E King Airport\nNew York, John F Kennedy International\n02:40 PM\n07:01 PM\n21 Jun 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219868.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "c5d6c3e6d3158353",
-            "event_title": "AA 2382 JFK\u2192MIA then AA 2379 MIA\u2192STT Booked, Jul 31 2017",
+            "event_id": "00e7882263e7c963",
+            "event_title": "Epstein's Jet N212JE Arrives at St. Thomas (TIST), June 17 2017 at 7:10pm",
             "event_type": "travel",
-            "description": "AmEx Centurion booked AA2382 JFK\u2192MIA then AA2379 MIA\u2192STT July 31 2017.",
-            "date_start": "2017-07-31",
+            "description": "Epstein's private jet N212JE arrived at Cyril E. King Airport, St. Thomas, USVI at approximately 7:10pm AST on June 17, 2017, en route to Little St. James Island.",
+            "date_start": "2017-06-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "N212JE is Epstein's registered aircraft, and FlightAware alert to Lesley Groff confirms his jet arrival at St. Thomas, the gateway to Little St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA02218823.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Cyril E King (TIST/STT) in 45 minutes at 07:10PM AST",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218823.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218858.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Cyril E King (TIST/STT) at 07:07PM AST from Teterboro (KTEB)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218858.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "059dc6ad0b70e72e",
+            "event_title": "Elina Departs St. Thomas for JFK on Delta DL676, Ticket via Epstein Account (Aug 23, 2017)",
+            "event_type": "travel",
+            "description": "Russian national named Elina departed from St. Thomas USVI on Delta flight DL 676 Economy class seat 24C to JFK NY on Aug 23, 2017.",
+            "date_start": "2017-08-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Elina",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Ticket booked by Epstein assistant from St. Thomas.",
+            "evidence": [
+              {
+                "file": "EFTA02219064.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Elina. Here is your ticket to NY on Wed. Aug. 23rd.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219064.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219093.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We need a coach one way ticket for from STT to NY (any airport) on wed. Aug. 23rd, direct flight, best price.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219093.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "9097fdb0d4b9ade1",
+            "event_title": "Epstein Used N212JE (Plan D, LLC) to Transport Victims to U.S. Virgin Islands (2001-2019)",
+            "event_type": "presence",
+            "description": "Epstein used his Gulfstream N212JE, registered under Plan D LLC, to transport underage girls and young women to the U.S. Virgin Islands to be trafficked at Little St. James.",
+            "date_start": "2001",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was personally on these flights as subject of trafficking operation using N212JE to the USVI.",
+            "evidence": [
+              {
+                "file": "EFTA00073205.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Among the airplanes owned by Plan D, LLC is a Gulfstream with N-number N212JE. Flight logs and travel notices indicate that Epstein used this plane to traffic and transport and young women and underage girls to the Virgin Islands.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00073205.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3a3eff60471f36c6",
+            "event_title": "Associate Departs St. Thomas Cyril E King Airport for JFK on AA 936, June 21 2017",
+            "event_type": "travel",
+            "description": "Person traveling under Epstein network arrangement departed Charlotte Amalie Cyril E King Airport on AA 936 at 2:40 PM, arriving JFK at 7:01 PM, June 21, 2017.",
+            "date_start": "2017-06-21",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "STT flights via Epstein AmEx.",
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel itinerary was arranged through Amex Centurion via Lesley Groff per Epstein instructions, connecting to Epstein network.",
             "evidence": [
               {
-                "file": "EFTA02219534.pdf",
+                "file": "EFTA02219872.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "AA2382 JFK MIA then AA2379 MIA STT Jul 31",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219534.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219563.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Same NY\u2192STT thread July 31",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219563.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219581.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Red-eye B6 1503 JFK SJU then B6 1236 SJU STT Jul 31",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219581.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219620.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NY STT Jul 31 AA2382 2379",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219620.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219623.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NY STT Jul 31 AA2382 2379",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219623.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219634.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NY STT Jul 31 AA2382 2379",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219634.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219620.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NY\u2192STT booking thread Jul 31 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219620.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219623.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NY\u2192STT booking thread Jul 31 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219623.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219634.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NY\u2192STT booking thread Jul 31 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219634.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219620.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Partially legible document describing: Email in same NY-to-STT July 31 2017 booking thread; AA 936 JFK\u2192STT July 28 and/or AA2382/2379 JFK\u2192MIA\u2192STT July 31 bookings referenced.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219620.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219623.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Partially legible document describing: Email in same NY-to-STT July 31 2017 booking thread; AA 936 JFK\u2192STT July 28 and/or AA2382/2379 JFK\u2192MIA\u2192STT July 31 bookings referenced.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219623.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219634.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Partially legible document describing: Email in same NY-to-STT July 31 2017 booking thread; AA 936 JFK\u2192STT July 28 and/or AA2382/2379 JFK\u2192MIA\u2192STT July 31 bookings referenced.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219634.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219673.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight to STT from NY TODAY? Only 11:50pm red-eye option after 2:30pm. AmEx books AA 2382 JFK MIA and AA 2379 MIA STT on July 31, 2017.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219673.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219705.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight to STT from NY TODAY? AA 2382 31JUL JFK MIA and AA 2379 MIA STT booked on July 31 2017.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219705.pdf",
+                "excerpt": "AA 936\nCharlotte Amalie.\nNew York,\n02:40 PM\n07:01 PM\nTerminal 8\nM Economy Class\nUnassigned\nCyril E King Airport\nJohn F Kennedy International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219872.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "db6d0c0318f5ec36",
-            "event_title": "DL465 JFK\u2192STT August 23 2017: Lesley Books 3 Seats ('Changing Out Traveling Assistant')",
+            "event_id": "920b8692c969e842",
+            "event_title": "N212JE Departs Little St. James/STT for Teterboro, Aug 2, 2017 at 6:59am",
             "event_type": "travel",
-            "description": "Lesley Groff books Delta DL465 JFK\u2192STT for August 23, 2017 (9am dep, 1:05pm arr), noting Epstein is 'doing the usual...changing out the traveling assistant' and requesting seats for 'both girls' in addition to primary traveler \u2014 3 total seats to St. Thomas.",
-            "date_start": "2017-08-23",
+            "description": "Epstein's plane N212JE (Gulfstream IV) departed Cyril E. King Airport, St. Thomas at 6:59am AST on August 2, 2017, heading to Teterboro NJ with estimated arrival 10:34am EDT.",
+            "date_start": "2017-08-02",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
@@ -33464,85 +34282,13 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Lesley Groff explicitly describes the JFK\u2192STT booking as Epstein 'changing out the traveling assistant' \u2014 a pattern of rotating young women to his USVI estate.",
+            "nexus_reasoning": "N212JE is Epstein's personal aircraft; its departure from STT (near Little St. James) directly to Teterboro strongly indicates Epstein was on board, corroborated by the Aug 2 Teterboro pickup arranged by his pilot.",
             "evidence": [
               {
-                "file": "EFTA02219662.pdf",
+                "file": "EFTA02219852.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Delta: DL 465 23AUG JFK STT 0900A 0105P\n...we need seats for both girls also\n...from New York to Saint Thomas direct flight...on Wednesday, August 23!! (He is doing the usual...changing out the traveling assistant!). Lesley",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219662.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d3fb09016b4da567",
-            "event_title": "Epstein-Linked Traveler Departs JFK for Moscow (Sheremetyevo) on Aeroflot SU 103, June 22 2017",
-            "event_type": "travel",
-            "description": "Person whose travel was arranged by Lesley Groff per Epstein instructions departed JFK on Aeroflot SU 103 to Moscow Sheremetyevo on June 22, 2017.",
-            "date_start": "2017-06-22",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel was arranged by Epstein staff but no indication Epstein was personally present at JFK or Moscow.",
-            "evidence": [
-              {
-                "file": "EFTA02219868.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 103 H Economy Class\nNew York, John F Kennedy International\nMoscow, Sheremetyevo\nDeparting 07:10 PM\nArriving 11:15 AM / 23 Jun 2017\n22 Jun 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219868.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219872.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 103\nNew York, John F Kennedy International\nMoscow, Sheremelyevo\n07:10 PM\n11:15 AM/ 23 Jun 2017\nTerminal 1\nTerminal D",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219872.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f3a872aad5296ca2",
-            "event_title": "AmEx Centurion Seeks JFK\u2192Monterey Flights for Two, Aug 3-4 2017",
-            "event_type": "travel",
-            "description": "Bella Klein coordinating with AmEx Centurion to find JFK\u2192Monterey, CA flights for two unnamed persons on August 3-4, 2017; no availability found.",
-            "date_start": "2017-08-03",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Dylan",
-                "role": "associate"
-              },
-              {
-                "name": "Bella Klein",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Bella Klein (Epstein's assistant) coordinating travel via Epstein's AmEx Centurion.",
-            "evidence": [
-              {
-                "file": "EFTA02219702.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I checked availability for today with Americans from JFK to Monterey for [unnamed] and [unnamed], nothing for two people...Even with two stops, nothing, will keep watching.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219702.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219713.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I checked availability for today with Americans from JFK to Monterey for [unnamed] and Dylan...nothing for two people.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219713.pdf",
+                "excerpt": "N212JE (GLF4) departed Cyril E King (TIST/STT) at 06:59AM AST enroute to Teterboro (KTEB) for an estimated arrival at 10:34AM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219852.pdf",
                 "confidence": 0.7
               }
             ]
@@ -33550,83 +34296,13 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA02218163",
-            "file": "EFTA02218163.pdf",
+            "doc_id": "EFTA02218401",
+            "file": "EFTA02218401.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02219098",
-            "file": "EFTA02219098.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219224",
-            "file": "EFTA02219224.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219101",
-            "file": "EFTA02219101.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219150",
-            "file": "EFTA02219150.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219572",
-            "file": "EFTA02219572.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219493",
-            "file": "EFTA02219493.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219534",
-            "file": "EFTA02219534.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219563",
-            "file": "EFTA02219563.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219581",
-            "file": "EFTA02219581.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219620",
-            "file": "EFTA02219620.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219623",
-            "file": "EFTA02219623.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219634",
-            "file": "EFTA02219634.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219673",
-            "file": "EFTA02219673.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219705",
-            "file": "EFTA02219705.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219662",
-            "file": "EFTA02219662.pdf",
+            "doc_id": "EFTA02218446",
+            "file": "EFTA02218446.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -33635,18 +34311,38 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02218823",
+            "file": "EFTA02218823.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218858",
+            "file": "EFTA02218858.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219064",
+            "file": "EFTA02219064.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219093",
+            "file": "EFTA02219093.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00073205",
+            "file": "EFTA00073205.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219872",
             "file": "EFTA02219872.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02219702",
-            "file": "EFTA02219702.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219713",
-            "file": "EFTA02219713.pdf",
+            "doc_id": "EFTA02219852",
+            "file": "EFTA02219852.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -33673,7 +34369,7 @@
         "display_name": "Florida",
         "location_descriptor": "A southeastern U.S. state known for its coastline along the Atlantic Ocean and Gulf of Mexico, bordered by Georgia and Alabama to the north.",
         "event_count": 6,
-        "evidence_count": 6,
+        "evidence_count": 8,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -33703,10 +34399,18 @@
           {
             "name": "agents",
             "role": "legal"
+          },
+          {
+            "name": "Marilyn",
+            "role": "associate"
+          },
+          {
+            "name": "M (Marilyn)",
+            "role": "associate"
           }
         ],
-        "source_count": 6,
-        "sources_preview": "EFTA02731465.pdf, EFTA00015037.pdf, EFTA00015285.pdf, EFTA00016831.pdf, EFTA00018169.pdf, ... (+1 more)",
+        "source_count": 8,
+        "sources_preview": "EFTA02731465.pdf, EFTA00015037.pdf, EFTA00015285.pdf, EFTA00016831.pdf, EFTA00018169.pdf, ... (+3 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A southeastern U.S. state known for its coastline along the Atlantic Ocean and Gulf of Mexico, bordered by Georgia and Alabama to the north.",
@@ -33863,6 +34567,14 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Marilyn",
+                "role": "associate"
+              },
+              {
+                "name": "M (Marilyn)",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "contextual",
@@ -33873,6 +34585,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "We booked a ticket to FL to visit her family departing on Sept. 1 returning Sept. 6. Should we change her ticket to Sept. 3-",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219241.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219816.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We booked Marilyn a ticket to FL to visit her family departing on Sept. 1 returning Sept. 6.\n...wed 16. wheels up 10 to tucson...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219816.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219836.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "M, we are going to scoot your ticket to depart on Sun. Sept 3 and return back Fri. Sept. 8...ticket is scheduled on September 1, there is a conflict.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219836.pdf",
                 "confidence": 0.7
               }
             ]
@@ -33907,6 +34633,16 @@
           {
             "doc_id": "EFTA02219241",
             "file": "EFTA02219241.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219816",
+            "file": "EFTA02219816.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219836",
+            "file": "EFTA02219836.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -34206,7 +34942,7 @@
         "display_name": "LaGuardia Airport",
         "location_descriptor": "A major commercial airport in Queens, New York City, primarily serving domestic flights in the northeastern United States.",
         "event_count": 6,
-        "evidence_count": 10,
+        "evidence_count": 11,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -34234,8 +34970,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 10,
-        "sources_preview": "EFTA02212929.pdf, EFTA02212857.pdf, EFTA02213790.pdf, EFTA02215968.pdf, EFTA02219718.pdf, ... (+5 more)",
+        "source_count": 11,
+        "sources_preview": "EFTA02212929.pdf, EFTA02212857.pdf, EFTA02213790.pdf, EFTA02215968.pdf, EFTA02219718.pdf, ... (+6 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "A major commercial airport in Queens, New York City, primarily serving domestic flights in the northeastern United States.",
@@ -34389,6 +35125,13 @@
                 "excerpt": "sorry she is the only one at thhe house. she can go home 1 st week sept ... Flight for Marilyn Sept 3-10 1 B6 461 03SEP LGA PBI 0730A 1020A 2 B6 362 10SEP PBI LGA 1206P 0252P TOTAL FARE - USD 188.40",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219293.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219850.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DL2358 03SEP LGA PBI 835A 1143A\nDL1902 08SEP PBI LGA 504P 800P\nOld fare: 259.40 New fare: 213.40 Change fee 200.00 add collect: 154.00",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219850.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -34481,6 +35224,11 @@
           {
             "doc_id": "EFTA02219293",
             "file": "EFTA02219293.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219850",
+            "file": "EFTA02219850.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -35395,7 +36143,7 @@
         "display_name": "Albuquerque International Sunport",
         "location_descriptor": "The primary commercial airport serving Albuquerque, New Mexico and the surrounding region, located in the south-central part of the city.",
         "event_count": 6,
-        "evidence_count": 18,
+        "evidence_count": 19,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -35423,8 +36171,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 18,
-        "sources_preview": "EFTA02213687.pdf, EFTA02214641.pdf, EFTA02213884.pdf, EFTA02214367.pdf, EFTA02214639.pdf, ... (+13 more)",
+        "source_count": 19,
+        "sources_preview": "EFTA02213687.pdf, EFTA02214641.pdf, EFTA02213884.pdf, EFTA02214367.pdf, EFTA02214639.pdf, ... (+14 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The primary commercial airport serving Albuquerque, New Mexico and the surrounding region, located in the south-central part of the city.",
@@ -35653,6 +36401,13 @@
                 "excerpt": "N120JE (GLF4) departed Albuquerque Intl Sunport (KABQ) at 12:28PM MDT enroute to Tucson Intl (KTUS) for an estimated arrival at 12:24PM MST",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218899.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219793.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 289 13AUG LGA ORD 0730A...AA 3513 13AUG ORD ABQ 1020A 1216P...\ndo you (Jeffrey?) prefer to take one in particular?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219793.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -35772,6 +36527,11 @@
           {
             "doc_id": "EFTA02218899",
             "file": "EFTA02218899.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219793",
+            "file": "EFTA02219793.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -36089,280 +36849,6 @@
           {
             "doc_id": "EFTA00015589",
             "file": "EFTA00015589.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.932094,
-          18.341129
-        ]
-      },
-      "properties": {
-        "id": "95327c017b2b14e0",
-        "name": "Cyril E. King Airport",
-        "location_name": "Cyril E. King Airport",
-        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
-        "location_description": "The main commercial and general aviation airport serving St. Thomas in the U.S. Virgin Islands, located on the western tip of the island near Charlotte Amalie.",
-        "canonical_name": "Cyril E. King Airport, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Cyril E. King Airport",
-        "location_descriptor": "The main commercial and general aviation airport serving St. Thomas in the U.S. Virgin Islands, located on the western tip of the island near Charlotte Amalie.",
-        "event_count": 6,
-        "evidence_count": 9,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2001",
-        "date_end": "2017-08-23",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Elina",
-            "role": "associate"
-          }
-        ],
-        "source_count": 9,
-        "sources_preview": "EFTA02218401.pdf, EFTA02218446.pdf, EFTA02219868.pdf, EFTA02218823.pdf, EFTA02218858.pdf, ... (+4 more)",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "The main commercial and general aviation airport serving St. Thomas in the U.S. Virgin Islands, located on the western tip of the island near Charlotte Amalie.",
-        "events": [
-          {
-            "event_id": "3a7317150cef26cb",
-            "event_title": "N212JE Departs Cyril E. King Airport (St. Thomas) for Palm Beach at 6:38 AM AST",
-            "event_type": "travel",
-            "description": "Epstein's Gulfstream N212JE departed Cyril E. King Airport in St. Thomas, U.S. Virgin Islands at 6:38 AM AST, estimated arrival at Palm Beach International at 9:00 AM EDT.",
-            "date_start": "2017-06",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "N212JE is Jeffrey Epstein's registered aircraft; this departure from his USVI base implies his involvement though passengers not named.",
-            "evidence": [
-              {
-                "file": "EFTA02218401.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE (GLF4) departed Cyril E King (TIST/STT) at 06:38AM AST enroute to Palm Beach Intl (KPBI) for an estimated arrival at 09:00AM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218401.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "76c9d76c6fe38020",
-            "event_title": "Unknown Person Flies NY to St. Thomas (Epstein Network), June 21, 2017",
-            "event_type": "presence",
-            "description": "Lesley Groff (Epstein's assistant) booked a one-way direct coach ticket for an unnamed person to fly from New York to St. Thomas, U.S. Virgin Islands on June 21, 2017.",
-            "date_start": "2017-06-21",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Epstein's assistant arranged travel to his USVI property, suggesting network activity at Little St. James Island, but the traveler's identity and Epstein's presence are not stated.",
-            "evidence": [
-              {
-                "file": "EFTA02218446.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We need a ticket for [unnamed] to go from NY (any airport) to St Thomas on wed June 21, direct, coach, best price, one way.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218446.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219868.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AA 936 M Economy Class\nCharlotte Amalie, Cyril E King Airport\nNew York, John F Kennedy International\n02:40 PM\n07:01 PM\n21 Jun 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219868.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "00e7882263e7c963",
-            "event_title": "Epstein's Jet N212JE Arrives at St. Thomas (TIST), June 17 2017 at 7:10pm",
-            "event_type": "travel",
-            "description": "Epstein's private jet N212JE arrived at Cyril E. King Airport, St. Thomas, USVI at approximately 7:10pm AST on June 17, 2017, en route to Little St. James Island.",
-            "date_start": "2017-06-17",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "N212JE is Epstein's registered aircraft, and FlightAware alert to Lesley Groff confirms his jet arrival at St. Thomas, the gateway to Little St. James Island.",
-            "evidence": [
-              {
-                "file": "EFTA02218823.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE is expected to arrive at Cyril E King (TIST/STT) in 45 minutes at 07:10PM AST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218823.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02218858.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE arrived at Cyril E King (TIST/STT) at 07:07PM AST from Teterboro (KTEB)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218858.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "059dc6ad0b70e72e",
-            "event_title": "Elina Departs St. Thomas for JFK on Delta DL676, Ticket via Epstein Account (Aug 23, 2017)",
-            "event_type": "travel",
-            "description": "Russian national named Elina departed from St. Thomas USVI on Delta flight DL 676 Economy class seat 24C to JFK NY on Aug 23, 2017.",
-            "date_start": "2017-08-23",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Elina",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Ticket booked by Epstein assistant from St. Thomas.",
-            "evidence": [
-              {
-                "file": "EFTA02219064.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hi Elina. Here is your ticket to NY on Wed. Aug. 23rd.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219064.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219093.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We need a coach one way ticket for from STT to NY (any airport) on wed. Aug. 23rd, direct flight, best price.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219093.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "9097fdb0d4b9ade1",
-            "event_title": "Epstein Used N212JE (Plan D, LLC) to Transport Victims to U.S. Virgin Islands (2001-2019)",
-            "event_type": "presence",
-            "description": "Epstein used his Gulfstream N212JE, registered under Plan D LLC, to transport underage girls and young women to the U.S. Virgin Islands to be trafficked at Little St. James.",
-            "date_start": "2001",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was personally on these flights as subject of trafficking operation using N212JE to the USVI.",
-            "evidence": [
-              {
-                "file": "EFTA00073205.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Among the airplanes owned by Plan D, LLC is a Gulfstream with N-number N212JE. Flight logs and travel notices indicate that Epstein used this plane to traffic and transport and young women and underage girls to the Virgin Islands.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00073205.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "3a3eff60471f36c6",
-            "event_title": "Associate Departs St. Thomas Cyril E King Airport for JFK on AA 936, June 21 2017",
-            "event_type": "travel",
-            "description": "Person traveling under Epstein network arrangement departed Charlotte Amalie Cyril E King Airport on AA 936 at 2:40 PM, arriving JFK at 7:01 PM, June 21, 2017.",
-            "date_start": "2017-06-21",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel itinerary was arranged through Amex Centurion via Lesley Groff per Epstein instructions, connecting to Epstein network.",
-            "evidence": [
-              {
-                "file": "EFTA02219872.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AA 936\nCharlotte Amalie.\nNew York,\n02:40 PM\n07:01 PM\nTerminal 8\nM Economy Class\nUnassigned\nCyril E King Airport\nJohn F Kennedy International",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219872.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02218401",
-            "file": "EFTA02218401.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218446",
-            "file": "EFTA02218446.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219868",
-            "file": "EFTA02219868.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218823",
-            "file": "EFTA02218823.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218858",
-            "file": "EFTA02218858.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219064",
-            "file": "EFTA02219064.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219093",
-            "file": "EFTA02219093.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00073205",
-            "file": "EFTA00073205.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219872",
-            "file": "EFTA02219872.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -41385,6 +41871,378 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.942331,
+          40.841294
+        ]
+      },
+      "properties": {
+        "id": "a249156e111beb0e",
+        "name": "NewYork-Presbyterian/Columbia University Medical Center",
+        "location_name": "NewYork-Presbyterian/Columbia University Medical Center",
+        "location_address": "180 Fort Washington Avenue, New York City, New York 10032, United States",
+        "location_description": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
+        "canonical_name": "180 Fort Washington Avenue, Suite 199, New York, NY 10032, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "NewYork-Presbyterian/Columbia University Medical Center",
+        "location_descriptor": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
+        "event_count": 3,
+        "evidence_count": 15,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-01",
+        "date_end": "2017-08-08",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Chen",
+            "role": "other"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Erica Peterson",
+            "role": "other"
+          },
+          {
+            "name": "Dr. Chen",
+            "role": "other"
+          },
+          {
+            "name": "Jabor",
+            "role": "associate"
+          },
+          {
+            "name": "Svetlana",
+            "role": "associate"
+          },
+          {
+            "name": "Robert Lawrence Kuhn",
+            "role": "associate"
+          },
+          {
+            "name": "Robert Kuhn",
+            "role": "associate"
+          },
+          {
+            "name": "Jojo",
+            "role": "staff"
+          },
+          {
+            "name": "Allen Chen",
+            "role": "associate"
+          }
+        ],
+        "source_count": 15,
+        "sources_preview": "EFTA02213571.pdf, EFTA02213578.pdf, EFTA02213579.pdf, EFTA02213582.pdf, EFTA02214272.pdf, ... (+10 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
+        "events": [
+          {
+            "event_id": "1aed49cb645205d3",
+            "event_title": "Epstein Scheduled for Back Injection with Dr. Chen, June 1, 2017",
+            "event_type": "presence",
+            "description": "Epstein scheduled to receive fluoroscopy-guided back injection at 180 Fort Washington Ave Suite 199 on June 1, 2017",
+            "date_start": "2017-06-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Chen",
+                "role": "other"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Erica Peterson",
+                "role": "other"
+              },
+              {
+                "name": "Dr. Chen",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The appointment was being booked specifically for Jeffrey Epstein for a medical procedure.",
+            "evidence": [
+              {
+                "file": "EFTA02213571.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213571.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213578.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213578.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213579.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213579.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213582.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213582.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214272.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "10:00am Appt w/Dr. Chenfor shotfor back\n180 Fort Washington Avenue, Suite 199 First Floor.\nJOJO TO DRIVE YOU.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214272.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213587.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor. Can we do Thursday June 1st at 10am?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213587.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "befffe47d14390bc",
+            "event_title": "Epstein Confirmed for Back Shot with Dr. Chen at 180 Fort Washington Ave, NYC (June 15, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein was confirmed for an injection with Dr. Chen at 180 Fort Washington Avenue, NYC at 11am on June 15, 2017, with driver Jojo departing at 10:15am.",
+            "date_start": "2017-06-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jabor",
+                "role": "associate"
+              },
+              {
+                "name": "Dr. Chen",
+                "role": "other"
+              },
+              {
+                "name": "Svetlana",
+                "role": "associate"
+              },
+              {
+                "name": "Robert Lawrence Kuhn",
+                "role": "associate"
+              },
+              {
+                "name": "Robert Kuhn",
+                "role": "associate"
+              },
+              {
+                "name": "Jojo",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal confirmed medical appointment at a specific NYC address documented in his staff communications.",
+            "evidence": [
+              {
+                "file": "EFTA02214427.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You arc confirmed for a shot with Dr. Chen on Thursday June 15th at 11am at his 180 Fort Washington Ave, address\nJojo, YOU are to drive Jeffrey...please be outside ready to go at 10:15am.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214427.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214800.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dr. Chen's office reconfirmed your appt for the shot for your back on June 1st at 10am...they ask you to arrive 15 min. early... Thum. June 1. 2017 NY\n9:45am Arrive for appt.\n10:00am Am tv/Dr. Chen for shot for back\nJOJO TO DRIVE YOU!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214800.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216005.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thurs. June 15, 2017 NY\n9:00am BREAKFAST w/Robert Kuhn\n11:00am Appt w/Dr. Chen for shot for back\n180 Fort Washington Avenue, Suite 199 First Floor.\nJOJO TO DRIVE YOU!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216005.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216068.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Robert Kuhn is confirmed to come see you for breakfast at 9am on Thursday June 15th.\n11:00am TENTATIVE Appt w/Dr. Chen for shot for back\n180 Fort Washington Avenue, Suite 199 First Floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216068.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216154.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "11:00am Appt w/Dr. Chen for shot for back 180 Fort Washington Avenue, Suite 199 First Floor. JOJO TO DRIVE YOU!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216154.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217252.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thurs. June 15. 2017 NY\n9:00am BREAKFAST w/Robert Kuhn\n11:00am Appt w/Dr. Chen for shot for back\n180 Fort Washington Avenue, Suite 199 First Floor.\n2:30pm TENTATIVE Appt w/Svet (OK TO CONFIRM SVET?)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217252.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219664.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I sent the below email to Jabor...I think it is Jabor's [something] that may need to see Dr. Chen\n...Dr. Chen mentioned that Mr. Epstein will be referring a VIP patient to him\n180 Fort Washington Ave, New York, NY 10032",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219664.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0898baf02551cf0a",
+            "event_title": "Epstein Refers Prime Minister of Qatar as VIP Patient to Dr. Chen at Columbia Medical",
+            "event_type": "communication",
+            "description": "Dr. Allen Chen at Columbia informs his office that 'a Prime Minister from Qatar' was referred to him by one of his existing VIP patients \u2014 traced back through Epstein's network. Epstein forwarded this email to his personal account, confirming his involvement.",
+            "date_start": "2017-08-08",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jabor",
+                "role": "associate"
+              },
+              {
+                "name": "Allen Chen",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This email was forwarded directly to Epstein's personal email (jeevacation@gmail.com), confirming he was personally involved in referring the Qatari PM to Dr. Chen at Columbia.",
+            "evidence": [
+              {
+                "file": "EFTA02219795.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I was inform by Dr. Allen Chen that a Prime Minister from Qatar would like to schedule an appointment with him at Columbia University Medical Center...Hi Ruth, I've got my first VIP task for you...Erica was in touch with one of my other VIP patients, who referred to me the Prime Minister or something of Qatar.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219795.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219821.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I touched base with Jabor on Aug. 2nd actually about Dr. Chen...a Prime Minister from Qatar would like to schedule an appointment...Columbia University Medical Center",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219821.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213571",
+            "file": "EFTA02213571.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213578",
+            "file": "EFTA02213578.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213579",
+            "file": "EFTA02213579.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213582",
+            "file": "EFTA02213582.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214272",
+            "file": "EFTA02214272.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213587",
+            "file": "EFTA02213587.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214427",
+            "file": "EFTA02214427.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214800",
+            "file": "EFTA02214800.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216005",
+            "file": "EFTA02216005.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216068",
+            "file": "EFTA02216068.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216154",
+            "file": "EFTA02216154.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217252",
+            "file": "EFTA02217252.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219664",
+            "file": "EFTA02219664.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219795",
+            "file": "EFTA02219795.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219821",
+            "file": "EFTA02219821.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.979437,
           40.754786
         ]
@@ -42660,7 +43518,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "A major international airport in Queens, New York, one of the busiest airports in the United States, serving the New York metropolitan area.",
         "event_count": 3,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -42680,8 +43538,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA02219018.pdf, EFTA02219654.pdf, EFTA02219692.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA02219018.pdf, EFTA02219654.pdf, EFTA02219861.pdf, EFTA02219692.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "A major international airport in Queens, New York, one of the busiest airports in the United States, serving the New York metropolitan area.",
@@ -42741,6 +43599,13 @@
                 "excerpt": "H ...Here is your ticket to come to NY July 22-Aug. 12! have also set aside an apartment for you! Please look over your ticket and confirm all is correct...thanks, Lesley",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219654.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219861.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi ..here is your ticket to come to NY on Friday July 14th! Please double check for accuracy and confirm receipt. ... Date 14 Jul 2017 Airline Norwegian Air Shuttle Flight/Class DY 7019 E Economy Class Origin Paris, Charles De Gaulle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219861.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -42781,6 +43646,11 @@
           {
             "doc_id": "EFTA02219654",
             "file": "EFTA02219654.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219861",
+            "file": "EFTA02219861.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -43563,7 +44433,7 @@
         "display_name": "Hotel Kenzi Farah",
         "location_descriptor": "A five-star luxury hotel on Avenue du Pr\u00e9sident Kennedy in Marrakesh, Morocco, featuring Moroccan-inspired architecture and gardens.",
         "event_count": 2,
-        "evidence_count": 7,
+        "evidence_count": 8,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -43583,8 +44453,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA02212925.pdf, EFTA02212932.pdf, EFTA02213644.pdf, EFTA02213652.pdf, EFTA02213659.pdf, ... (+2 more)",
+        "source_count": 8,
+        "sources_preview": "EFTA02212925.pdf, EFTA02212932.pdf, EFTA02213644.pdf, EFTA02213652.pdf, EFTA02213659.pdf, ... (+3 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A five-star luxury hotel on Avenue du Pr\u00e9sident Kennedy in Marrakesh, Morocco, featuring Moroccan-inspired architecture and gardens.",
@@ -43683,6 +44553,13 @@
                 "excerpt": "I'll get back to you tomorrow. So sorry you had to pay on way out. We will get it sorted out. ...hotel in Marrakech ...Kenzi Farah Hotel ay May 21-29.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213742.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219997.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "KENZI FARAH\nBoulevard Du President\nMARRAKECH MA 40 000\nSun 21 May 2017\nMon 29 May 2017\nEUR 460.00",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219997.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -43721,6 +44598,147 @@
           {
             "doc_id": "EFTA02213742",
             "file": "EFTA02213742.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219997",
+            "file": "EFTA02219997.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38886,
+          52.517037
+        ]
+      },
+      "properties": {
+        "id": "5477afd8e81d0310",
+        "name": "Berlin Tegel Airport",
+        "location_name": "Berlin Tegel Airport",
+        "location_address": "Berlin, Germany",
+        "location_description": "A former commercial airport in northwestern Berlin, Germany, that operated from 1948 until its closure in November 2020.",
+        "canonical_name": "Berlin Tegel Airport, Berlin, Germany",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Berlin Tegel Airport",
+        "location_descriptor": "A former commercial airport in northwestern Berlin, Germany, that operated from 1948 until its closure in November 2020.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-10",
+        "date_end": "2017-08-10",
+        "people": [
+          {
+            "name": "Mira Maria Bach",
+            "role": "associate"
+          },
+          {
+            "name": "BACH/JOSCHA",
+            "role": "associate"
+          },
+          {
+            "name": "BACH/AINO ZORA",
+            "role": "associate"
+          },
+          {
+            "name": "BACH/MIRA MARIA",
+            "role": "associate"
+          },
+          {
+            "name": "BACH/TAIYO ANATOL",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02212987.pdf, EFTA02220024.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "A former commercial airport in northwestern Berlin, Germany, that operated from 1948 until its closure in November 2020.",
+        "events": [
+          {
+            "event_id": "adfcd25a69769d25",
+            "event_title": "Bach Family Returns Berlin to Boston via Frankfurt Stopover, August 9-10 2017",
+            "event_type": "travel",
+            "description": "The Bach family flew Lufthansa from Berlin Tegel to Frankfurt with a one-day stopover, then LH422 from Frankfurt to Boston Logan on August 10, 2017, return trip booked through Epstein's concierge.",
+            "date_start": "2017-08-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Mira Maria Bach",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The return flight is part of the same Bach family travel arrangement booked through Epstein's American Express Centurion concierge service.",
+            "evidence": [
+              {
+                "file": "EFTA02212987.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "10. August 2017 BER-BOS via FRA with 1 day stop over at Frankfurt Main\n9. August: 11:55h Berlin Tegel Airbus A 321 to Frankfurt or another morning Lufthansa flight\n10. August: LH flight LH422\n13:05h Frankfurt to Boston: Boeing 747-81",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212987.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a6b9f13b06bfee81",
+            "event_title": "Bach Family (Joscha, Mira, Taiyo, Aino) Depart for Berlin on Lufthansa LH, Jul 10 2017",
+            "event_type": "travel",
+            "description": "Bach family of four (Joscha, Mira Maria, Taiyo Anatol, Aino Zora) traveled to Berlin on Lufthansa on July 10, 2017 on Epstein-arranged Amex Centurion tickets.",
+            "date_start": "2017-07-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "BACH/JOSCHA",
+                "role": "associate"
+              },
+              {
+                "name": "BACH/AINO ZORA",
+                "role": "associate"
+              },
+              {
+                "name": "BACH/MIRA MARIA",
+                "role": "associate"
+              },
+              {
+                "name": "BACH/TAIYO ANATOL",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Tickets arranged by Epstein network staff through Amex Centurion for German family traveling to Berlin, likely returning from a stay with Epstein.",
+            "evidence": [
+              {
+                "file": "EFTA02220024.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "BACH/JOSCHA\nBACH/MIRA MARIA\nBACH/TAIYO ANATOL\nBACH/AINO ZORA\nMonday 10 Jul 17\nCITIZENS OF GERMANY MUST CARRY A VALID PASSPORT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220024.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212987",
+            "file": "EFTA02212987.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220024",
+            "file": "EFTA02220024.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -43980,322 +44998,6 @@
           {
             "doc_id": "EFTA02219215",
             "file": "EFTA02219215.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.942331,
-          40.841294
-        ]
-      },
-      "properties": {
-        "id": "a249156e111beb0e",
-        "name": "NewYork-Presbyterian/Columbia University Medical Center",
-        "location_name": "NewYork-Presbyterian/Columbia University Medical Center",
-        "location_address": "180 Fort Washington Avenue, New York City, New York 10032, United States",
-        "location_description": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
-        "canonical_name": "180 Fort Washington Avenue, Suite 199, New York, NY 10032, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "NewYork-Presbyterian/Columbia University Medical Center",
-        "location_descriptor": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
-        "event_count": 2,
-        "evidence_count": 13,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-06-01",
-        "date_end": "2017-06-15",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Chen",
-            "role": "other"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Erica Peterson",
-            "role": "other"
-          },
-          {
-            "name": "Dr. Chen",
-            "role": "other"
-          },
-          {
-            "name": "Jabor",
-            "role": "associate"
-          },
-          {
-            "name": "Svetlana",
-            "role": "associate"
-          },
-          {
-            "name": "Robert Lawrence Kuhn",
-            "role": "associate"
-          },
-          {
-            "name": "Robert Kuhn",
-            "role": "associate"
-          },
-          {
-            "name": "Jojo",
-            "role": "staff"
-          }
-        ],
-        "source_count": 13,
-        "sources_preview": "EFTA02213571.pdf, EFTA02213578.pdf, EFTA02213579.pdf, EFTA02213582.pdf, EFTA02214272.pdf, ... (+8 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A major academic medical center affiliated with Columbia University Irving Medical Center, located at 180 Fort Washington Avenue in Washington Heights, Manhattan.",
-        "events": [
-          {
-            "event_id": "1aed49cb645205d3",
-            "event_title": "Epstein Scheduled for Back Injection with Dr. Chen, June 1, 2017",
-            "event_type": "presence",
-            "description": "Epstein scheduled to receive fluoroscopy-guided back injection at 180 Fort Washington Ave Suite 199 on June 1, 2017",
-            "date_start": "2017-06-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Chen",
-                "role": "other"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Erica Peterson",
-                "role": "other"
-              },
-              {
-                "name": "Dr. Chen",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The appointment was being booked specifically for Jeffrey Epstein for a medical procedure.",
-            "evidence": [
-              {
-                "file": "EFTA02213571.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213571.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213578.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213578.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213579.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213579.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213582.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213582.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214272.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "10:00am Appt w/Dr. Chenfor shotfor back\n180 Fort Washington Avenue, Suite 199 First Floor.\nJOJO TO DRIVE YOU.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214272.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213587.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The fluoro procedures are done uptown at our practice at the main hospital located at 180 Fort Washington Avenue, Suite 199 1st Floor. Can we do Thursday June 1st at 10am?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213587.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "befffe47d14390bc",
-            "event_title": "Epstein Confirmed for Back Shot with Dr. Chen at 180 Fort Washington Ave, NYC (June 15, 2017)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein was confirmed for an injection with Dr. Chen at 180 Fort Washington Avenue, NYC at 11am on June 15, 2017, with driver Jojo departing at 10:15am.",
-            "date_start": "2017-06-15",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jabor",
-                "role": "associate"
-              },
-              {
-                "name": "Dr. Chen",
-                "role": "other"
-              },
-              {
-                "name": "Svetlana",
-                "role": "associate"
-              },
-              {
-                "name": "Robert Lawrence Kuhn",
-                "role": "associate"
-              },
-              {
-                "name": "Robert Kuhn",
-                "role": "associate"
-              },
-              {
-                "name": "Jojo",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's personal confirmed medical appointment at a specific NYC address documented in his staff communications.",
-            "evidence": [
-              {
-                "file": "EFTA02214427.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "You arc confirmed for a shot with Dr. Chen on Thursday June 15th at 11am at his 180 Fort Washington Ave, address\nJojo, YOU are to drive Jeffrey...please be outside ready to go at 10:15am.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214427.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214800.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Dr. Chen's office reconfirmed your appt for the shot for your back on June 1st at 10am...they ask you to arrive 15 min. early... Thum. June 1. 2017 NY\n9:45am Arrive for appt.\n10:00am Am tv/Dr. Chen for shot for back\nJOJO TO DRIVE YOU!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214800.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216005.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Thurs. June 15, 2017 NY\n9:00am BREAKFAST w/Robert Kuhn\n11:00am Appt w/Dr. Chen for shot for back\n180 Fort Washington Avenue, Suite 199 First Floor.\nJOJO TO DRIVE YOU!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216005.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216068.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Robert Kuhn is confirmed to come see you for breakfast at 9am on Thursday June 15th.\n11:00am TENTATIVE Appt w/Dr. Chen for shot for back\n180 Fort Washington Avenue, Suite 199 First Floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216068.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216154.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "11:00am Appt w/Dr. Chen for shot for back 180 Fort Washington Avenue, Suite 199 First Floor. JOJO TO DRIVE YOU!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216154.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217252.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Thurs. June 15. 2017 NY\n9:00am BREAKFAST w/Robert Kuhn\n11:00am Appt w/Dr. Chen for shot for back\n180 Fort Washington Avenue, Suite 199 First Floor.\n2:30pm TENTATIVE Appt w/Svet (OK TO CONFIRM SVET?)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217252.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219664.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I sent the below email to Jabor...I think it is Jabor's [something] that may need to see Dr. Chen\n...Dr. Chen mentioned that Mr. Epstein will be referring a VIP patient to him\n180 Fort Washington Ave, New York, NY 10032",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219664.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213571",
-            "file": "EFTA02213571.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213578",
-            "file": "EFTA02213578.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213579",
-            "file": "EFTA02213579.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213582",
-            "file": "EFTA02213582.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214272",
-            "file": "EFTA02214272.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213587",
-            "file": "EFTA02213587.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214427",
-            "file": "EFTA02214427.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214800",
-            "file": "EFTA02214800.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216005",
-            "file": "EFTA02216005.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216068",
-            "file": "EFTA02216068.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216154",
-            "file": "EFTA02216154.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217252",
-            "file": "EFTA02217252.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219664",
-            "file": "EFTA02219664.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -49831,82 +50533,6 @@
           {
             "doc_id": "EFTA02205827",
             "file": "EFTA02205827.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.38886,
-          52.517037
-        ]
-      },
-      "properties": {
-        "id": "5477afd8e81d0310",
-        "name": "Berlin Tegel Airport",
-        "location_name": "Berlin Tegel Airport",
-        "location_address": "Berlin, Germany",
-        "location_description": "A former commercial airport in northwestern Berlin, Germany, that operated from 1948 until its closure in November 2020.",
-        "canonical_name": "Berlin Tegel Airport, Berlin, Germany",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Berlin Tegel Airport",
-        "location_descriptor": "A former commercial airport in northwestern Berlin, Germany, that operated from 1948 until its closure in November 2020.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-08-10",
-        "date_end": "2017-08-10",
-        "people": [
-          {
-            "name": "Mira Maria Bach",
-            "role": "associate"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02212987.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "travel",
-        "event_description": "A former commercial airport in northwestern Berlin, Germany, that operated from 1948 until its closure in November 2020.",
-        "events": [
-          {
-            "event_id": "adfcd25a69769d25",
-            "event_title": "Bach Family Returns Berlin to Boston via Frankfurt Stopover, August 9-10 2017",
-            "event_type": "travel",
-            "description": "The Bach family flew Lufthansa from Berlin Tegel to Frankfurt with a one-day stopover, then LH422 from Frankfurt to Boston Logan on August 10, 2017, return trip booked through Epstein's concierge.",
-            "date_start": "2017-08-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Mira Maria Bach",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The return flight is part of the same Bach family travel arrangement booked through Epstein's American Express Centurion concierge service.",
-            "evidence": [
-              {
-                "file": "EFTA02212987.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "10. August 2017 BER-BOS via FRA with 1 day stop over at Frankfurt Main\n9. August: 11:55h Berlin Tegel Airbus A 321 to Frankfurt or another morning Lufthansa flight\n10. August: LH flight LH422\n13:05h Frankfurt to Boston: Boeing 747-81",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212987.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212987",
-            "file": "EFTA02212987.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -56614,7 +57240,7 @@
         "display_name": "Delpark Manor",
         "location_descriptor": "A residential and commercial neighborhood in Wilmington, Delaware, home to aviation training facilities used by corporate flight crews.",
         "event_count": 1,
-        "evidence_count": 2,
+        "evidence_count": 3,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -56634,8 +57260,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA02217715.pdf, EFTA02219729.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA02217715.pdf, EFTA02219729.pdf, EFTA02219844.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
         "event_description": "A residential and commercial neighborhood in Wilmington, Delaware, home to aviation training facilities used by corporate flight crews.",
@@ -56679,6 +57305,13 @@
                 "excerpt": "Bill Hammond is to go to G550 school in Wilmington, Delaware Aug. 21...when will he be finished? ...and i will remind JE",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219729.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219844.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: Bill Hammond at G550 School Aug. 21-Sept. 10 in Wilmington, Delaware",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219844.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -56692,6 +57325,11 @@
           {
             "doc_id": "EFTA02219729",
             "file": "EFTA02219729.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219844",
+            "file": "EFTA02219844.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -57165,7 +57803,7 @@
         "display_name": "Tucson International Airport",
         "location_descriptor": "A commercial and general aviation airport serving the Tucson, Arizona metropolitan area, located approximately seven miles south of downtown Tucson.",
         "event_count": 1,
-        "evidence_count": 8,
+        "evidence_count": 9,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -57173,12 +57811,16 @@
         "date_end": "2017-08-16",
         "people": [
           {
+            "name": "Larry Visoski",
+            "role": "staff"
+          },
+          {
             "name": "Jeffrey Epstein",
             "role": "subject"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA02218777.pdf, EFTA02218978.pdf, EFTA02218995.pdf, EFTA02219039.pdf, EFTA02219124.pdf, ... (+3 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02218777.pdf, EFTA02218978.pdf, EFTA02218995.pdf, EFTA02219039.pdf, EFTA02219124.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport serving the Tucson, Arizona metropolitan area, located approximately seven miles south of downtown Tucson.",
@@ -57193,6 +57835,10 @@
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
@@ -57256,6 +57902,13 @@
                 "excerpt": "N120JE (GLF4) departed Tucson Intl (KTUS) at 04:51PM MST enroute to Teterboro (KTEB) for an estimated arrival at 11:55PM EDT",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219688.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219794.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Today Tuesday. Depart Tucson estimate 2:30pm. Arrival meridian Teterboro at 9:30pm. CARosa Car service Will take Jeffrey to 71st St. Thx Larry",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219794.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -57299,6 +57952,11 @@
           {
             "doc_id": "EFTA02219688",
             "file": "EFTA02219688.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219794",
+            "file": "EFTA02219794.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -58589,7 +59247,7 @@
         "display_name": "Monterey Regional Airport",
         "location_descriptor": "A small regional commercial airport serving the Monterey Peninsula area of California, located approximately two miles east of downtown Monterey.",
         "event_count": 1,
-        "evidence_count": 2,
+        "evidence_count": 3,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -58601,8 +59259,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA02219734.pdf, EFTA02219784.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA02219734.pdf, EFTA02219784.pdf, EFTA02219798.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
         "event_description": "A small regional commercial airport serving the Monterey Peninsula area of California, located approximately two miles east of downtown Monterey.",
@@ -58638,6 +59296,13 @@
                 "excerpt": "JFK to Monterey for unnamed and Dylan. No seats available. AmEx trying to find coach alternatives.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219784.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219798.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "All set, seats are confirmed. JFK to Monterey for unnamed and Dylan - seats confirmed.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219798.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -58651,6 +59316,183 @@
           {
             "doc_id": "EFTA02219784",
             "file": "EFTA02219784.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219798",
+            "file": "EFTA02219798.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.895799,
+          36.600213
+        ]
+      },
+      "properties": {
+        "id": "8f3e33463d8d70c3",
+        "name": "Monterey Regional Airport",
+        "location_name": "Monterey Regional Airport",
+        "location_address": "Monterey, California, United States",
+        "location_description": "A small regional airport serving the Monterey Peninsula on California's central coast, located approximately 3 miles east of downtown Monterey.",
+        "canonical_name": "Monterey Peninsula Airport, Monterey, CA, California",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Monterey Regional Airport",
+        "location_descriptor": "A small regional airport serving the Monterey Peninsula on California's central coast, located approximately 3 miles east of downtown Monterey.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-16",
+        "date_end": "2017-07-16",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02219959.pdf, EFTA02219963.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "A small regional airport serving the Monterey Peninsula on California's central coast, located approximately 3 miles east of downtown Monterey.",
+        "events": [
+          {
+            "event_id": "f1ef15a4fb70083d",
+            "event_title": "Epstein Associate Departs Monterey Peninsula Airport for Phoenix on AA 5870, Jul 16 2017",
+            "event_type": "travel",
+            "description": "Epstein network traveler departed Monterey Peninsula Airport on AA 5870 to Phoenix Sky Harbor on July 16, 2017 at 6:05 AM, ticket arranged by Lesley Groff.",
+            "date_start": "2017-07-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel ticket arranged by Lesley Groff on behalf of Epstein network but no evidence Epstein was personally at Monterey.",
+            "evidence": [
+              {
+                "file": "EFTA02219959.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 5870 S Economy Class\nMonterey, Monterey Peninsula\nPhoenix, Sky Harbor Intl\n06:05 AM\n08:02 AM\nTerminal 4\n16 Jul 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219959.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219963.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 5870\nMonterey,\nPhoenix.\n06:05 AM\n08:02 AM\nTerminal 4\nS Economy Class\n15D, 15F\nMesa Airlines As American Eagle\nMonterey Peninsula\nSky Harbor Intl",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219963.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02219959",
+            "file": "EFTA02219959.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219963",
+            "file": "EFTA02219963.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.056804,
+          42.35888
+        ]
+      },
+      "properties": {
+        "id": "ab07626c12dfc2bd",
+        "name": "Boston Logan International Airport",
+        "location_name": "Boston Logan International Airport",
+        "location_address": "Boston, Massachusetts, United States",
+        "location_description": "A major international airport located on a peninsula in Boston Harbor, serving as the primary airport for the Greater Boston area and New England.",
+        "canonical_name": "Boston Logan International Airport, Boston, MA, Massachusetts",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Boston Logan International Airport",
+        "location_descriptor": "A major international airport located on a peninsula in Boston Harbor, serving as the primary airport for the Greater Boston area and New England.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-17",
+        "date_end": "2017-06-17",
+        "people": [
+          {
+            "name": "BACH/JOSCHA",
+            "role": "associate"
+          },
+          {
+            "name": "Mira Bach",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02219967.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "A major international airport located on a peninsula in Boston Harbor, serving as the primary airport for the Greater Boston area and New England.",
+        "events": [
+          {
+            "event_id": "76ef3fd200961586",
+            "event_title": "Joscha Bach Departs Boston Logan for Reykjavik on Icelandair FI 632, Jun 17 2017",
+            "event_type": "travel",
+            "description": "Joscha Bach departed Boston Logan International Airport Terminal E on Icelandair FI 632 at 8:45 PM on June 17, 2017, traveling to Reykjavik Keflavik on Epstein-arranged ticket.",
+            "date_start": "2017-06-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "BACH/JOSCHA",
+                "role": "associate"
+              },
+              {
+                "name": "Mira Bach",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel ticket for German citizen Joscha Bach arranged by Lesley Groff via Amex Centurion on behalf of Epstein network.",
+            "evidence": [
+              {
+                "file": "EFTA02219967.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Fl 632 K Economy Class\nBoston, Logan International\nReykjavik, Keflavik International\n08:45 PM\n05:45 AM / 18 Jun 2017\nTerminal E\n5 Firs\n17 Jun 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219967.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02219967",
+            "file": "EFTA02219967.pdf",
             "source_type": "doj_efta"
           }
         ]
