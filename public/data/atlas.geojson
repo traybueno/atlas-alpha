@@ -7016,788 +7016,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.054155,
-          26.696207
-        ]
-      },
-      "properties": {
-        "id": "2227d794a30b090a",
-        "name": "Palm Beach International Airport",
-        "location_name": "Palm Beach International Airport",
-        "location_address": "Flamingo Park, West Palm Beach, Florida, United States",
-        "location_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "canonical_name": "Palm Beach International Airport, West Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Palm Beach International Airport",
-        "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "event_count": 23,
-        "evidence_count": 27,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "1995-05-14",
-        "date_end": "2018-12-14",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Mary Ann Dussan",
-            "role": "legal"
-          },
-          {
-            "name": "Lanna Belohlavek",
-            "role": "legal"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Karyna Shuliak",
-            "role": "associate"
-          },
-          {
-            "name": "Natalia (Natasha) Molotkova",
-            "role": "staff"
-          }
-        ],
-        "source_count": 16,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf, EFTA02212890.pdf, EFTA02212929.pdf, ... (+11 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "events": [
-          {
-            "event_id": "8fb9bb0dff3337ee",
-            "event_title": "Epstein Aircraft Flies Palm Beach to Virgin Islands Then to Teterboro \u2014 November 7-8, 2017",
-            "event_type": "travel",
-            "description": "Epstein aircraft flew from Palm Beach (PBI) to St. Thomas (TIST) then continued same-day to Teterboro (TEB) on November 7-8, 2017.",
-            "date_start": "2017-11-07",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Multi-leg flight in Epstein's private aircraft calendar showing Palm Beach to Virgin Islands to Teterboro routing.",
-            "evidence": [
-              {
-                "file": "EFTA00005994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "November 2017\n                  6          7                8                    9                   10                 11\n                           Outbound PB1 -\n                           Inbound TIST\n                           Outbound TIST -\n                           Inbound TEB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "290f33b690d9cd7e",
-            "event_title": "Epstein Customs Encounter on N212JE: Palm Beach to St. Thomas, Dec 14 2018",
-            "event_type": "presence",
-            "description": "CBP TECS records Jeffrey Epstein crossing customs on aircraft N212JE, departing Palm Beach (KPBI) inbound to St. Thomas, USVI (TIST) on December 14, 2018.",
-            "date_start": "2018-12-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this specific flight leg.",
-            "evidence": [
-              {
-                "file": "EFTA01263197.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  12/14/2018 08:49  *GA  N212JE  I  A523 BADAS JOSEPH APIS  PASSENGER CUSTOMS  KPBI TIST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8e67ad3ef7d62e03",
-            "event_title": "Detective Testifies Before Palm Beach County Grand Jury on Epstein Crimes Against Children (July 19, 2006)",
-            "event_type": "communication",
-            "description": "Detective and multiple witnesses physically present and testified before Palm Beach County grand jury in crimes against children investigation involving Jeffrey Epstein on July 19, 2006.",
-            "date_start": "2006-07-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Mary Ann Dussan",
-                "role": "legal"
-              },
-              {
-                "name": "Lanna Belohlavek",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Grand jury proceeding directly investigating Epstein's crimes against children in Palm Beach County; Epstein himself was not present but the hearing is part of the investigation against him.",
-            "evidence": [
-              {
-                "file": "EFTA00009428.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "ELECTRONIC COURT REPORTING WITNESS LOG\nCRIMES AGAINST CHILDREN INVESTIGATION \u2014 ASA : Lanna Belohlavek\n7/19/06 DET 9:14:18 ... 10:00:28\nPage 1 of 7/19/06 Grand Jury\nCrime against Children Investigation\n9:14:12 on record\n9:14:18 PI direct",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009428.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "fe8b4c4916fc5f50",
-            "event_title": "Delta Flight DL 898 to West Palm Beach, FL \u2014 Epstein Network Calendar (May 21, 2017)",
-            "event_type": "travel",
-            "description": "Delta Airlines flight DL 898 to West Palm Beach, Florida on May 21, 2017, recorded in calendar of Epstein network contact.",
-            "date_start": "2017-05-21",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Travel to West Palm Beach (near Palm Beach, FL, where Epstein's main residence 358 El Brillo Way was located) in calendar context of Epstein-related documents implies network activity.",
-            "evidence": [
-              {
-                "file": "EFTA02212890.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "May 21, 2017 10:20 AM : Flight to West Palm Beach (DL 898)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212890.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6f0e02a6759118fd",
-            "event_title": "JetBlue Flight 62: Unknown Traveler Returns Palm Beach to LGA, May 29 2017",
-            "event_type": "travel",
-            "description": "An unidentified traveler flew JetBlue Flight 62 from Palm Beach International to LaGuardia, departing 9:58 AM and arriving 12:48 PM, ticket booked through Epstein's concierge.",
-            "date_start": "2017-05-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The return flight booking is part of the same Epstein-associated travel arrangement through his American Express Centurion concierge, but the traveler's identity is redacted.",
-            "evidence": [
-              {
-                "file": "EFTA02212929.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Return\n B6 62 29MAY PBI LGA 0958A 1248P\n\nTOTAL FARE - USD 278.80",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212929.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02212857.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "B6 62 29MAY PBI LGA 0958A 1248P\nTOTAL FARE - USD 278.80",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212857.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "87c2db730c6ff926",
-            "event_title": "Aircraft N415LM Expected Arrival at Palm Beach International, May 6 2017",
-            "event_type": "travel",
-            "description": "Aircraft N415LM expected to arrive at Palm Beach International Airport at 7:59 PM EDT on May 6, 2017.",
-            "date_start": "2017-05-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "FlightAware alert for N415LM at KPBI received in Epstein's email.",
-            "evidence": [
-              {
-                "file": "EFTA02212994.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 07:59PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212994.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "9829c76ab8ddab81",
-            "event_title": "PB to NY June 5",
-            "event_type": "travel",
-            "description": "Associate flies PB to NY June 5",
-            "date_start": "2017-06-05",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Via Epstein network.",
-            "evidence": [
-              {
-                "file": "EFTA02213913.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "PB to NY June 5",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213913.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214477.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE (GLF4) departed Palm Beach Intl (KPBI) at 09:34AM EDT enroute to San Diego Intl (KSAN) for an estimated arrival at 11:30AM PDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214477.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "2f8d203483783840",
-            "event_title": "Karyna Shuliak Flies Palm Beach to LaGuardia (August 19, 2016)",
-            "event_type": "travel",
-            "description": "Karyna Shuliak flew from Palm Beach International Airport to LaGuardia on JetBlue B6 362 on August 19, 2016, departing 12:10 PM, booked through Epstein's American Express travel account.",
-            "date_start": "2016-08-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Karyna Shuliak",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Karyna Shuliak is a known Epstein associate; her travel was booked through Epstein's American Express travel account.",
-            "evidence": [
-              {
-                "file": "EFTA02214583.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "B6 362 M Economy Class\nOrigin: West Palm Beach, Palm Beach International\nDestination: New York La Guardia, La Guardia\nDeparting: 12:10 PM\nArriving: 02:55 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214583.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "62037c5fca0b417f",
-            "event_title": "Flight N908JC: Reagan National to Palm Beach International Airport",
-            "event_type": "travel",
-            "description": "Epstein's Gulfstream N908JC flew from Reagan National Airport, Washington DC to Palm Beach International Airport, FL.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "N908JC is Epstein's registered aircraft; the flight ended at Palm Beach International near Epstein's Palm Beach estate.",
-            "evidence": [
-              {
-                "file": "EFTA00008863.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "22 G-1159B N908JC DCA PBI 1420 JG, AP",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00008863.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "97e5af2db981d38b",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (2000-04-16)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "2000-04-16",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 04/16/2000 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "3e17807c01c15513",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (2000-01-21)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "2000-01-21",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/21/2000 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d1349183ea61cb0c",
-            "event_title": "CBP: Epstein Departs Palm Beach International Airport (1998-10-01)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Outbound from U.S.), International route.",
-            "date_start": "1998-10-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 10/01/1998 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6a0a437abe5d4c27",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1998-02-28)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1998-02-28",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 02/28/1998 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "32566c0231be0abf",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-12-25)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.; Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1997-12-23",
-            "date_end": "1997-12-25",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/25/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/23/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "7d6c51a0259a27d9",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-05-31)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1997-05-31",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 05/31/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d3f2d6897a0edda7",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-03-17)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1997-03-17",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 03/17/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "87804733630b7f61",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-01-25)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1997-01-25",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/25/1997 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bfd341b52a90217d",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1996-12-23)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1996-12-23",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/23/1996 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f23103f9763f2b63",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1996-01-14)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1996-01-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/14/1996 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ded48edd71d42c74",
-            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1995-05-14)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
-            "date_start": "1995-05-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
-            "evidence": [
-              {
-                "file": "EFTA00010075.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 05/14/1995 ... site A523 International route",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d02f08a3c8f6576e",
-            "event_title": "Jeffrey Epstein Sentenced in Palm Beach County State Court, June 30, 2008",
-            "event_type": "legal",
-            "description": "Jeffrey Epstein was sentenced in the Palm Beach County Circuit Court state criminal case on June 30, 2008, receiving an 18-month sentence with work release provisions after pleading guilty to solicitation of prostitution involving minors.",
-            "date_start": "2008-06-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's physical appearance at Palm Beach County Circuit Court for sentencing is a direct, confirmed presence event.",
-            "evidence": [
-              {
-                "file": "EFTA00013560.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On June 30, 2008, after defendant Jeffrey Epstein filed his motion to stay [DE 12], he was sentenced in the state-court criminal case",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013560.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "9f0b62e2a3481954",
-            "event_title": "Epstein's Aircraft Arrives West Palm Beach, December 4, 2007",
-            "event_type": "legal",
-            "description": "An AUSA working the Epstein case notified colleagues on December 4, 2007 that Epstein's private plane had just landed at West Palm Beach and would depart later that afternoon, placing Epstein in the area during active plea negotiations with the USAO-SDFL.",
-            "date_start": "2007-12-04",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's plane arriving in West Palm Beach places him in the area on December 4, 2007 during active plea agreement negotiations.",
-            "evidence": [
-              {
-                "file": "EFTA00013711.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Epstein's plane is here in West Palm Beach for the next few hours (it just arrived and is supposed to depart in the late afternoon).",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013711.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "cea76e7951b87f4a",
-            "event_title": "Unnamed Associate Returns Palm Beach to NYC After Citizenship Swearing-In, May 30, 2017",
-            "event_type": "presence",
-            "description": "An unnamed female associate of Epstein returned from Palm Beach to New York City on May 30, 2017, after a US citizenship swearing-in ceremony at 9:30am that morning. Delta DL 1902 PBI\u2192LGA departing 4pm, $268.20, booked via Epstein's Centurion account.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Natalia (Natasha) Molotkova",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Flight from Palm Beach to NYC for an unnamed associate booked via Epstein's Centurion, indicating Epstein's Palm Beach presence and connection to the associate's immigration status.",
-            "evidence": [
-              {
-                "file": "EFTA02213580.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We need to change ticket to return from PB to NY on Tues. May 30th late afternoon (she has her swearing in for citizenship at 9:30am that morning)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213580.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213606.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We need to change ticket to return from PB to NY on Tues. May 30th late afternoon",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213606.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005994",
-            "file": "EFTA00005994.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA01263197",
-            "file": "EFTA01263197.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009428",
-            "file": "EFTA00009428.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212890",
-            "file": "EFTA02212890.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212929",
-            "file": "EFTA02212929.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212857",
-            "file": "EFTA02212857.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212994",
-            "file": "EFTA02212994.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213913",
-            "file": "EFTA02213913.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214477",
-            "file": "EFTA02214477.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214583",
-            "file": "EFTA02214583.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00008863",
-            "file": "EFTA00008863.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00010075",
-            "file": "EFTA00010075.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00013560",
-            "file": "EFTA00013560.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00013711",
-            "file": "EFTA00013711.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213580",
-            "file": "EFTA02213580.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213606",
-            "file": "EFTA02213606.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.79489,
           40.70547
         ]
@@ -7813,8 +7031,8 @@
         "property_type": "event",
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
-        "event_count": 22,
-        "evidence_count": 26,
+        "event_count": 26,
+        "evidence_count": 30,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -7836,10 +7054,26 @@
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Bella Klein",
+            "role": "staff"
+          },
+          {
+            "name": "Karyna",
+            "role": "associate"
+          },
+          {
+            "name": "MI",
+            "role": "associate"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA02212949.pdf, EFTA02212953.pdf, EFTA02213701.pdf, EFTA02213813.pdf, EFTA02213794.pdf, ... (+2 more)",
+        "source_count": 11,
+        "sources_preview": "EFTA02212949.pdf, EFTA02212953.pdf, EFTA02213701.pdf, EFTA02213813.pdf, EFTA02213794.pdf, ... (+6 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
@@ -8469,6 +7703,129 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "939af1d24aa53a6f",
+            "event_title": "Epstein Staffer Directed to Take Uber from JFK, May 24, 2017",
+            "event_type": "presence",
+            "description": "Lesley Groff, Epstein's executive assistant, instructed an unnamed person arriving at JFK airport to take an Uber home on May 24, 2017, per Jeffrey Epstein's request.",
+            "date_start": "2017-05-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Bella Klein",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Lesley Groff relayed Epstein's instruction about transportation for person arriving at JFK.",
+            "evidence": [
+              {
+                "file": "EFTA02212856.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey would like you to Please take an Uber from the airport today...0K?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212856.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6469c76c4434d14f",
+            "event_title": "Karyna Flies JFK to St. Thomas (DL 465, Business Class), May 25, 2017",
+            "event_type": "travel",
+            "description": "Karyna flew Delta DL 465 in business class from JFK to St. Thomas (STT) on May 25, 2017 (9am-1:08pm); Jeffrey Epstein personally approved the business class upgrade at $875.30.",
+            "date_start": "2017-05-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Karyna",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally directed Karyna's travel to St. Thomas, likely to his USVI island property, with business class specifically approved by him.",
+            "evidence": [
+              {
+                "file": "EFTA02213475.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DL 465 25MAY JFK STT 0900A 0108P - one seat left\nTOTAL FARE - USD 875.30",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213475.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "1100d4857d390620",
+            "event_title": "Two Associates Fly JFK\u2192St. Thomas (AA 1592/AA 936), May 23-27, 2017",
+            "event_type": "travel",
+            "description": "Two unnamed associates flew American Airlines AA 1592 from JFK to St. Thomas on May 23, 2017 (8:05am-3:30pm), returning May 27 on AA 936 (2:10pm-6:27pm), total $1738.38 via Epstein's Centurion.",
+            "date_start": "2017-05-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Round-trip tickets to St. Thomas (near Epstein's Little St. James Island) booked via Epstein's Centurion account for unnamed associates visiting his USVI property.",
+            "evidence": [
+              {
+                "file": "EFTA02213503.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1 AA 1592 23MAY JFK STT 0805A 0330P\n2 AA 936 27MAY STT JFK 0210P 0627P\n1 ADT 579.46\nTOTAL FARE - USD 1738.38",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213503.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ea274673b9a35e18",
+            "event_title": "Associate 'MI' Flies JFK to San Diego at Epstein's Direction (June 6, 2017)",
+            "event_type": "presence",
+            "description": "Epstein directed associate 'MI' to fly American Airlines AA 95 from JFK to San Diego on June 6, 2017, arriving at 9:07pm.",
+            "date_start": "2017-06-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "MI",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally directed travel arrangements for MI to San Diego.",
+            "evidence": [
+              {
+                "file": "EFTA02213757.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey wants MI to arrive San Diego around 9pm. AA 95 06JUN JFK SAN 0600P 0907P",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213757.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -8505,6 +7862,835 @@
           {
             "doc_id": "EFTA00010075",
             "file": "EFTA00010075.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212856",
+            "file": "EFTA02212856.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213475",
+            "file": "EFTA02213475.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213503",
+            "file": "EFTA02213503.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213757",
+            "file": "EFTA02213757.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.054155,
+          26.696207
+        ]
+      },
+      "properties": {
+        "id": "2227d794a30b090a",
+        "name": "Palm Beach International Airport",
+        "location_name": "Palm Beach International Airport",
+        "location_address": "Flamingo Park, West Palm Beach, Florida, United States",
+        "location_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
+        "canonical_name": "Palm Beach International Airport, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach International Airport",
+        "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
+        "event_count": 24,
+        "evidence_count": 28,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1995-05-14",
+        "date_end": "2018-12-14",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Mary Ann Dussan",
+            "role": "legal"
+          },
+          {
+            "name": "Lanna Belohlavek",
+            "role": "legal"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          },
+          {
+            "name": "Natalia (Natasha) Molotkova",
+            "role": "staff"
+          }
+        ],
+        "source_count": 17,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00009428.pdf, EFTA02212890.pdf, EFTA02212929.pdf, ... (+12 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
+        "events": [
+          {
+            "event_id": "8fb9bb0dff3337ee",
+            "event_title": "Epstein Aircraft Flies Palm Beach to Virgin Islands Then to Teterboro \u2014 November 7-8, 2017",
+            "event_type": "travel",
+            "description": "Epstein aircraft flew from Palm Beach (PBI) to St. Thomas (TIST) then continued same-day to Teterboro (TEB) on November 7-8, 2017.",
+            "date_start": "2017-11-07",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Multi-leg flight in Epstein's private aircraft calendar showing Palm Beach to Virgin Islands to Teterboro routing.",
+            "evidence": [
+              {
+                "file": "EFTA00005994.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "November 2017\n                  6          7                8                    9                   10                 11\n                           Outbound PB1 -\n                           Inbound TIST\n                           Outbound TIST -\n                           Inbound TEB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "290f33b690d9cd7e",
+            "event_title": "Epstein Customs Encounter on N212JE: Palm Beach to St. Thomas, Dec 14 2018",
+            "event_type": "presence",
+            "description": "CBP TECS records Jeffrey Epstein crossing customs on aircraft N212JE, departing Palm Beach (KPBI) inbound to St. Thomas, USVI (TIST) on December 14, 2018.",
+            "date_start": "2018-12-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein is the named passenger in CBP encounter records for this specific flight leg.",
+            "evidence": [
+              {
+                "file": "EFTA01263197.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  12/14/2018 08:49  *GA  N212JE  I  A523 BADAS JOSEPH APIS  PASSENGER CUSTOMS  KPBI TIST",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8e67ad3ef7d62e03",
+            "event_title": "Detective Testifies Before Palm Beach County Grand Jury on Epstein Crimes Against Children (July 19, 2006)",
+            "event_type": "communication",
+            "description": "Detective and multiple witnesses physically present and testified before Palm Beach County grand jury in crimes against children investigation involving Jeffrey Epstein on July 19, 2006.",
+            "date_start": "2006-07-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Mary Ann Dussan",
+                "role": "legal"
+              },
+              {
+                "name": "Lanna Belohlavek",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Grand jury proceeding directly investigating Epstein's crimes against children in Palm Beach County; Epstein himself was not present but the hearing is part of the investigation against him.",
+            "evidence": [
+              {
+                "file": "EFTA00009428.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ELECTRONIC COURT REPORTING WITNESS LOG\nCRIMES AGAINST CHILDREN INVESTIGATION \u2014 ASA : Lanna Belohlavek\n7/19/06 DET 9:14:18 ... 10:00:28\nPage 1 of 7/19/06 Grand Jury\nCrime against Children Investigation\n9:14:12 on record\n9:14:18 PI direct",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009428.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fe8b4c4916fc5f50",
+            "event_title": "Delta Flight DL 898 to West Palm Beach, FL \u2014 Epstein Network Calendar (May 21, 2017)",
+            "event_type": "travel",
+            "description": "Delta Airlines flight DL 898 to West Palm Beach, Florida on May 21, 2017, recorded in calendar of Epstein network contact.",
+            "date_start": "2017-05-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel to West Palm Beach (near Palm Beach, FL, where Epstein's main residence 358 El Brillo Way was located) in calendar context of Epstein-related documents implies network activity.",
+            "evidence": [
+              {
+                "file": "EFTA02212890.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "May 21, 2017 10:20 AM : Flight to West Palm Beach (DL 898)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212890.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6f0e02a6759118fd",
+            "event_title": "JetBlue Flight 62: Unknown Traveler Returns Palm Beach to LGA, May 29 2017",
+            "event_type": "travel",
+            "description": "An unidentified traveler flew JetBlue Flight 62 from Palm Beach International to LaGuardia, departing 9:58 AM and arriving 12:48 PM, ticket booked through Epstein's concierge.",
+            "date_start": "2017-05-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The return flight booking is part of the same Epstein-associated travel arrangement through his American Express Centurion concierge, but the traveler's identity is redacted.",
+            "evidence": [
+              {
+                "file": "EFTA02212929.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Return\n B6 62 29MAY PBI LGA 0958A 1248P\n\nTOTAL FARE - USD 278.80",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212929.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02212857.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "B6 62 29MAY PBI LGA 0958A 1248P\nTOTAL FARE - USD 278.80",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212857.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "87c2db730c6ff926",
+            "event_title": "Aircraft N415LM Expected Arrival at Palm Beach International, May 6 2017",
+            "event_type": "travel",
+            "description": "Aircraft N415LM expected to arrive at Palm Beach International Airport at 7:59 PM EDT on May 6, 2017.",
+            "date_start": "2017-05-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "FlightAware alert for N415LM at KPBI received in Epstein's email.",
+            "evidence": [
+              {
+                "file": "EFTA02212994.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 07:59PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212994.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "9829c76ab8ddab81",
+            "event_title": "PB to NY June 5",
+            "event_type": "travel",
+            "description": "Associate flies PB to NY June 5",
+            "date_start": "2017-06-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Via Epstein network.",
+            "evidence": [
+              {
+                "file": "EFTA02213913.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PB to NY June 5",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213913.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214477.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Palm Beach Intl (KPBI) at 09:34AM EDT enroute to San Diego Intl (KSAN) for an estimated arrival at 11:30AM PDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214477.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2f8d203483783840",
+            "event_title": "Karyna Shuliak Flies Palm Beach to LaGuardia (August 19, 2016)",
+            "event_type": "travel",
+            "description": "Karyna Shuliak flew from Palm Beach International Airport to LaGuardia on JetBlue B6 362 on August 19, 2016, departing 12:10 PM, booked through Epstein's American Express travel account.",
+            "date_start": "2016-08-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Karyna Shuliak is a known Epstein associate; her travel was booked through Epstein's American Express travel account.",
+            "evidence": [
+              {
+                "file": "EFTA02214583.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "B6 362 M Economy Class\nOrigin: West Palm Beach, Palm Beach International\nDestination: New York La Guardia, La Guardia\nDeparting: 12:10 PM\nArriving: 02:55 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214583.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "62037c5fca0b417f",
+            "event_title": "Flight N908JC: Reagan National to Palm Beach International Airport",
+            "event_type": "travel",
+            "description": "Epstein's Gulfstream N908JC flew from Reagan National Airport, Washington DC to Palm Beach International Airport, FL.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "N908JC is Epstein's registered aircraft; the flight ended at Palm Beach International near Epstein's Palm Beach estate.",
+            "evidence": [
+              {
+                "file": "EFTA00008863.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "22 G-1159B N908JC DCA PBI 1420 JG, AP",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00008863.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "97e5af2db981d38b",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (2000-04-16)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "2000-04-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 04/16/2000 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3e17807c01c15513",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (2000-01-21)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "2000-01-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/21/2000 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d1349183ea61cb0c",
+            "event_title": "CBP: Epstein Departs Palm Beach International Airport (1998-10-01)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Outbound from U.S.), International route.",
+            "date_start": "1998-10-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 10/01/1998 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6a0a437abe5d4c27",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1998-02-28)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1998-02-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 02/28/1998 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "32566c0231be0abf",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-12-25)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.; Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1997-12-23",
+            "date_end": "1997-12-25",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/25/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/23/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7d6c51a0259a27d9",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-05-31)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1997-05-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 05/31/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d3f2d6897a0edda7",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-03-17)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1997-03-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 03/17/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "87804733630b7f61",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1997-01-25)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1997-01-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/25/1997 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bfd341b52a90217d",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1996-12-23)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1996-12-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 12/23/1996 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f23103f9763f2b63",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1996-01-14)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1996-01-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 01/14/1996 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ded48edd71d42c74",
+            "event_title": "CBP: Epstein Arrives at Palm Beach International Airport (1995-05-14)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein processed by CBP at Palm Beach International Airport (Inbound to U.S.), International route.",
+            "date_start": "1995-05-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally passed through this CBP checkpoint per official TECS records.",
+            "evidence": [
+              {
+                "file": "EFTA00010075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 ... 05/14/1995 ... site A523 International route",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010075.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d02f08a3c8f6576e",
+            "event_title": "Jeffrey Epstein Sentenced in Palm Beach County State Court, June 30, 2008",
+            "event_type": "legal",
+            "description": "Jeffrey Epstein was sentenced in the Palm Beach County Circuit Court state criminal case on June 30, 2008, receiving an 18-month sentence with work release provisions after pleading guilty to solicitation of prostitution involving minors.",
+            "date_start": "2008-06-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's physical appearance at Palm Beach County Circuit Court for sentencing is a direct, confirmed presence event.",
+            "evidence": [
+              {
+                "file": "EFTA00013560.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On June 30, 2008, after defendant Jeffrey Epstein filed his motion to stay [DE 12], he was sentenced in the state-court criminal case",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013560.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "9f0b62e2a3481954",
+            "event_title": "Epstein's Aircraft Arrives West Palm Beach, December 4, 2007",
+            "event_type": "legal",
+            "description": "An AUSA working the Epstein case notified colleagues on December 4, 2007 that Epstein's private plane had just landed at West Palm Beach and would depart later that afternoon, placing Epstein in the area during active plea negotiations with the USAO-SDFL.",
+            "date_start": "2007-12-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's plane arriving in West Palm Beach places him in the area on December 4, 2007 during active plea agreement negotiations.",
+            "evidence": [
+              {
+                "file": "EFTA00013711.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein's plane is here in West Palm Beach for the next few hours (it just arrived and is supposed to depart in the late afternoon).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013711.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d6d5dccc0e00358b",
+            "event_title": "N415LM (GLF5) Departs Palm Beach for Teterboro, May 9, 2017",
+            "event_type": "travel",
+            "description": "Gulfstream V N415LM departed Palm Beach International Airport at 12:08pm EDT on May 9, 2017.",
+            "date_start": "2017-05-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "FlightAware alert in Epstein's files.",
+            "evidence": [
+              {
+                "file": "EFTA02212867.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) departed Palm Beach Intl (KPBI) at 12:08PM EDT enroute to Teterboro",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212867.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cea76e7951b87f4a",
+            "event_title": "Unnamed Associate Returns Palm Beach to NYC After Citizenship Swearing-In, May 30, 2017",
+            "event_type": "presence",
+            "description": "An unnamed female associate of Epstein returned from Palm Beach to New York City on May 30, 2017, after a US citizenship swearing-in ceremony at 9:30am that morning. Delta DL 1902 PBI\u2192LGA departing 4pm, $268.20, booked via Epstein's Centurion account.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Natalia (Natasha) Molotkova",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Flight from Palm Beach to NYC for an unnamed associate booked via Epstein's Centurion, indicating Epstein's Palm Beach presence and connection to the associate's immigration status.",
+            "evidence": [
+              {
+                "file": "EFTA02213580.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We need to change ticket to return from PB to NY on Tues. May 30th late afternoon (she has her swearing in for citizenship at 9:30am that morning)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213580.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213606.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We need to change ticket to return from PB to NY on Tues. May 30th late afternoon",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213606.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005994",
+            "file": "EFTA00005994.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA01263197",
+            "file": "EFTA01263197.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009428",
+            "file": "EFTA00009428.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212890",
+            "file": "EFTA02212890.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212929",
+            "file": "EFTA02212929.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212857",
+            "file": "EFTA02212857.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212994",
+            "file": "EFTA02212994.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213913",
+            "file": "EFTA02213913.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214477",
+            "file": "EFTA02214477.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214583",
+            "file": "EFTA02214583.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00008863",
+            "file": "EFTA00008863.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010075",
+            "file": "EFTA00010075.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013560",
+            "file": "EFTA00013560.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013711",
+            "file": "EFTA00013711.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212867",
+            "file": "EFTA02212867.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213580",
+            "file": "EFTA02213580.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213606",
+            "file": "EFTA02213606.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -13083,8 +13269,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.005994,
-          40.712749
+          -74.00479,
+          40.71338
         ]
       },
       "properties": {
@@ -16119,8 +16305,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.005994,
-          40.712749
+          -74.00479,
+          40.71338
         ]
       },
       "properties": {
@@ -16963,8 +17149,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.039386,
-          38.90253
+          -97.60072,
+          35.39494
         ]
       },
       "properties": {
@@ -16973,7 +17159,7 @@
         "location_name": "FAA Aircraft Registry",
         "location_address": "Washington, District of Columbia, United States",
         "location_description": "The Federal Aviation Administration's Aircraft Registry, located in Oklahoma City, Oklahoma, which maintains official records of all civil aircraft registered in the United States.",
-        "canonical_name": "Federal Aviation Administration Office, Washington, DC, District of Columbia",
+        "canonical_name": "Mike Monroney Aeronautical Center, Oklahoma City, OK",
         "region": "",
         "property_type": "event",
         "display_name": "FAA Aircraft Registry",
@@ -17118,209 +17304,6 @@
           {
             "doc_id": "EFTA00017875",
             "file": "EFTA00017875.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8283,
-          40.7135
-        ]
-      },
-      "properties": {
-        "id": "b728fdeb7416ed1c",
-        "name": "John F. Kennedy International Airport",
-        "location_name": "John F. Kennedy International Airport",
-        "location_address": "Queens, New York, United States",
-        "location_description": "A major international airport in Queens, New York, serving as one of the primary gateways to the New York metropolitan area.",
-        "canonical_name": "John F. Kennedy International Airport, Queens, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "A major international airport in Queens, New York, serving as one of the primary gateways to the New York metropolitan area.",
-        "event_count": 4,
-        "evidence_count": 4,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-23",
-        "date_end": "2017-06-06",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Bella Klein",
-            "role": "staff"
-          },
-          {
-            "name": "Karyna",
-            "role": "associate"
-          },
-          {
-            "name": "MI",
-            "role": "associate"
-          }
-        ],
-        "source_count": 4,
-        "sources_preview": "EFTA02212856.pdf, EFTA02213475.pdf, EFTA02213503.pdf, EFTA02213757.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A major international airport in Queens, New York, serving as one of the primary gateways to the New York metropolitan area.",
-        "events": [
-          {
-            "event_id": "939af1d24aa53a6f",
-            "event_title": "Epstein Staffer Directed to Take Uber from JFK, May 24, 2017",
-            "event_type": "presence",
-            "description": "Lesley Groff, Epstein's executive assistant, instructed an unnamed person arriving at JFK airport to take an Uber home on May 24, 2017, per Jeffrey Epstein's request.",
-            "date_start": "2017-05-24",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Bella Klein",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Lesley Groff relayed Epstein's instruction about transportation for person arriving at JFK.",
-            "evidence": [
-              {
-                "file": "EFTA02212856.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey would like you to Please take an Uber from the airport today...0K?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212856.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6469c76c4434d14f",
-            "event_title": "Karyna Flies JFK to St. Thomas (DL 465, Business Class), May 25, 2017",
-            "event_type": "travel",
-            "description": "Karyna flew Delta DL 465 in business class from JFK to St. Thomas (STT) on May 25, 2017 (9am-1:08pm); Jeffrey Epstein personally approved the business class upgrade at $875.30.",
-            "date_start": "2017-05-25",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Karyna",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally directed Karyna's travel to St. Thomas, likely to his USVI island property, with business class specifically approved by him.",
-            "evidence": [
-              {
-                "file": "EFTA02213475.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "DL 465 25MAY JFK STT 0900A 0108P - one seat left\nTOTAL FARE - USD 875.30",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213475.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "1100d4857d390620",
-            "event_title": "Two Associates Fly JFK\u2192St. Thomas (AA 1592/AA 936), May 23-27, 2017",
-            "event_type": "travel",
-            "description": "Two unnamed associates flew American Airlines AA 1592 from JFK to St. Thomas on May 23, 2017 (8:05am-3:30pm), returning May 27 on AA 936 (2:10pm-6:27pm), total $1738.38 via Epstein's Centurion.",
-            "date_start": "2017-05-23",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Round-trip tickets to St. Thomas (near Epstein's Little St. James Island) booked via Epstein's Centurion account for unnamed associates visiting his USVI property.",
-            "evidence": [
-              {
-                "file": "EFTA02213503.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "1 AA 1592 23MAY JFK STT 0805A 0330P\n2 AA 936 27MAY STT JFK 0210P 0627P\n1 ADT 579.46\nTOTAL FARE - USD 1738.38",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213503.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ea274673b9a35e18",
-            "event_title": "Associate 'MI' Flies JFK to San Diego at Epstein's Direction (June 6, 2017)",
-            "event_type": "presence",
-            "description": "Epstein directed associate 'MI' to fly American Airlines AA 95 from JFK to San Diego on June 6, 2017, arriving at 9:07pm.",
-            "date_start": "2017-06-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "MI",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally directed travel arrangements for MI to San Diego.",
-            "evidence": [
-              {
-                "file": "EFTA02213757.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey wants MI to arrive San Diego around 9pm. AA 95 06JUN JFK SAN 0600P 0907P",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213757.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212856",
-            "file": "EFTA02212856.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213475",
-            "file": "EFTA02213475.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213503",
-            "file": "EFTA02213503.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213757",
-            "file": "EFTA02213757.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -22435,6 +22418,434 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -62.845723,
+          17.912695
+        ]
+      },
+      "properties": {
+        "id": "e22e27ed5fc568f7",
+        "name": "Saint-Barth\u00e9lemy",
+        "location_name": "Saint-Barth\u00e9lemy",
+        "location_address": "Anse des Cayes, Saint Barth\u00e9lemy",
+        "location_description": "A French Caribbean island in the Lesser Antilles, known for its white-sand beaches, luxury resorts, and popularity among wealthy visitors.",
+        "canonical_name": "Anse des Cayes, Saint-Barth\u00e9lemy, Caribbean, Saint Barth\u00e9lemy",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Saint-Barth\u00e9lemy",
+        "location_descriptor": "A French Caribbean island in the Lesser Antilles, known for its white-sand beaches, luxury resorts, and popularity among wealthy visitors.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-17",
+        "date_end": "2017-05-17",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Kevin",
+            "role": "other"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Richard Kahn",
+            "role": "legal"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA00005091.pdf, EFTA02212860.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A French Caribbean island in the Lesser Antilles, known for its white-sand beaches, luxury resorts, and popularity among wealthy visitors.",
+        "events": [
+          {
+            "event_id": "43c649f3e63f7cc7",
+            "event_title": "Epstein Group at Saint-Barth\u00e9lemy and French Chateaux (Multiple Visits)",
+            "event_type": "presence",
+            "description": "Epstein and associates visited Saint-Barth\u00e9lemy in the Caribbean, documented in seized photo discs.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "St. Barts trip is documented among Epstein's seized photographic evidence.",
+            "evidence": [
+              {
+                "file": "EFTA00005091.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ST. BARTS.\nCHATEAU\nVILLETE\n\nCHATEAU\nGUERAMENTES",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "dfef722284e88bcb",
+            "event_title": "Kevin Ouvre (KO Concept, St. Barth) Meets with Epstein to Discuss Contract Work",
+            "event_type": "presence",
+            "description": "Kevin Ouvre of KO Concept in Saint-Barthelemy met with Jeffrey Epstein to discuss contracted work, submitting a 50% invoice on May 17, 2017, with full amount due after a second meeting.",
+            "date_start": "2017-05-17",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kevin",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Kevin Ouvre explicitly states he met with Jeffrey Epstein to discuss work details, indicating Epstein's personal involvement in the engagement.",
+            "evidence": [
+              {
+                "file": "EFTA02212860.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "following my meeting with Jeffrey I need to work on details as US code and refined details. The full amount shall be charged when its done after a new meeting with jeffrey.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212860.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00005091",
+            "file": "EFTA00005091.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212860",
+            "file": "EFTA02212860.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978194,
+          40.756351
+        ]
+      },
+      "properties": {
+        "id": "62bd015c5d8141d7",
+        "name": "Core Club",
+        "location_name": "Core Club",
+        "location_address": "575 5th Avenue, New York City, New York 10017, United States",
+        "location_description": "An exclusive private members club located at 575 Fifth Avenue in Midtown Manhattan, New York City, offering dining, wellness, and business services to an invitation-only membership.",
+        "canonical_name": "Core Club, 575 Fifth Avenue, New York, NY 10017, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Core Club",
+        "location_descriptor": "An exclusive private members club located at 575 Fifth Avenue in Midtown Manhattan, New York City, offering dining, wellness, and business services to an invitation-only membership.",
+        "event_count": 2,
+        "evidence_count": 4,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-19",
+        "date_end": "2017-05-19",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Atme",
+            "role": "associate"
+          },
+          {
+            "name": "Leon Black",
+            "role": "associate"
+          },
+          {
+            "name": "Jojo Fontanilla",
+            "role": "staff"
+          },
+          {
+            "name": "Anne",
+            "role": "other"
+          },
+          {
+            "name": "Hardeep",
+            "role": "associate"
+          },
+          {
+            "name": "Barry Cohen",
+            "role": "associate"
+          }
+        ],
+        "source_count": 4,
+        "sources_preview": "EFTA02213016.pdf, EFTA02213197.pdf, EFTA02213425.pdf, EFTA02213484.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "An exclusive private members club located at 575 Fifth Avenue in Midtown Manhattan, New York City, offering dining, wellness, and business services to an invitation-only membership.",
+        "events": [
+          {
+            "event_id": "f1c5f769f817c84f",
+            "event_title": "Epstein Appointment at Dangene's in Core Club with Atme (May 19, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein scheduled appointment at Dangene's inside Core Club at 575 5th Avenue with associate Atme at 11:30am on May 19, 2017.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Atme",
+                "role": "associate"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This is Epstein's own schedule showing him physically at this location for a personal appointment.",
+            "evidence": [
+              {
+                "file": "EFTA02213016.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "11:30am Appt w/Atme at Dangene's\nCORE CLUB 575 5th Ave\nJOJO TO DRIVE YOU",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213016.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213197.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:30a, BREAKFAST w/Leon Black gal\nCORE CLUB 575 5th Ave\nJOJO TO DRIVE YOU",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213197.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "458a087966247594",
+            "event_title": "Epstein Appointment with Anne at Dangene (Core Club, 575 5th Ave), May 19, 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein had an 11:30am appointment with Anne at Dangene (luxury skincare/beauty treatment) located at the Core Club, 575 Fifth Avenue, New York, on May 19, 2017.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jojo Fontanilla",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              },
+              {
+                "name": "Anne",
+                "role": "other"
+              },
+              {
+                "name": "Hardeep",
+                "role": "associate"
+              },
+              {
+                "name": "Barry Cohen",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's driver Jojo was to take him to this appointment confirming his physical presence at the Core Club on May 19, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02213425.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "11:30am Appt w/Anne at Dangene'\nCORE CLUB 575 5th Ave\nJOJO TO DRIVE YOU",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213425.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213484.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JOJO YOU WILL DRIVE JE to his appt. Be outside ready to go at 10:45am with the car.\n8:30am BREAKFAST w/Leo\u25ba\u25ba Black\n10:00am Appilv/Barry Cohen\n10:30am Appt w/Hardeep\n11:30am Appt w/Anne at Dangene's\nCORE CLUB 575 5th Ave",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213484.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213016",
+            "file": "EFTA02213016.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213197",
+            "file": "EFTA02213197.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213425",
+            "file": "EFTA02213425.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213484",
+            "file": "EFTA02213484.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.838361,
+          17.899586
+        ]
+      },
+      "properties": {
+        "id": "5f2133dc691c9241",
+        "name": "Gustaf III Airport",
+        "location_name": "Gustaf III Airport",
+        "location_address": "Saint-Jean, Saint Barth\u00e9lemy",
+        "location_description": "A small regional airport on the island of Saint-Barth\u00e9lemy in the French Caribbean, known for its short runway and challenging approach over a hillside.",
+        "canonical_name": "Gustaf III Airport, St. Jean, Saint-Barth\u00e9lemy, Caribbean, Saint-Jean, Saint Barth\u00e9lemy",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Gustaf III Airport",
+        "location_descriptor": "A small regional airport on the island of Saint-Barth\u00e9lemy in the French Caribbean, known for its short runway and challenging approach over a hillside.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-26",
+        "date_end": "2017-05-26",
+        "people": [
+          {
+            "name": "OUVRE/KEVIN",
+            "role": "other"
+          },
+          {
+            "name": "Kevin Ouvre",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02213455.pdf, EFTA02213568.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "A small regional airport on the island of Saint-Barth\u00e9lemy in the French Caribbean, known for its short runway and challenging approach over a hillside.",
+        "events": [
+          {
+            "event_id": "fe1390d08f7e3850",
+            "event_title": "Kevin Ouvre Departs St. Barth (Gustavia) to San Juan on Tradewind TJ 111, May 26, 2017",
+            "event_type": "travel",
+            "description": "Kevin Ouvre departed from Gustavia (Gustaf III Airport, St. Barth) to San Juan on Tradewind Aviation flight TJ 111 at 10:00am on May 26, 2017, en route to St. Thomas for Epstein's island work.",
+            "date_start": "2017-05-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "OUVRE/KEVIN",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Kevin Ouvre's travel was booked by Lesley Groff via Epstein's Amex Centurion account to execute work directed by Jeffrey Epstein at his USVI properties.",
+            "evidence": [
+              {
+                "file": "EFTA02213455.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TJ 111 M Economy Class\nOrigin Gustavia, Gustaf III (St-Jean)\nDestination San Juan, Luis Munoz Mann Intl\nDeparting 10:00 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213455.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "72b1e78ca0d79929",
+            "event_title": "Kevin Ouvre Flies St. Barths \u2192 St. Thomas, May 26, 2017 (Booked via Epstein Centurion)",
+            "event_type": "travel",
+            "description": "Kevin Ouvre traveled from St. Barths to St. Thomas via San Juan on May 26, 2017, booked for $580.16 via Epstein's Centurion account, connecting two Epstein locations.",
+            "date_start": "2017-05-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kevin Ouvre",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Flight from St. Barths to St. Thomas booked via Epstein's Centurion for Kevin Ouvre, with overnight stay on St. Thomas, suggesting a visit to Epstein's Little St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA02213568.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Kevin prefers a Friday to STT. We need a flight for Kevin Ouvre from St. Barths to St. Thomas on Friday May 26, 2017. Total fare USD 580.16 booked via Centurion Relationship Manager Natalia Molotkova.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213568.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213455",
+            "file": "EFTA02213455.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213568",
+            "file": "EFTA02213568.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.753462,
           42.120246
         ]
@@ -23147,82 +23558,6 @@
                 "file": "EFTA00005091.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "BRAZIL,\nMISC 12/06",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00005091",
-            "file": "EFTA00005091.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.85,
-          17.9
-        ]
-      },
-      "properties": {
-        "id": "5d5abbcd79132791",
-        "name": "Saint-Barth\u00e9lemy",
-        "location_name": "Saint-Barth\u00e9lemy",
-        "location_address": "Saint-Barth\u00e9lemy, Marseille, Bouches-du-Rh\u00f4ne, France",
-        "location_description": "A French Caribbean island collectivity known as St. Barts, located in the Leeward Islands about 230 km southeast of Puerto Rico.",
-        "canonical_name": "Saint-Barth\u00e9lemy, Caribbean, Marseille, Bouches-du-Rh\u00f4ne",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Saint-Barth\u00e9lemy",
-        "location_descriptor": "A French Caribbean island collectivity known as St. Barts, located in the Leeward Islands about 230 km southeast of Puerto Rico.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00005091.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A French Caribbean island collectivity known as St. Barts, located in the Leeward Islands about 230 km southeast of Puerto Rico.",
-        "events": [
-          {
-            "event_id": "43c649f3e63f7cc7",
-            "event_title": "Epstein Group at Saint-Barth\u00e9lemy and French Chateaux (Multiple Visits)",
-            "event_type": "presence",
-            "description": "Epstein and associates visited Saint-Barth\u00e9lemy in the Caribbean, documented in seized photo discs.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "St. Barts trip is documented among Epstein's seized photographic evidence.",
-            "evidence": [
-              {
-                "file": "EFTA00005091.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "ST. BARTS.\nCHATEAU\nVILLETE\n\nCHATEAU\nGUERAMENTES",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf",
                 "confidence": 0.7
               }
@@ -26251,110 +26586,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.989443,
-          40.665033
-        ]
-      },
-      "properties": {
-        "id": "a4d37f8bb9c8b6c0",
-        "name": "CORE Club",
-        "location_name": "CORE Club",
-        "location_address": "575 5th Avenue, Brooklyn, New York 11215, United States",
-        "location_description": "A private members club at 575 Fifth Avenue in Midtown Manhattan, New York City, known for exclusive membership in business and culture.",
-        "canonical_name": "575 Fifth Avenue, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "CORE Club",
-        "location_descriptor": "A private members club at 575 Fifth Avenue in Midtown Manhattan, New York City, known for exclusive membership in business and culture.",
-        "event_count": 1,
-        "evidence_count": 2,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-19",
-        "date_end": "2017-05-19",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Atme",
-            "role": "associate"
-          },
-          {
-            "name": "Leon Black",
-            "role": "associate"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02213016.pdf, EFTA02213197.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A private members club at 575 Fifth Avenue in Midtown Manhattan, New York City, known for exclusive membership in business and culture.",
-        "events": [
-          {
-            "event_id": "f1c5f769f817c84f",
-            "event_title": "Epstein Appointment at Dangene's in Core Club with Atme (May 19, 2017)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein scheduled appointment at Dangene's inside Core Club at 575 5th Avenue with associate Atme at 11:30am on May 19, 2017.",
-            "date_start": "2017-05-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Atme",
-                "role": "associate"
-              },
-              {
-                "name": "Leon Black",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "This is Epstein's own schedule showing him physically at this location for a personal appointment.",
-            "evidence": [
-              {
-                "file": "EFTA02213016.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "11:30am Appt w/Atme at Dangene's\nCORE CLUB 575 5th Ave\nJOJO TO DRIVE YOU",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213016.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213197.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "8:30a, BREAKFAST w/Leon Black gal\nCORE CLUB 575 5th Ave\nJOJO TO DRIVE YOU",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213197.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213016",
-            "file": "EFTA02213016.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213197",
-            "file": "EFTA02213197.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.978908,
           40.760236
         ]
@@ -26591,8 +26822,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.77642,
-          35.52227
+          -77.039386,
+          38.90253
         ]
       },
       "properties": {
@@ -27441,8 +27672,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.005994,
-          40.712749
+          -74.00261,
+          40.71461
         ]
       },
       "properties": {
@@ -27981,8 +28212,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.005994,
-          40.712749
+          -74.00479,
+          40.71338
         ]
       },
       "properties": {
@@ -28147,8 +28378,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.005994,
-          40.712749
+          -74.00463,
+          40.71332
         ]
       },
       "properties": {
@@ -28477,7 +28708,7 @@
         "location_name": "Maxwell's London Residence",
         "location_address": "London, Greater London, England, United Kingdom",
         "location_description": "Ghislaine Maxwell's personal residence in London, England, used during the 1990s when she was based in the United Kingdom.",
-        "canonical_name": "116 East 65th Street, Manhattan, NY (Maxwell London Residence at Kinnerton Street, London, UK), England",
+        "canonical_name": "Kinnerton Street, Belgravia, London, England",
         "region": "",
         "property_type": "event",
         "display_name": "Maxwell's London Residence",
@@ -29092,172 +29323,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.845723,
-          17.912695
-        ]
-      },
-      "properties": {
-        "id": "e22e27ed5fc568f7",
-        "name": "Saint-Barth\u00e9lemy",
-        "location_name": "Saint-Barth\u00e9lemy",
-        "location_address": "Anse des Cayes, Saint Barth\u00e9lemy",
-        "location_description": "A French Caribbean island in the Lesser Antilles, known for its white-sand beaches, luxury resorts, and popularity among wealthy visitors.",
-        "canonical_name": "Anse des Cayes, Saint-Barth\u00e9lemy, Caribbean, Saint Barth\u00e9lemy",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Saint-Barth\u00e9lemy",
-        "location_descriptor": "A French Caribbean island in the Lesser Antilles, known for its white-sand beaches, luxury resorts, and popularity among wealthy visitors.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-17",
-        "date_end": "2017-05-17",
-        "people": [
-          {
-            "name": "Kevin",
-            "role": "other"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Richard Kahn",
-            "role": "legal"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02212860.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A French Caribbean island in the Lesser Antilles, known for its white-sand beaches, luxury resorts, and popularity among wealthy visitors.",
-        "events": [
-          {
-            "event_id": "dfef722284e88bcb",
-            "event_title": "Kevin Ouvre (KO Concept, St. Barth) Meets with Epstein to Discuss Contract Work",
-            "event_type": "presence",
-            "description": "Kevin Ouvre of KO Concept in Saint-Barthelemy met with Jeffrey Epstein to discuss contracted work, submitting a 50% invoice on May 17, 2017, with full amount due after a second meeting.",
-            "date_start": "2017-05-17",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kevin",
-                "role": "other"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Richard Kahn",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Kevin Ouvre explicitly states he met with Jeffrey Epstein to discuss work details, indicating Epstein's personal involvement in the engagement.",
-            "evidence": [
-              {
-                "file": "EFTA02212860.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "following my meeting with Jeffrey I need to work on details as US code and refined details. The full amount shall be charged when its done after a new meeting with jeffrey.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212860.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212860",
-            "file": "EFTA02212860.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.090477,
-          26.688241
-        ]
-      },
-      "properties": {
-        "id": "fcdade6e73d1523e",
-        "name": "Palm Beach International Airport",
-        "location_name": "Palm Beach International Airport",
-        "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
-        "location_description": "A commercial airport located in West Palm Beach, Florida, serving Palm Beach County and the surrounding South Florida region.",
-        "canonical_name": "Palm Beach International Airport, 1000 James L Turnage Blvd, West Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Palm Beach International Airport",
-        "location_descriptor": "A commercial airport located in West Palm Beach, Florida, serving Palm Beach County and the surrounding South Florida region.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-09",
-        "date_end": "2017-05-09",
-        "people": [],
-        "source_count": 1,
-        "sources_preview": "EFTA02212867.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "A commercial airport located in West Palm Beach, Florida, serving Palm Beach County and the surrounding South Florida region.",
-        "events": [
-          {
-            "event_id": "d6d5dccc0e00358b",
-            "event_title": "N415LM (GLF5) Departs Palm Beach for Teterboro, May 9, 2017",
-            "event_type": "travel",
-            "description": "Gulfstream V N415LM departed Palm Beach International Airport at 12:08pm EDT on May 9, 2017.",
-            "date_start": "2017-05-09",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "FlightAware alert in Epstein's files.",
-            "evidence": [
-              {
-                "file": "EFTA02212867.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM (GLF5) departed Palm Beach Intl (KPBI) at 12:08PM EDT enroute to Teterboro",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212867.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212867",
-            "file": "EFTA02212867.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.985245,
           40.744633
         ]
@@ -29342,212 +29407,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.978194,
-          40.756351
-        ]
-      },
-      "properties": {
-        "id": "62bd015c5d8141d7",
-        "name": "Core Club",
-        "location_name": "Core Club",
-        "location_address": "575 5th Avenue, New York City, New York 10017, United States",
-        "location_description": "An exclusive private members club located at 575 Fifth Avenue in Midtown Manhattan, New York City, offering dining, wellness, and business services to an invitation-only membership.",
-        "canonical_name": "Core Club, 575 Fifth Avenue, New York, NY 10017, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Core Club",
-        "location_descriptor": "An exclusive private members club located at 575 Fifth Avenue in Midtown Manhattan, New York City, offering dining, wellness, and business services to an invitation-only membership.",
-        "event_count": 1,
-        "evidence_count": 2,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-19",
-        "date_end": "2017-05-19",
-        "people": [
-          {
-            "name": "Jojo Fontanilla",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Leon Black",
-            "role": "associate"
-          },
-          {
-            "name": "Anne",
-            "role": "other"
-          },
-          {
-            "name": "Hardeep",
-            "role": "associate"
-          },
-          {
-            "name": "Barry Cohen",
-            "role": "associate"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02213425.pdf, EFTA02213484.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "An exclusive private members club located at 575 Fifth Avenue in Midtown Manhattan, New York City, offering dining, wellness, and business services to an invitation-only membership.",
-        "events": [
-          {
-            "event_id": "458a087966247594",
-            "event_title": "Epstein Appointment with Anne at Dangene (Core Club, 575 5th Ave), May 19, 2017",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein had an 11:30am appointment with Anne at Dangene (luxury skincare/beauty treatment) located at the Core Club, 575 Fifth Avenue, New York, on May 19, 2017.",
-            "date_start": "2017-05-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jojo Fontanilla",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Leon Black",
-                "role": "associate"
-              },
-              {
-                "name": "Anne",
-                "role": "other"
-              },
-              {
-                "name": "Hardeep",
-                "role": "associate"
-              },
-              {
-                "name": "Barry Cohen",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's driver Jojo was to take him to this appointment confirming his physical presence at the Core Club on May 19, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02213425.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "11:30am Appt w/Anne at Dangene'\nCORE CLUB 575 5th Ave\nJOJO TO DRIVE YOU",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213425.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213484.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "JOJO YOU WILL DRIVE JE to his appt. Be outside ready to go at 10:45am with the car.\n8:30am BREAKFAST w/Leo\u25ba\u25ba Black\n10:00am Appilv/Barry Cohen\n10:30am Appt w/Hardeep\n11:30am Appt w/Anne at Dangene's\nCORE CLUB 575 5th Ave",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213484.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213425",
-            "file": "EFTA02213425.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213484",
-            "file": "EFTA02213484.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.838361,
-          17.899586
-        ]
-      },
-      "properties": {
-        "id": "5f2133dc691c9241",
-        "name": "Gustaf III Airport",
-        "location_name": "Gustaf III Airport",
-        "location_address": "Saint-Jean, Saint Barth\u00e9lemy",
-        "location_description": "A small regional airport on the island of Saint-Barth\u00e9lemy in the French Caribbean, known for its short runway and challenging approach over a hillside.",
-        "canonical_name": "Gustaf III Airport, St. Jean, Saint-Barth\u00e9lemy, Caribbean, Saint-Jean, Saint Barth\u00e9lemy",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Gustaf III Airport",
-        "location_descriptor": "A small regional airport on the island of Saint-Barth\u00e9lemy in the French Caribbean, known for its short runway and challenging approach over a hillside.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-26",
-        "date_end": "2017-05-26",
-        "people": [
-          {
-            "name": "OUVRE/KEVIN",
-            "role": "other"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02213455.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "A small regional airport on the island of Saint-Barth\u00e9lemy in the French Caribbean, known for its short runway and challenging approach over a hillside.",
-        "events": [
-          {
-            "event_id": "fe1390d08f7e3850",
-            "event_title": "Kevin Ouvre Departs St. Barth (Gustavia) to San Juan on Tradewind TJ 111, May 26, 2017",
-            "event_type": "travel",
-            "description": "Kevin Ouvre departed from Gustavia (Gustaf III Airport, St. Barth) to San Juan on Tradewind Aviation flight TJ 111 at 10:00am on May 26, 2017, en route to St. Thomas for Epstein's island work.",
-            "date_start": "2017-05-26",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "OUVRE/KEVIN",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Kevin Ouvre's travel was booked by Lesley Groff via Epstein's Amex Centurion account to execute work directed by Jeffrey Epstein at his USVI properties.",
-            "evidence": [
-              {
-                "file": "EFTA02213455.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "TJ 111 M Economy Class\nOrigin Gustavia, Gustaf III (St-Jean)\nDestination San Juan, Luis Munoz Mann Intl\nDeparting 10:00 AM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213455.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213455",
-            "file": "EFTA02213455.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.056804,
-          42.35888
+          -71.00978,
+          42.36555
         ]
       },
       "properties": {
