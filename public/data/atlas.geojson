@@ -39028,7 +39028,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
         "event_count": 4,
-        "evidence_count": 13,
+        "evidence_count": 16,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -39223,6 +39223,27 @@
                 "file": "EFTA02219634.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "NY STT Jul 31 AA2382 2379",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219634.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219620.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY\u2192STT booking thread Jul 31 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219620.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY\u2192STT booking thread Jul 31 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219623.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219634.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY\u2192STT booking thread Jul 31 2017",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219634.pdf",
                 "confidence": 0.7
               }
@@ -56908,12 +56929,12 @@
         "name": "Jeffrey S. Pop & Associates",
         "location_name": "Jeffrey S. Pop & Associates",
         "location_address": "Beverly Hills, California, United States",
-        "location_description": "A Beverly Hills, California law firm specializing in vaccine injury and personal injury cases, located in the 90212 zip code area of Beverly Hills.",
+        "location_description": "A Beverly Hills, California law firm specializing in personal injury and vaccine injury litigation, located near Wilshire Boulevard in the 90212 zip code.",
         "canonical_name": "Beverly Hills, California, 90212",
         "region": "",
         "property_type": "event",
         "display_name": "Jeffrey S. Pop & Associates",
-        "location_descriptor": "A Beverly Hills, California law firm specializing in vaccine injury and personal injury cases, located in the 90212 zip code area of Beverly Hills.",
+        "location_descriptor": "A Beverly Hills, California law firm specializing in personal injury and vaccine injury litigation, located near Wilshire Boulevard in the 90212 zip code.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -56935,7 +56956,7 @@
         "sources_preview": "EFTA00074301.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
-        "event_description": "A Beverly Hills, California law firm specializing in vaccine injury and personal injury cases, located in the 90212 zip code area of Beverly Hills.",
+        "event_description": "A Beverly Hills, California law firm specializing in personal injury and vaccine injury litigation, located near Wilshire Boulevard in the 90212 zip code.",
         "events": [
           {
             "event_id": "78703d01ebbf735c",
@@ -56992,12 +57013,12 @@
         "name": "Panish Shea & Boyle LLP",
         "location_name": "Panish Shea & Boyle LLP",
         "location_address": "11111 Santa Monica Boulevard, Los Angeles, California 90025, United States",
-        "location_description": "A prominent Los Angeles plaintiffs's law firm located at 11111 Santa Monica Boulevard in West Los Angeles, specializing in catastrophic injury and wrongful death cases.",
+        "location_description": "A major Los Angeles plaintiffs law firm at 11111 Santa Monica Boulevard in West Los Angeles, known for high-profile catastrophic injury and wrongful death cases.",
         "canonical_name": "11111 Santa Monica Blvd Suite 700, Los Angeles, CA 90025, California",
         "region": "",
         "property_type": "event",
         "display_name": "Panish Shea & Boyle LLP",
-        "location_descriptor": "A prominent Los Angeles plaintiffs's law firm located at 11111 Santa Monica Boulevard in West Los Angeles, specializing in catastrophic injury and wrongful death cases.",
+        "location_descriptor": "A major Los Angeles plaintiffs law firm at 11111 Santa Monica Boulevard in West Los Angeles, known for high-profile catastrophic injury and wrongful death cases.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -57019,7 +57040,7 @@
         "sources_preview": "EFTA00074360.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
-        "event_description": "A prominent Los Angeles plaintiffs's law firm located at 11111 Santa Monica Boulevard in West Los Angeles, specializing in catastrophic injury and wrongful death cases.",
+        "event_description": "A major Los Angeles plaintiffs law firm at 11111 Santa Monica Boulevard in West Los Angeles, known for high-profile catastrophic injury and wrongful death cases.",
         "events": [
           {
             "event_id": "339a2f6e67a18eb2",
