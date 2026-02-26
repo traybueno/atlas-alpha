@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 60,
-        "evidence_count": 174,
+        "event_count": 61,
+        "evidence_count": 221,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -54,12 +54,32 @@
             "role": "other"
           },
           {
+            "name": "Mariel Colon",
+            "role": "legal"
+          },
+          {
+            "name": "Michael Mirer",
+            "role": "legal"
+          },
+          {
+            "name": "Efrain Reyes",
+            "role": "present"
+          },
+          {
+            "name": "Inmate Reyes #85993-054",
+            "role": "other"
+          },
+          {
             "name": "I",
             "role": "legal"
           },
           {
             "name": "two staffers",
             "role": "staff"
+          },
+          {
+            "name": "[redacted] BOP nurse/medic",
+            "role": "other"
           },
           {
             "name": "Palm Beach School District",
@@ -208,10 +228,14 @@
           {
             "name": "Lisa Rocchio",
             "role": "witness"
+          },
+          {
+            "name": "his attorney (palm beach one)",
+            "role": "legal"
           }
         ],
-        "source_count": 125,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+120 more)",
+        "source_count": 169,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+164 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -450,6 +474,76 @@
                 "excerpt": "Inmate is being placed on Psych Observation.\nPsych Observation\n1. Epstein #76318-054",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00057410.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058414.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "BOP Memorandum dated July 23, 2019, regarding Suicide Attempt Inmate Epstein Number 76318-054... BOP Memorandum dated July 23, 2019, regarding Incident on 9 South",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058414.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058414.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "BOP Health Services, Health Screen, Inmate: Epstein, Jeffrey Edward, Encounter Date: July 6, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058414.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058499.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 23, 2019 at approximately 1:27 am I responded to a body alarm on 9 south. While the SHU officer was conducted rounds inmate Epstein # 76318-054 was found in his cell with a noose around his neck and appeared to be unresponsive. I assisted by taking inmate Epstein #76318-054 from his cell and putting him on a stretcher the inmate was then taken to the second floor to be medically assessed. Moments after inmate Epstein became responsive.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058499.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058501.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054\nEncounter Date: 07/23/2019 06:20 Provider: Unit: H01\nInjury Assessment - Non-work related encounter performed at Health Services.\nWhere Did Injury Happen (Be specific as to location): Special Housing Unit 205-Cell 124 L\nCause of Injury (Inmate's Statement of how injury occurred): \"I do not know. Just went to drink a little water and wake up snorting\".",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058501.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058507.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Inmate Name: EPSTEIN, JEFFREY EDWARD Reg #: 76318-054\nEncounter Date: 07/24/2019 13:08 Provider. MLP Unit: H01\nMid Level Provider - Follow up Visit encounter performed at Receiving & Discharge.\nSubjective: I still do not want to talk about. But, between you and me. I think my room male had to do with what happened to me. Do not ask me. I am not going to say anything.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058507.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058497.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 23, 2019 at approx. 1:27 a.m., a call for assistance on the Special Housing Unit was announced. I observed inmate Epstein, Jeffrey #76318-054 lying in the fetal position on the floor of his cell, Z05-124LAD. His neck was red. The inmate was taken to HA-Unit, dressed in the suicide smock and placed on suicide watch.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058497.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058685.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Completed the PSIQ for Jeffrey Epstein on July 8, 2019. Epstein did not mark anything on his PSIQ... consulted with Dr. about Epstein's risk factors... ordered he be placed on watch status... that was July 8th, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058685.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059375.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7.6.19- Epstein Arrives and is placed in GP (on a Saturday)\n7.19 \u2014Dr. Imeri \u2014Suicide Risk Assessment\u2014 Epstein placed on SW after a string was found loosely hanging from around his neck.\n8.10.19 - Found Unresponsive and Hanging in SHU at 6:30 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059375.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059564.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Handwritten document describing a BOP Psychology Observation log for Epstein (Registration #76318-054), observation started July 24, 2019 at MCC New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059564.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059857.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Prisoner Name: EPSTEIN, JEFFREY EDWARD. Prisoner Number: 76318-054. Offense: 18 USC 371 SEX TRAFFICKING CONSPIRACY. Alerts: MTL Mental Concerns Suicidal Tendencies. Date: 7/8/19",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059857.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -574,12 +668,28 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Mariel Colon",
+                "role": "legal"
+              },
+              {
                 "name": "Tova Noel",
                 "role": "other"
               },
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Michael Mirer",
+                "role": "legal"
+              },
+              {
+                "name": "Efrain Reyes",
+                "role": "present"
+              },
+              {
+                "name": "Inmate Reyes #85993-054",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -724,6 +834,55 @@
                 "excerpt": "EPSTEIN had an attorney session that day. EPSTEIN'S attorney was processed into the facility in the morning and EPSTEIN was brought down to the attorney room.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039972.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058522.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The interview is being conducted at FCI Danbury in the training center... BOP correctional officer... on August 9th, the shift from 4:00 to 10:00... on August 10th. I was SHU2... because that happened with Epstein, attorney conference was canceled.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058522.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059382.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I spoke to two of his attorneys yesterday, August 9, 2019, primarily in relation to his request for access to water in attorney conference. Attorney Mariel Colon... asked whether we would consider housing him in the Cadre... Attorney Michael Mirer on the phone. He had asked whether we could house Mr. Epstein alone in SHU, to which I replied that we could not based on his prior suicide attempt/gesture.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059382.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059392.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The following prisoners are to be transferred:\nReyes, Efrain 85993-054\nPlease schedule the transfer for Friday 8/9/19.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059392.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059398.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "85993-054 REYES, EFRAIN - PRE REMOVE 08-09-2019 0836 MCC New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059398.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059400.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On Friday August 9, 2019 at approximately [time] on to oncoming staff member... That Inmate Reyes #85993-054 was going WAB and possibly may not return. Also that Inmate Epstein #76318-054 will be needing a cell mate upon arrival from his attorney visit.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059400.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059591.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reyes was pre-removed at 8:35 a.m. on August 9... Reyes, Efrain. Please schedule the transfer for Friday, 8/9/2019... Reyes transferred from the MCC to GEO... Epstein was going to attorney [conference].",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059591.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059903.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On Friday August 9. 2019 at approximately 1:50 [AM] on to oncoming staff...That Inmate Reyes #85993-054 was going WAB and possibly may not return. Also that Inmate Epstein #76318-054 will be needing a cell mate upon arrival from his attorney visit.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059903.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -856,6 +1015,10 @@
               {
                 "name": "Michael Thomas",
                 "role": "other"
+              },
+              {
+                "name": "[redacted] BOP nurse/medic",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -901,6 +1064,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "NOEL and THOMAS discovered the body of an MCC inmate, Jeffrey Epstein, who had committed suicide overnight while unobserved.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017915.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059899.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On August 10, 2019 at approximately 1430 hours, the reporting investigator did interview BOP nurse/medic on the 9th floor outside of the \"L\" tier. informed that...he remembers getting the call regarding EPSTEIN at 0633 via an alarm broadcast over the radios. informed he arrived at the cell at 0635 hours and observed BOP guards inside and administering CPR. checked EPSTEIN for vitals and detected no pulse and no sign of life...stated the ligature was still around EPSTEIN's neck.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059899.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1243,6 +1413,13 @@
                 "excerpt": "Monday\u2014 Bail hearing for Epstein, 10am before Judge Berman",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018270.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059872.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Inmate Personal Property Record 7-15-2019\nEpstein TRUSCOPE all log\nMCC New York\n150 Park Row\nNew York NY 10007",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059872.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -1308,6 +1485,34 @@
                 "source_type": "doj_efta",
                 "excerpt": "0001 ATTY 76318-054 EPSTEIN 07-24-2019 U01-001L UNASSG\n0002 78514-054 TARTAGLIONE 07-24-2019 Z06-215UAD UNASSG",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00049963.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058495.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On the above date at approx. I:27am While working in the Special Housing Unit...Tartaglione #78514-05 sr door stating I/M Epstein #76318-054 had attempted to hang himself...removed an orange homemade rope from his neck. I/M was breathing at this time, But unresponsive.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058495.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058496.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 23, 2019 at approximately 1:27 AM while assigned to the Special Housing Unit, myself and heard some noises coming from M Tier. Upon checking cell Z05-124 I observed inmate Epstein reg# 76318-054 laying down near his bunk with what appeared to be a piece of handmade orange cloth around his neck.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058496.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058500.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "An interview was conducted with inmate Tartaglione today on July 23, 2019, at 2:50 pm based on an incident that occurred with his cellmate Epstein, Jeffrey Edward #76318-054. During the interview inmate Tartaglione stated it was past midnight. He was sleeping on the floor. He felt something hit his foot. He woke up and observed inmate Epstein sitting on the ground staring at him.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058500.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059394.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 23, 2019 at approx. 1:27 a.m.. a call for assistance on the Special Housing Unit was announced by the Control Center... I observed inmate Epstein, Jeffrey #76318-054 lying in the fetal position on the floor of his cell wearing a t-shirt and boxers... His neck was red with no abrasions... inmate Epstein stated... Tartaglione stated that he sleeps on the bottom bunk, but gave it to inmate Epstein because he's old.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059394.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1659,6 +1864,153 @@
                 "source_type": "doj_efta",
                 "excerpt": "8.10.19 - Found Unresponsive and Hanging in SHU at 6:30 a.m. (10 days after his removal from a constant observation)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00055963.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058414.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "BOP Form 583 Report of Incident, Incident Number NYM-19-0082... BOP Memorandum dated August 10, 2019, regarding Medical Emergency Unit (CA)... dated August 10, 2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058414.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058519.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Inmate Epstein #76318-054 is being taken off of Psych Observation and needs to be housed with an appropriate cellmate.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058519.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058516.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The DHO Hearing was held on (date) 08-01-2019 at (time) 09:55 a.m.\nThe DEO EXPUNGED the incident report based upon a review of all available evidence submitted in the DEO Packet in reference to this incident report by MCC New York, New York staff, during the DEO Review/Hearing on August 1, 2019. Inmate Epstein, Jeffrey Register Number.: 76318-054 was present during this review by the DEO.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058516.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058520.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: Epstein, Jeffrey Edward, Reg. No. 73618-054 information\nDate: Saturday, August 10, 2019 4:35:59 PM\nMCC New York\n150 Park Row\nNew York NY 10007",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058520.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058660.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Administrative Detention (AD) Order 7/29/19... Psychology Observation Log books 7/8-10/19 and 7/24-30/19... Suicide Watch Chronological log 7/23 & 24/19... Lt's log Friday, 8/9/19",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058660.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Inmate Epstein #76318-054 is being taken off of Psych Observation and needs to be housed with an appropriate cellmate.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058663.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059372.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thank you for supporting our scheduling of the Psychological Reconstruction for inmate Epstein. I will be joined by...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059372.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059383.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On August 21, 2019 at approximately 0845 hours the undersigned, along with Special Agent of the Office of the Inspector General, Special Agent of the Federal Bureau of Investigation... did interview Federal Bureau of Prisons Psychiatrist Doctor... at the Southern District of NY.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059383.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059385.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Handwritten document describing attorney conference visit logs at MCC New York for the period around August 10, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059385.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059389.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "So far this is the documentation I have in my possession.\nMCC New York\n150 Park Row",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059389.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059393.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On August 14, 2019, a team of staff will arrive at MCC New York to perform an After Action Review, on the apparent suicide of Inmate Jeffrey Epstein Reg. No. 76318-054.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059393.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059406.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I visited inmate Epstein in SHU on Thursday Aug 8, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059406.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059655.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The National Suicide Prevention Coordinator from Central Office, Dr. M, contacted me today about Epstein. He thought that housing him with another sex offender in SHU would be a good idea... I am heading to the hospital in about a half an hour or so.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059655.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059656.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "BUREAU OF PRISONS COUNT SHEET... NEW YORK MCC... 08-10-2019... 01:20:48... H-A 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059656.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059667.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "USMS Prisoner Schedule Report... NY/S 500 PEARL ST (MANHATTAN)... MCC New York (54)... 07/31/2019... SEARLES, JARED... DURANT, LAVELL",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059667.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059841.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: Phone Log Epstein.\nDate: Sat, 10 Aug 2019 19:36:47 +0000",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059841.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059842.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing MCC New York daily activities report and operations log for August 9, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059842.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059858.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Lieutenant's log and daily activity log for Saturday August 9... Sunday, August 11, 2019 6:15:28 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059858.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059883.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing MCC New York Daily Activity Report and Lieutenant's Log for Friday August 9, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059883.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059892.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "METROPOLITAN CORRECTIONAL CENTER\nNew York, NY 10007\nM/W Operations Lieutenant\nSUBJECT: Daily Activity Report",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059892.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059888.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On Sat, Aug 10, 2019, at approximately 0633, I responded to medical emergency 9S. Inmate EPSTEIN, J. Reg #76318-054 was found on floor unresponsive with CPR in progress. Inmate was Cold, with circumferential Bruising around neck. Pupils Fixed and dilated. EMS called 0635, arrived 0656. Inmate transported to Local ER with CPR at 0710.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059888.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2319,6 +2671,13 @@
                 "excerpt": "Justice Dept. to Close Troubled Jail Where Jeffrey Epstein Died The 233 people being held at the Metropolitan Correctional Center will be moved, at least temporarily, while officials address conditions there.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015646.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059381.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On September 1, 2021, Senior Special Agent... conducted a voluntary interview of Lieutenant, Federal Bureau of Prisons (BOP), Metropolitan Correctional Center (MCC) New York, New York, within the MCC New York... was an MCC New York staff member assigned to the MCC New York Special Housing Unit on August 9, 2019, the day before Epstein was found unresponsive within his cell at the MCC New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059381.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -2781,6 +3140,44 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "1780d0b01ca70223",
+            "event_title": "Epstein Arrives at MCC New York, Placed in General Population (Jul 6, 2019)",
+            "event_type": "presence",
+            "description": "Epstein arrived at MCC New York on July 6, 2019 and attorney conference sessions July 6-11.",
+            "date_start": "2019-07-06",
+            "date_end": "2019-07-11",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "his attorney (palm beach one)",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein physically at MCC New York July 6-11.",
+            "evidence": [
+              {
+                "file": "EFTA00058857.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7.6.19- Epstein Arrives and is placed in GP (on a Saturday)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058857.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00058857.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7.11.19- Saw him in Attorney Conference area",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058857.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -2905,6 +3302,51 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00058414",
+            "file": "EFTA00058414.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058499",
+            "file": "EFTA00058499.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058501",
+            "file": "EFTA00058501.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058507",
+            "file": "EFTA00058507.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058497",
+            "file": "EFTA00058497.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058685",
+            "file": "EFTA00058685.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059375",
+            "file": "EFTA00059375.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059564",
+            "file": "EFTA00059564.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059857",
+            "file": "EFTA00059857.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00008744",
             "file": "EFTA00008744.pdf",
             "source_type": "doj_efta"
@@ -2990,6 +3432,41 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00058522",
+            "file": "EFTA00058522.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059382",
+            "file": "EFTA00059382.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059392",
+            "file": "EFTA00059392.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059398",
+            "file": "EFTA00059398.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059400",
+            "file": "EFTA00059400.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059591",
+            "file": "EFTA00059591.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059903",
+            "file": "EFTA00059903.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00009791",
             "file": "EFTA00009791.pdf",
             "source_type": "doj_efta"
@@ -3037,6 +3514,11 @@
           {
             "doc_id": "EFTA00017786",
             "file": "EFTA00017786.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059899",
+            "file": "EFTA00059899.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -3130,6 +3612,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00059872",
+            "file": "EFTA00059872.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00016763",
             "file": "EFTA00016763.pdf",
             "source_type": "doj_efta"
@@ -3142,6 +3629,26 @@
           {
             "doc_id": "EFTA00049963",
             "file": "EFTA00049963.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058495",
+            "file": "EFTA00058495.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058496",
+            "file": "EFTA00058496.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058500",
+            "file": "EFTA00058500.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059394",
+            "file": "EFTA00059394.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -3212,6 +3719,106 @@
           {
             "doc_id": "EFTA00040927",
             "file": "EFTA00040927.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058519",
+            "file": "EFTA00058519.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058516",
+            "file": "EFTA00058516.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058520",
+            "file": "EFTA00058520.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058660",
+            "file": "EFTA00058660.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058663",
+            "file": "EFTA00058663.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059372",
+            "file": "EFTA00059372.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059383",
+            "file": "EFTA00059383.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059385",
+            "file": "EFTA00059385.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059389",
+            "file": "EFTA00059389.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059393",
+            "file": "EFTA00059393.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059406",
+            "file": "EFTA00059406.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059655",
+            "file": "EFTA00059655.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059656",
+            "file": "EFTA00059656.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059667",
+            "file": "EFTA00059667.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059841",
+            "file": "EFTA00059841.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059842",
+            "file": "EFTA00059842.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059858",
+            "file": "EFTA00059858.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059883",
+            "file": "EFTA00059883.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059892",
+            "file": "EFTA00059892.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059888",
+            "file": "EFTA00059888.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -3335,6 +3942,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00059381",
+            "file": "EFTA00059381.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015659",
             "file": "EFTA00015659.pdf",
             "source_type": "doj_efta"
@@ -3407,6 +4019,11 @@
           {
             "doc_id": "EFTA00018552",
             "file": "EFTA00018552.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00058857",
+            "file": "EFTA00058857.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -14310,6 +14927,729 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.003979,
+          40.660308
+        ]
+      },
+      "properties": {
+        "id": "51ca0d23dd017391",
+        "name": "Metropolitan Detention Center Brooklyn",
+        "location_name": "Metropolitan Detention Center Brooklyn",
+        "location_address": "80 29th Street, Brooklyn, New York 11232, United States",
+        "location_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
+        "canonical_name": "Metropolitan Detention Center, 80 29th Street, Brooklyn, NY, New York City, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Metropolitan Detention Center Brooklyn",
+        "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
+        "event_count": 14,
+        "evidence_count": 31,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2020-07-06",
+        "date_end": "2021-11-13",
+        "people": [
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Bobbi C. Sternheim",
+            "role": "legal"
+          },
+          {
+            "name": "Enver Ruci",
+            "role": "other"
+          },
+          {
+            "name": "unidentified man",
+            "role": "other"
+          },
+          {
+            "name": "guard",
+            "role": "other"
+          },
+          {
+            "name": "Case Manager",
+            "role": "staff"
+          },
+          {
+            "name": "Assistant United States Attorney",
+            "role": "legal"
+          }
+        ],
+        "source_count": 26,
+        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+21 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
+        "events": [
+          {
+            "event_id": "43e5574594cc6dad",
+            "event_title": "Ghislaine Maxwell Held at MDC Brooklyn Amid Heating/Water Disruption (Nov 2020)",
+            "event_type": "presence",
+            "description": "Ghislaine Maxwell (prisoner #02879-509) was held in isolation at MDC Brooklyn in November 2020; defense counsel sought cell transfer due to NYC scheduled heating and water shutoff.",
+            "date_start": "2020-11-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Bobbi C. Sternheim",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Ghislaine Maxwell is Epstein primary associate, detained at MDC Brooklyn in connection with Epstein-related charges.",
+            "evidence": [
+              {
+                "file": "EFTA00039875.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I am requesting that my client - Ghislaine Maxwell (02879-509) be moved from her present isolation cell with two exterior walls to an interior cell. [...] the MDC's assessment continues to be that Ms. Maxwell's current cell is the most appropriate placement for Ms. Maxwell both for her safety and the security of the institution.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039875.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00039872.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I am informed that the NYC Dept. of Design & Construction will shut off water and heat to the MDC from 9:00 pm to 5:00 am beginning tonight until 11/21. I am requesting that my client - Ghislaine Maxwell (02879-509) be moved from her present isolation cell with two exterior walls to an interior cell.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039872.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e648209b3282dc19",
+            "event_title": "Ghislaine Maxwell Transported to Courthouse Cell Block at 5:15 AM Before Hearing (April 13, 2021)",
+            "event_type": "travel",
+            "description": "Ghislaine Maxwell arrived at court detention cell block at 5:15 AM and waited until 8:30 AM before being brought to the fifth floor for a court proceeding.",
+            "date_start": "2021-04-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Maxwell is Epstein's key associate; her court appearances are part of the prosecution stemming directly from her involvement in Epstein's criminal enterprise.",
+            "evidence": [
+              {
+                "file": "EFTA00009831.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "She arrived today at \u2014 5:15 am and remained idle in the cell block until \u2014 8:30 am when she was brought to the fifth floor.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009831.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "58cca8e052172bc4",
+            "event_title": "Ghislaine Maxwell Held at Metropolitan Detention Center, Brooklyn, NY",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell was detained at the Metropolitan Detention Center in Brooklyn, NY during the Maxwell trial preparation period.",
+            "date_start": "2020-12-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell was detained at MDC while awaiting trial for crimes she allegedly committed as Epstein's associate.",
+            "evidence": [
+              {
+                "file": "EFTA00010199.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "replacement drive for Ghislaine Maxwell, which should arrive at the MDC tomorrow",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010199.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00010211.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "replacement drive for Ghislaine Maxwell, which should arrive at the MDC tomorrow",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010211.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00011142.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "recent conditions are that yesterday she was whisked out of area she spends the day in; she asked what was going on; said they were giving her a test; she wanted to speak to her lawyers before the test; she was told if she did not take the test, she would be put in SHU for 21 days; if she did take the test, would be in SHU for 14 days; then given 2 COVID tests",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00011142.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00017813.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "This morning, I hand delivered a copy of this production and a laptop to the MDC for Ms. Maxwell. My understanding from the MDC is that Ms. Maxwell will be permitted to use this laptop and a power cord to review her discovery drives.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017813.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00017813.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I have asked MDC staff to provide Ms. Maxwell with the drive containing the November 9th discovery production and will follow up with them again about it.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017813.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00017821.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ms. Maxwell is currently in quarantine due to contact with a staff member, assigned to her isolation pod, who tested positive for COVID-19",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017821.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00015908.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ms. Maxwell is ordered to remain in specific locations within her isolation cell to accommodate capture on the handheld camera, restricting her use of an already small confinement area.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015908.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00015908.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "She is invasively surveilled while showering.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015908.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00018016.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On December 4, 2020, the Court received a letter from MDC legal counsel responding to the concerns that the Defendant raised in her November 24, 2020 letter... the Government shall continue to submit written status updates detailing any material changes to the conditions of Ms. Maxwell's confinement",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018016.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00015911.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ms. Maxwell is ordered to remain in specific locations within her isolation cell to accommodate capture on the handheld camera, restricting her use of an already small confinement area.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015911.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00015911.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "She is invasively surveilled while showering.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015911.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00015913.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "last evening (12/29), Ms. Maxwell was instructed by guards not to stand on either corner of her isolation cell, not to stand to the left or right of the toilet and sink, and not to stand within 2.5 feet of the door to the cell. She was told that if she did not comply with this directive,she would receive a disciplinary sanction.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015913.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00040347.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We renew our request that Warden respond directly to the Court and counsel and explain why Ms. Maxwell must be detained under such harsh and restrictive conditions.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040347.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cb51e6057557aefb",
+            "event_title": "Attorney Sternheim Deposits Legal Mail at MDC East Building for Maxwell",
+            "event_type": "presence",
+            "description": "Attorney Bobbi Sternheim deposited legal mail in a manila envelope in the East Building legal mailbox at MDC while being escorted to the lobby by a male guard, intended for her client Ghislaine Maxwell who was detained at the facility.",
+            "date_start": "2021-10-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              },
+              {
+                "name": "Bobbi C. Sternheim",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This involves Ghislaine Maxwell, Epstein's key associate, while she was detained pending trial related to the Epstein case.",
+            "evidence": [
+              {
+                "file": "EFTA00015129.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ms. Maxwell still has not received the legal mail (a properly addressed manila envelope) that I deposited in the East Building legal mailbox on Saturday 10/2 shortly after 3 pm while I was escorted to the lobby by a male guard.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015129.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c76bcaf9eb1781ed",
+            "event_title": "Discovery CD Delivery to Maxwell at MDC",
+            "event_type": "presence",
+            "description": "Federal prosecutors arranging to send discovery production materials on CD to Ghislaine Maxwell who is detained at the Metropolitan Detention Center in Brooklyn",
+            "date_start": "2021-10-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This involves Ghislaine Maxwell, Epstein's close associate, receiving materials in her criminal case related to Epstein charges.",
+            "evidence": [
+              {
+                "file": "EFTA00015185.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We will send a CD with the new production to the MDC for Ms. Maxwell.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015185.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6fbfdc46db06edfb",
+            "event_title": "Maxwell Discovery Review Meeting Scheduled at MDC with Attorney Present",
+            "event_type": "presence",
+            "description": "Ghislaine Maxwell scheduled to meet with attorney at Metropolitan Detention Center for discovery review, with FBI agents arriving at 7:45am and attorney at 8am; Ghislaine Maxwell scheduled to review sensitive discovery materials on secure laptop at Metropolitan Detention Center from 8am to 3pm with FBI agents present",
+            "date_start": "2020-10-16",
+            "date_end": "2020-10-20",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Ghislaine Maxwell was Jeffrey Epstein's longtime associate and this relates to her criminal case connected to the Epstein investigation.",
+            "evidence": [
+              {
+                "file": "EFTA00015217.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We are confirmed for Tuesday 10/20. The attorney will be present with Maxwell for the review. The attorney is scheduled to arrive at 8am, so the MDC asked that you two please arrive at 7:45 and ask for the Captain",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015217.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00015217.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I've informed who is legal counsel at the MDC, that you two will be bringing the secure laptop to the MDC tomorrow for Maxwell to review from 8am to 3pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015217.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00040548.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We are confirmed for Tuesday 10/20. The attorney will be present with Maxwell for the review. The attorney is scheduled to arrive at 8am, so the MDC asked that you two please arrive at 7:45 and ask for the Captain, so that the Captain can go over the logistics with you.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040548.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8d80ddc4da5a6f24",
+            "event_title": "Enver Ruci Attempts Unauthorized Legal Visit with Ghislaine Maxwell at MDC",
+            "event_type": "presence",
+            "description": "Enver Ruci attempted to conduct an unauthorized legal visit with Ghislaine Maxwell at MDC Brooklyn, filling out a legal visitor form, but was denied access by the officer who stated she had no information on the individual he was looking to visit.",
+            "date_start": "2021-04-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Enver Ruci",
+                "role": "other"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The event involves Ghislaine Maxwell, Epstein's close associate, but does not directly involve Epstein himself.",
+            "evidence": [
+              {
+                "file": "EFTA00015641.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On April 22, 2021, the USMS received a notification from the MDC informing us that an individual Identified as Enver Ruci attempted to visit Ghislaine Maxwell. According to the officer, Ruci stated that he wanted a legal visit with MAXWELL and filled out a visitor form that is normally reserved for official legal visitors.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015641.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e27c4530909eff8c",
+            "event_title": "Unidentified Man Photographs Maxwell in MDC Isolation Cell",
+            "event_type": "presence",
+            "description": "An unidentified man entered Maxwell's isolation cell to take photographs while a guard conducted a search, violating quarantine protocols",
+            "date_start": "2020-11",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              },
+              {
+                "name": "unidentified man",
+                "role": "other"
+              },
+              {
+                "name": "guard",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell was physically present in her cell when these individuals entered during her detention on Epstein-related charges",
+            "evidence": [
+              {
+                "file": "EFTA00017821.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "an unidentified man entered to take photographs and a guard entered to search",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017821.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "08d573dc4bd25037",
+            "event_title": "Maxwell Detained at MDC Brooklyn Pending Motion for General Population",
+            "event_type": "presence",
+            "description": "Ghislaine Maxwell was detained at Metropolitan Detention Center Brooklyn while defense filed motion for release to general population or improved detention conditions for discovery review",
+            "date_start": "2020-08-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell was Epstein's close associate and this detention relates directly to charges connected to Epstein's criminal enterprise.",
+            "evidence": [
+              {
+                "file": "EFTA00017830.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "defense motion to have Maxwell released to the general population at MDC, or at least to be detained under conditions they say would allow her greater access to a computer and the opportunity to review discovery materials",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017830.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00040457.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ghislaine Maxwell, Reg. No. 02579,509...an inmate currently confined at the Metropolitan Detention center in Brooklyn, New York...Since August 3, 2020, Ms. Maxwell has been able to purchase items from the full commissary list.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040457.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0d22215208960aaf",
+            "event_title": "Maxwell Reports VTC Interference to MDC Staff During Legal Call",
+            "event_type": "presence",
+            "description": "Ghislaine Maxwell observed suspicious activity on VTC monitor during legal video conference and alerted MDC staff, with Case Manager witnessing the interference",
+            "date_start": "2021-09-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Case Manager",
+                "role": "staff"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell was Epstein's close associate and this event involves her direct physical presence and actions at the detention facility.",
+            "evidence": [
+              {
+                "file": "EFTA00017847.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "At the conclusion of yesterday afternoon's VTC session, Ms. Maxwell observed suspicious activity on the VTC monitor. She alerted MDC staff, and Case Manager witnessed the activity.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017847.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7a1554808b8e6474",
+            "event_title": "USAO Sends Discovery Files CD to Maxwell at MDC via FedEx",
+            "event_type": "presence",
+            "description": "U.S. Attorney's Office sent replacement discovery files on CD to Ghislaine Maxwell at Metropolitan Detention Center via FedEx overnight delivery with password protection.",
+            "date_start": "2020-10-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              },
+              {
+                "name": "Assistant United States Attorney",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell was Epstein's close associate and this relates to her criminal case connected to Epstein's activities.",
+            "evidence": [
+              {
+                "file": "EFTA00018262.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Today our office sent a CD with some replacement discovery files to the MDC for Ghislaine Maxwell via FedEx overnight delivery.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018262.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ebeaa87486cfac77",
+            "event_title": "Maxwell Receives Replacement Drive at MDC Brooklyn (Dec 2020)",
+            "event_type": "presence",
+            "description": "Ghislaine Maxwell was given access to a replacement drive at Metropolitan Detention Center Brooklyn after breaking her previous drive, with correspondence between DOJ attorneys and prison staff coordinating the delivery",
+            "date_start": "2020-12-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell is directly connected to the Epstein case as a co-conspirator and was physically present at MDC receiving the replacement drive.",
+            "evidence": [
+              {
+                "file": "EFTA00016457.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Today our office is sending via FedEx a replacement drive for Ghislaine Maxwell, which should arrive at the MDC tomorrow. This drive will replace the drive that Maxwell recently dropped and broke",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016457.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2f01ce8667f646b1",
+            "event_title": "Maxwell Detained at MDC Under Special Conditions",
+            "event_type": "travel",
+            "description": "Ghislaine Maxwell arrived at the Metropolitan Detention Center where she has been held in isolation under special surveillance conditions for over a month",
+            "date_start": "2020-07-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell was personally detained at MDC on charges related to Jeffrey Epstein case.",
+            "evidence": [
+              {
+                "file": "EFTA00018572.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Since arriving at the MDC over a month ago, on July 6, 2020, Ms. Maxwell has been held under uniquely onerous conditions.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018572.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cc8a63b7aebdc635",
+            "event_title": "Ghislaine Maxwell Gives First Public Interview from MDC Brooklyn to Daily Mail (Nov 13, 2021)",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell gave her first public interview from MDC Brooklyn to a Daily Mail reporter in November 2021, speaking from behind bars while awaiting her sex trafficking trial",
+            "date_start": "2021-11-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Maxwell/Epstein connection",
+            "evidence": [
+              {
+                "file": "EFTA00040460.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ghislaine Maxwell speaks from behind bars for the first time in the Mail on Sunday | Daily Mail Online... a Daily Mail reporter somehow got an interview with her. Date: Sat, 13 Nov 2021",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040460.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00040461.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The article suggests a fuller interview is coming out tomorrow or Monday. Would you mind sending that along if you see it, please? Date: Sat, 13 Nov 2021",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040461.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00039875",
+            "file": "EFTA00039875.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00039872",
+            "file": "EFTA00039872.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00009831",
+            "file": "EFTA00009831.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010199",
+            "file": "EFTA00010199.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00010211",
+            "file": "EFTA00010211.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00011142",
+            "file": "EFTA00011142.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00017813",
+            "file": "EFTA00017813.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00017821",
+            "file": "EFTA00017821.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015908",
+            "file": "EFTA00015908.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00018016",
+            "file": "EFTA00018016.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015911",
+            "file": "EFTA00015911.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015913",
+            "file": "EFTA00015913.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00040347",
+            "file": "EFTA00040347.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015129",
+            "file": "EFTA00015129.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015185",
+            "file": "EFTA00015185.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015217",
+            "file": "EFTA00015217.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00040548",
+            "file": "EFTA00040548.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015641",
+            "file": "EFTA00015641.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00017830",
+            "file": "EFTA00017830.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00040457",
+            "file": "EFTA00040457.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00017847",
+            "file": "EFTA00017847.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00018262",
+            "file": "EFTA00018262.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00016457",
+            "file": "EFTA00016457.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00018572",
+            "file": "EFTA00018572.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00040460",
+            "file": "EFTA00040460.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00040461",
+            "file": "EFTA00040461.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.348392,
           48.853495
         ]
@@ -14896,685 +16236,6 @@
           {
             "doc_id": "EFTA02213930",
             "file": "EFTA02213930.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.003979,
-          40.660308
-        ]
-      },
-      "properties": {
-        "id": "51ca0d23dd017391",
-        "name": "Metropolitan Detention Center Brooklyn",
-        "location_name": "Metropolitan Detention Center Brooklyn",
-        "location_address": "80 29th Street, Brooklyn, New York 11232, United States",
-        "location_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
-        "canonical_name": "Metropolitan Detention Center, 80 29th Street, Brooklyn, NY, New York City, New York",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Metropolitan Detention Center Brooklyn",
-        "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
-        "event_count": 13,
-        "evidence_count": 29,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2020-07-06",
-        "date_end": "2021-10-08",
-        "people": [
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "Bobbi C. Sternheim",
-            "role": "legal"
-          },
-          {
-            "name": "Enver Ruci",
-            "role": "other"
-          },
-          {
-            "name": "unidentified man",
-            "role": "other"
-          },
-          {
-            "name": "guard",
-            "role": "other"
-          },
-          {
-            "name": "Case Manager",
-            "role": "staff"
-          },
-          {
-            "name": "Assistant United States Attorney",
-            "role": "legal"
-          }
-        ],
-        "source_count": 24,
-        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+19 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
-        "events": [
-          {
-            "event_id": "43e5574594cc6dad",
-            "event_title": "Ghislaine Maxwell Held at MDC Brooklyn Amid Heating/Water Disruption (Nov 2020)",
-            "event_type": "presence",
-            "description": "Ghislaine Maxwell (prisoner #02879-509) was held in isolation at MDC Brooklyn in November 2020; defense counsel sought cell transfer due to NYC scheduled heating and water shutoff.",
-            "date_start": "2020-11-16",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              },
-              {
-                "name": "Bobbi C. Sternheim",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Ghislaine Maxwell is Epstein primary associate, detained at MDC Brooklyn in connection with Epstein-related charges.",
-            "evidence": [
-              {
-                "file": "EFTA00039875.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I am requesting that my client - Ghislaine Maxwell (02879-509) be moved from her present isolation cell with two exterior walls to an interior cell. [...] the MDC's assessment continues to be that Ms. Maxwell's current cell is the most appropriate placement for Ms. Maxwell both for her safety and the security of the institution.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039875.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00039872.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I am informed that the NYC Dept. of Design & Construction will shut off water and heat to the MDC from 9:00 pm to 5:00 am beginning tonight until 11/21. I am requesting that my client - Ghislaine Maxwell (02879-509) be moved from her present isolation cell with two exterior walls to an interior cell.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039872.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e648209b3282dc19",
-            "event_title": "Ghislaine Maxwell Transported to Courthouse Cell Block at 5:15 AM Before Hearing (April 13, 2021)",
-            "event_type": "travel",
-            "description": "Ghislaine Maxwell arrived at court detention cell block at 5:15 AM and waited until 8:30 AM before being brought to the fifth floor for a court proceeding.",
-            "date_start": "2021-04-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Maxwell is Epstein's key associate; her court appearances are part of the prosecution stemming directly from her involvement in Epstein's criminal enterprise.",
-            "evidence": [
-              {
-                "file": "EFTA00009831.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "She arrived today at \u2014 5:15 am and remained idle in the cell block until \u2014 8:30 am when she was brought to the fifth floor.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009831.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "58cca8e052172bc4",
-            "event_title": "Ghislaine Maxwell Held at Metropolitan Detention Center, Brooklyn, NY",
-            "event_type": "legal",
-            "description": "Ghislaine Maxwell was detained at the Metropolitan Detention Center in Brooklyn, NY during the Maxwell trial preparation period.",
-            "date_start": "2020-12-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Maxwell was detained at MDC while awaiting trial for crimes she allegedly committed as Epstein's associate.",
-            "evidence": [
-              {
-                "file": "EFTA00010199.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "replacement drive for Ghislaine Maxwell, which should arrive at the MDC tomorrow",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010199.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00010211.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "replacement drive for Ghislaine Maxwell, which should arrive at the MDC tomorrow",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010211.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00011142.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "recent conditions are that yesterday she was whisked out of area she spends the day in; she asked what was going on; said they were giving her a test; she wanted to speak to her lawyers before the test; she was told if she did not take the test, she would be put in SHU for 21 days; if she did take the test, would be in SHU for 14 days; then given 2 COVID tests",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00011142.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00017813.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "This morning, I hand delivered a copy of this production and a laptop to the MDC for Ms. Maxwell. My understanding from the MDC is that Ms. Maxwell will be permitted to use this laptop and a power cord to review her discovery drives.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017813.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00017813.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I have asked MDC staff to provide Ms. Maxwell with the drive containing the November 9th discovery production and will follow up with them again about it.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017813.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00017821.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Ms. Maxwell is currently in quarantine due to contact with a staff member, assigned to her isolation pod, who tested positive for COVID-19",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017821.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00015908.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Ms. Maxwell is ordered to remain in specific locations within her isolation cell to accommodate capture on the handheld camera, restricting her use of an already small confinement area.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015908.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00015908.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "She is invasively surveilled while showering.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015908.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00018016.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On December 4, 2020, the Court received a letter from MDC legal counsel responding to the concerns that the Defendant raised in her November 24, 2020 letter... the Government shall continue to submit written status updates detailing any material changes to the conditions of Ms. Maxwell's confinement",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018016.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00015911.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Ms. Maxwell is ordered to remain in specific locations within her isolation cell to accommodate capture on the handheld camera, restricting her use of an already small confinement area.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015911.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00015911.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "She is invasively surveilled while showering.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015911.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00015913.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "last evening (12/29), Ms. Maxwell was instructed by guards not to stand on either corner of her isolation cell, not to stand to the left or right of the toilet and sink, and not to stand within 2.5 feet of the door to the cell. She was told that if she did not comply with this directive,she would receive a disciplinary sanction.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015913.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00040347.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We renew our request that Warden respond directly to the Court and counsel and explain why Ms. Maxwell must be detained under such harsh and restrictive conditions.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040347.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "cb51e6057557aefb",
-            "event_title": "Attorney Sternheim Deposits Legal Mail at MDC East Building for Maxwell",
-            "event_type": "presence",
-            "description": "Attorney Bobbi Sternheim deposited legal mail in a manila envelope in the East Building legal mailbox at MDC while being escorted to the lobby by a male guard, intended for her client Ghislaine Maxwell who was detained at the facility.",
-            "date_start": "2021-10-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              },
-              {
-                "name": "Bobbi C. Sternheim",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "This involves Ghislaine Maxwell, Epstein's key associate, while she was detained pending trial related to the Epstein case.",
-            "evidence": [
-              {
-                "file": "EFTA00015129.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Ms. Maxwell still has not received the legal mail (a properly addressed manila envelope) that I deposited in the East Building legal mailbox on Saturday 10/2 shortly after 3 pm while I was escorted to the lobby by a male guard.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015129.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c76bcaf9eb1781ed",
-            "event_title": "Discovery CD Delivery to Maxwell at MDC",
-            "event_type": "presence",
-            "description": "Federal prosecutors arranging to send discovery production materials on CD to Ghislaine Maxwell who is detained at the Metropolitan Detention Center in Brooklyn",
-            "date_start": "2021-10-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "This involves Ghislaine Maxwell, Epstein's close associate, receiving materials in her criminal case related to Epstein charges.",
-            "evidence": [
-              {
-                "file": "EFTA00015185.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We will send a CD with the new production to the MDC for Ms. Maxwell.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015185.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6fbfdc46db06edfb",
-            "event_title": "Maxwell Discovery Review Meeting Scheduled at MDC with Attorney Present",
-            "event_type": "presence",
-            "description": "Ghislaine Maxwell scheduled to meet with attorney at Metropolitan Detention Center for discovery review, with FBI agents arriving at 7:45am and attorney at 8am; Ghislaine Maxwell scheduled to review sensitive discovery materials on secure laptop at Metropolitan Detention Center from 8am to 3pm with FBI agents present",
-            "date_start": "2020-10-16",
-            "date_end": "2020-10-20",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Ghislaine Maxwell was Jeffrey Epstein's longtime associate and this relates to her criminal case connected to the Epstein investigation.",
-            "evidence": [
-              {
-                "file": "EFTA00015217.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We are confirmed for Tuesday 10/20. The attorney will be present with Maxwell for the review. The attorney is scheduled to arrive at 8am, so the MDC asked that you two please arrive at 7:45 and ask for the Captain",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015217.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00015217.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I've informed who is legal counsel at the MDC, that you two will be bringing the secure laptop to the MDC tomorrow for Maxwell to review from 8am to 3pm.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015217.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00040548.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We are confirmed for Tuesday 10/20. The attorney will be present with Maxwell for the review. The attorney is scheduled to arrive at 8am, so the MDC asked that you two please arrive at 7:45 and ask for the Captain, so that the Captain can go over the logistics with you.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040548.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8d80ddc4da5a6f24",
-            "event_title": "Enver Ruci Attempts Unauthorized Legal Visit with Ghislaine Maxwell at MDC",
-            "event_type": "presence",
-            "description": "Enver Ruci attempted to conduct an unauthorized legal visit with Ghislaine Maxwell at MDC Brooklyn, filling out a legal visitor form, but was denied access by the officer who stated she had no information on the individual he was looking to visit.",
-            "date_start": "2021-04-22",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Enver Ruci",
-                "role": "other"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The event involves Ghislaine Maxwell, Epstein's close associate, but does not directly involve Epstein himself.",
-            "evidence": [
-              {
-                "file": "EFTA00015641.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On April 22, 2021, the USMS received a notification from the MDC informing us that an individual Identified as Enver Ruci attempted to visit Ghislaine Maxwell. According to the officer, Ruci stated that he wanted a legal visit with MAXWELL and filled out a visitor form that is normally reserved for official legal visitors.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015641.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e27c4530909eff8c",
-            "event_title": "Unidentified Man Photographs Maxwell in MDC Isolation Cell",
-            "event_type": "presence",
-            "description": "An unidentified man entered Maxwell's isolation cell to take photographs while a guard conducted a search, violating quarantine protocols",
-            "date_start": "2020-11",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              },
-              {
-                "name": "unidentified man",
-                "role": "other"
-              },
-              {
-                "name": "guard",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Maxwell was physically present in her cell when these individuals entered during her detention on Epstein-related charges",
-            "evidence": [
-              {
-                "file": "EFTA00017821.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "an unidentified man entered to take photographs and a guard entered to search",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017821.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "08d573dc4bd25037",
-            "event_title": "Maxwell Detained at MDC Brooklyn Pending Motion for General Population",
-            "event_type": "presence",
-            "description": "Ghislaine Maxwell was detained at Metropolitan Detention Center Brooklyn while defense filed motion for release to general population or improved detention conditions for discovery review",
-            "date_start": "2020-08-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Maxwell was Epstein's close associate and this detention relates directly to charges connected to Epstein's criminal enterprise.",
-            "evidence": [
-              {
-                "file": "EFTA00017830.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "defense motion to have Maxwell released to the general population at MDC, or at least to be detained under conditions they say would allow her greater access to a computer and the opportunity to review discovery materials",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017830.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00040457.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Ghislaine Maxwell, Reg. No. 02579,509...an inmate currently confined at the Metropolitan Detention center in Brooklyn, New York...Since August 3, 2020, Ms. Maxwell has been able to purchase items from the full commissary list.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040457.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "0d22215208960aaf",
-            "event_title": "Maxwell Reports VTC Interference to MDC Staff During Legal Call",
-            "event_type": "presence",
-            "description": "Ghislaine Maxwell observed suspicious activity on VTC monitor during legal video conference and alerted MDC staff, with Case Manager witnessing the interference",
-            "date_start": "2021-09-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Case Manager",
-                "role": "staff"
-              },
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Maxwell was Epstein's close associate and this event involves her direct physical presence and actions at the detention facility.",
-            "evidence": [
-              {
-                "file": "EFTA00017847.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "At the conclusion of yesterday afternoon's VTC session, Ms. Maxwell observed suspicious activity on the VTC monitor. She alerted MDC staff, and Case Manager witnessed the activity.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017847.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "7a1554808b8e6474",
-            "event_title": "USAO Sends Discovery Files CD to Maxwell at MDC via FedEx",
-            "event_type": "presence",
-            "description": "U.S. Attorney's Office sent replacement discovery files on CD to Ghislaine Maxwell at Metropolitan Detention Center via FedEx overnight delivery with password protection.",
-            "date_start": "2020-10-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              },
-              {
-                "name": "Assistant United States Attorney",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Maxwell was Epstein's close associate and this relates to her criminal case connected to Epstein's activities.",
-            "evidence": [
-              {
-                "file": "EFTA00018262.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Today our office sent a CD with some replacement discovery files to the MDC for Ghislaine Maxwell via FedEx overnight delivery.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018262.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ebeaa87486cfac77",
-            "event_title": "Maxwell Receives Replacement Drive at MDC Brooklyn (Dec 2020)",
-            "event_type": "presence",
-            "description": "Ghislaine Maxwell was given access to a replacement drive at Metropolitan Detention Center Brooklyn after breaking her previous drive, with correspondence between DOJ attorneys and prison staff coordinating the delivery",
-            "date_start": "2020-12-04",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Maxwell is directly connected to the Epstein case as a co-conspirator and was physically present at MDC receiving the replacement drive.",
-            "evidence": [
-              {
-                "file": "EFTA00016457.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Today our office is sending via FedEx a replacement drive for Ghislaine Maxwell, which should arrive at the MDC tomorrow. This drive will replace the drive that Maxwell recently dropped and broke",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016457.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "2f01ce8667f646b1",
-            "event_title": "Maxwell Detained at MDC Under Special Conditions",
-            "event_type": "travel",
-            "description": "Ghislaine Maxwell arrived at the Metropolitan Detention Center where she has been held in isolation under special surveillance conditions for over a month",
-            "date_start": "2020-07-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Maxwell was personally detained at MDC on charges related to Jeffrey Epstein case.",
-            "evidence": [
-              {
-                "file": "EFTA00018572.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Since arriving at the MDC over a month ago, on July 6, 2020, Ms. Maxwell has been held under uniquely onerous conditions.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018572.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00039875",
-            "file": "EFTA00039875.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00039872",
-            "file": "EFTA00039872.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00009831",
-            "file": "EFTA00009831.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00010199",
-            "file": "EFTA00010199.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00010211",
-            "file": "EFTA00010211.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00011142",
-            "file": "EFTA00011142.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017813",
-            "file": "EFTA00017813.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017821",
-            "file": "EFTA00017821.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015908",
-            "file": "EFTA00015908.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00018016",
-            "file": "EFTA00018016.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015911",
-            "file": "EFTA00015911.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015913",
-            "file": "EFTA00015913.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00040347",
-            "file": "EFTA00040347.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015129",
-            "file": "EFTA00015129.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015185",
-            "file": "EFTA00015185.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015217",
-            "file": "EFTA00015217.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00040548",
-            "file": "EFTA00040548.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015641",
-            "file": "EFTA00015641.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017830",
-            "file": "EFTA00017830.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00040457",
-            "file": "EFTA00040457.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017847",
-            "file": "EFTA00017847.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00018262",
-            "file": "EFTA00018262.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00016457",
-            "file": "EFTA00016457.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00018572",
-            "file": "EFTA00018572.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -23492,7 +24153,7 @@
         "display_name": "NewYork-Presbyterian/Lower Manhattan Hospital",
         "location_descriptor": "A hospital at 170 William Street in the Financial District of Manhattan, New York City, providing comprehensive medical services to lower Manhattan residents.",
         "event_count": 2,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -23504,8 +24165,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA00015297.pdf, EFTA00015298.pdf, EFTA00015299.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA00015297.pdf, EFTA00015298.pdf, EFTA00059403.pdf, EFTA00015299.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A hospital at 170 William Street in the Financial District of Manhattan, New York City, providing comprehensive medical services to lower Manhattan residents.",
@@ -23540,6 +24201,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I just got a call from that Epstein committed suicide this morning. He died on the way to the hospital.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015298.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00059403.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein was pronounced dead at the New York Presbyterian-Lower Manhattan Hospital in New York, New York. Mr. Epstein had been found unresponsive in his cell in the Special Housing Unit at around 6:30 am.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00059403.pdf",
                 "confidence": 0.7
               }
             ]
@@ -23581,6 +24249,11 @@
           {
             "doc_id": "EFTA00015298",
             "file": "EFTA00015298.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00059403",
+            "file": "EFTA00059403.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -32191,12 +32864,12 @@
         "name": "U.S. District Court, District of New Hampshire",
         "location_name": "U.S. District Court, District of New Hampshire",
         "location_address": "55 Pleasant Street, Concord, New Hampshire 03301, United States",
-        "location_description": "",
+        "location_description": "The federal courthouse of the U.S. District Court for the District of New Hampshire, located at 55 Pleasant Street in Concord, NH, handling federal criminal and civil cases in the state.",
         "canonical_name": "United States District Court, District of New Hampshire, 55 Pleasant Street, Concord, NH 03301",
         "region": "",
         "property_type": "event",
         "display_name": "U.S. District Court, District of New Hampshire",
-        "location_descriptor": "",
+        "location_descriptor": "The federal courthouse of the U.S. District Court for the District of New Hampshire, located at 55 Pleasant Street in Concord, NH, handling federal criminal and civil cases in the state.",
         "event_count": 1,
         "evidence_count": 2,
         "primary_event_type": "legal",
@@ -32214,7 +32887,7 @@
         "sources_preview": "EFTA00040584.pdf, EFTA00040586.pdf",
         "epstein_nexus": "contextual",
         "event_type": "legal",
-        "event_description": "",
+        "event_description": "The federal courthouse of the U.S. District Court for the District of New Hampshire, located at 55 Pleasant Street in Concord, NH, handling federal criminal and civil cases in the state.",
         "events": [
           {
             "event_id": "67ccfdc270196a86",
@@ -32260,6 +32933,82 @@
           {
             "doc_id": "EFTA00040586",
             "file": "EFTA00040586.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "bc879db7c171805b",
+        "name": "U.S. Attorney's Office, SDNY",
+        "location_name": "U.S. Attorney's Office, SDNY",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The U.S. Attorney's Office for the Southern District of New York, located at 1 St. Andrews Plaza in lower Manhattan, one of the nation's most prominent federal prosecutorial offices.",
+        "canonical_name": "U.S. Attorney's Office, Southern District of New York, 1 Saint Andrew's Plaza, New York, NY 10007, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, SDNY",
+        "location_descriptor": "The U.S. Attorney's Office for the Southern District of New York, located at 1 St. Andrews Plaza in lower Manhattan, one of the nation's most prominent federal prosecutorial offices.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-08-29",
+        "date_end": "2019-08-29",
+        "people": [
+          {
+            "name": "DR. [redacted], Chief Psychologist at MCC",
+            "role": "witness"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00058847.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The U.S. Attorney's Office for the Southern District of New York, located at 1 St. Andrews Plaza in lower Manhattan, one of the nation's most prominent federal prosecutorial offices.",
+        "events": [
+          {
+            "event_id": "d289b03b06d69dc2",
+            "event_title": "FBI Interviews MCC Chief Psychologist at SDNY Regarding Epstein's Death (Aug 29, 2019)",
+            "event_type": "presence",
+            "description": "FBI and OIG interviewed the MCC Chief Psychologist at SDNY USAO on August 29, 2019 regarding Epstein's mental health care and the events leading to his death; psychologist provided background on MCC intake processes and her oversight of psychological services.",
+            "date_start": "2019-08-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "DR. [redacted], Chief Psychologist at MCC",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The MCC Chief Psychologist was interviewed about Epstein's mental health care at MCC, directly related to the investigation into his death.",
+            "evidence": [
+              {
+                "file": "EFTA00058847.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DR. [redacted], date of birth (DOB) [redacted], was interviewed at 1 Saint Andrews Plaza, New York, NY, 10007 (US Attorney's Office, Southern District of New York). Present at the interview was Office of the Inspector General (OIG) Special Agent (SA), Assistant U.S. Attorney (AUSA), and FBI SA.\nDR. [redacted] is the Chief Psychologist at the Metropolitan Correctional Center (MCC).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058847.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00058847",
+            "file": "EFTA00058847.pdf",
             "source_type": "doj_efta"
           }
         ]
