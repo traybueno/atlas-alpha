@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 99,
-        "evidence_count": 352,
+        "evidence_count": 357,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -470,8 +470,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 292,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+287 more)",
+        "source_count": 297,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+292 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -870,6 +870,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "On Jul 23. 2019...Moments later, I spoke with Officer...inmate Epstein was alert and had indicated that his cellmate, had attempted to kill him...saw him with a string around his neck. He stated that he then called the guards",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00072697.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00073989.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WaPo is hearing that he was found unresponsive is his cell last night, possibly a suicide attempt.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00073989.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074027.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Accused child sex trafficker Jeffrey Epstein was found semi-conscious inside his cell at the Metropolitan Correctional Center in Manhattan with marks on his neck that may have been self-inflicted, NBC News reported late Wednesday.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074027.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2171,6 +2185,13 @@
                 "excerpt": "any video surveillance of the area outside of the cells for the night of July 22nd-23rd. Relatedly, I think we neglected to ask for but we are now requesting, any photographs taken of the Tartaglione/Epstein cell after the July 22nd-23rd incident and any photographs of Epstein and/or of Mr. Tartaglione following the same incident.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00073473.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074082.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "any documentation regarding the decision to house Mr. Tartaglione and Mr. Epstein together in the same cell in SHU. After speaking with BOP, we have confirmed that no such documentation exists.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074082.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -2836,6 +2857,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Date: 7/31/2019 9:00 AM Location: Receiving And Discharge Title: LIEUTENANT...Interviewee: 78318054 - EPSTEIN, JEFFREY",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00072695.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00073831.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Responded to a body alarm at 0635 for medical emergency on 9S. Upon arrival Inmate was received on the floor of his cell unresponsive with CPR in progress by correctional officers, Inmate was Cold, with circumferential Bruising around the neck and posterior mottling, Pupils Fixed and dilated, No Palpable pulses, Call place for EMS, CPR Continued, AED Placed No shock advised, CPR Continued. inmate transported to HSU treatment room with CPR in progress",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00073831.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074140.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein, the wealthy financier charged with sex trafficking of minors who died at the Metropolitan Correctional Center (\"MCC\") on August 10, 2019 ... \"The signed log in the Special Housing Unit at MCC that shows when prison staff did rounds on July 22 and 23, and Aug. 9 and 10\"",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074140.pdf",
                 "confidence": 0.7
               }
             ]
@@ -5461,6 +5496,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00073989",
+            "file": "EFTA00073989.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074027",
+            "file": "EFTA00074027.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00008744",
             "file": "EFTA00008744.pdf",
             "source_type": "doj_efta"
@@ -5931,6 +5976,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00074082",
+            "file": "EFTA00074082.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00016910",
             "file": "EFTA00016910.pdf",
             "source_type": "doj_efta"
@@ -6208,6 +6258,16 @@
           {
             "doc_id": "EFTA00072695",
             "file": "EFTA00072695.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00073831",
+            "file": "EFTA00073831.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074140",
+            "file": "EFTA00074140.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -6718,8 +6778,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 82,
-        "evidence_count": 238,
+        "event_count": 84,
+        "evidence_count": 248,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -6979,6 +7039,10 @@
             "role": "associate"
           },
           {
+            "name": "Virginia Giuffre",
+            "role": "victim"
+          },
+          {
             "name": "Geoffrey Berman",
             "role": "legal"
           },
@@ -7143,6 +7207,14 @@
             "role": "associate"
           },
           {
+            "name": "Alisa",
+            "role": "other"
+          },
+          {
+            "name": "Peter",
+            "role": "other"
+          },
+          {
             "name": "Tommy Mottola",
             "role": "associate"
           },
@@ -7191,8 +7263,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 222,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+217 more)",
+        "source_count": 232,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+227 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -8135,6 +8207,13 @@
                 "excerpt": "Hello . Might you be available to come see Jeffrey at his home next wed. July 12th at 2pm? Jeffrey's home address is 9 East 71st Street between 5th and Madison. ... Yes, I will be there,",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219353.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219578.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "yes 9 east 71 . put on everyone list\n...10 am and put again at 4\nPlease advise when will come to house (and I will include on everyone's schedule)!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219578.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -8591,6 +8670,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Virginia Giuffre",
+                "role": "victim"
+              },
+              {
                 "name": "Geoffrey Berman",
                 "role": "legal"
               },
@@ -8607,6 +8690,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "On Monday, Berman called out Andrew for giving \"zero co-operation\" to the investigation into Epstein at a press conference held outside Epstein's infamous front door.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016822.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074119.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A US prosecutor accused the Duke of York of \"zero co-operation\" with their investigation ... He stood outside Epstein's New York mansion and accused the Queen's son of failing to respond to requests by the FBI and US prosecutors for an interview over his friendship with the paedophile",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074119.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074227.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "This morning's press conference took us by surprise -- our supervisors did not say anything to us about it in advance, and in particular had no idea that there would be comments about the active investigation. Our understanding now is that the event was in connection with Safe Horizon, the victim services organization, and that Geoff answered at least one specific question about the investigation, relating to Prince Andrew.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074227.pdf",
                 "confidence": 0.7
               }
             ]
@@ -10415,6 +10512,14 @@
               {
                 "name": "Peter Thiel",
                 "role": "associate"
+              },
+              {
+                "name": "Alisa",
+                "role": "other"
+              },
+              {
+                "name": "Peter",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -10460,6 +10565,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey will be in New York this Friday and is asking if you could come and see him ... I don't yet know if my Israel flight leaves Thursday night or Friday night...but perhaps you could save me like 10am-12pm time somewhere",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219453.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219499.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey was hoping Peter could come by and see him sometime tomorrow, Friday August 18th, at his home in NY (9 East 71st Street between 5th and Madison)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219499.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219603.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey just informed me Peter will come for lunch tomorrow, Friday Aug. 18th, at 1pm..want to keep you in the loop.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219603.pdf",
                 "confidence": 0.7
               }
             ]
@@ -10625,6 +10744,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Thurs. Aug. 17, 2017 NY: 8:30am BREAKFAST w/Leon Black, 12:30pm LUNCH w/Ron Lauder, 2:30pm App: w/Rich and Darren, 7:00pm DINNER w/Woody and Soon Yi",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219426.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219607.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:30am BREAKFAST Leon Black Aug 17 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219607.pdf",
                 "confidence": 0.7
               }
             ]
@@ -10804,6 +10930,10 @@
                 "role": "associate"
               },
               {
+                "name": "Leon Black",
+                "role": "associate"
+              },
+              {
                 "name": "Terje",
                 "role": "associate"
               },
@@ -10827,6 +10957,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Than. Aug. 3, 2017 NY: 11:30am Appt w/Rich Kahn, 12:30pm to 9 East, 1:00pm Max Churkin 9 East, 6:00pm Terje?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219457.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219618.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey said even after 5:00pm would be better",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219618.pdf",
                 "confidence": 0.7
               }
             ]
@@ -11230,6 +11367,75 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "d5004ee1ed9b1b65",
+            "event_title": "Unidentified Official Makes Announcement at Epstein's Manhattan Mansion, January 27, 2020",
+            "event_type": "presence",
+            "description": "An unidentified person made a public announcement at Epstein's Manhattan house on January 27, 2020, catching SDNY prosecutors off guard; likely related to NY Adult Survivors Act (signed in 2022) or similar legislation.",
+            "date_start": "2020-01-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Geoffrey Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Someone held a public event at Epstein's Manhattan property post-death, likely related to victim advocacy connected to the Epstein case.",
+            "evidence": [
+              {
+                "file": "EFTA00074117.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "we have started to get calls and emails from various attorneys involved in the case asking what the big announcement is that is doing at Epstein's house this morning, and the extremely embarrassing answer is that we have no fucking idea.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074117.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074214.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We've been advised by our supervisors that Geoff is speaking in connection with the state law allowing for look-back civil suits.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074214.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7fcedd6a54e18290",
+            "event_title": "Leon Black Meets Epstein at 9 East 71st Street, August 3, 2017 at 3:45pm",
+            "event_type": "travel",
+            "description": "Leon Black confirmed meeting Epstein Aug 3 3:45pm at 9E71st.",
+            "date_start": "2017-08-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Leon Black confirmed at Epstein's home Aug 3.",
+            "evidence": [
+              {
+                "file": "EFTA02219583.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Leon Black 3:45 Aug 3 2017 9 East 71st",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219583.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -11499,6 +11705,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219578",
+            "file": "EFTA02219578.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02214272",
             "file": "EFTA02214272.pdf",
             "source_type": "doj_efta"
@@ -11631,6 +11842,16 @@
           {
             "doc_id": "EFTA00016822",
             "file": "EFTA00016822.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074119",
+            "file": "EFTA00074119.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074227",
+            "file": "EFTA00074227.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -12159,6 +12380,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219499",
+            "file": "EFTA02219499.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219603",
+            "file": "EFTA02219603.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00072127",
             "file": "EFTA00072127.pdf",
             "source_type": "doj_efta"
@@ -12211,6 +12442,11 @@
           {
             "doc_id": "EFTA02219426",
             "file": "EFTA02219426.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219607",
+            "file": "EFTA02219607.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -12284,6 +12520,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219618",
+            "file": "EFTA02219618.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219105",
             "file": "EFTA02219105.pdf",
             "source_type": "doj_efta"
@@ -12342,6 +12583,21 @@
             "doc_id": "EFTA02219459",
             "file": "EFTA02219459.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074117",
+            "file": "EFTA00074117.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074214",
+            "file": "EFTA00074214.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219583",
+            "file": "EFTA02219583.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -12366,8 +12622,8 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 61,
-        "evidence_count": 134,
+        "event_count": 64,
+        "evidence_count": 149,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -12609,10 +12865,18 @@
           {
             "name": "David Livermore",
             "role": "associate"
+          },
+          {
+            "name": "Assiya",
+            "role": "associate"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
           }
         ],
-        "source_count": 129,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02212893.pdf, ... (+124 more)",
+        "source_count": 143,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02212893.pdf, ... (+138 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -14421,6 +14685,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "James Watson",
+                "role": "associate"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               },
@@ -14502,6 +14770,20 @@
                 "excerpt": "Joe says he will be in New York City starting tomorrow night and he's wondering if you will be around Thursday and Friday",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219057.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219544.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: Joe Pagano in NY and would love to see you today or tomorrow August 17, 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219544.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219606.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be in NY Thursday Friday Aug 17 18",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219606.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -14554,6 +14836,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey and I Skyped yesterday - he said he may be in NY on Friday and suggested that, if so, we meet.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219348.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219518.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey and I Skyped yesterday - he said he may be in NY on Friday and suggested that, if so, we meet.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219518.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14733,6 +15022,48 @@
                 "source_type": "doj_efta",
                 "excerpt": "1pm dental app - August 1, 2017",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219141.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219558.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be in NY this Thursday and Friday...hoping she would have time one of these days...\nFriday will be great. Could you both come at 1:30pm?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219558.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219565.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "30 new york, sept 2 paris",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219565.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219608.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Good morning Jeffrey will be in New York this Thursday and is asking if you could come see him.\n...I was already in touch with Jeffrey. Does Friday work for him as well? I'm available after 2 PM.\nHi ...may I confirm 2:30pm on Friday with you?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219608.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219609.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi ..Friday will be great. Could you both come at 1:30pm?\n...Jeffrey will be in NY this Thursday and Friday...hoping she would have time one of these days...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219609.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219610.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "we need to change your appointment time tomorrow...might you and be available to come by at 3:30pm instead?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219610.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219629.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be in NY this Thursday and Friday...hoping she would have time one of these days...\nHi ..Friday will be great. Could you both come at 1:30pm?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219629.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15016,6 +15347,116 @@
                 "source_type": "doj_efta",
                 "excerpt": "Let's talk ... Sure, when will you be in town? ... July 14 but phone ok ... Ok, feel free to call me If you had a specific time in mind, let me know when.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219429.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "478d396d0ceccfb0",
+            "event_title": "Epstein Network Changes NYC\u2192Paris Return Ticket to Aug 20, 2017",
+            "event_type": "travel",
+            "description": "AmEx Centurion change Paris return to Aug 20 2017.",
+            "date_start": "2017-08-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Assiya",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "KRXZTS record change via Epstein AmEx.",
+            "evidence": [
+              {
+                "file": "EFTA02219547.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "change ticket NY back to Paris Aug 20 KRXZTS",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219547.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219589.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "change ticket NY to Paris Aug 20 KRXZTS",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219589.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219593.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Change Assiya's trip back to Paris KRXZTS Aug 20",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219593.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8386576ecbf3b643",
+            "event_title": "Epstein Departs Bedford NY to Little St. James via Helicopter, Sat Aug 19 2017",
+            "event_type": "presence",
+            "description": "Epstein's schedule: Aug 19 from Bedford, NY to LSJ via helicopter.",
+            "date_start": "2017-08-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's own schedule at Bedford heading to LSJ.",
+            "evidence": [
+              {
+                "file": "EFTA02219565.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "sat 19th . bedford. - lsj. larry to bring hell .",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219565.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3d8786bc18d8d4eb",
+            "event_title": "Epstein Coming to NY to Meet Leon Black Aug 2-3",
+            "event_type": "presence",
+            "description": "Epstein coming to NY Aug 2-3 to meet Leon Black.",
+            "date_start": "2017-08-02",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein coming to NY Aug 2-3.",
+            "evidence": [
+              {
+                "file": "EFTA02219626.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is coming to NY asking Leon Black",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219626.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219632.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is coming to NY asking Leon Black",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219632.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15528,6 +15969,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219544",
+            "file": "EFTA02219544.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219606",
+            "file": "EFTA02219606.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02217946",
             "file": "EFTA02217946.pdf",
             "source_type": "doj_efta"
@@ -15540,6 +15991,11 @@
           {
             "doc_id": "EFTA02219348",
             "file": "EFTA02219348.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219518",
+            "file": "EFTA02219518.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -15600,6 +16056,36 @@
           {
             "doc_id": "EFTA02219141",
             "file": "EFTA02219141.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219558",
+            "file": "EFTA02219558.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219565",
+            "file": "EFTA02219565.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219608",
+            "file": "EFTA02219608.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219609",
+            "file": "EFTA02219609.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219610",
+            "file": "EFTA02219610.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219629",
+            "file": "EFTA02219629.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -15666,6 +16152,31 @@
             "doc_id": "EFTA02219429",
             "file": "EFTA02219429.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219547",
+            "file": "EFTA02219547.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219589",
+            "file": "EFTA02219589.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219593",
+            "file": "EFTA02219593.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219626",
+            "file": "EFTA02219626.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219632",
+            "file": "EFTA02219632.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -15691,7 +16202,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
         "event_count": 43,
-        "evidence_count": 49,
+        "evidence_count": 51,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -15743,6 +16254,10 @@
             "role": "associate"
           },
           {
+            "name": "Fettah Tamince",
+            "role": "associate"
+          },
+          {
             "name": "Elena",
             "role": "associate"
           },
@@ -15783,8 +16298,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 29,
-        "sources_preview": "EFTA02212949.pdf, EFTA02212953.pdf, EFTA00010075.pdf, EFTA00040470.pdf, EFTA02212856.pdf, ... (+24 more)",
+        "source_count": 31,
+        "sources_preview": "EFTA02212949.pdf, EFTA02212953.pdf, EFTA00010075.pdf, EFTA00040470.pdf, EFTA02212856.pdf, ... (+26 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
@@ -16673,6 +17188,10 @@
                 "role": "subject"
               },
               {
+                "name": "Fettah Tamince",
+                "role": "associate"
+              },
+              {
                 "name": "Elena",
                 "role": "associate"
               },
@@ -16710,6 +17229,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "please take Uber to JFK airport tomorrow to meet up with ... will be flying to JFK via Delta#676 arriving at 5:59pm. You should both meet up by 10pm (if not before) at Turkish Airlines terminal for your flight departing 11:55pm.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217274.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219548.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TK12 JFK Istanbul Antalya Jun 20",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219548.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219552.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TK12 JFK Istanbul Jun 20 full itinerary PDF",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219552.pdf",
                 "confidence": 0.7
               }
             ]
@@ -17132,6 +17665,16 @@
           {
             "doc_id": "EFTA02217274",
             "file": "EFTA02217274.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219548",
+            "file": "EFTA02219548.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219552",
+            "file": "EFTA02219552.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -18644,8 +19187,8 @@
         "property_type": "event",
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
-        "event_count": 35,
-        "evidence_count": 64,
+        "event_count": 38,
+        "evidence_count": 71,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -18761,8 +19304,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 55,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215018.pdf, EFTA02216389.pdf, ... (+50 more)",
+        "source_count": 62,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215018.pdf, EFTA02216389.pdf, ... (+57 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -19909,6 +20452,20 @@
                 "excerpt": "change till next friday, organize for to come to stt tomorw mornig and to go to nw york tomoorw afternoon. thax",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219201.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219521.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alert - Flight to Saint Thomas (AA 936) July 28, 2017 9:30 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219521.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219600.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Will her new ticket to STT be coming to me via email soon? I want to send to jeffrey.\nAA 936 28JUL JFK STT 0930A 0139P\nTOTAL FARE - USD 407.00 PRIVATE",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219600.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -20001,6 +20558,91 @@
                 "source_type": "doj_efta",
                 "excerpt": "Partially legible document describing ticket change: AA flight 936 from St. Thomas (STT) to JFK on June 21 2017 at 2:40pm ($326.36), then Aeroflot SU 103 from JFK to Moscow (SVO) on June 22 at 7:10pm ($872.10).",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219346.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d3524e7422b57c7f",
+            "event_title": "Epstein Staff Books Same-Day NY\u2192St. Thomas Flight, July 31, 2017",
+            "event_type": "travel",
+            "description": "Epstein network staff urgently requested a same-day connecting flight from New York to St. Thomas, USVI via AmEx Centurion Travel on July 31, 2017.",
+            "date_start": "2017-07-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Flight via Epstein's AmEx Centurion to St. Thomas near his island estate.",
+            "evidence": [
+              {
+                "file": "EFTA02219510.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY to STT flight request Jul 31 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219510.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219516.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY to STT flight request Jul 31 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219516.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "49edd6e0d6f491c5",
+            "event_title": "JetBlue Flt B6 1236 to Saint Thomas, August 1, 2017",
+            "event_type": "travel",
+            "description": "Calendar alert for JetBlue B6 1236 to STT August 1, 2017.",
+            "date_start": "2017-08-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "STT flight via Epstein network.",
+            "evidence": [
+              {
+                "file": "EFTA02219526.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alert - Flight to Saint Thomas (B6 1236) August 1, 2017 7:00 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219526.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8d508a4542742fcb",
+            "event_title": "Lesley Groff Books STT\u2192New York One-Way Flight for Epstein Associate, Aug 23 2017",
+            "event_type": "travel",
+            "description": "Lesley Groff requested one-way flight STT\u2192NY Aug 23 2017.",
+            "date_start": "2017-08-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "STT departure via Epstein's Lesley Groff.",
+            "evidence": [
+              {
+                "file": "EFTA02219546.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "STT to NY Aug 23 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219546.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219567.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DL 676 23AUG STT JFK 0200P 0610P\nTOTAL FARE - USD 541.06",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219567.pdf",
                 "confidence": 0.7
               }
             ]
@@ -20268,6 +20910,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219521",
+            "file": "EFTA02219521.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219600",
+            "file": "EFTA02219600.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219285",
             "file": "EFTA02219285.pdf",
             "source_type": "doj_efta"
@@ -20280,6 +20932,31 @@
           {
             "doc_id": "EFTA02219346",
             "file": "EFTA02219346.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219510",
+            "file": "EFTA02219510.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219516",
+            "file": "EFTA02219516.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219526",
+            "file": "EFTA02219526.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219546",
+            "file": "EFTA02219546.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219567",
+            "file": "EFTA02219567.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -20306,7 +20983,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 35,
-        "evidence_count": 79,
+        "evidence_count": 83,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -20418,8 +21095,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 71,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+66 more)",
+        "source_count": 74,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+69 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -20974,6 +21651,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Offender Id 33216...Last Name EPSTEIN...First Name JEFFREY...Risk Level 3...Current Addresses: Type RES (Primary) County Address LITTLE ST JAMES...Photo Date April 27, 2018",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014421.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00073983.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A reporter is being told there's some sort of police action taking place at his home down there.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00073983.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00073984.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A reporter is being told there's some sort of police action taking place at his home down there.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00073984.pdf",
                 "confidence": 0.7
               }
             ]
@@ -21542,6 +22233,13 @@
                 "excerpt": "sat 19th . bedford. - lsj. tarty to bring het . landing on 26th",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219124.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219565.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "sat 19th . bedford. - lsj. larry to bring hell . landing on 26th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219565.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -21613,6 +22311,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "return 15 new york 22 lsj 30 new york",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219124.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219565.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "return 15 new york 22 lsj 30 new york",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219565.pdf",
                 "confidence": 0.7
               }
             ]
@@ -21985,6 +22690,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00073983",
+            "file": "EFTA00073983.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00073984",
+            "file": "EFTA00073984.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00016836",
             "file": "EFTA00016836.pdf",
             "source_type": "doj_efta"
@@ -22100,6 +22815,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219565",
+            "file": "EFTA02219565.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02218777",
             "file": "EFTA02218777.pdf",
             "source_type": "doj_efta"
@@ -22163,7 +22883,7 @@
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
         "event_count": 32,
-        "evidence_count": 65,
+        "evidence_count": 68,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -22231,8 +22951,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 59,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+54 more)",
+        "source_count": 62,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+57 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -23300,6 +24020,20 @@
                 "excerpt": "Pick up:Wed, Aug. 16 @ ? from Teterboro airport and take to 9 East 71st Street. / We should arrive Wed at 9:30pm at Meridcan Teterboro for the pick up. / Pax: Jeffrey Epstein / Tail # N120JE",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219089.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219538.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Larry has informed me Jeffrey will now not land until midnight at Teterboro! Please update your driver...\nPick up:Tues, Aug. 15 @ 930pm from Meridian, Teterboro and take to 9 East 71st Street.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219538.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219595.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Larry has informed me Jeffrey will now not land until midnight at Teterboro!\nPick up:Tues, Aug. 15 @ 930pm from Meridian, Teterboro and take to 9 East 71st Street.\nTail #120JE\nPax: Jeffrey Epstein",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219595.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -23361,6 +24095,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Laity, can you organize Carosa for Jeffrey's arrival on Wed. for us? ... He will for sure need you to organize transportation back to Teterboro on Friday for his trip to Bedford...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219267.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219612.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Teterboro (KTEB) in 45 minutes at 10:33AM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219612.pdf",
                 "confidence": 0.7
               }
             ]
@@ -23653,6 +24394,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219538",
+            "file": "EFTA02219538.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219595",
+            "file": "EFTA02219595.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219254",
             "file": "EFTA02219254.pdf",
             "source_type": "doj_efta"
@@ -23660,6 +24411,11 @@
           {
             "doc_id": "EFTA02219267",
             "file": "EFTA02219267.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219612",
+            "file": "EFTA02219612.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -23686,7 +24442,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 25,
-        "evidence_count": 56,
+        "evidence_count": 58,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -23786,8 +24542,8 @@
             "role": "other"
           }
         ],
-        "source_count": 54,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+49 more)",
+        "source_count": 56,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+51 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -24580,6 +25336,13 @@
                 "excerpt": "then paris till 11 th",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218799.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219565.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "sept 2 paris, return 15 new york",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219565.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -24747,6 +25510,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Bello ...here is your ticket to go back to Paris tonight! Please confirm back receipt...thanks, Lesley ... Confirmed . Thank You Lesley. Envoye de mon iPhone",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219378.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219615.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "yes i should be back in paris tomrow night around 8 come tomorow stay till sunday night good? ask lesley to ornbzie tickets\n...is requesting pick up from Eurostar...she will arrive 19:53...OK for Valdson to pick her up?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219615.pdf",
                 "confidence": 0.7
               }
             ]
@@ -24964,6 +25734,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219565",
+            "file": "EFTA02219565.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219127",
             "file": "EFTA02219127.pdf",
             "source_type": "doj_efta"
@@ -25022,6 +25797,11 @@
             "doc_id": "EFTA02219378",
             "file": "EFTA02219378.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219615",
+            "file": "EFTA02219615.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -25047,7 +25827,7 @@
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 23,
-        "evidence_count": 41,
+        "evidence_count": 42,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -25139,8 +25919,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 34,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA01263156.pdf, EFTA00009809.pdf, ... (+29 more)",
+        "source_count": 35,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA01263156.pdf, EFTA00009809.pdf, ... (+30 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -25918,6 +26698,13 @@
                 "excerpt": "tuesday morning to new york aug 1 , bedford aug 2 , new yrok leave thurs aug 3, palm beach. sunday aug 6 zorro. two weeks.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219169.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219565.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "leave early 28th for palm beach",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219565.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -26152,6 +26939,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219565",
+            "file": "EFTA02219565.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02218885",
             "file": "EFTA02218885.pdf",
             "source_type": "doj_efta"
@@ -26190,7 +26982,7 @@
         "display_name": "Metropolitan Detention Center Brooklyn",
         "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
         "event_count": 20,
-        "evidence_count": 44,
+        "evidence_count": 45,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -26230,8 +27022,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 39,
-        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+34 more)",
+        "source_count": 40,
+        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+35 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
@@ -26415,6 +27207,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Please confirm that while in quarantine, my client Ghislaine Maxwell 02879-509 will continue to have: -Personal Calls -Legal Calls -Showers -Recreation time...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00065495.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074066.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MDC\u2014Metropolitan Detention Center\nLegal Department\n80 29th Street\nBrooklyn, NY 11232\nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN)\nEnclosed is discovery pertinent to the following inmate:\n\u2022 Ghislaine Maxwell: 02879-509",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074066.pdf",
                 "confidence": 0.7
               }
             ]
@@ -27039,6 +27838,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00074066",
+            "file": "EFTA00074066.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015129",
             "file": "EFTA00015129.pdf",
             "source_type": "doj_efta"
@@ -27187,7 +27991,7 @@
         "display_name": "Palm Beach County Courthouse",
         "location_descriptor": "The main courthouse for the 15th Judicial Circuit, located in downtown West Palm Beach, Florida, serving Palm Beach County's civil and criminal court proceedings.",
         "event_count": 18,
-        "evidence_count": 38,
+        "evidence_count": 39,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27227,8 +28031,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 20,
-        "sources_preview": "EFTA00010496.pdf, EFTA00013495.pdf, EFTA00013558.pdf, EFTA00013828.pdf, EFTA00013878.pdf, ... (+15 more)",
+        "source_count": 21,
+        "sources_preview": "EFTA00010496.pdf, EFTA00013495.pdf, EFTA00013558.pdf, EFTA00013828.pdf, EFTA00013878.pdf, ... (+16 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main courthouse for the 15th Judicial Circuit, located in downtown West Palm Beach, Florida, serving Palm Beach County's civil and criminal court proceedings.",
@@ -27849,6 +28653,13 @@
                 "excerpt": "current plan is to depart tomorrow / Wednesday at 10:30 AM from Atlantic aviation Palm Beach\nArrival Albuquerque Atlantic aviation at Noon local time\nN120JE GIV in use",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218550.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219523.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tomorrow Thursday wheels up Atlantic Palm Beach at 10:30 AM confirmed\nArrival Atlantic aviation Albuquerque at noon local time\nN120JE / GIV",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219523.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -27952,6 +28763,908 @@
           {
             "doc_id": "EFTA02218550",
             "file": "EFTA02218550.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219523",
+            "file": "EFTA02219523.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.960667,
+          40.765071
+        ]
+      },
+      "properties": {
+        "id": "fb56bd08fffce100",
+        "name": "Epstein East 66th Street Apartment Building",
+        "location_name": "Epstein East 66th Street Apartment Building",
+        "location_address": "301 East 66th Street, New York City, New York 10065, United States",
+        "location_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
+        "canonical_name": "301 East 66th Street, New York, NY 10065, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Epstein East 66th Street Apartment Building",
+        "location_descriptor": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
+        "event_count": 17,
+        "evidence_count": 26,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-24",
+        "date_end": "2017-08-19",
+        "people": [
+          {
+            "name": "Woody",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Bobby Slayton",
+            "role": "associate"
+          },
+          {
+            "name": "Jean-Luc Brunel",
+            "role": "associate"
+          },
+          {
+            "name": "Nili Barak",
+            "role": "associate"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "James",
+            "role": "staff"
+          },
+          {
+            "name": "Karyna",
+            "role": "staff"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          },
+          {
+            "name": "Per Bard",
+            "role": "associate"
+          },
+          {
+            "name": "Dave",
+            "role": "other"
+          },
+          {
+            "name": "Eileen",
+            "role": "other"
+          },
+          {
+            "name": "Laura Bard",
+            "role": "associate"
+          },
+          {
+            "name": "P.",
+            "role": "associate"
+          },
+          {
+            "name": "Bella Klein",
+            "role": "associate"
+          },
+          {
+            "name": "Ehud Barak",
+            "role": "associate"
+          },
+          {
+            "name": "Svet",
+            "role": "associate"
+          },
+          {
+            "name": "Merwin Dela Cruz",
+            "role": "staff"
+          },
+          {
+            "name": "Nili Priell Barak",
+            "role": "associate"
+          },
+          {
+            "name": "Perry Bard",
+            "role": "associate"
+          },
+          {
+            "name": "Laura",
+            "role": "associate"
+          },
+          {
+            "name": "Karen (Zorro Ranch Manager)",
+            "role": "staff"
+          },
+          {
+            "name": "Karen",
+            "role": "associate"
+          },
+          {
+            "name": "Zorro Ranch",
+            "role": "other"
+          },
+          {
+            "name": "Dr. Bard",
+            "role": "associate"
+          },
+          {
+            "name": "Nili",
+            "role": "associate"
+          },
+          {
+            "name": "Bobby",
+            "role": "associate"
+          },
+          {
+            "name": "Cecile",
+            "role": "associate"
+          }
+        ],
+        "source_count": 25,
+        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+20 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
+        "events": [
+          {
+            "event_id": "b57126ea4dee712e",
+            "event_title": "Bobby Slayton stays at Epstein's 301 E 66th St apartment for birthday May 24-30, 2017",
+            "event_type": "presence",
+            "description": "Bobby Slayton was staying at Epstein's apartment 7J at 301 E 66th St on May 25, 2017; Epstein sent Jojo to bring him a pizza from Arturo's between 4-5:30pm",
+            "date_start": "2017-05-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Woody",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bobby Slayton",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein allowed Slayton to use his apartment and sent his staff to bring him food.",
+            "evidence": [
+              {
+                "file": "EFTA02213817.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey would like you to go to Arturo's today and buy a large cheese pizza for Bobby Slayton (staying at 301) and deliver it to the apartments (7J)...he hopes to be at the apt between 4-5:30pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213817.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213853.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Bobby! Jeffrey is asking if you can have dinner with Woody on Thursday June 1st! ...Damn it! We're leaving Wednesday but can POSSIBLY change my flight to Thursday if they can do it Wednesday... Got in very late but apt is great as usual!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213853.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02212852.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Leave Welcome Letter for Bobby Slayton to stay in 7J (for his bday) May 24-30. Ask his flight details for cleaning purposes.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212852.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d0247b785f8f3214",
+            "event_title": "Epstein Associates Housed at 301 East 66th Street, Including Pilot and Jean-Luc Brunel (2000s)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein allegedly housed models, friends, staff, and associates including MC2 business partner Jean-Luc Brunel in apartments at 301 East 66th Street in Manhattan, a building owned by his brother Mark.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jean-Luc Brunel",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein used apartments at 301 E 66th St to house associates and models as part of his operation, with his name linked to the arrangement.",
+            "evidence": [
+              {
+                "file": "EFTA00040385.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey Epstein associates who also rented apartments or ran businesses out of the building included an ex-girlfriend, his pilot, and his MC2 business partner, Jean-Luc Brunel.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040385.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a1047a9981a4a57e",
+            "event_title": "Nili Priell Barak Departs Epstein Property, NYC, May 24, 2017",
+            "event_type": "presence",
+            "description": "Nili Priell Barak (presumably wife of Ehud Barak) left an Epstein property on May 24, 2017; Lesley Groff offered to send Karyna to fix window chain issues before their return.",
+            "date_start": "2017-05-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Nili Barak",
+                "role": "associate"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "James",
+                "role": "staff"
+              },
+              {
+                "name": "Karyna",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Nili Barak was staying at an Epstein property managed by Lesley Groff, indicating Epstein's direct relationship with the Barak family at this location.",
+            "evidence": [
+              {
+                "file": "EFTA02213518.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Lesley\nWe leave today. I arm the alarm. Tess told me that she will come on Friday",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213518.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7968b8a0cdcf475b",
+            "event_title": "Dr. Per Bard and Wife Stay at Epstein's 301 East 66th Street Apt 10B",
+            "event_type": "presence",
+            "description": "Dr. Per Bard and his wife Laura were invited to stay at Epstein's apartment at 301 East 66th Street, New York (apt 10B), with the possibility of Dr. Bard meeting Jeffrey Epstein if he was in town.",
+            "date_start": "2017-06-09",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Per Bard",
+                "role": "associate"
+              },
+              {
+                "name": "Dave",
+                "role": "other"
+              },
+              {
+                "name": "Eileen",
+                "role": "other"
+              },
+              {
+                "name": "Laura Bard",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein's staff arranged apartment stay for Dr. Bard at an Epstein-owned/managed property.",
+            "evidence": [
+              {
+                "file": "EFTA02216465.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Laura! we DO have an apartment for you and Dr. Bard. Apartment address is:\n301 East 66th Street corner of 66th and 2nd\nYou will stay in apt 10B. Lets circle back as the date approaches...If Jeffrey is in town perhaps Dr. Bard can see JE as well",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216465.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "246bc41340a36c1a",
+            "event_title": "Associate 'P' Stays at Epstein's 301 E 66th St Apartment, NYC Through June 18, 2017",
+            "event_type": "presence",
+            "description": "Associate referred to as 'P' (associated with Svet's Amex card) staying at Epstein's 301 East 66th Street apartment, NYC, through Sunday June 18, returning June 28.",
+            "date_start": "2017-06-16",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "P.",
+                "role": "associate"
+              },
+              {
+                "name": "Bella Klein",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Associate staying at Epstein property; Epstein not physically present.",
+            "evidence": [
+              {
+                "file": "EFTA02216987.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I will be at 301 till Sunday and then back on the 28th!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216987.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "9facd245cfe9ec5c",
+            "event_title": "Unnamed Family Stays in Epstein Apt 10B (301 E 66th St), NYC, June 20-26, 2017",
+            "event_type": "presence",
+            "description": "Unnamed family members stayed at Jeffrey Epstein's apartment 10B at 301 East 66th Street, New York, June 20-26, 2017, as noted in Epstein's daily schedule.",
+            "date_start": "2017-06-20",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Family staying in Epstein's NYC apartment; Epstein's daily schedule shows his awareness and implied coordination.",
+            "evidence": [
+              {
+                "file": "EFTA02217102.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: family in NY June 20-26, staying in 10B",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217102.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "1c79363c2d8b0c06",
+            "event_title": "Ehud Barak Arrives at Epstein's 301 E 66th St Apt 11J, NYC, June 29, 2017",
+            "event_type": "presence",
+            "description": "Ehud Barak (Israeli Prime Minister, confirmed by Nili Peled Barak context) to arrive at apartment 11J in Epstein's East 66th Street building, NYC, on June 29, 2017.; Person referred to as 'Svet' (Svetlana) staying in apartment 3M at Epstein's 301 East 66th Street building beginning Wednesday June 28, 2017.",
+            "date_start": "2017-06-28",
+            "date_end": "2017-06-29",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ehud Barak",
+                "role": "associate"
+              },
+              {
+                "name": "Svet",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Merwin Dela Cruz",
+                "role": "staff"
+              },
+              {
+                "name": "Nili Priell Barak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Ehud Barak using Epstein's NYC apartment 11J; Epstein's involvement indicated by staff management of his properties.",
+            "evidence": [
+              {
+                "file": "EFTA02217155.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "11J Ehud to arrive tomorrow June 29, make sure it is good to go!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217155.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217155.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Karyna, we have no guests coming next week. Svet has said she will stay in 3M staring on Wed. June 28th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217155.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217628.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: Re: Leo to clean your apartment today\nTo: Nili Priell Barak[nili.priell@gmail.com]\nHa! OK. Thanks on the security! All good\nLeo is [cleaning today].\nWed Jul 5, 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217628.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217661.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: Windows in 11J\nHi Merwin...you didnt get back to me re the windows in Nili/Ehud's apartment...\nWed 7/5/2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217661.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d954aa46da9449a1",
+            "event_title": "Visitor 'Laura' Stays at Epstein's Apt Complex, 301 E 66th St NYC, July 12-17 2017",
+            "event_type": "travel",
+            "description": "An associate named Laura arrived at Epstein's apartment building at 301 East 66th Street, NYC on July 12, 2017 (staying apt 108) through July 17 to visit Jeffrey Epstein.",
+            "date_start": "2017-07-12",
+            "date_end": "2017-07-17",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Perry Bard",
+                "role": "associate"
+              },
+              {
+                "name": "Laura",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein arranged for this visitor to stay at his apartment complex and confirmed he would be in town to see her.",
+            "evidence": [
+              {
+                "file": "EFTA02217809.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Laura! Touching base re your trip! I show you are to arrive on July 12 and stay to July 17th! ...The address to the apartments is 301 East [Street] (corner of 2nd Ave and 66th). Jeffrey will be in town and will look forward to seeing you!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217809.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219191.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Laura! Touching base re your trip! I show you are to arrive on July 12 and stay to July 17th! You will stay in apt 10B. The new code is now 1074. The address to the apartments is 301 East 66th street (corner of 2nd Ave and 66th). Jeffrey will be in town and would like Dr Bard to come see him. Might he have time in the 12th or 13th? Jeffrey leaves 13th evening.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219191.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "201b7f9665c9469d",
+            "event_title": "Larry Visoski and Associates Use Epstein's NYC Apartments 7J and 10B (June 2017)",
+            "event_type": "presence",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02216903.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I'm thinking of having Eileen join me Saturday or Sunday in New York and have her get there early and wait for me, planning to spend the week in New York with her let me know if the apartments are available Saturday or Sunday early just one apartment 7J for me and I'll put Dave in 10b on Tuesday",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216903.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6a957e851694ea83",
+            "event_title": "Karen from Epstein's Zorro Ranch Visits NYC, Stays at 301 East 66th Street Apt 3M",
+            "event_type": "presence",
+            "description": "Karen, a staff member from Epstein's Zorro Ranch property in New Mexico, was invited to stay at 301 East 66th Street, apartment 3M, in New York City around July 5, 2017.",
+            "date_start": "2017-07-05",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Karen (Zorro Ranch Manager)",
+                "role": "staff"
+              },
+              {
+                "name": "Karen",
+                "role": "associate"
+              },
+              {
+                "name": "Zorro Ranch",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Person from Epstein's Zorro Ranch was assigned to stay at Epstein's NYC apartment building at 301 East 66th Street, connecting the two properties.",
+            "evidence": [
+              {
+                "file": "EFTA02218474.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Karen! So excited you are coming to NY!! You will stay in apt 3M at 301 East 66th Street. The code is 7614. Safe travels to NY!\nFrom: Zorro Ranch",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218474.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218900.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You will stay in apt 3M at 301 East 66th Street. The code is 7614. Safe travels to NY! Zorro Management LLC 49 Zorro Ranch Road Stanley, NM 87056",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218900.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "da535888bb088c12",
+            "event_title": "Dr. Bard Stays at Epstein's 301 East 66th Street Apt 10B, July 12-17, 2017",
+            "event_type": "presence",
+            "description": "Dr. Bard was staying in apartment 10B at Epstein's property at 301 East 66th Street in New York City from July 12-17, 2017, noted in the schedule as 'in NY for her knee surgery July 14.'",
+            "date_start": "2017-07-12",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Dr. Bard",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Dr. Bard was staying at Epstein's NYC apartment building for surgery during July 12-17, 2017, while Epstein had scheduled meetings with her.",
+            "evidence": [
+              {
+                "file": "EFTA02218710.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Leave Welcome letter for 10B for Dr. Bard arriving July 12-17",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218710.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "252bb07dcaf728cf",
+            "event_title": "Ehud Barak's Apartment (11J) Exterminator Arranged at Epstein's NYC Building, Aug 2 2017",
+            "event_type": "presence",
+            "description": "Epstein approved an exterminator visit to apartment 11J (described as 'Ehud's apt,' implying Ehud Barak's apartment) at his NYC property on Wednesday August 2, 2017.",
+            "date_start": "2017-08-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ehud Barak",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein personally approved maintenance at an apartment he managed for Ehud Barak, showing their ongoing residential relationship.",
+            "evidence": [
+              {
+                "file": "EFTA02219015.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ti[me] an exterminator for Ehud's apt (11J) coming on Wed. Aug. 2 at 10am ... ok - jeffrey E.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219015.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219403.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "let Karyna know pilots will stay in 8A and 11P Aug. 2-4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219403.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f419a28065811c48",
+            "event_title": "Epstein Pilot Larry Visoski Requests NYC Apartment at 301 for Aug 19 2017 Flight",
+            "event_type": "presence",
+            "description": "Epstein's chief pilot Larry Visoski requested an apartment at 301 East 66th Street for himself and co-pilot Dave; Dave arriving Friday Aug 18, both flying together Saturday Aug 19, 2017.",
+            "date_start": "2017-08-19",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Dave",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Larry Visoski is Epstein's chief pilot coordinating pre-flight accommodations at Epstein's NYC staff building for an upcoming flight trip.",
+            "evidence": [
+              {
+                "file": "EFTA02219166.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Do you have one apartment at 301? For me Dave will come up Friday to fly the trip with me Saturday",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219166.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219314.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "YES! You may stay in 7J (code 1020) ... Dave will need an apt for Friday night...he may stay in 10B (code 1074)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219314.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "1430a8029ed8258c",
+            "event_title": "Ehud Barak Maintains Apartment 11J at Epstein's 301 East 66th St, NYC (July 2017)",
+            "event_type": "communication",
+            "description": "Apartment 11J at 301 East 66th Street (Epstein's staff/guest building) was assigned to Nili and Ehud Barak, with cleaning staff required to call \"Rafi\" before entering; Ehud Barak was maintaining an apartment at Epstein's NYC building.",
+            "date_start": "2017-07-05",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ehud Barak",
+                "role": "associate"
+              },
+              {
+                "name": "Nili",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Ehud Barak and his assistant Nili Priell Barak occupied apartment 11J in Epstein's guest building at 301 East 66th Street, establishing a regular NYC presence within Epstein's network.",
+            "evidence": [
+              {
+                "file": "EFTA02219266.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "11J needs to be cleaned. I understand will clean today for Nili/Ehud. Please remember you must call Rafi prior to entering the apartment...Karyna has had a painter in all the guest apartments.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219266.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "997f2f0f0019c353",
+            "event_title": "Multiple Epstein Associates at 301 East 66th: MT Aug 14, Bobby + Girlfriend Aug 6, Cecile in 7J",
+            "event_type": "presence",
+            "description": "Multiple Epstein associates staying in apartments at 301 East 66th Street: \"Bobby and girlfriend\" in apt 3M Aug 6+, \"Cecile\" in apt 7J, unnamed person in apt 10B, \"MT\" scheduled for Aug 14 returning to Paris Friday night.",
+            "date_start": "2017-08-06",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bobby",
+                "role": "associate"
+              },
+              {
+                "name": "Cecile",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "All guests were staying in Epstein's guest apartment building at 301 East 66th Street, managed through his staff.",
+            "evidence": [
+              {
+                "file": "EFTA02219296.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I can put [MT] in 3M Aug. 14. She is to fly back to Paris late Friday night. We have Bobby and his girlfriend coming to stay on Sun. Aug. 6 to stay in 3M. ... [someone] 10B Cecile; 7J",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219296.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "25fd6ca60a014f77",
+            "event_title": "Epstein Associate Departs 301 East 66th St for JFK, Ukraine International Flight, Aug 11 2017",
+            "event_type": "travel",
+            "description": "CARosa LLC car service confirmed pickup from 301 East 66th Street at 8:45pm Friday August 11, 2017 for an unnamed woman (foreign cell phone) traveling to JFK for a Ukraine International Airlines flight departing at 12:30am.",
+            "date_start": "2017-08-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The woman was staying at Epstein's guest apartment building at 301 East 66th Street before departing for Ukraine.",
+            "evidence": [
+              {
+                "file": "EFTA02219375.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Pick up: Friday. Aug 11 @ 845pm from 301 East 66th St and take to JFK for her flight departing at 12:30am on Ukraine Internati",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219375.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e0351d2228021b89",
+            "event_title": "Unnamed Associate Stays in Apt 3M at 301 E 66th St Aug 5",
+            "event_type": "presence",
+            "description": "Unnamed person with 'little woman' staying in apt 3M Aug 5.",
+            "date_start": "2017-08-05",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Staff coordinating apt 3M access Aug 5.",
+            "evidence": [
+              {
+                "file": "EFTA02219631.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "301 East 66th St apt 3M code 7002 Saturday evening",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219631.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213817",
+            "file": "EFTA02213817.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213853",
+            "file": "EFTA02213853.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212852",
+            "file": "EFTA02212852.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00040385",
+            "file": "EFTA00040385.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213518",
+            "file": "EFTA02213518.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216465",
+            "file": "EFTA02216465.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216987",
+            "file": "EFTA02216987.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217102",
+            "file": "EFTA02217102.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217155",
+            "file": "EFTA02217155.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217628",
+            "file": "EFTA02217628.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217661",
+            "file": "EFTA02217661.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217809",
+            "file": "EFTA02217809.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219191",
+            "file": "EFTA02219191.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216903",
+            "file": "EFTA02216903.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218474",
+            "file": "EFTA02218474.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218900",
+            "file": "EFTA02218900.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218710",
+            "file": "EFTA02218710.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219015",
+            "file": "EFTA02219015.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219403",
+            "file": "EFTA02219403.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219166",
+            "file": "EFTA02219166.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219314",
+            "file": "EFTA02219314.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219266",
+            "file": "EFTA02219266.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219296",
+            "file": "EFTA02219296.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219375",
+            "file": "EFTA02219375.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219631",
+            "file": "EFTA02219631.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -28723,876 +30436,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.960667,
-          40.765071
-        ]
-      },
-      "properties": {
-        "id": "fb56bd08fffce100",
-        "name": "Epstein East 66th Street Apartment Building",
-        "location_name": "Epstein East 66th Street Apartment Building",
-        "location_address": "301 East 66th Street, New York City, New York 10065, United States",
-        "location_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
-        "canonical_name": "301 East 66th Street, New York, NY 10065, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Epstein East 66th Street Apartment Building",
-        "location_descriptor": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
-        "event_count": 16,
-        "evidence_count": 25,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-24",
-        "date_end": "2017-08-19",
-        "people": [
-          {
-            "name": "Woody",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Bobby Slayton",
-            "role": "associate"
-          },
-          {
-            "name": "Jean-Luc Brunel",
-            "role": "associate"
-          },
-          {
-            "name": "Nili Barak",
-            "role": "associate"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "James",
-            "role": "staff"
-          },
-          {
-            "name": "Karyna",
-            "role": "staff"
-          },
-          {
-            "name": "Larry Visoski",
-            "role": "staff"
-          },
-          {
-            "name": "Per Bard",
-            "role": "associate"
-          },
-          {
-            "name": "Dave",
-            "role": "other"
-          },
-          {
-            "name": "Eileen",
-            "role": "other"
-          },
-          {
-            "name": "Laura Bard",
-            "role": "associate"
-          },
-          {
-            "name": "P.",
-            "role": "associate"
-          },
-          {
-            "name": "Bella Klein",
-            "role": "associate"
-          },
-          {
-            "name": "Ehud Barak",
-            "role": "associate"
-          },
-          {
-            "name": "Svet",
-            "role": "associate"
-          },
-          {
-            "name": "Merwin Dela Cruz",
-            "role": "staff"
-          },
-          {
-            "name": "Nili Priell Barak",
-            "role": "associate"
-          },
-          {
-            "name": "Perry Bard",
-            "role": "associate"
-          },
-          {
-            "name": "Laura",
-            "role": "associate"
-          },
-          {
-            "name": "Karen (Zorro Ranch Manager)",
-            "role": "staff"
-          },
-          {
-            "name": "Karen",
-            "role": "associate"
-          },
-          {
-            "name": "Zorro Ranch",
-            "role": "other"
-          },
-          {
-            "name": "Dr. Bard",
-            "role": "associate"
-          },
-          {
-            "name": "Nili",
-            "role": "associate"
-          },
-          {
-            "name": "Bobby",
-            "role": "associate"
-          },
-          {
-            "name": "Cecile",
-            "role": "associate"
-          }
-        ],
-        "source_count": 24,
-        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+19 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
-        "events": [
-          {
-            "event_id": "b57126ea4dee712e",
-            "event_title": "Bobby Slayton stays at Epstein's 301 E 66th St apartment for birthday May 24-30, 2017",
-            "event_type": "presence",
-            "description": "Bobby Slayton was staying at Epstein's apartment 7J at 301 E 66th St on May 25, 2017; Epstein sent Jojo to bring him a pizza from Arturo's between 4-5:30pm",
-            "date_start": "2017-05-25",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Woody",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bobby Slayton",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein allowed Slayton to use his apartment and sent his staff to bring him food.",
-            "evidence": [
-              {
-                "file": "EFTA02213817.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey would like you to go to Arturo's today and buy a large cheese pizza for Bobby Slayton (staying at 301) and deliver it to the apartments (7J)...he hopes to be at the apt between 4-5:30pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213817.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213853.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hi Bobby! Jeffrey is asking if you can have dinner with Woody on Thursday June 1st! ...Damn it! We're leaving Wednesday but can POSSIBLY change my flight to Thursday if they can do it Wednesday... Got in very late but apt is great as usual!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213853.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02212852.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Leave Welcome Letter for Bobby Slayton to stay in 7J (for his bday) May 24-30. Ask his flight details for cleaning purposes.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212852.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d0247b785f8f3214",
-            "event_title": "Epstein Associates Housed at 301 East 66th Street, Including Pilot and Jean-Luc Brunel (2000s)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein allegedly housed models, friends, staff, and associates including MC2 business partner Jean-Luc Brunel in apartments at 301 East 66th Street in Manhattan, a building owned by his brother Mark.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jean-Luc Brunel",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein used apartments at 301 E 66th St to house associates and models as part of his operation, with his name linked to the arrangement.",
-            "evidence": [
-              {
-                "file": "EFTA00040385.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey Epstein associates who also rented apartments or ran businesses out of the building included an ex-girlfriend, his pilot, and his MC2 business partner, Jean-Luc Brunel.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040385.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "a1047a9981a4a57e",
-            "event_title": "Nili Priell Barak Departs Epstein Property, NYC, May 24, 2017",
-            "event_type": "presence",
-            "description": "Nili Priell Barak (presumably wife of Ehud Barak) left an Epstein property on May 24, 2017; Lesley Groff offered to send Karyna to fix window chain issues before their return.",
-            "date_start": "2017-05-24",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Nili Barak",
-                "role": "associate"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "James",
-                "role": "staff"
-              },
-              {
-                "name": "Karyna",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Nili Barak was staying at an Epstein property managed by Lesley Groff, indicating Epstein's direct relationship with the Barak family at this location.",
-            "evidence": [
-              {
-                "file": "EFTA02213518.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hi Lesley\nWe leave today. I arm the alarm. Tess told me that she will come on Friday",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213518.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "7968b8a0cdcf475b",
-            "event_title": "Dr. Per Bard and Wife Stay at Epstein's 301 East 66th Street Apt 10B",
-            "event_type": "presence",
-            "description": "Dr. Per Bard and his wife Laura were invited to stay at Epstein's apartment at 301 East 66th Street, New York (apt 10B), with the possibility of Dr. Bard meeting Jeffrey Epstein if he was in town.",
-            "date_start": "2017-06-09",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Per Bard",
-                "role": "associate"
-              },
-              {
-                "name": "Dave",
-                "role": "other"
-              },
-              {
-                "name": "Eileen",
-                "role": "other"
-              },
-              {
-                "name": "Laura Bard",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein's staff arranged apartment stay for Dr. Bard at an Epstein-owned/managed property.",
-            "evidence": [
-              {
-                "file": "EFTA02216465.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hello Laura! we DO have an apartment for you and Dr. Bard. Apartment address is:\n301 East 66th Street corner of 66th and 2nd\nYou will stay in apt 10B. Lets circle back as the date approaches...If Jeffrey is in town perhaps Dr. Bard can see JE as well",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216465.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "246bc41340a36c1a",
-            "event_title": "Associate 'P' Stays at Epstein's 301 E 66th St Apartment, NYC Through June 18, 2017",
-            "event_type": "presence",
-            "description": "Associate referred to as 'P' (associated with Svet's Amex card) staying at Epstein's 301 East 66th Street apartment, NYC, through Sunday June 18, returning June 28.",
-            "date_start": "2017-06-16",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "P.",
-                "role": "associate"
-              },
-              {
-                "name": "Bella Klein",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Associate staying at Epstein property; Epstein not physically present.",
-            "evidence": [
-              {
-                "file": "EFTA02216987.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I will be at 301 till Sunday and then back on the 28th!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216987.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "9facd245cfe9ec5c",
-            "event_title": "Unnamed Family Stays in Epstein Apt 10B (301 E 66th St), NYC, June 20-26, 2017",
-            "event_type": "presence",
-            "description": "Unnamed family members stayed at Jeffrey Epstein's apartment 10B at 301 East 66th Street, New York, June 20-26, 2017, as noted in Epstein's daily schedule.",
-            "date_start": "2017-06-20",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Family staying in Epstein's NYC apartment; Epstein's daily schedule shows his awareness and implied coordination.",
-            "evidence": [
-              {
-                "file": "EFTA02217102.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Reminder: family in NY June 20-26, staying in 10B",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217102.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "1c79363c2d8b0c06",
-            "event_title": "Ehud Barak Arrives at Epstein's 301 E 66th St Apt 11J, NYC, June 29, 2017",
-            "event_type": "presence",
-            "description": "Ehud Barak (Israeli Prime Minister, confirmed by Nili Peled Barak context) to arrive at apartment 11J in Epstein's East 66th Street building, NYC, on June 29, 2017.; Person referred to as 'Svet' (Svetlana) staying in apartment 3M at Epstein's 301 East 66th Street building beginning Wednesday June 28, 2017.",
-            "date_start": "2017-06-28",
-            "date_end": "2017-06-29",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ehud Barak",
-                "role": "associate"
-              },
-              {
-                "name": "Svet",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Merwin Dela Cruz",
-                "role": "staff"
-              },
-              {
-                "name": "Nili Priell Barak",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Ehud Barak using Epstein's NYC apartment 11J; Epstein's involvement indicated by staff management of his properties.",
-            "evidence": [
-              {
-                "file": "EFTA02217155.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "11J Ehud to arrive tomorrow June 29, make sure it is good to go!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217155.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217155.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Karyna, we have no guests coming next week. Svet has said she will stay in 3M staring on Wed. June 28th",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217155.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217628.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Subject: Re: Leo to clean your apartment today\nTo: Nili Priell Barak[nili.priell@gmail.com]\nHa! OK. Thanks on the security! All good\nLeo is [cleaning today].\nWed Jul 5, 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217628.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217661.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Subject: Windows in 11J\nHi Merwin...you didnt get back to me re the windows in Nili/Ehud's apartment...\nWed 7/5/2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217661.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d954aa46da9449a1",
-            "event_title": "Visitor 'Laura' Stays at Epstein's Apt Complex, 301 E 66th St NYC, July 12-17 2017",
-            "event_type": "travel",
-            "description": "An associate named Laura arrived at Epstein's apartment building at 301 East 66th Street, NYC on July 12, 2017 (staying apt 108) through July 17 to visit Jeffrey Epstein.",
-            "date_start": "2017-07-12",
-            "date_end": "2017-07-17",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Perry Bard",
-                "role": "associate"
-              },
-              {
-                "name": "Laura",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein arranged for this visitor to stay at his apartment complex and confirmed he would be in town to see her.",
-            "evidence": [
-              {
-                "file": "EFTA02217809.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hi Laura! Touching base re your trip! I show you are to arrive on July 12 and stay to July 17th! ...The address to the apartments is 301 East [Street] (corner of 2nd Ave and 66th). Jeffrey will be in town and will look forward to seeing you!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217809.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219191.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hi Laura! Touching base re your trip! I show you are to arrive on July 12 and stay to July 17th! You will stay in apt 10B. The new code is now 1074. The address to the apartments is 301 East 66th street (corner of 2nd Ave and 66th). Jeffrey will be in town and would like Dr Bard to come see him. Might he have time in the 12th or 13th? Jeffrey leaves 13th evening.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219191.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "201b7f9665c9469d",
-            "event_title": "Larry Visoski and Associates Use Epstein's NYC Apartments 7J and 10B (June 2017)",
-            "event_type": "presence",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02216903.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I'm thinking of having Eileen join me Saturday or Sunday in New York and have her get there early and wait for me, planning to spend the week in New York with her let me know if the apartments are available Saturday or Sunday early just one apartment 7J for me and I'll put Dave in 10b on Tuesday",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216903.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6a957e851694ea83",
-            "event_title": "Karen from Epstein's Zorro Ranch Visits NYC, Stays at 301 East 66th Street Apt 3M",
-            "event_type": "presence",
-            "description": "Karen, a staff member from Epstein's Zorro Ranch property in New Mexico, was invited to stay at 301 East 66th Street, apartment 3M, in New York City around July 5, 2017.",
-            "date_start": "2017-07-05",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Karen (Zorro Ranch Manager)",
-                "role": "staff"
-              },
-              {
-                "name": "Karen",
-                "role": "associate"
-              },
-              {
-                "name": "Zorro Ranch",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Person from Epstein's Zorro Ranch was assigned to stay at Epstein's NYC apartment building at 301 East 66th Street, connecting the two properties.",
-            "evidence": [
-              {
-                "file": "EFTA02218474.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hi Karen! So excited you are coming to NY!! You will stay in apt 3M at 301 East 66th Street. The code is 7614. Safe travels to NY!\nFrom: Zorro Ranch",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218474.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02218900.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "You will stay in apt 3M at 301 East 66th Street. The code is 7614. Safe travels to NY! Zorro Management LLC 49 Zorro Ranch Road Stanley, NM 87056",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218900.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "da535888bb088c12",
-            "event_title": "Dr. Bard Stays at Epstein's 301 East 66th Street Apt 10B, July 12-17, 2017",
-            "event_type": "presence",
-            "description": "Dr. Bard was staying in apartment 10B at Epstein's property at 301 East 66th Street in New York City from July 12-17, 2017, noted in the schedule as 'in NY for her knee surgery July 14.'",
-            "date_start": "2017-07-12",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Dr. Bard",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Dr. Bard was staying at Epstein's NYC apartment building for surgery during July 12-17, 2017, while Epstein had scheduled meetings with her.",
-            "evidence": [
-              {
-                "file": "EFTA02218710.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Leave Welcome letter for 10B for Dr. Bard arriving July 12-17",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218710.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "252bb07dcaf728cf",
-            "event_title": "Ehud Barak's Apartment (11J) Exterminator Arranged at Epstein's NYC Building, Aug 2 2017",
-            "event_type": "presence",
-            "description": "Epstein approved an exterminator visit to apartment 11J (described as 'Ehud's apt,' implying Ehud Barak's apartment) at his NYC property on Wednesday August 2, 2017.",
-            "date_start": "2017-08-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ehud Barak",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein personally approved maintenance at an apartment he managed for Ehud Barak, showing their ongoing residential relationship.",
-            "evidence": [
-              {
-                "file": "EFTA02219015.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "ti[me] an exterminator for Ehud's apt (11J) coming on Wed. Aug. 2 at 10am ... ok - jeffrey E.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219015.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219403.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "let Karyna know pilots will stay in 8A and 11P Aug. 2-4",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219403.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f419a28065811c48",
-            "event_title": "Epstein Pilot Larry Visoski Requests NYC Apartment at 301 for Aug 19 2017 Flight",
-            "event_type": "presence",
-            "description": "Epstein's chief pilot Larry Visoski requested an apartment at 301 East 66th Street for himself and co-pilot Dave; Dave arriving Friday Aug 18, both flying together Saturday Aug 19, 2017.",
-            "date_start": "2017-08-19",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Dave",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Larry Visoski is Epstein's chief pilot coordinating pre-flight accommodations at Epstein's NYC staff building for an upcoming flight trip.",
-            "evidence": [
-              {
-                "file": "EFTA02219166.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Do you have one apartment at 301? For me Dave will come up Friday to fly the trip with me Saturday",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219166.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219314.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "YES! You may stay in 7J (code 1020) ... Dave will need an apt for Friday night...he may stay in 10B (code 1074)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219314.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "1430a8029ed8258c",
-            "event_title": "Ehud Barak Maintains Apartment 11J at Epstein's 301 East 66th St, NYC (July 2017)",
-            "event_type": "communication",
-            "description": "Apartment 11J at 301 East 66th Street (Epstein's staff/guest building) was assigned to Nili and Ehud Barak, with cleaning staff required to call \"Rafi\" before entering; Ehud Barak was maintaining an apartment at Epstein's NYC building.",
-            "date_start": "2017-07-05",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ehud Barak",
-                "role": "associate"
-              },
-              {
-                "name": "Nili",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Ehud Barak and his assistant Nili Priell Barak occupied apartment 11J in Epstein's guest building at 301 East 66th Street, establishing a regular NYC presence within Epstein's network.",
-            "evidence": [
-              {
-                "file": "EFTA02219266.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "11J needs to be cleaned. I understand will clean today for Nili/Ehud. Please remember you must call Rafi prior to entering the apartment...Karyna has had a painter in all the guest apartments.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219266.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "997f2f0f0019c353",
-            "event_title": "Multiple Epstein Associates at 301 East 66th: MT Aug 14, Bobby + Girlfriend Aug 6, Cecile in 7J",
-            "event_type": "presence",
-            "description": "Multiple Epstein associates staying in apartments at 301 East 66th Street: \"Bobby and girlfriend\" in apt 3M Aug 6+, \"Cecile\" in apt 7J, unnamed person in apt 10B, \"MT\" scheduled for Aug 14 returning to Paris Friday night.",
-            "date_start": "2017-08-06",
-            "date_end": null,
-            "date_precision": "range",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bobby",
-                "role": "associate"
-              },
-              {
-                "name": "Cecile",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "All guests were staying in Epstein's guest apartment building at 301 East 66th Street, managed through his staff.",
-            "evidence": [
-              {
-                "file": "EFTA02219296.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I can put [MT] in 3M Aug. 14. She is to fly back to Paris late Friday night. We have Bobby and his girlfriend coming to stay on Sun. Aug. 6 to stay in 3M. ... [someone] 10B Cecile; 7J",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219296.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "25fd6ca60a014f77",
-            "event_title": "Epstein Associate Departs 301 East 66th St for JFK, Ukraine International Flight, Aug 11 2017",
-            "event_type": "travel",
-            "description": "CARosa LLC car service confirmed pickup from 301 East 66th Street at 8:45pm Friday August 11, 2017 for an unnamed woman (foreign cell phone) traveling to JFK for a Ukraine International Airlines flight departing at 12:30am.",
-            "date_start": "2017-08-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The woman was staying at Epstein's guest apartment building at 301 East 66th Street before departing for Ukraine.",
-            "evidence": [
-              {
-                "file": "EFTA02219375.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Pick up: Friday. Aug 11 @ 845pm from 301 East 66th St and take to JFK for her flight departing at 12:30am on Ukraine Internati",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219375.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213817",
-            "file": "EFTA02213817.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213853",
-            "file": "EFTA02213853.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212852",
-            "file": "EFTA02212852.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00040385",
-            "file": "EFTA00040385.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213518",
-            "file": "EFTA02213518.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216465",
-            "file": "EFTA02216465.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216987",
-            "file": "EFTA02216987.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217102",
-            "file": "EFTA02217102.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217155",
-            "file": "EFTA02217155.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217628",
-            "file": "EFTA02217628.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217661",
-            "file": "EFTA02217661.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217809",
-            "file": "EFTA02217809.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219191",
-            "file": "EFTA02219191.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216903",
-            "file": "EFTA02216903.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218474",
-            "file": "EFTA02218474.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218900",
-            "file": "EFTA02218900.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218710",
-            "file": "EFTA02218710.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219015",
-            "file": "EFTA02219015.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219403",
-            "file": "EFTA02219403.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219166",
-            "file": "EFTA02219166.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219314",
-            "file": "EFTA02219314.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219266",
-            "file": "EFTA02219266.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219296",
-            "file": "EFTA02219296.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219375",
-            "file": "EFTA02219375.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.977697,
           35.147641
         ]
@@ -29608,8 +30451,8 @@
         "property_type": "event",
         "display_name": "Epstein's Zorro Ranch",
         "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
-        "event_count": 13,
-        "evidence_count": 25,
+        "event_count": 14,
+        "evidence_count": 26,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -29671,10 +30514,14 @@
           {
             "name": "Deborah Anaya",
             "role": "other"
+          },
+          {
+            "name": "missing teenager from Florida",
+            "role": "victim"
           }
         ],
-        "source_count": 24,
-        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+19 more)",
+        "source_count": 25,
+        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+20 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
@@ -30172,6 +31019,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "798042bf379240b4",
+            "event_title": "Epstein Flight Log: August 1, 1997 \u2014 Unidentified Passenger (Similar Name to Missing FL Teen) on SAR\u2192ZOR Flight",
+            "event_type": "travel",
+            "description": "Epstein flight log records an August 1, 1997 flight from SAR to ZOR (Zorro Ranch, NM) with a passenger whose name resembles a Florida teenager reported missing around the same date, flagged by SDNY in the Epstein sex trafficking investigation.",
+            "date_start": "1997-08-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "missing teenager from Florida",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "The passenger listed on Epstein's August 1, 1997 flight to Zorro Ranch has a similar name to a missing Florida teenager, strongly suggesting Epstein network involvement.",
+            "evidence": [
+              {
+                "file": "EFTA00074309.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "there is a missing person named a teenager from Florida, who was last seen sometime around about August 1, 1997. In the flight logs, there is an individual listed ... on an August 1, 1997 flight that's designated as being from SAR to ZOR.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074309.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -30293,6 +31171,11 @@
           {
             "doc_id": "EFTA00073819",
             "file": "EFTA00073819.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074309",
+            "file": "EFTA00074309.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -33064,7 +33947,7 @@
         "display_name": "Albuquerque International Sunport",
         "location_descriptor": "The primary commercial airport serving Albuquerque, New Mexico and the surrounding region, located in the south-central part of the city.",
         "event_count": 6,
-        "evidence_count": 16,
+        "evidence_count": 18,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -33084,12 +33967,16 @@
             "role": "staff"
           },
           {
+            "name": "Larry Visoski",
+            "role": "staff"
+          },
+          {
             "name": "Lesley Groff",
             "role": "staff"
           }
         ],
-        "source_count": 16,
-        "sources_preview": "EFTA02213687.pdf, EFTA02214641.pdf, EFTA02213884.pdf, EFTA02214367.pdf, EFTA02214639.pdf, ... (+11 more)",
+        "source_count": 18,
+        "sources_preview": "EFTA02213687.pdf, EFTA02214641.pdf, EFTA02213884.pdf, EFTA02214367.pdf, EFTA02214639.pdf, ... (+13 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The primary commercial airport serving Albuquerque, New Mexico and the surrounding region, located in the south-central part of the city.",
@@ -33250,6 +34137,13 @@
                 "excerpt": "N120JE arrived at Albuquerque Intl Sunport (KABQ) at 12:25PM MDT from Palm Beach Intl (KPBI)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218692.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219542.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alert - Flight to Albuquerque (B6 65) August 12, 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219542.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -33262,7 +34156,12 @@
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
-            "people": [],
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              }
+            ],
             "epstein_nexus": "implied",
             "nexus_reasoning": "N120JE is registered to Epstein's entity; arrival at Albuquerque (nearest major airport to Zorro Ranch) on Aug 10, 2017 strongly implies his travel to Zorro Ranch.",
             "evidence": [
@@ -33271,6 +34170,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "N120JE is expected to arrive at Albuquerque Intl Sunport (KABQ) in 45 minutes at 12:24PM MDT",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218486.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219523.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tomorrow Thursday wheels up Atlantic Palm Beach at 10:30 AM confirmed Arrival Atlantic aviation Albuquerque at noon local time N120JE / GIV",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219523.pdf",
                 "confidence": 0.7
               }
             ]
@@ -33401,8 +34307,18 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02219542",
+            "file": "EFTA02219542.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02218486",
             "file": "EFTA02218486.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219523",
+            "file": "EFTA02219523.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -38096,6 +39012,297 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.8283,
+          40.7135
+        ]
+      },
+      "properties": {
+        "id": "f0414c4573b0fa55",
+        "name": "John F. Kennedy International Airport",
+        "location_name": "John F. Kennedy International Airport",
+        "location_address": "Queens, New York, United States",
+        "location_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
+        "canonical_name": "John F. Kennedy International Airport, Jamaica, Queens, NY, New York City, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "John F. Kennedy International Airport",
+        "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
+        "event_count": 4,
+        "evidence_count": 13,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-28",
+        "date_end": "2017-08-12",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "M",
+            "role": "other"
+          }
+        ],
+        "source_count": 13,
+        "sources_preview": "EFTA02218163.pdf, EFTA02219098.pdf, EFTA02219224.pdf, EFTA02219101.pdf, EFTA02219150.pdf, ... (+8 more)",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
+        "events": [
+          {
+            "event_id": "8095ad1751c676dd",
+            "event_title": "Epstein Staff Books JFK to Paris Flight via Norwegian Air #7020, Aug 7, 2017",
+            "event_type": "travel",
+            "description": "Epstein (jeevacation@gmail.com) requested changing a ticket for a woman to depart JFK Monday night via Norwegian Air flight 7020 to Paris, returning on the 19th.",
+            "date_start": "2017-08-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein arranged the travel on behalf of an associate/guest, but he was not physically on this flight himself.",
+            "evidence": [
+              {
+                "file": "EFTA02218163.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "please change ticket to monday ; tomorrw night back to paris. she will return on the 19th.\n10:25pm to depart JFK via Norwegian Air#7020",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218163.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219098.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder; Begin forwarded message: From: \"American Express Travel\" Subject: Itinerary INCL TICKETNO for 14JUL17 KRXZTS ... Flight Information Date 28 Jul 2017 Airline Norwegian Air Shuttle Flight/Class DY 7020 W Economy Class Origin New York, John F Kennedy International Destination Paris, Charles De Gaulle Departing 10:25 PM Arriving 11:25 AM / 29 Jul 2017 Seats 11C Confirmed",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219098.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219224.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jet Blue B6 65 13AUG JFK ABQ 0808P 1108P TOTAL FARE - USD 630.97 ... Lowest fare on the market is with Delta (we can use credit under her name): DL 436 13AUG JFK ATL 0605A 0830A DL 1185 13AUG ATL ABQ 0940A 1053A TOTAL FARE - USD 281.80",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219224.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bd0863d32d697b86",
+            "event_title": "AmEx Centurion Travel Itinerary KRXZTS: Norwegian Air DY7020 JFK to Paris CDG, Jul 28 2017",
+            "event_type": "travel",
+            "description": "American Express Centurion Travel itinerary KRXZTS shows Norwegian Air Shuttle flight DY7020 departing JFK Terminal 1 at 10:25 PM on July 28, 2017 bound for Paris CDG, seat 11C, for Epstein.",
+            "date_start": "2017-07-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "This itinerary was booked via Epstein's AmEx Centurion account and forwarded by his personal assistant Lesley Groff, implying Epstein was the traveler.",
+            "evidence": [
+              {
+                "file": "EFTA02219101.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DY 7020 Origin New York. John F Kennedy International Destination Paris. Charles De Gaulle Departing 10:25 PM Arriving 1125 AM/ 29 Jul 2017 Class W Economy Class Seats 11C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219101.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219150.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DY 7020 Origin New York. John F Kennedy International Destination Paris. Charles De Gaulle Departing 10:25 PM Arriving 1125 AM/ 29 Jul 2017 Class W Economy Class Seats =Spec Request",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219150.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219572.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 936 28JUL JFK STT 0930A 0139P TOTAL FARE USD 407.00 PRIVATE",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219572.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0ff1c833e389037a",
+            "event_title": "Unnamed Woman Departs JFK on Ukraine International Air Flt 232 at 12:30am",
+            "event_type": "travel",
+            "description": "An unnamed woman (initial M) arranged by Epstein staff to depart from JFK on Ukraine International Air flight 232 at 12:30am, with staff arranging car to airport.",
+            "date_start": "2017-08-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "M",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein staff coordinated airport transport for an unnamed woman.",
+            "evidence": [
+              {
+                "file": "EFTA02219493.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alert - to depart tomorrow via Ukraine Intl Air #232 at 12:30am JFK...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219493.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c5d6c3e6d3158353",
+            "event_title": "AA 2382 JFK\u2192MIA then AA 2379 MIA\u2192STT Booked, Jul 31 2017",
+            "event_type": "travel",
+            "description": "AmEx Centurion booked AA2382 JFK\u2192MIA then AA2379 MIA\u2192STT July 31 2017.",
+            "date_start": "2017-07-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "STT flights via Epstein AmEx.",
+            "evidence": [
+              {
+                "file": "EFTA02219534.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA2382 JFK MIA then AA2379 MIA STT Jul 31",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219534.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219563.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Same NY\u2192STT thread July 31",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219563.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219581.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Red-eye B6 1503 JFK SJU then B6 1236 SJU STT Jul 31",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219581.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219620.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY STT Jul 31 AA2382 2379",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219620.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY STT Jul 31 AA2382 2379",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219623.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219634.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NY STT Jul 31 AA2382 2379",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219634.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02218163",
+            "file": "EFTA02218163.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219098",
+            "file": "EFTA02219098.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219224",
+            "file": "EFTA02219224.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219101",
+            "file": "EFTA02219101.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219150",
+            "file": "EFTA02219150.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219572",
+            "file": "EFTA02219572.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219493",
+            "file": "EFTA02219493.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219534",
+            "file": "EFTA02219534.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219563",
+            "file": "EFTA02219563.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219581",
+            "file": "EFTA02219581.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219620",
+            "file": "EFTA02219620.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219623",
+            "file": "EFTA02219623.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219634",
+            "file": "EFTA02219634.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.06902,
           59.324337
         ]
@@ -38112,7 +39319,7 @@
         "display_name": "Stockholm",
         "location_descriptor": "The capital and largest city of Sweden, built across 14 islands at the confluence of Lake M\u00e4laren and the Baltic Sea.",
         "event_count": 3,
-        "evidence_count": 5,
+        "evidence_count": 7,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -38130,10 +39337,14 @@
           {
             "name": "Lesley Groff",
             "role": "staff"
+          },
+          {
+            "name": "potential witness",
+            "role": "witness"
           }
         ],
-        "source_count": 5,
-        "sources_preview": "EFTA02212966.pdf, EFTA00016830.pdf, EFTA00017039.pdf, EFTA00072638.pdf, EFTA02213848.pdf",
+        "source_count": 7,
+        "sources_preview": "EFTA02212966.pdf, EFTA00016830.pdf, EFTA00017039.pdf, EFTA00072638.pdf, EFTA00074185.pdf, ... (+2 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The capital and largest city of Sweden, built across 14 islands at the confluence of Lake M\u00e4laren and the Baltic Sea.",
@@ -38182,7 +39393,16 @@
             "date_end": null,
             "date_precision": "range",
             "confidence": 0.75,
-            "people": [],
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "potential witness",
+                "role": "witness"
+              }
+            ],
             "epstein_nexus": "contextual",
             "nexus_reasoning": "This is investigative travel related to the Epstein case but Epstein himself was not present at this event.",
             "evidence": [
@@ -38205,6 +39425,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "The Central Authority of the United States of America requests the assistance of the appropriate Swedish authorities to obtain evidence for use in a criminal investigation...a Swedish citizen residing in Sweden, has indicated to law enforcement officers that she is willing to consent to a voluntary interview on Wednesday, February 5, 2020.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00072638.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074185.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AUSAs will be traveling to Stockholm, Sweden, to interview a potential witness in connection with an investigation into possible violations of 18 U.S.C. \u00a7 2423, among other offenses. The witness is the relative of a victim in the investigation, and may be able to significantly corroborate the victim as well as provide additional relevant information.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074185.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074222.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "U.S. authorities have learned that an individual living in Sweden may be a witness to certain events, conduct, or conversations relevant to the Investigation ... has indicated to U.S. authorities that she is willing to consent to a voluntary interview.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074222.pdf",
                 "confidence": 0.7
               }
             ]
@@ -38251,6 +39485,16 @@
           {
             "doc_id": "EFTA00072638",
             "file": "EFTA00072638.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074185",
+            "file": "EFTA00074185.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074222",
+            "file": "EFTA00074222.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -40222,198 +41466,6 @@
           {
             "doc_id": "EFTA02215875",
             "file": "EFTA02215875.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8283,
-          40.7135
-        ]
-      },
-      "properties": {
-        "id": "f0414c4573b0fa55",
-        "name": "John F. Kennedy International Airport",
-        "location_name": "John F. Kennedy International Airport",
-        "location_address": "Queens, New York, United States",
-        "location_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
-        "canonical_name": "John F. Kennedy International Airport, Jamaica, Queens, NY, New York City, New York",
-        "region": "",
-        "property_type": "event",
-        "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
-        "event_count": 3,
-        "evidence_count": 6,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-07-28",
-        "date_end": "2017-08-12",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "M",
-            "role": "other"
-          }
-        ],
-        "source_count": 6,
-        "sources_preview": "EFTA02218163.pdf, EFTA02219098.pdf, EFTA02219224.pdf, EFTA02219101.pdf, EFTA02219150.pdf, ... (+1 more)",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the United States.",
-        "events": [
-          {
-            "event_id": "8095ad1751c676dd",
-            "event_title": "Epstein Staff Books JFK to Paris Flight via Norwegian Air #7020, Aug 7, 2017",
-            "event_type": "travel",
-            "description": "Epstein (jeevacation@gmail.com) requested changing a ticket for a woman to depart JFK Monday night via Norwegian Air flight 7020 to Paris, returning on the 19th.",
-            "date_start": "2017-08-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein arranged the travel on behalf of an associate/guest, but he was not physically on this flight himself.",
-            "evidence": [
-              {
-                "file": "EFTA02218163.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "please change ticket to monday ; tomorrw night back to paris. she will return on the 19th.\n10:25pm to depart JFK via Norwegian Air#7020",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218163.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219098.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Reminder; Begin forwarded message: From: \"American Express Travel\" Subject: Itinerary INCL TICKETNO for 14JUL17 KRXZTS ... Flight Information Date 28 Jul 2017 Airline Norwegian Air Shuttle Flight/Class DY 7020 W Economy Class Origin New York, John F Kennedy International Destination Paris, Charles De Gaulle Departing 10:25 PM Arriving 11:25 AM / 29 Jul 2017 Seats 11C Confirmed",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219098.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219224.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jet Blue B6 65 13AUG JFK ABQ 0808P 1108P TOTAL FARE - USD 630.97 ... Lowest fare on the market is with Delta (we can use credit under her name): DL 436 13AUG JFK ATL 0605A 0830A DL 1185 13AUG ATL ABQ 0940A 1053A TOTAL FARE - USD 281.80",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219224.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bd0863d32d697b86",
-            "event_title": "AmEx Centurion Travel Itinerary KRXZTS: Norwegian Air DY7020 JFK to Paris CDG, Jul 28 2017",
-            "event_type": "travel",
-            "description": "American Express Centurion Travel itinerary KRXZTS shows Norwegian Air Shuttle flight DY7020 departing JFK Terminal 1 at 10:25 PM on July 28, 2017 bound for Paris CDG, seat 11C, for Epstein.",
-            "date_start": "2017-07-28",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "This itinerary was booked via Epstein's AmEx Centurion account and forwarded by his personal assistant Lesley Groff, implying Epstein was the traveler.",
-            "evidence": [
-              {
-                "file": "EFTA02219101.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DY 7020 Origin New York. John F Kennedy International Destination Paris. Charles De Gaulle Departing 10:25 PM Arriving 1125 AM/ 29 Jul 2017 Class W Economy Class Seats 11C",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219101.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219150.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DY 7020 Origin New York. John F Kennedy International Destination Paris. Charles De Gaulle Departing 10:25 PM Arriving 1125 AM/ 29 Jul 2017 Class W Economy Class Seats =Spec Request",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219150.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "0ff1c833e389037a",
-            "event_title": "Unnamed Woman Departs JFK on Ukraine International Air Flt 232 at 12:30am",
-            "event_type": "travel",
-            "description": "An unnamed woman (initial M) arranged by Epstein staff to depart from JFK on Ukraine International Air flight 232 at 12:30am, with staff arranging car to airport.",
-            "date_start": "2017-08-12",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "M",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Epstein staff coordinated airport transport for an unnamed woman.",
-            "evidence": [
-              {
-                "file": "EFTA02219493.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Alert - to depart tomorrow via Ukraine Intl Air #232 at 12:30am JFK...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219493.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02218163",
-            "file": "EFTA02218163.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219098",
-            "file": "EFTA02219098.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219224",
-            "file": "EFTA02219224.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219101",
-            "file": "EFTA02219101.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219150",
-            "file": "EFTA02219150.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219493",
-            "file": "EFTA02219493.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -42577,7 +43629,7 @@
         "display_name": "Hilton West Palm Beach",
         "location_descriptor": "A full-service hotel on Okeechobee Boulevard in downtown West Palm Beach, Florida, adjacent to the Palm Beach County Convention Center.",
         "event_count": 2,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -42595,10 +43647,14 @@
           {
             "name": "My colleague",
             "role": "legal"
+          },
+          {
+            "name": "FBI NY agent",
+            "role": "other"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA00014312.pdf, EFTA00017849.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA00014312.pdf, EFTA00017849.pdf, EFTA00074300.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
         "event_description": "A full-service hotel on Okeechobee Boulevard in downtown West Palm Beach, Florida, adjacent to the Palm Beach County Convention Center.",
@@ -42654,6 +43710,10 @@
               {
                 "name": "My colleague",
                 "role": "legal"
+              },
+              {
+                "name": "FBI NY agent",
+                "role": "other"
               }
             ],
             "epstein_nexus": "contextual",
@@ -42664,6 +43724,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "We will meet tomorrow at the same place as last time\u2014 the Hilton in West Palm Beach, on Okeechobee Blvd. My cell is when you arrive. My colleague, will be joining us",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017849.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00074300.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Event: Proffer: ... Start Date: 2019-09-10 15:30:00 +0000 End Date: 2019-09-10 18:00:00 +0000 Location: WPB Hilton",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074300.pdf",
                 "confidence": 0.7
               }
             ]
@@ -42678,6 +43745,11 @@
           {
             "doc_id": "EFTA00017849",
             "file": "EFTA00017849.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00074300",
+            "file": "EFTA00074300.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -45908,6 +46980,118 @@
           {
             "doc_id": "EFTA02219247",
             "file": "EFTA02219247.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.517709,
+          49.00382
+        ]
+      },
+      "properties": {
+        "id": "c732c80a3f45b74d",
+        "name": "Paris Charles de Gaulle Airport",
+        "location_name": "Paris Charles de Gaulle Airport",
+        "location_address": "Roissy-en-France, Val-d'Oise, France",
+        "location_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "canonical_name": "Paris Charles de Gaulle Airport, Roissy-en-France, France, Val-d'Oise",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris Charles de Gaulle Airport",
+        "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-04",
+        "date_end": "2017-07-14",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Fettah Tamince",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02217695.pdf, EFTA02219548.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "events": [
+          {
+            "event_id": "ebf9a29b9e3a28d2",
+            "event_title": "Epstein Arranges Travel for Paris Contact: CDG to JFK, July 14 2017 (Norwegian Air)",
+            "event_type": "travel",
+            "description": "Epstein arranged travel for an unidentified contact from Paris Charles de Gaulle to JFK on July 14, 2017 via Norwegian Air Shuttle economy class.",
+            "date_start": "2017-07-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein arranged and paid for this flight ticket to bring an unidentified person from Paris to New York to visit him.",
+            "evidence": [
+              {
+                "file": "EFTA02217695.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight Information Date 14 Jul 2017 Airline Norwegian Air Shuttle Flight/Class E Economy Class Origin Paris, Charles De Gaulle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217695.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fb4755715c821531",
+            "event_title": "Russian Traveler Returns Istanbul\u2192Paris CDG Turkish Airlines Jul 4 2017",
+            "event_type": "travel",
+            "description": "TK1827 Istanbul\u2192Paris CDG July 4 2017 for Russian citizen in Epstein network.",
+            "date_start": "2017-07-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Fettah Tamince",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return leg of Epstein network itinerary to Paris.",
+            "evidence": [
+              {
+                "file": "EFTA02219548.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TK1827 Istanbul Paris CDG Jul 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219548.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02217695",
+            "file": "EFTA02217695.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219548",
+            "file": "EFTA02219548.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -54202,82 +55386,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.517709,
-          49.00382
-        ]
-      },
-      "properties": {
-        "id": "c732c80a3f45b74d",
-        "name": "Paris Charles de Gaulle Airport",
-        "location_name": "Paris Charles de Gaulle Airport",
-        "location_address": "Roissy-en-France, Val-d'Oise, France",
-        "location_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
-        "canonical_name": "Paris Charles de Gaulle Airport, Roissy-en-France, France, Val-d'Oise",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Paris Charles de Gaulle Airport",
-        "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-07-14",
-        "date_end": "2017-07-14",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02217695.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
-        "events": [
-          {
-            "event_id": "ebf9a29b9e3a28d2",
-            "event_title": "Epstein Arranges Travel for Paris Contact: CDG to JFK, July 14 2017 (Norwegian Air)",
-            "event_type": "travel",
-            "description": "Epstein arranged travel for an unidentified contact from Paris Charles de Gaulle to JFK on July 14, 2017 via Norwegian Air Shuttle economy class.",
-            "date_start": "2017-07-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein arranged and paid for this flight ticket to bring an unidentified person from Paris to New York to visit him.",
-            "evidence": [
-              {
-                "file": "EFTA02217695.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight Information Date 14 Jul 2017 Airline Norwegian Air Shuttle Flight/Class E Economy Class Origin Paris, Charles De Gaulle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217695.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02217695",
-            "file": "EFTA02217695.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.657425,
           39.716763
         ]
@@ -54813,7 +55921,7 @@
         "display_name": "Tucson International Airport",
         "location_descriptor": "A commercial and general aviation airport serving the Tucson, Arizona metropolitan area, located approximately seven miles south of downtown Tucson.",
         "event_count": 1,
-        "evidence_count": 5,
+        "evidence_count": 6,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -54825,8 +55933,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 5,
-        "sources_preview": "EFTA02218777.pdf, EFTA02218978.pdf, EFTA02218995.pdf, EFTA02219039.pdf, EFTA02219124.pdf",
+        "source_count": 6,
+        "sources_preview": "EFTA02218777.pdf, EFTA02218978.pdf, EFTA02218995.pdf, EFTA02219039.pdf, EFTA02219124.pdf, ... (+1 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport serving the Tucson, Arizona metropolitan area, located approximately seven miles south of downtown Tucson.",
@@ -54883,6 +55991,13 @@
                 "excerpt": "wed 16 . wheels up 10 to tucson. . 230 to new york, . . sat 19th . bedford. - lsj. tarty to bring het . landing on 26th . leave early 28th for palm beach. 30 new york, sept 2 paris, return 15 new york 22 lsj 30 new york",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219124.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219565.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "wed 16 . wheels up 10 to tucson. . 230 to new york, . .",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219565.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -54911,6 +56026,11 @@
           {
             "doc_id": "EFTA02219124",
             "file": "EFTA02219124.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219565",
+            "file": "EFTA02219565.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -55769,6 +56889,174 @@
           {
             "doc_id": "EFTA02219473",
             "file": "EFTA02219473.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.401193,
+          34.06742
+        ]
+      },
+      "properties": {
+        "id": "03e23e5f13a4400c",
+        "name": "Jeffrey S. Pop & Associates",
+        "location_name": "Jeffrey S. Pop & Associates",
+        "location_address": "Beverly Hills, California, United States",
+        "location_description": "A Beverly Hills, California law firm specializing in vaccine injury and personal injury cases, located in the 90212 zip code area of Beverly Hills.",
+        "canonical_name": "Beverly Hills, California, 90212",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Jeffrey S. Pop & Associates",
+        "location_descriptor": "A Beverly Hills, California law firm specializing in vaccine injury and personal injury cases, located in the 90212 zip code area of Beverly Hills.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2020-02-28",
+        "date_end": "2020-02-28",
+        "people": [
+          {
+            "name": "client",
+            "role": "witness"
+          },
+          {
+            "name": "Jeffrey Pop",
+            "role": "legal"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00074301.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "A Beverly Hills, California law firm specializing in vaccine injury and personal injury cases, located in the 90212 zip code area of Beverly Hills.",
+        "events": [
+          {
+            "event_id": "78703d01ebbf735c",
+            "event_title": "SDNY Interviews Epstein Investigation Witness at Beverly Hills Attorney's Office (Feb 28, 2020)",
+            "event_type": "travel",
+            "description": "SDNY prosecutors traveled to Beverly Hills to interview a witness at attorney Jeffrey S. Pop's office on February 28, 2020, in connection with the Epstein sex trafficking investigation.",
+            "date_start": "2020-02-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "client",
+                "role": "witness"
+              },
+              {
+                "name": "Jeffrey Pop",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The witness interview in Beverly Hills was part of the ongoing Epstein sex trafficking investigation, with prosecutors traveling to conduct the interview.",
+            "evidence": [
+              {
+                "file": "EFTA00074301.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I want to confirm that we still are scheduled for Friday, February 28, 2020 at 10:00am in my office ... you will be pleased to know that Los Angeles will have unseasonably warm weather from February 26th to February 28th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074301.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00074301",
+            "file": "EFTA00074301.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.445285,
+          34.048262
+        ]
+      },
+      "properties": {
+        "id": "30791ba56c6424d1",
+        "name": "Panish Shea & Boyle LLP",
+        "location_name": "Panish Shea & Boyle LLP",
+        "location_address": "11111 Santa Monica Boulevard, Los Angeles, California 90025, United States",
+        "location_description": "A prominent Los Angeles plaintiffs's law firm located at 11111 Santa Monica Boulevard in West Los Angeles, specializing in catastrophic injury and wrongful death cases.",
+        "canonical_name": "11111 Santa Monica Blvd Suite 700, Los Angeles, CA 90025, California",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Panish Shea & Boyle LLP",
+        "location_descriptor": "A prominent Los Angeles plaintiffs's law firm located at 11111 Santa Monica Boulevard in West Los Angeles, specializing in catastrophic injury and wrongful death cases.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2020-02-27",
+        "date_end": "2020-02-27",
+        "people": [
+          {
+            "name": "Robert Glassman",
+            "role": "legal"
+          },
+          {
+            "name": "client",
+            "role": "victim"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00074360.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "A prominent Los Angeles plaintiffs's law firm located at 11111 Santa Monica Boulevard in West Los Angeles, specializing in catastrophic injury and wrongful death cases.",
+        "events": [
+          {
+            "event_id": "339a2f6e67a18eb2",
+            "event_title": "SDNY Interviews Epstein Victim at Panish Shea & Boyle, Los Angeles (Feb 27, 2020)",
+            "event_type": "travel",
+            "description": "SDNY prosecutors traveled to Los Angeles to conduct an interview at 11:00 AM at Panish Shea & Boyle LLP with a witness/victim represented by Robert Glassman in the Epstein sex trafficking investigation.",
+            "date_start": "2020-02-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Robert Glassman",
+                "role": "legal"
+              },
+              {
+                "name": "client",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The interview at Panish Shea & Boyle in LA was part of the ongoing Epstein sex trafficking investigation of a witness or victim.",
+            "evidence": [
+              {
+                "file": "EFTA00074360.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Confirmed, thanks -- see you at 11:00 on the 27th ... Robert Glassman, Esq. Panish Shea & Boyle LLP 11111 Santa Monica Boulevard, Suite 700 Los Angeles, CA 90025",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074360.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00074360",
+            "file": "EFTA00074360.pdf",
             "source_type": "doj_efta"
           }
         ]
