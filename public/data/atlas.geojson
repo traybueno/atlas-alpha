@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 69,
-        "evidence_count": 257,
+        "event_count": 70,
+        "evidence_count": 261,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -288,10 +288,14 @@
           {
             "name": "Federal Bureau of Prisons correction guard (MCC recreation officer)",
             "role": "witness"
+          },
+          {
+            "name": "Material Handler, MCC",
+            "role": "witness"
           }
         ],
-        "source_count": 201,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+196 more)",
+        "source_count": 205,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+200 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -2269,6 +2273,27 @@
                 "excerpt": "DAILY LIEUTENANT'S LOG Shift-Day-Data: M/W Friday, August 09, 2019 Beginning Count: 759 SHU: 77/5\nDaily Sensitive Information: I/M on Suicide Watch w/inmate companion\nI/M on Suicide Watch w/inmate companion\nI/M Ramos 185428-054 pending bed space(SHU)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061381.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061409.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET L-TIER DATE: 08/09/2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061409.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061418.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZA TIER-G DATE: 08/10/2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061418.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00061404.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing the MCC New York Daily Lieutenant's Log for Saturday, August 10, 2019 (Morning Watch), showing beginning count of 758 with SHU count 73/5, four inmates on psychology observation with inmate companions, and one inmate on dry cell with institutional staff.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061404.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -3695,6 +3720,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "5a06a68dc60483b2",
+            "event_title": "FBI Interviews MCC Material Handler at USAO SDNY Office \u2014 October 2019",
+            "event_type": "presence",
+            "description": "FBI Special Agent and OIG Special Agent conducted interview of an MCC Material Handler at USAO SDNY (1 St. Andrews Plaza) in October 2019 as part of the investigation into Epstein's death at MCC.",
+            "date_start": "2019-10-02",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Material Handler, MCC",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The FBI/OIG interview at SDNY was part of the investigation into Epstein's death at MCC New York.",
+            "evidence": [
+              {
+                "file": "EFTA00061424.pdf",
+                "source_type": "doj_efta",
+                "excerpt": ", Material Handler, at Bureau of Prison's (BOP) METROPOLITAN CORRECTIONAL CENTER (MCC), 150 Park Row, New York, New York, date of birth was interviewed at the United States Attorneys Office (USAO), Southern District of New York (SDNY), 1 St. Andrews Plaza, New York, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061424.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -4444,6 +4496,21 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00061409",
+            "file": "EFTA00061409.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061418",
+            "file": "EFTA00061418.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061404",
+            "file": "EFTA00061404.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015296",
             "file": "EFTA00015296.pdf",
             "source_type": "doj_efta"
@@ -4701,6 +4768,11 @@
           {
             "doc_id": "EFTA00061060",
             "file": "EFTA00061060.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00061424",
+            "file": "EFTA00061424.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -35912,6 +35984,82 @@
           {
             "doc_id": "EFTA00060970",
             "file": "EFTA00060970.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.044738,
+          40.880191
+        ]
+      },
+      "properties": {
+        "id": "eee28421da6e3fa6",
+        "name": "Bergen County Bar Association",
+        "location_name": "Bergen County Bar Association",
+        "location_address": "15 Bergen Street, Hackensack, New Jersey 07601, United States",
+        "location_description": "The bar association serving lawyers in Bergen County, New Jersey, headquartered at 15 Bergen Street in Hackensack.",
+        "canonical_name": "15 Bergen Street, Hackensack, NJ 07601, New Jersey",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Bergen County Bar Association",
+        "location_descriptor": "The bar association serving lawyers in Bergen County, New Jersey, headquartered at 15 Bergen Street in Hackensack.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2021-06-22",
+        "date_end": "2021-06-22",
+        "people": [
+          {
+            "name": "Tova Noel",
+            "role": "witness"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00061577.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The bar association serving lawyers in Bergen County, New Jersey, headquartered at 15 Bergen Street in Hackensack.",
+        "events": [
+          {
+            "event_id": "40f65d0acdb1734b",
+            "event_title": "DOJ OIG Interviews MCC Guard Tova Noel at Bergen County Bar Association \u2014 June 22, 2021",
+            "event_type": "presence",
+            "description": "DOJ OIG Special Agents conducted a voluntary interview of MCC guard Tova Noel (later indicted for falsifying Epstein's watch records) on June 22, 2021 at the Bergen County Bar Association conference room at 15 Bergen Street, Hackensack, NJ.",
+            "date_start": "2021-06-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Tova Noel",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Tova Noel was the MCC officer later indicted for falsifying Jeffrey Epstein's 30-minute check records on the night he died; the OIG interview was specifically about Epstein's death.",
+            "evidence": [
+              {
+                "file": "EFTA00061577.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Interview of Tova Noel. On June 22, 2021, Senior Special Agent and Special Agent OIG conducted a voluntary interview of Correctional Officer Tova Noel, Federal Bureau of Prisons (BOP), Metropolitan Correctional Center (MCC) New York, New York, within the Bergen County Bar Association second floor conference room located at 15 Bergen Street, Hackensack, New Jersey.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00061577.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00061577",
+            "file": "EFTA00061577.pdf",
             "source_type": "doj_efta"
           }
         ]
