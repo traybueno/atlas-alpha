@@ -8100,8 +8100,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 111,
-        "evidence_count": 351,
+        "event_count": 112,
+        "evidence_count": 354,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8593,6 +8593,10 @@
             "role": "associate"
           },
           {
+            "name": "Max Bernheimer",
+            "role": "other"
+          },
+          {
             "name": "Mike Abramowitz",
             "role": "associate"
           },
@@ -8753,8 +8757,8 @@
             "role": "other"
           }
         ],
-        "source_count": 320,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+315 more)",
+        "source_count": 323,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+318 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -12810,6 +12814,10 @@
               {
                 "name": "Alex",
                 "role": "associate"
+              },
+              {
+                "name": "Max Bernheimer",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -12827,6 +12835,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "As discussed Max will arrive at 10 am tomorrow at 9 E 71.\n...It was a pleasure meeting with you last week and a thrill to see the incredible Roman marble Hercules and the two-figure group.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221892.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221929.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dear Richard and Max, As discussed Max will arrive at 10 am tomorrow at 9 E 71.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221929.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14399,6 +14414,10 @@
                 "role": "subject"
               },
               {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
                 "name": "Richard Kahn",
                 "role": "legal"
               },
@@ -14463,6 +14482,13 @@
                 "excerpt": "Friday appointments:\n8:30am\n1:00pm\n7:00pm dinner w/Woody\nHe is here over the weekend! I think he will leave on Tuesday 19th...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221912.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221970.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Morning. Reconfirming Leon will come see Jeffrey today at 9am for breakfast!\n\nHe is!!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221970.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -14520,6 +14546,41 @@
                 "source_type": "doj_efta",
                 "excerpt": "Ok, she answered her phone finally. Confirmed tomorrow morning. I will Schedule a new pick up in Paris\n[JE:] Ok for tomor arrive around 11. Leave late Monday after 5?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221806.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8b69103376ff65d5",
+            "event_title": "Epstein Schedules Second Breakfast Meeting with Leon Black at NYC Home, Sept 15, 2017",
+            "event_type": "communication",
+            "description": "Lesley Groff emails Leon Black's assistant to schedule a second morning meeting at Epstein's NYC residence on September 15, 2017 at 9:30am, noting Epstein has an 8:30am appointment elsewhere",
+            "date_start": "2017-09-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Email from Epstein's assistant confirms he will be at his NYC residence on Sept 15 and is scheduling another meeting with Leon Black there.",
+            "evidence": [
+              {
+                "file": "EFTA02221971.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Melanie...Jeffrey says he and Leon discussed another meeting tomorrow morning\u2014would 9:30am work? (Jeffrey will be out of the house for an 8:30am appt, but back for sure by 9:30am_)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221971.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15772,6 +15833,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221929",
+            "file": "EFTA02221929.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219169",
             "file": "EFTA02219169.pdf",
             "source_type": "doj_efta"
@@ -16117,6 +16183,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221970",
+            "file": "EFTA02221970.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221834",
             "file": "EFTA02221834.pdf",
             "source_type": "doj_efta"
@@ -16124,6 +16195,11 @@
           {
             "doc_id": "EFTA02221806",
             "file": "EFTA02221806.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221971",
+            "file": "EFTA02221971.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -16149,8 +16225,8 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 103,
-        "evidence_count": 234,
+        "event_count": 104,
+        "evidence_count": 237,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -16570,8 +16646,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 218,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+213 more)",
+        "source_count": 221,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+216 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -19518,6 +19594,13 @@
                 "excerpt": "Would you like to see Vincenzo on sat before you leave for Paris?\n\nFrom: Vincenzo lozzo\nSubject: Meeting in NYC\nHow are you? Is jeffrey in NYC this weekend or next week?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221923.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222000.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject Alert - 12-2:OOpm Meet w/Barnaby Marsh at 59th and 5th\nAugust 31, 2017 12:00 PM : 12-2:00pm Meet w/Barnaby Marsh at 59th and 5th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222000.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -20759,6 +20842,14 @@
               {
                 "name": "Masha Drokova",
                 "role": "associate"
+              },
+              {
+                "name": "Peggy Siegal",
+                "role": "other"
+              },
+              {
+                "name": "Andres Fernandez",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -20776,6 +20867,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "There's Jeffrey in person interview with Futurism editor that he confirmed. Would he be able to do that on 18th or on the first part of day on 19th? I'd also join the interview",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221685.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221968.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Andres...I sent an email last week. Jeffrey E. is coming to NYC next week. Send him EVERY invite and please advise what other films are screening and I/we can get him tickets.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221968.pdf",
                 "confidence": 0.7
               }
             ]
@@ -20803,6 +20901,37 @@
                 "source_type": "doj_efta",
                 "excerpt": "make a reservation foiato go from stthomas to new york sunday.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221831.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cae2a248f26fb10a",
+            "event_title": "Masha Drokova Arranges In-Person Futurism Interview with Epstein in NYC, Sept 18-19, 2017",
+            "event_type": "communication",
+            "description": "Masha Drokova emails Lesley Groff to schedule an in-person interview between Jeffrey Epstein and a Futurism editor, asking if he can do it September 18 or morning of September 19, 2017 in New York City",
+            "date_start": "2017-09-18",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Masha Drokova",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Masha Drokova confirms a previously-agreed in-person interview with Epstein, implying his planned physical presence in NYC around September 18-19, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02222004.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "There's Jeffrey in person interview with Futurism editor that he confirmed. Would he be able to do that on 18th or on the first part of day on 19th?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222004.pdf",
                 "confidence": 0.7
               }
             ]
@@ -21640,6 +21769,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222000",
+            "file": "EFTA02222000.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02218381",
             "file": "EFTA02218381.pdf",
             "source_type": "doj_efta"
@@ -21895,8 +22029,18 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221968",
+            "file": "EFTA02221968.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221831",
             "file": "EFTA02221831.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222004",
+            "file": "EFTA02222004.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -21922,8 +22066,8 @@
         "property_type": "event",
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
-        "event_count": 56,
-        "evidence_count": 137,
+        "event_count": 57,
+        "evidence_count": 138,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -22075,8 +22219,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 120,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02221589.pdf, EFTA02221743.pdf, ... (+115 more)",
+        "source_count": 121,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02221589.pdf, EFTA02221743.pdf, ... (+116 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -24262,6 +24406,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "b31d0aa3a1462326",
+            "event_title": "St. Thomas Airport Workers Witness Epstein Arriving with Underage Girls",
+            "event_type": "presence",
+            "description": "Airport workers at Cyril E. King Airport in St. Thomas observed Epstein (then in his late 40s) repeatedly arriving with many underage girls, expressing disgust at the sight.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at St. Thomas airport when witnessed by airport workers arriving with underage girls.",
+            "evidence": [
+              {
+                "file": "EFTA00078263.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In the Caribbean, workers at the airport in St. Thomas were disgusted to see Epstein, by then a man in his late 40s, flying with so many underage girls, according to interviews published by Vanity Fair magazine.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078263.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -24863,6 +25034,11 @@
           {
             "doc_id": "EFTA02221770",
             "file": "EFTA02221770.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078263",
+            "file": "EFTA00078263.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -27235,7 +27411,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 49,
-        "evidence_count": 116,
+        "evidence_count": 117,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27411,8 +27587,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 112,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+107 more)",
+        "source_count": 113,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+108 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -29248,6 +29424,13 @@
                 "excerpt": "Jeffrey wants her to stay until Saturday the ninth!! Can we do this?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221835.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221962.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject Alert - Flight to Pads (SU 2454)\nSeptember 5, 2017 3:10 AM : Flight to Paris (SU 2454)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221962.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -29925,6 +30108,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221962",
+            "file": "EFTA02221962.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221036",
             "file": "EFTA02221036.pdf",
             "source_type": "doj_efta"
@@ -29987,8 +30175,8 @@
         "property_type": "event",
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "event_count": 44,
-        "evidence_count": 115,
+        "event_count": 45,
+        "evidence_count": 116,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -30148,8 +30336,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 105,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+100 more)",
+        "source_count": 106,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+101 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -32035,6 +32223,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "fceb145e989ee1f6",
+            "event_title": "Underage Victim Sexually Abused by Epstein on Little St. James Island Beach (2001)",
+            "event_type": "legal",
+            "description": "According to a court deposition, an underage victim (age 17) was brought to Epstein's Caribbean island in 2001 where she performed massages and had sexual contact with Epstein on the beach.",
+            "date_start": "2001",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present on Little St. James Island and directly involved in the abuse of the underage victim.",
+            "evidence": [
+              {
+                "file": "EFTA00078263.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "It was there on a beach in 2001 that [redacted] performed massages and sex with Epstein, according to a court deposition by [redacted] who was at the time... was 17.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078263.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -32561,6 +32776,11 @@
           {
             "doc_id": "EFTA02221875",
             "file": "EFTA02221875.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078263",
+            "file": "EFTA00078263.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -34190,7 +34410,7 @@
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
         "event_count": 37,
-        "evidence_count": 85,
+        "evidence_count": 86,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -34258,8 +34478,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 79,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+74 more)",
+        "source_count": 80,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+75 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -34479,6 +34699,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "An indictment was secured against Epstein when he traveled abroad from his estate in the U.S. Virgin Islands in July 2019, with the expectation that he would fly to Teterboro airport upon his ultimate return to the U.S. That ultimately did happen, leading to Epstein's arrest on July 6, 2019.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078005.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078263.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein was arrested July 6 at Teterboro Airport after flying from Paris. He was charged with two counts of sex trafficking.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078263.pdf",
                 "confidence": 0.7
               }
             ]
@@ -35685,6 +35912,11 @@
           {
             "doc_id": "EFTA00078005",
             "file": "EFTA00078005.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078263",
+            "file": "EFTA00078263.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -58467,6 +58699,162 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.289773,
+          48.873854
+        ]
+      },
+      "properties": {
+        "id": "ae28cedc37627b7f",
+        "name": "22 Avenue Foch, Paris",
+        "location_name": "22 Avenue Foch, Paris",
+        "location_address": "22 Avenue Foch, 75016 Paris, France",
+        "location_description": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
+        "canonical_name": "22 Avenue Foch, 75116 Paris, France, \u00cele-de-France",
+        "region": "",
+        "property_type": "event",
+        "display_name": "22 Avenue Foch, Paris",
+        "location_descriptor": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
+        "event_count": 3,
+        "evidence_count": 3,
+        "primary_event_type": "communication",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-06",
+        "date_end": "2017-09-10",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jean Huguen",
+            "role": "other"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02217500.pdf, EFTA02221920.pdf, EFTA02221999.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "communication",
+        "event_description": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
+        "events": [
+          {
+            "event_id": "ea71fe9a3ddcc490",
+            "event_title": "Epstein's Paris Apartment Confirmed at 22 Avenue Foch \u2014 July 6 2017",
+            "event_type": "presence",
+            "description": "Epstein's staff directed an associate to take a taxi to Epstein's Paris apartment at 22 Avenue Foch, confirming the address of his Paris residence; Epstein would reimburse the taxi fare.",
+            "date_start": "2017-07-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally instructed a taxi ride to his Paris apartment at 22 Avenue Foch (one of Paris's most exclusive addresses, synonymous with foreign royalty and oligarchs), identifying his July 2017 Paris base of operations.",
+            "evidence": [
+              {
+                "file": "EFTA02217500.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: Paris\nHi [name]. Jeffrey actually asks you take a taxi to the apartment. He will reimburse you. The apartment address is 22 Avenue Foch, Apt [number], Paris",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217500.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7aeced4a3f0c4c09",
+            "event_title": "Lesley Groff Directs Jean Huguen to Call Epstein at Paris Home",
+            "event_type": "communication",
+            "description": "Lesley Groff (Epstein's assistant) instructs Jean Huguen to call Jeffrey Epstein at his Paris residence on September 8, 2017",
+            "date_start": "2017-09-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jean Huguen",
+                "role": "other"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Lesley Groff explicitly states Jeffrey is at his Paris home and provides the number, strongly implying his physical presence there on that date.",
+            "evidence": [
+              {
+                "file": "EFTA02221920.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey would like to speak with you. Could you please call him at his Paris home:",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221920.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "03e07839f6e0dd8d",
+            "event_title": "Epstein Directs Guests to Leave His Paris Home at 2:30pm, September 10, 2017",
+            "event_type": "communication",
+            "description": "Jeffrey Epstein emails his assistant directing guests at his Paris home to leave around 2:30pm on Sunday September 10, 2017, confirming his presence there managing the household",
+            "date_start": "2017-09-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein directly writes from his jeevacation@gmail.com account giving specific departure instructions for his Paris home, implying his presence there on Sept 9-10, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02221999.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "to make clear sunday and should leave the house around 230 arrive around the same time. sorry for all the changes",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221999.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02217500",
+            "file": "EFTA02217500.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221920",
+            "file": "EFTA02221920.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221999",
+            "file": "EFTA02221999.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.272265,
           45.446655
         ]
@@ -64831,130 +65219,6 @@
           {
             "doc_id": "EFTA02219247",
             "file": "EFTA02219247.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.289773,
-          48.873854
-        ]
-      },
-      "properties": {
-        "id": "ae28cedc37627b7f",
-        "name": "22 Avenue Foch, Paris",
-        "location_name": "22 Avenue Foch, Paris",
-        "location_address": "22 Avenue Foch, 75016 Paris, France",
-        "location_description": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
-        "canonical_name": "22 Avenue Foch, 75116 Paris, France, \u00cele-de-France",
-        "region": "",
-        "property_type": "event",
-        "display_name": "22 Avenue Foch, Paris",
-        "location_descriptor": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
-        "event_count": 2,
-        "evidence_count": 2,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-07-06",
-        "date_end": "2017-09-08",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Jean Huguen",
-            "role": "other"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02217500.pdf, EFTA02221920.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
-        "events": [
-          {
-            "event_id": "ea71fe9a3ddcc490",
-            "event_title": "Epstein's Paris Apartment Confirmed at 22 Avenue Foch \u2014 July 6 2017",
-            "event_type": "presence",
-            "description": "Epstein's staff directed an associate to take a taxi to Epstein's Paris apartment at 22 Avenue Foch, confirming the address of his Paris residence; Epstein would reimburse the taxi fare.",
-            "date_start": "2017-07-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally instructed a taxi ride to his Paris apartment at 22 Avenue Foch (one of Paris's most exclusive addresses, synonymous with foreign royalty and oligarchs), identifying his July 2017 Paris base of operations.",
-            "evidence": [
-              {
-                "file": "EFTA02217500.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Subject: Paris\nHi [name]. Jeffrey actually asks you take a taxi to the apartment. He will reimburse you. The apartment address is 22 Avenue Foch, Apt [number], Paris",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217500.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "7aeced4a3f0c4c09",
-            "event_title": "Lesley Groff Directs Jean Huguen to Call Epstein at Paris Home",
-            "event_type": "communication",
-            "description": "Lesley Groff (Epstein's assistant) instructs Jean Huguen to call Jeffrey Epstein at his Paris residence on September 8, 2017",
-            "date_start": "2017-09-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jean Huguen",
-                "role": "other"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Lesley Groff explicitly states Jeffrey is at his Paris home and provides the number, strongly implying his physical presence there on that date.",
-            "evidence": [
-              {
-                "file": "EFTA02221920.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey would like to speak with you. Could you please call him at his Paris home:",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221920.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02217500",
-            "file": "EFTA02217500.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221920",
-            "file": "EFTA02221920.pdf",
             "source_type": "doj_efta"
           }
         ]
