@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 116,
-        "evidence_count": 425,
+        "evidence_count": 426,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -546,8 +546,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 352,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+347 more)",
+        "source_count": 353,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+348 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -1804,6 +1804,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "On July 6, 2019, Epstein was arrested on federal charges stemming from this investigation of alleged sexual abuse of underage girls. Epstein was found unresponsive in his cell at the Manhattan Correctional Center (NY,NY) and his death was being investigated as an apparent suicide.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077923.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078127.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey Edward Epstein (hereafter \"JE\"), born January 20, 1953 in Brooklyn, New York, and deceased August 10, 2019 in the federal Metropolitan Correctional Center New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078127.pdf",
                 "confidence": 0.7
               }
             ]
@@ -6850,6 +6857,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00078127",
+            "file": "EFTA00078127.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00010818",
             "file": "EFTA00010818.pdf",
             "source_type": "doj_efta"
@@ -8072,8 +8084,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 110,
-        "evidence_count": 344,
+        "event_count": 111,
+        "evidence_count": 346,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8709,6 +8721,10 @@
             "role": "associate"
           },
           {
+            "name": "Leon",
+            "role": "associate"
+          },
+          {
             "name": "Leon Botstein",
             "role": "associate"
           },
@@ -8717,8 +8733,8 @@
             "role": "other"
           }
         ],
-        "source_count": 314,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+309 more)",
+        "source_count": 316,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+311 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -14342,6 +14358,10 @@
                 "role": "associate"
               },
               {
+                "name": "Leon",
+                "role": "associate"
+              },
+              {
                 "name": "Leon Botstein",
                 "role": "associate"
               }
@@ -14368,6 +14388,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "9am Leon Black breakfast\n1pm Rich and Darren\n5pm Leon Botstein",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221826.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221799.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Morning. Reconfirming Leon will come see Jeffrey today at 9am for breakfast!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221799.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14399,6 +14426,33 @@
                 "source_type": "doj_efta",
                 "excerpt": "Morning!! Can you please print this Welcome Letter for Yoni Koren who arrives to stay in apt 10B on Monday Sept. 4.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221834.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b748e07662f4ebbd",
+            "event_title": "Epstein Receives Paris-Based Woman at NYC Townhouse, Sunday Sept 3 2017",
+            "event_type": "presence",
+            "description": "Epstein confirmed an unidentified woman from Paris would arrive at his home Sunday September 3, 2017 around 11 AM and depart Monday September 4 after 5 PM; Paris car pickup was arranged by his staff.",
+            "date_start": "2017-09-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally arranged the visit ('Ok for tomor arrive around 11. Leave late Monday after 5?') from his jeevacation@gmail.com account.",
+            "evidence": [
+              {
+                "file": "EFTA02221806.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ok, she answered her phone finally. Confirmed tomorrow morning. I will Schedule a new pick up in Paris\n[JE:] Ok for tomor arrive around 11. Leave late Monday after 5?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221806.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15971,8 +16025,18 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221799",
+            "file": "EFTA02221799.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221834",
             "file": "EFTA02221834.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221806",
+            "file": "EFTA02221806.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -31396,7 +31460,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 42,
-        "evidence_count": 109,
+        "evidence_count": 110,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -31548,12 +31612,16 @@
             "role": "associate"
           },
           {
+            "name": "Danny",
+            "role": "staff"
+          },
+          {
             "name": "Aziza Alahmadi",
             "role": "associate"
           }
         ],
-        "source_count": 100,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+95 more)",
+        "source_count": 101,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+96 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -33136,6 +33204,18 @@
                 "role": "staff"
               },
               {
+                "name": "Carlos",
+                "role": "staff"
+              },
+              {
+                "name": "Danny",
+                "role": "staff"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "legal"
+              },
+              {
                 "name": "Aziza Alahmadi",
                 "role": "associate"
               }
@@ -33183,6 +33263,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I all four big trees in center . gone. kite house gone gold dome gone. water lines broken. cabana 1 interior gone. . most trees gone. dock pavilions beach apvaillions . gone. electric generator working. roads all impassable , trees down. . library outside damage but inside ok. kitchen ok.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221844.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221849.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I AM concerned about you all and have real concerns about Carlos and Danny at LSJ\nI HOPE the sat phone still works...!!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221849.pdf",
                 "confidence": 0.7
               }
             ]
@@ -33785,6 +33872,11 @@
           {
             "doc_id": "EFTA02221844",
             "file": "EFTA02221844.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221849",
+            "file": "EFTA02221849.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -37303,8 +37395,8 @@
         "property_type": "event",
         "display_name": "Metropolitan Detention Center Brooklyn",
         "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
-        "event_count": 22,
-        "evidence_count": 53,
+        "event_count": 23,
+        "evidence_count": 54,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -37352,8 +37444,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 48,
-        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+43 more)",
+        "source_count": 49,
+        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+44 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
@@ -38198,6 +38290,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "a60bb493a3608e32",
+            "event_title": "Ghislaine Maxwell Held at Metropolitan Detention Center, Brooklyn (Nov 2020)",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell, Epstein associate charged with sex trafficking conspiracy, held at federal Metropolitan Detention Center in Brooklyn pending trial in case 20 Cr. 330.",
+            "date_start": "2020-11",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell is detained in connection with charges arising from her role in Jeffrey Epstein's sex trafficking network.",
+            "evidence": [
+              {
+                "file": "EFTA00078127.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ghislaine Noelle Marion Maxwell (hereafter \"GM\"), born 25 December 1961 in Maisons-Laffitte, France, and currently held at the federal Metropolitan Detention Center in Brooklyn, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078127.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -38439,6 +38558,11 @@
           {
             "doc_id": "EFTA00077385",
             "file": "EFTA00077385.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078127",
+            "file": "EFTA00078127.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -43655,7 +43779,7 @@
         "display_name": "Moscow",
         "location_descriptor": "The capital and largest city of Russia, a major global metropolis and financial center served by three international airports: Sheremetyevo, Domodedovo, and Vnukovo.",
         "event_count": 10,
-        "evidence_count": 28,
+        "evidence_count": 29,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -43707,8 +43831,8 @@
             "role": "other"
           }
         ],
-        "source_count": 27,
-        "sources_preview": "EFTA02213034.pdf, EFTA02213716.pdf, EFTA02213788.pdf, EFTA02213801.pdf, EFTA02212851.pdf, ... (+22 more)",
+        "source_count": 28,
+        "sources_preview": "EFTA02213034.pdf, EFTA02213716.pdf, EFTA02213788.pdf, EFTA02213801.pdf, EFTA02212851.pdf, ... (+23 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of Russia, a major global metropolis and financial center served by three international airports: Sheremetyevo, Domodedovo, and Vnukovo.",
@@ -44119,6 +44243,13 @@
                 "excerpt": "turn Monday Sept 11 on Aeroflot#2459 at 6:10pm arriving Moscow 10:45pm",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221645.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221803.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 2462 09SEP SVO CDG 1145A 0240P\nSU 2459 11SEP CDG SVO 0610P 1045P\nTOTAL FARE - USD 599.30\nWe need a flight for from Moscow to Paris around 2-4pm arrival. She will return to Moscow on the evening of the 11th.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221803.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -44279,6 +44410,11 @@
           {
             "doc_id": "EFTA02221645",
             "file": "EFTA02221645.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221803",
+            "file": "EFTA02221803.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -54390,6 +54526,301 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          82.736576,
+          54.982844
+        ]
+      },
+      "properties": {
+        "id": "f8e4662559b0a7ef",
+        "name": "Tolmachevo Airport",
+        "location_name": "Tolmachevo Airport",
+        "location_address": "Tolmachevo, Ob, Novosibirsk, Russia",
+        "location_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
+        "canonical_name": "Tolmachevo Airport, Novosibirsk, Russia, Ob",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Tolmachevo Airport",
+        "location_descriptor": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
+        "event_count": 4,
+        "evidence_count": 14,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-07",
+        "date_end": "2017-09-11",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 14,
+        "sources_preview": "EFTA02220241.pdf, EFTA02220282.pdf, EFTA02220615.pdf, EFTA02220655.pdf, EFTA02220943.pdf, ... (+9 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
+        "events": [
+          {
+            "event_id": "4d2e0bb9801c8798",
+            "event_title": "Epstein Associate Flies Novosibirsk\u2192Moscow\u2192Paris on Aeroflot, Sep 7 2017",
+            "event_type": "travel",
+            "description": "Epstein associate flew Aeroflot SU 1307 from Novosibirsk (OVB) to Moscow Sheremetyevo at 9:25 AM, then SU 2462 Moscow to Paris CDG arriving 2:40 PM, on September 7, 2017.",
+            "date_start": "2017-09-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel arranged via AmEx Centurion Relationship Manager Natalia Molotkova for an Epstein associate traveling from Siberia to Paris for an Epstein-related meeting.",
+            "evidence": [
+              {
+                "file": "EFTA02220241.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 07SEP OVB SVO 0925A 0940A\nSU 2462 07SEP SVO CDG 1145A 0240P\nTOTAL FARE - USD 995.90",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220241.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220282.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 07SEP OVB SVO 0925A 0940A / SU 2462 07SEP SVO CDG 1145A 0240P / connecting return departing at 3:05pm on to Milan arriving 9:55pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220282.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220615.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "is traveling from Novosibirsk (Russia), Coming to Paris on the 7th around 230pm, leaving on the 9th back to Novosibirsk",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220615.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220655.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "is traveling from Novosibirsk (Russia), Coming to Paris on the 7th around 230pm, leaving on the 9th back to Novosibirsk",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220655.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220943.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 B Economy Class\nNovosibirsk, Tolmachevo\nMoscow, Sheremetyevo\n09:25 AM\n09:40 AM\n07 Sep 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220943.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220952.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 B Economy Class\nNovosibirsk, Tolmachevo\nMoscow, Sheremetyevo\n09:25 AM\n09:40 AM\n07 Sep 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220952.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221098.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 B Economy Class Novosibirsk Aeroflot Sept 7 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221098.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221266.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WE need a coach ticket for from Novosibirsk (Russia), to Paris on Sept. 7th around 2:30pm...She will then go from Paris to Milan on Sept. 9th.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221266.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221299.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 B Economy Class Novosibirsk, Tolmachevo Moscow, Sheremetyevo 09:25 AM 09:40 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221299.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221554.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WE need a coach ticket for [name] from Novosibirsk (Russia), to Paris on Sept. 7th...She will then go from Paris to Milan on Sept. 9th. NOTE: we have another candidate for interview",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221554.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e447cd3783f61362",
+            "event_title": "Epstein Staff Changes Russian Travel: Novosibirsk\u2192Moscow\u2192Paris \u2014 Sept 8, 2017 (Revised)",
+            "event_type": "travel",
+            "description": "Lesley Groff changes Russian associate travel: Novosibirsk to Paris via Moscow rescheduled to September 8, 2017 (was Sept 7); Jeffrey personally decided timing for the Paris-Milan leg.",
+            "date_start": "2017-09-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Jeffrey Epstein personally directed ticket changes; Lesley Groff managed the booking for Russian associate traveling to Paris.",
+            "evidence": [
+              {
+                "file": "EFTA02221569.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU1549 08SEP OVB SVO 600A 610A SU2450 08SEP SVO CDG 750A 1045A...she needs a ticket to go to Paris on Fri. Sept. 8",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221569.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221792.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 D 08SEP F OVB SVO 0925A 0940A\nSU 2462 D 08SEP F SVO CDG 1145A 0240P\nWe Need to CHANGE some tickets-Make sure they are sent to NO ONE but ME!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221792.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "1f58e5d3b5b2858c",
+            "event_title": "Epstein Associate Returns from Paris to Novosibirsk via Moscow \u2014 Sept 10-11, 2017",
+            "event_type": "presence",
+            "description": "Unnamed Russian associate departs Paris on Aeroflot SU2453 at 11:30pm Sept 10, arrives Moscow SVO 4am, then departs SVO 6:40am arriving Novosibirsk (SVX) 11am September 11, 2017.",
+            "date_start": "2017-09-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Return flight to Novosibirsk Russia from Paris arranged by Epstein's organization alongside other coordinated travel.",
+            "evidence": [
+              {
+                "file": "EFTA02221582.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "depart Sept. 10th on SU#2453 at 11:30pm arrive SVO 4am, Sept 11 depart SVO 6:40am arrive SVX 11am",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221582.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ec71b25588a84b0c",
+            "event_title": "Epstein Approves 'Dana' Novosibirsk\u2013Paris Flight Sep 8, Asks About Milan Return Time",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein personally approved ticket change for 'Dana' - Aeroflot SU 1307/2462 from Novosibirsk OVB to Paris CDG on September 8, and asked staff about Sunday morning departure time to Milan Linate.",
+            "date_start": "2017-09-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally confirmed ('ok') and directed the itinerary details for Dana's travel from Novosibirsk to Paris and onward to Milan.",
+            "evidence": [
+              {
+                "file": "EFTA02221809.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 D 08SEP F OVB SVO 0925A 0940A\nSU 2462 D 08SEP F SVO CDG 1145A 0240P\nRe return to Milan on Sunday..how early do you wish her to depart?\nOn Sep 6, 2017: [JE] ok",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221809.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02220241",
+            "file": "EFTA02220241.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220282",
+            "file": "EFTA02220282.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220615",
+            "file": "EFTA02220615.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220655",
+            "file": "EFTA02220655.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220943",
+            "file": "EFTA02220943.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220952",
+            "file": "EFTA02220952.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221098",
+            "file": "EFTA02221098.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221266",
+            "file": "EFTA02221266.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221299",
+            "file": "EFTA02221299.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221554",
+            "file": "EFTA02221554.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221569",
+            "file": "EFTA02221569.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221792",
+            "file": "EFTA02221792.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221582",
+            "file": "EFTA02221582.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221809",
+            "file": "EFTA02221809.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.932094,
           18.341129
         ]
@@ -54406,7 +54837,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
         "event_count": 4,
-        "evidence_count": 21,
+        "evidence_count": 23,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -54440,10 +54871,14 @@
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
+          },
+          {
+            "name": "CITIZENS OF RUSSIAN FEDERATION",
+            "role": "associate"
           }
         ],
-        "source_count": 21,
-        "sources_preview": "EFTA02220490.pdf, EFTA02220720.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, ... (+16 more)",
+        "source_count": 23,
+        "sources_preview": "EFTA02220490.pdf, EFTA02220720.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, ... (+18 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
@@ -54663,7 +55098,20 @@
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
-            "people": [],
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Arina",
+                "role": "associate"
+              },
+              {
+                "name": "CITIZENS OF RUSSIAN FEDERATION",
+                "role": "associate"
+              }
+            ],
             "epstein_nexus": "contextual",
             "nexus_reasoning": "Arrival at St. Thomas USVI airport is contextually related to Epstein's nearby private island Little St. James but no specific named associate identified as traveler.",
             "evidence": [
@@ -54686,6 +55134,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "27 Apr 17 American Airlines AA 936 Charlotte Amalie, Cyril E King Airport New York. John F Kennedy International 02:15 PM 06:32 PM Terminal 8 Q Economy Class CITIZENS OF RUSSIAN FEDERATION MUST CARRY A VALID PASSPORT",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221592.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221855.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 936 Q Economy Class\nCharlotte Amalie, Cyril E King Airport\nNew York, John F Kennedy International\n02:15 PM\n06:32 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221855.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221858.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AA 936\nCharlotte Amalie, Cyril E King Airport\nNew York, John F Kennedy International\n02:15 PM\n06:32 PM\n27 Apr 17",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221858.pdf",
                 "confidence": 0.7
               }
             ]
@@ -54795,6 +55257,206 @@
           {
             "doc_id": "EFTA02221592",
             "file": "EFTA02221592.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221855",
+            "file": "EFTA02221855.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221858",
+            "file": "EFTA02221858.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.417743,
+          48.846386
+        ]
+      },
+      "properties": {
+        "id": "357ce9a5370a0901",
+        "name": "Paris Charles de Gaulle Airport",
+        "location_name": "Paris Charles de Gaulle Airport",
+        "location_address": "Charles de Gaulle, Saint-Mand\u00e9, Val-de-Marne, France",
+        "location_description": "The largest international airport in France, located 25 km northeast of Paris in the commune of Roissy-en-France, serving as a major hub for Air France and international travel.",
+        "canonical_name": "Paris Charles de Gaulle Airport, Paris, France, Saint-Mand\u00e9, Val-de-Marne",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris Charles de Gaulle Airport",
+        "location_descriptor": "The largest international airport in France, located 25 km northeast of Paris in the commune of Roissy-en-France, serving as a major hub for Air France and international travel.",
+        "event_count": 4,
+        "evidence_count": 6,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-02",
+        "date_end": "2017-09-12",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 5,
+        "sources_preview": "EFTA02221723.pdf, EFTA02221751.pdf, EFTA02221753.pdf, EFTA02221792.pdf, EFTA02221803.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "The largest international airport in France, located 25 km northeast of Paris in the commune of Roissy-en-France, serving as a major hub for Air France and international travel.",
+        "events": [
+          {
+            "event_id": "18d09bdec8fdc016",
+            "event_title": "Lesley Groff Books Moscow-Paris Round Trip for Epstein Associate, Sep 10-12 2017",
+            "event_type": "travel",
+            "description": "Lesley Groff, Epstein's executive assistant, booked a round-trip Aeroflot/Air France ticket for an unidentified woman traveling Moscow SVO to Paris CDG on September 10-12, 2017.",
+            "date_start": "2017-09-10",
+            "date_end": "2017-09-12",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Lesley Groff (Epstein's executive assistant) arranged the travel through Epstein's Amex Centurion account, indicating organizational connection to Epstein's operations.",
+            "evidence": [
+              {
+                "file": "EFTA02221723.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "should now arrive Paris Sunday Sept. 10 evening and return on Tuesday Sept. 12 around\nNew ticket will be:\n1 SU 3004 10SEP SVO CDG 0645P 0940P\nOPERATED BY AIR FRANCE\n2 SU 2463 N 12SEP T CDG SVO 0355P 0830P",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221723.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221751.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "should now arrive Paris Sunday Sept. 10 evening and return on Tuesday Sept. 12 around\nNew ticket will be:\n1 SU 3004 10SEP SVO CDG 0645P 0940P\nOPERATED BY AIR FRANCE\n2 SU 2463 N 12SEP T CDG SVO 0355P 0830P",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221751.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b2049b487f1251ac",
+            "event_title": "Epstein-Arranged Persons Arrive Paris CDG from Milan, Sep 2 2017",
+            "event_type": "travel",
+            "description": "Epstein-arranged persons arrived Paris Charles de Gaulle Airport at 5:20 PM on September 2, 2017 via AF 1231 from Milan Malpensa, directed by Epstein.; Epstein-managed travel booking for persons departing Paris CDG at 6:30 PM on Air Baltic BT 694 to Riga, then BT 349 to Vilnius VNO arriving 11:59 PM on September 4, 2017.",
+            "date_start": "2017-09-02",
+            "date_end": "2017-09-04",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein explicitly directed the Paris arrival timing for these persons in his email.",
+            "evidence": [
+              {
+                "file": "EFTA02221753.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 1231 02SEP MXP CDG 0350P 0520P\nthey should arrive paris around 4 if possible",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221753.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221753.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Paris to Vilnius on Sept. 4\nBT 694 04SEP CDG RIX 0630P 1015P\nBT 349 04SEP RIX VNO 1110P 1159P\n1ADT 186.60\nTOTAL FARE - USD 373.20",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221753.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "9a31ebc413a1bc5f",
+            "event_title": "Epstein-Arranged Person Departs Paris for Milan (Linate), Sep 10 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein requested morning departure from Paris to Milan Linate on September 10, 2017 for an unidentified person; Alitalia AZ 339 departing CDG at 6:05 AM preferred per Epstein's instructions.",
+            "date_start": "2017-09-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally specified the timing requirement ('Jeffrey's request is for morning on Sunday') for this Paris to Milan departure.",
+            "evidence": [
+              {
+                "file": "EFTA02221792.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AZ 339 10SEP CDG LIN 0605A 0735A\nJeffrey's request is for morning on Sunday...can you check availability for us",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221792.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cb8bf9d5b55c8909",
+            "event_title": "Moscow Woman Arrives Paris CDG via Aeroflot SU2462, Sep 9 2017",
+            "event_type": "travel",
+            "description": "Unidentified woman from Moscow arrived Paris Charles de Gaulle at 2:40 PM on September 9, 2017 on Aeroflot SU 2462 at direction of Epstein's staff.",
+            "date_start": "2017-09-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Epstein's executive assistant through his Amex Centurion account for this Moscow-Paris trip.",
+            "evidence": [
+              {
+                "file": "EFTA02221803.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 2462 09SEP SVO CDG 1145A 0240P\nWe need a flight for from Moscow to Paris around 2-4pm arrival.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221803.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221723",
+            "file": "EFTA02221723.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221751",
+            "file": "EFTA02221751.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221753",
+            "file": "EFTA02221753.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221792",
+            "file": "EFTA02221792.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221803",
+            "file": "EFTA02221803.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -57479,269 +58141,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.736576,
-          54.982844
-        ]
-      },
-      "properties": {
-        "id": "f8e4662559b0a7ef",
-        "name": "Tolmachevo Airport",
-        "location_name": "Tolmachevo Airport",
-        "location_address": "Tolmachevo, Ob, Novosibirsk, Russia",
-        "location_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
-        "canonical_name": "Tolmachevo Airport, Novosibirsk, Russia, Ob",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Tolmachevo Airport",
-        "location_descriptor": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
-        "event_count": 3,
-        "evidence_count": 13,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-09-07",
-        "date_end": "2017-09-11",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          }
-        ],
-        "source_count": 13,
-        "sources_preview": "EFTA02220241.pdf, EFTA02220282.pdf, EFTA02220615.pdf, EFTA02220655.pdf, EFTA02220943.pdf, ... (+8 more)",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
-        "events": [
-          {
-            "event_id": "4d2e0bb9801c8798",
-            "event_title": "Epstein Associate Flies Novosibirsk\u2192Moscow\u2192Paris on Aeroflot, Sep 7 2017",
-            "event_type": "travel",
-            "description": "Epstein associate flew Aeroflot SU 1307 from Novosibirsk (OVB) to Moscow Sheremetyevo at 9:25 AM, then SU 2462 Moscow to Paris CDG arriving 2:40 PM, on September 7, 2017.",
-            "date_start": "2017-09-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Travel arranged via AmEx Centurion Relationship Manager Natalia Molotkova for an Epstein associate traveling from Siberia to Paris for an Epstein-related meeting.",
-            "evidence": [
-              {
-                "file": "EFTA02220241.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 07SEP OVB SVO 0925A 0940A\nSU 2462 07SEP SVO CDG 1145A 0240P\nTOTAL FARE - USD 995.90",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220241.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220282.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 07SEP OVB SVO 0925A 0940A / SU 2462 07SEP SVO CDG 1145A 0240P / connecting return departing at 3:05pm on to Milan arriving 9:55pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220282.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220615.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "is traveling from Novosibirsk (Russia), Coming to Paris on the 7th around 230pm, leaving on the 9th back to Novosibirsk",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220615.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220655.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "is traveling from Novosibirsk (Russia), Coming to Paris on the 7th around 230pm, leaving on the 9th back to Novosibirsk",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220655.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220943.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 B Economy Class\nNovosibirsk, Tolmachevo\nMoscow, Sheremetyevo\n09:25 AM\n09:40 AM\n07 Sep 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220943.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220952.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 B Economy Class\nNovosibirsk, Tolmachevo\nMoscow, Sheremetyevo\n09:25 AM\n09:40 AM\n07 Sep 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220952.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221098.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 B Economy Class Novosibirsk Aeroflot Sept 7 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221098.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221266.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "WE need a coach ticket for from Novosibirsk (Russia), to Paris on Sept. 7th around 2:30pm...She will then go from Paris to Milan on Sept. 9th.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221266.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221299.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 B Economy Class Novosibirsk, Tolmachevo Moscow, Sheremetyevo 09:25 AM 09:40 AM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221299.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221554.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "WE need a coach ticket for [name] from Novosibirsk (Russia), to Paris on Sept. 7th...She will then go from Paris to Milan on Sept. 9th. NOTE: we have another candidate for interview",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221554.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e447cd3783f61362",
-            "event_title": "Epstein Staff Changes Russian Travel: Novosibirsk\u2192Moscow\u2192Paris \u2014 Sept 8, 2017 (Revised)",
-            "event_type": "travel",
-            "description": "Lesley Groff changes Russian associate travel: Novosibirsk to Paris via Moscow rescheduled to September 8, 2017 (was Sept 7); Jeffrey personally decided timing for the Paris-Milan leg.",
-            "date_start": "2017-09-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Jeffrey Epstein personally directed ticket changes; Lesley Groff managed the booking for Russian associate traveling to Paris.",
-            "evidence": [
-              {
-                "file": "EFTA02221569.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU1549 08SEP OVB SVO 600A 610A SU2450 08SEP SVO CDG 750A 1045A...she needs a ticket to go to Paris on Fri. Sept. 8",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221569.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221792.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 D 08SEP F OVB SVO 0925A 0940A\nSU 2462 D 08SEP F SVO CDG 1145A 0240P\nWe Need to CHANGE some tickets-Make sure they are sent to NO ONE but ME!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221792.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "1f58e5d3b5b2858c",
-            "event_title": "Epstein Associate Returns from Paris to Novosibirsk via Moscow \u2014 Sept 10-11, 2017",
-            "event_type": "presence",
-            "description": "Unnamed Russian associate departs Paris on Aeroflot SU2453 at 11:30pm Sept 10, arrives Moscow SVO 4am, then departs SVO 6:40am arriving Novosibirsk (SVX) 11am September 11, 2017.",
-            "date_start": "2017-09-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Return flight to Novosibirsk Russia from Paris arranged by Epstein's organization alongside other coordinated travel.",
-            "evidence": [
-              {
-                "file": "EFTA02221582.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "depart Sept. 10th on SU#2453 at 11:30pm arrive SVO 4am, Sept 11 depart SVO 6:40am arrive SVX 11am",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221582.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02220241",
-            "file": "EFTA02220241.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220282",
-            "file": "EFTA02220282.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220615",
-            "file": "EFTA02220615.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220655",
-            "file": "EFTA02220655.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220943",
-            "file": "EFTA02220943.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220952",
-            "file": "EFTA02220952.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221098",
-            "file": "EFTA02221098.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221266",
-            "file": "EFTA02221266.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221299",
-            "file": "EFTA02221299.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221554",
-            "file": "EFTA02221554.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221569",
-            "file": "EFTA02221569.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221792",
-            "file": "EFTA02221792.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221582",
-            "file": "EFTA02221582.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.188558,
           45.463945
         ]
@@ -58299,169 +58698,6 @@
           {
             "doc_id": "EFTA02220752",
             "file": "EFTA02220752.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.417743,
-          48.846386
-        ]
-      },
-      "properties": {
-        "id": "357ce9a5370a0901",
-        "name": "Paris Charles de Gaulle Airport",
-        "location_name": "Paris Charles de Gaulle Airport",
-        "location_address": "Charles de Gaulle, Saint-Mand\u00e9, Val-de-Marne, France",
-        "location_description": "The largest international airport in France, located 25 km northeast of Paris in the commune of Roissy-en-France, serving as a major hub for Air France and international travel.",
-        "canonical_name": "Paris Charles de Gaulle Airport, Paris, France, Saint-Mand\u00e9, Val-de-Marne",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Paris Charles de Gaulle Airport",
-        "location_descriptor": "The largest international airport in France, located 25 km northeast of Paris in the commune of Roissy-en-France, serving as a major hub for Air France and international travel.",
-        "event_count": 3,
-        "evidence_count": 5,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-09-02",
-        "date_end": "2017-09-12",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 4,
-        "sources_preview": "EFTA02221723.pdf, EFTA02221751.pdf, EFTA02221753.pdf, EFTA02221792.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "The largest international airport in France, located 25 km northeast of Paris in the commune of Roissy-en-France, serving as a major hub for Air France and international travel.",
-        "events": [
-          {
-            "event_id": "18d09bdec8fdc016",
-            "event_title": "Lesley Groff Books Moscow-Paris Round Trip for Epstein Associate, Sep 10-12 2017",
-            "event_type": "travel",
-            "description": "Lesley Groff, Epstein's executive assistant, booked a round-trip Aeroflot/Air France ticket for an unidentified woman traveling Moscow SVO to Paris CDG on September 10-12, 2017.",
-            "date_start": "2017-09-10",
-            "date_end": "2017-09-12",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Lesley Groff (Epstein's executive assistant) arranged the travel through Epstein's Amex Centurion account, indicating organizational connection to Epstein's operations.",
-            "evidence": [
-              {
-                "file": "EFTA02221723.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "should now arrive Paris Sunday Sept. 10 evening and return on Tuesday Sept. 12 around\nNew ticket will be:\n1 SU 3004 10SEP SVO CDG 0645P 0940P\nOPERATED BY AIR FRANCE\n2 SU 2463 N 12SEP T CDG SVO 0355P 0830P",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221723.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221751.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "should now arrive Paris Sunday Sept. 10 evening and return on Tuesday Sept. 12 around\nNew ticket will be:\n1 SU 3004 10SEP SVO CDG 0645P 0940P\nOPERATED BY AIR FRANCE\n2 SU 2463 N 12SEP T CDG SVO 0355P 0830P",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221751.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b2049b487f1251ac",
-            "event_title": "Epstein-Arranged Persons Arrive Paris CDG from Milan, Sep 2 2017",
-            "event_type": "travel",
-            "description": "Epstein-arranged persons arrived Paris Charles de Gaulle Airport at 5:20 PM on September 2, 2017 via AF 1231 from Milan Malpensa, directed by Epstein.; Epstein-managed travel booking for persons departing Paris CDG at 6:30 PM on Air Baltic BT 694 to Riga, then BT 349 to Vilnius VNO arriving 11:59 PM on September 4, 2017.",
-            "date_start": "2017-09-02",
-            "date_end": "2017-09-04",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein explicitly directed the Paris arrival timing for these persons in his email.",
-            "evidence": [
-              {
-                "file": "EFTA02221753.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AF 1231 02SEP MXP CDG 0350P 0520P\nthey should arrive paris around 4 if possible",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221753.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221753.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Paris to Vilnius on Sept. 4\nBT 694 04SEP CDG RIX 0630P 1015P\nBT 349 04SEP RIX VNO 1110P 1159P\n1ADT 186.60\nTOTAL FARE - USD 373.20",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221753.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "9a31ebc413a1bc5f",
-            "event_title": "Epstein-Arranged Person Departs Paris for Milan (Linate), Sep 10 2017",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein requested morning departure from Paris to Milan Linate on September 10, 2017 for an unidentified person; Alitalia AZ 339 departing CDG at 6:05 AM preferred per Epstein's instructions.",
-            "date_start": "2017-09-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally specified the timing requirement ('Jeffrey's request is for morning on Sunday') for this Paris to Milan departure.",
-            "evidence": [
-              {
-                "file": "EFTA02221792.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AZ 339 10SEP CDG LIN 0605A 0735A\nJeffrey's request is for morning on Sunday...can you check availability for us",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221792.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02221723",
-            "file": "EFTA02221723.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221751",
-            "file": "EFTA02221751.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221753",
-            "file": "EFTA02221753.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221792",
-            "file": "EFTA02221792.pdf",
             "source_type": "doj_efta"
           }
         ]
