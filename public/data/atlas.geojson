@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 116,
-        "evidence_count": 426,
+        "evidence_count": 427,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -546,8 +546,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 353,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+348 more)",
+        "source_count": 354,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+349 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -5102,6 +5102,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "MCC New York staff",
                 "role": "official"
               },
@@ -5125,6 +5129,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Unit Manager at the Bureau of Prison's (BOP) METROPOLITAN CORRECTIONAL CENTER (MCC), 150 Park Row, New York, New York, was interviewed by FBI Special Agent, Office of the Inspector General (OIG). Date of entry 08/16/2019.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00062221.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078282.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SDNY News Clips, Friday, August 16, 2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078282.pdf",
                 "confidence": 0.7
               }
             ]
@@ -7877,6 +7888,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00078282",
+            "file": "EFTA00078282.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00062282",
             "file": "EFTA00062282.pdf",
             "source_type": "doj_efta"
@@ -8085,7 +8101,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 111,
-        "evidence_count": 348,
+        "evidence_count": 351,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8569,6 +8585,10 @@
             "role": "associate"
           },
           {
+            "name": "G. Max Bernheimer",
+            "role": "other"
+          },
+          {
             "name": "Alex",
             "role": "associate"
           },
@@ -8733,8 +8753,8 @@
             "role": "other"
           }
         ],
-        "source_count": 318,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+313 more)",
+        "source_count": 320,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+315 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -12780,6 +12800,14 @@
                 "role": "subject"
               },
               {
+                "name": "G. Max Bernheimer",
+                "role": "other"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "legal"
+              },
+              {
                 "name": "Alex",
                 "role": "associate"
               }
@@ -12792,6 +12820,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "1-2:00pm football with Alex - August 11, 2017",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219140.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221892.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "As discussed Max will arrive at 10 am tomorrow at 9 E 71.\n...It was a pleasure meeting with you last week and a thrill to see the incredible Roman marble Hercules and the two-figure group.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221892.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14368,6 +14403,10 @@
                 "role": "legal"
               },
               {
+                "name": "Woody Allen",
+                "role": "associate"
+              },
+              {
                 "name": "Leon Black",
                 "role": "associate"
               },
@@ -14409,6 +14448,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Morning. Reconfirming Leon will come see Jeffrey today at 9am for breakfast!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221799.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221912.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thursday Jeffrey has appointments:\n1pm\n2pm\n6pm\n7:30pm he is to go to a screening",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221912.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221912.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Friday appointments:\n8:30am\n1:00pm\n7:00pm dinner w/Woody\nHe is here over the weekend! I think he will leave on Tuesday 19th...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221912.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15714,6 +15767,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221892",
+            "file": "EFTA02221892.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219169",
             "file": "EFTA02219169.pdf",
             "source_type": "doj_efta"
@@ -16051,6 +16109,11 @@
           {
             "doc_id": "EFTA02221799",
             "file": "EFTA02221799.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221912",
+            "file": "EFTA02221912.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -27152,7 +27215,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 49,
-        "evidence_count": 115,
+        "evidence_count": 116,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27328,8 +27391,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 111,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+106 more)",
+        "source_count": 112,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+107 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -29196,6 +29259,13 @@
                 "excerpt": "round trip, coach tickets Paris/NY/Paris depart Sept. 19 for Valdson Vieira Cotrin, Maria Gomes De Melo",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221036.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221884.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DY 7019 19SEP CDG JFK 0615P 0830P",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221884.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -29840,6 +29910,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221884",
+            "file": "EFTA02221884.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221327",
             "file": "EFTA02221327.pdf",
             "source_type": "doj_efta"
@@ -29893,7 +29968,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 44,
-        "evidence_count": 113,
+        "evidence_count": 115,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -30053,8 +30128,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 103,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+98 more)",
+        "source_count": 105,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+100 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -31704,6 +31779,13 @@
                 "excerpt": "I AM concerned about you all and have real concerns about Carlos and Danny at LSJ\nI HOPE the sat phone still works...!!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221849.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221880.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I all four big trees in center . gone. kite house gone gold dome gone. water lines broken. cabana 1 interior gone. . most trees gone. dock pavillions beach apvaillions .gone. electric generator working. roads all impassable , trees down. . library outside damage but inside ok. kitchen ok.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221880.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -31923,6 +32005,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Carlos and his wife are on the island so he will be ok.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221814.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221875.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "wheels up at 11 am direct to lsj . please have car pick me up at 10 am.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221875.pdf",
                 "confidence": 0.7
               }
             ]
@@ -32390,6 +32479,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221880",
+            "file": "EFTA02221880.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02213219",
             "file": "EFTA02213219.pdf",
             "source_type": "doj_efta"
@@ -32442,6 +32536,11 @@
           {
             "doc_id": "EFTA02221814",
             "file": "EFTA02221814.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221875",
+            "file": "EFTA02221875.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -35936,8 +36035,8 @@
         "property_type": "event",
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
-        "event_count": 32,
-        "evidence_count": 60,
+        "event_count": 33,
+        "evidence_count": 62,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -36005,6 +36104,10 @@
             "role": "victim"
           },
           {
+            "name": "Witness-1",
+            "role": "witness"
+          },
+          {
             "name": "subject",
             "role": "victim"
           },
@@ -36057,8 +36160,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 48,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+43 more)",
+        "source_count": 50,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+45 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -36487,6 +36590,10 @@
                 "role": "victim"
               },
               {
+                "name": "Witness-1",
+                "role": "witness"
+              },
+              {
                 "name": "subject",
                 "role": "victim"
               }
@@ -36513,6 +36620,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "In or about 2005, Minor Victim-3 was recruited to engage in sex acts with EPSTEIN...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076712.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078192.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "During the Palm Beach Department's investigation of Jeffrey Epstein in 2005, a witness (\"Witness-1\") disclosed to detectives that Epstein had paid Witness-1 to bring girls for sexualized massages, and that Epstein told her: \"the younger the better.\" Witness-1 described bringing multiple girls who were under the age of eighteen to Epstein's residence in Florida.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078192.pdf",
                 "confidence": 0.7
               }
             ]
@@ -37252,6 +37366,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "4bba1a62e38717d8",
+            "event_title": "Epstein Personally Executes Deed Transferring 358 El Brillo Way Property (March 2019)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein personally appeared (with photo ID) before a notary in Palm Beach County on March 9, 2019 to execute a Warranty Deed transferring 358 El Brillo Way from Laurel Inc. to Io & Bliss Inc., a religious corporation.",
+            "date_start": "2019-03-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at the notarial acknowledgment, presenting photo ID to execute the property transfer deed.",
+            "evidence": [
+              {
+                "file": "EFTA00078194.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The foregoing instrument was acknowledge bef... Jeffrey E. Epstein, as president of Laurel Inc. Corporation, Jeffrey E. Epstein a single man, on behalf of the company, he is personally known to me. by personal presence & presented Photo ID on this 9th day of March. 2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078194.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -37353,6 +37494,11 @@
           {
             "doc_id": "EFTA00013769",
             "file": "EFTA00013769.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078192",
+            "file": "EFTA00078192.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -37493,6 +37639,11 @@
           {
             "doc_id": "EFTA00078040",
             "file": "EFTA00078040.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078194",
+            "file": "EFTA00078194.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -43203,7 +43354,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
         "event_count": 12,
-        "evidence_count": 29,
+        "evidence_count": 30,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -43251,8 +43402,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 28,
-        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+23 more)",
+        "source_count": 29,
+        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+24 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
@@ -43613,6 +43764,13 @@
                 "excerpt": "2 DY 7020 28SEP JFK CDG 1005P 1105A...returning Sept. 28",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221598.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221884.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DY 7020 28SEP JFK CDG 1005P 1105A",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221884.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -43836,6 +43994,11 @@
           {
             "doc_id": "EFTA02221598",
             "file": "EFTA02221598.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221884",
+            "file": "EFTA02221884.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -44569,7 +44732,7 @@
         "display_name": "Long Island MacArthur Airport",
         "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
         "event_count": 9,
-        "evidence_count": 25,
+        "evidence_count": 26,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -44595,10 +44758,14 @@
           {
             "name": "Eric Roth",
             "role": "associate"
+          },
+          {
+            "name": "Jojo Fontanilla",
+            "role": "staff"
           }
         ],
-        "source_count": 25,
-        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+20 more)",
+        "source_count": 26,
+        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+21 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
@@ -44854,6 +45021,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jojo Fontanilla",
+                "role": "staff"
+              },
+              {
                 "name": "Larry Visoski",
                 "role": "staff"
               },
@@ -44909,6 +45080,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Arrival Islip NY Customs building Wednesday Morning at 9:00am. FBO is Hawthorne Aviation\nJeffrey will meet with Eric at the interior shop at 9AM for approximately one hour after our arrival",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221105.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221882.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "10:00am \u25a0 and Jojo to meet JE at Islip",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221882.pdf",
                 "confidence": 0.7
               }
             ]
@@ -45067,6 +45245,11 @@
           {
             "doc_id": "EFTA02221105",
             "file": "EFTA02221105.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221882",
+            "file": "EFTA02221882.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -58264,6 +58447,244 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.272265,
+          45.446655
+        ]
+      },
+      "properties": {
+        "id": "90645de3e45f0f0e",
+        "name": "Milan Linate Airport",
+        "location_name": "Milan Linate Airport",
+        "location_address": "Linate, Peschiera Borromeo, Milan, Italy",
+        "location_description": "A city airport located in Linate, near Milan, Italy, primarily serving domestic and short-haul European flights.",
+        "canonical_name": "Milan Linate Airport, Milan, Italy, Peschiera Borromeo",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Milan Linate Airport",
+        "location_descriptor": "A city airport located in Linate, near Milan, Italy, primarily serving domestic and short-haul European flights.",
+        "event_count": 3,
+        "evidence_count": 10,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-02",
+        "date_end": "2017-09-10",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Giedre",
+            "role": "associate"
+          },
+          {
+            "name": "Aurelija",
+            "role": "associate"
+          }
+        ],
+        "source_count": 9,
+        "sources_preview": "EFTA02220105.pdf, EFTA02220206.pdf, EFTA02220422.pdf, EFTA02221056.pdf, EFTA02221534.pdf, ... (+4 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A city airport located in Linate, near Milan, Italy, primarily serving domestic and short-haul European flights.",
+        "events": [
+          {
+            "event_id": "ecf1ad8deddaa322",
+            "event_title": "Aurelija and Giedre Depart Milan for Paris CDG on EasyJet, Sep 2 2017",
+            "event_type": "travel",
+            "description": "Aurelija and Giedre departed Milan on EasyJet flight 3932 to Paris CDG on September 2, 2017, travel coordinated by Jeffrey Epstein personally.",
+            "date_start": "2017-09-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Giedre",
+                "role": "associate"
+              },
+              {
+                "name": "Aurelija",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein was personally coordinating travel arrangements for Aurelija and Giedre, directly messaging about their itinerary.",
+            "evidence": [
+              {
+                "file": "EFTA02220105.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Easy Jet flight 3932 depart Milan 1:25pm arrive Paris CDG 3pm\nthey should arrive paris around 4 if possible easy jet ok\n02SEP",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220105.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220105.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Easy Jet flight 3932",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220105.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220206.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "easyJet booking reference: ESQFJJL\nMilan Linate to Paris Charles de Gaulle (Terminal 2D)\nPayment of 149.46 by American Express on 24/08/2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220206.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220422.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Here are the tickets for you and to go from Milan to Paris on Sept. 2nd. Please double check and make sure all is correct! Your tickets from Paris to Vilnius will come later today. Thanks and hope all is well. Lesley",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220422.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221056.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Milan Linate to Paris CDG check-in 02/09/2017 easyJet ESQFJJL",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221056.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221534.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "HI Natasha...we need tickets for __ to go from Milan to Paris on Sept. 2nd...Jeffrey reply: they should arrive paris around 4 if possible easy jet ok",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221534.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221633.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight 3932 ... Milan Linate, Italy LIN - 01:25 pm ... Paris, France CDG - 03:00 pm Sat, Sep 02, 2017 ... Dear Jeffrey epstein, Thank you for choosing CheapOair.com!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221633.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221764.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We live 2 hours from aeroport , it's impossible for tonight.. i could leave tomorrow morning, even early, how Jeffrey prefers\nAlitalia #352 departs 5:20pm arrives orly at 6:45pm.\nKopija: Jeffrey Epstein",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221764.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fcb4f5ea13b1b3e8",
+            "event_title": "Epstein Associate Arrives Milan Linate Airport on AZ 339, September 10 2017",
+            "event_type": "presence",
+            "description": "Female associate in Epstein's network arrives Milan Linate airport at 7:35am via Alitalia AZ 339 from Paris CDG on September 10 2017.",
+            "date_start": "2017-09-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "This Milan arrival is the culminating leg of travel arrangements made by Epstein's Centurion travel team for his associate.",
+            "evidence": [
+              {
+                "file": "EFTA02221824.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AZ 339 10SEP CDG LIN 0605A 0735A\nTOTAL FARE - USD 433.40",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221824.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "5dcf10b2fa773fee",
+            "event_title": "Epstein Associate Departs Milan Linate for Paris CDG, September 3 2017",
+            "event_type": "travel",
+            "description": "Unknown Epstein associate departs Milan Linate Airport at 9:55am on September 3, 2017 for Paris Charles de Gaulle arriving at 11:25am, part of the Epstein network's Sept 2017 European travel.",
+            "date_start": "2017-09-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel notification in Epstein document corpus for Linate-to-Paris departure in September 2017, coordinated with Epstein's broader travel network.",
+            "evidence": [
+              {
+                "file": "EFTA02221914.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Departure is now tomorrow morning at 9:55 AM from Linate to CDG arriving at 11:25 AM.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221914.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02220105",
+            "file": "EFTA02220105.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220206",
+            "file": "EFTA02220206.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220422",
+            "file": "EFTA02220422.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221056",
+            "file": "EFTA02221056.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221534",
+            "file": "EFTA02221534.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221633",
+            "file": "EFTA02221633.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221764",
+            "file": "EFTA02221764.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221824",
+            "file": "EFTA02221824.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221914",
+            "file": "EFTA02221914.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.188558,
           45.463945
         ]
@@ -64853,217 +65274,6 @@
           {
             "doc_id": "EFTA02220064",
             "file": "EFTA02220064.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.272265,
-          45.446655
-        ]
-      },
-      "properties": {
-        "id": "90645de3e45f0f0e",
-        "name": "Milan Linate Airport",
-        "location_name": "Milan Linate Airport",
-        "location_address": "Linate, Peschiera Borromeo, Milan, Italy",
-        "location_description": "A city airport located in Linate, near Milan, Italy, primarily serving domestic and short-haul European flights.",
-        "canonical_name": "Milan Linate Airport, Milan, Italy, Peschiera Borromeo",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Milan Linate Airport",
-        "location_descriptor": "A city airport located in Linate, near Milan, Italy, primarily serving domestic and short-haul European flights.",
-        "event_count": 2,
-        "evidence_count": 9,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-09-02",
-        "date_end": "2017-09-10",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Giedre",
-            "role": "associate"
-          },
-          {
-            "name": "Aurelija",
-            "role": "associate"
-          }
-        ],
-        "source_count": 8,
-        "sources_preview": "EFTA02220105.pdf, EFTA02220206.pdf, EFTA02220422.pdf, EFTA02221056.pdf, EFTA02221534.pdf, ... (+3 more)",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A city airport located in Linate, near Milan, Italy, primarily serving domestic and short-haul European flights.",
-        "events": [
-          {
-            "event_id": "ecf1ad8deddaa322",
-            "event_title": "Aurelija and Giedre Depart Milan for Paris CDG on EasyJet, Sep 2 2017",
-            "event_type": "travel",
-            "description": "Aurelija and Giedre departed Milan on EasyJet flight 3932 to Paris CDG on September 2, 2017, travel coordinated by Jeffrey Epstein personally.",
-            "date_start": "2017-09-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Giedre",
-                "role": "associate"
-              },
-              {
-                "name": "Aurelija",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein was personally coordinating travel arrangements for Aurelija and Giedre, directly messaging about their itinerary.",
-            "evidence": [
-              {
-                "file": "EFTA02220105.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Easy Jet flight 3932 depart Milan 1:25pm arrive Paris CDG 3pm\nthey should arrive paris around 4 if possible easy jet ok\n02SEP",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220105.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220105.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Easy Jet flight 3932",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220105.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220206.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "easyJet booking reference: ESQFJJL\nMilan Linate to Paris Charles de Gaulle (Terminal 2D)\nPayment of 149.46 by American Express on 24/08/2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220206.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220422.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hello Here are the tickets for you and to go from Milan to Paris on Sept. 2nd. Please double check and make sure all is correct! Your tickets from Paris to Vilnius will come later today. Thanks and hope all is well. Lesley",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220422.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221056.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Milan Linate to Paris CDG check-in 02/09/2017 easyJet ESQFJJL",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221056.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221534.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "HI Natasha...we need tickets for __ to go from Milan to Paris on Sept. 2nd...Jeffrey reply: they should arrive paris around 4 if possible easy jet ok",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221534.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221633.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight 3932 ... Milan Linate, Italy LIN - 01:25 pm ... Paris, France CDG - 03:00 pm Sat, Sep 02, 2017 ... Dear Jeffrey epstein, Thank you for choosing CheapOair.com!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221633.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221764.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We live 2 hours from aeroport , it's impossible for tonight.. i could leave tomorrow morning, even early, how Jeffrey prefers\nAlitalia #352 departs 5:20pm arrives orly at 6:45pm.\nKopija: Jeffrey Epstein",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221764.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "fcb4f5ea13b1b3e8",
-            "event_title": "Epstein Associate Arrives Milan Linate Airport on AZ 339, September 10 2017",
-            "event_type": "presence",
-            "description": "Female associate in Epstein's network arrives Milan Linate airport at 7:35am via Alitalia AZ 339 from Paris CDG on September 10 2017.",
-            "date_start": "2017-09-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "This Milan arrival is the culminating leg of travel arrangements made by Epstein's Centurion travel team for his associate.",
-            "evidence": [
-              {
-                "file": "EFTA02221824.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AZ 339 10SEP CDG LIN 0605A 0735A\nTOTAL FARE - USD 433.40",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221824.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02220105",
-            "file": "EFTA02220105.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220206",
-            "file": "EFTA02220206.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220422",
-            "file": "EFTA02220422.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221056",
-            "file": "EFTA02221056.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221534",
-            "file": "EFTA02221534.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221633",
-            "file": "EFTA02221633.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221764",
-            "file": "EFTA02221764.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221824",
-            "file": "EFTA02221824.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -77584,6 +77794,148 @@
           {
             "doc_id": "EFTA00078171",
             "file": "EFTA00078171.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.59517,
+          56.835423
+        ]
+      },
+      "properties": {
+        "id": "b22f9e45f2d12138",
+        "name": "Koltsovo International Airport",
+        "location_name": "Koltsovo International Airport",
+        "location_address": "Yekaterinburg, Sverdlovsk, Russia",
+        "location_description": "An international airport serving Yekaterinburg, Russia's fourth-largest city and capital of Sverdlovsk Oblast, located approximately 16 kilometers southeast of the city center.",
+        "canonical_name": "Koltsovo Airport, Yekaterinburg, Russia, Sverdlovsk",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Koltsovo International Airport",
+        "location_descriptor": "An international airport serving Yekaterinburg, Russia's fourth-largest city and capital of Sverdlovsk Oblast, located approximately 16 kilometers southeast of the city center.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-09",
+        "date_end": "2017-09-09",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02221886.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "An international airport serving Yekaterinburg, Russia's fourth-largest city and capital of Sverdlovsk Oblast, located approximately 16 kilometers southeast of the city center.",
+        "events": [
+          {
+            "event_id": "73908b9e6eccd210",
+            "event_title": "Epstein Extends Female Associate's Paris Stay, CDG\u2192Moscow\u2192Koltsovo Sept 9 2017 (Rec OUXS71)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein directed female associate to stay in Paris until Saturday September 9, 2017; ticket changed to Aeroflot SU2463 CDG\u2192SVO then SU1408 SVO\u2192Koltsovo Yekaterinburg at Epstein's personal instruction.",
+            "date_start": "2017-09-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally directed this travel extension and route change, demonstrating direct control over this associate's schedule.",
+            "evidence": [
+              {
+                "file": "EFTA02221886.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey wants her to stay until Saturday the ninth!! Can we do this?\n...SU2463 09SEP CDG SVO 355P 830P\nSU1408 09SEP SVO SVX 1150P 410A\nRec. Loc#OUXS71.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221886.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221886",
+            "file": "EFTA02221886.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "bc146bac884af322",
+        "name": "U.S. Attorney's Office, SDNY",
+        "location_name": "U.S. Attorney's Office, SDNY",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The United States Attorney's Office for the Southern District of New York, one of the nation's most prominent federal prosecutorial offices, headquartered in Lower Manhattan and responsible for federal cases in Manhattan, the Bronx, and several Hudson Valley counties.",
+        "canonical_name": "One St. Andrew's Plaza, New York, NY 10007, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, SDNY",
+        "location_descriptor": "The United States Attorney's Office for the Southern District of New York, one of the nation's most prominent federal prosecutorial offices, headquartered in Lower Manhattan and responsible for federal cases in Manhattan, the Bronx, and several Hudson Valley counties.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2020-01-15",
+        "date_end": "2020-01-15",
+        "people": [],
+        "source_count": 1,
+        "sources_preview": "EFTA00078227.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The United States Attorney's Office for the Southern District of New York, one of the nation's most prominent federal prosecutorial offices, headquartered in Lower Manhattan and responsible for federal cases in Manhattan, the Bronx, and several Hudson Valley counties.",
+        "events": [
+          {
+            "event_id": "58fcda958ff484a2",
+            "event_title": "Deputy Attorney General Briefed on Epstein Investigation at SDNY Headquarters",
+            "event_type": "presence",
+            "description": "Deputy Attorney General visited SDNY headquarters on January 15, 2020 for case briefings including an update on the Epstein investigation from SDNY prosecutors.",
+            "date_start": "2020-01-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The meeting at SDNY was about case briefings including the Epstein investigation, but Epstein himself was not present.",
+            "evidence": [
+              {
+                "file": "EFTA00078227.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Draft SDNY DAG Visit Agenda\n9:30: Arrival & Meeting w/Executive Team\n\u2022 will plan to update on the Epstein investigation during this initial meeting.\n9:50-11:00: Case Briefings",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078227.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00078227",
+            "file": "EFTA00078227.pdf",
             "source_type": "doj_efta"
           }
         ]
