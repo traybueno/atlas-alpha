@@ -32754,7 +32754,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 53,
-        "evidence_count": 128,
+        "evidence_count": 129,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -32950,8 +32950,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 118,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+113 more)",
+        "source_count": 119,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+114 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -35050,6 +35050,14 @@
               {
                 "name": "Philippe",
                 "role": "associate"
+              },
+              {
+                "name": "Philippe Van den Broek",
+                "role": "associate"
+              },
+              {
+                "name": "Anna",
+                "role": "staff"
               }
             ],
             "epstein_nexus": "contextual",
@@ -35067,6 +35075,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Hello Kevin and Philippe...here are your tickets to come to the island. Travel Arrangements for OUVRE/KEVIN VAN DEN BROEK/PHILIPPE. Wednesday 22 Mar 17",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223363.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223514.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "here are your tickets to come to the island this Wed. March 22nd and depart on Thurs. March 23rd. Anna will make sure you are picked up at the airport and taken to the island...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223514.pdf",
                 "confidence": 0.7
               }
             ]
@@ -35731,6 +35746,11 @@
           {
             "doc_id": "EFTA02223363",
             "file": "EFTA02223363.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223514",
+            "file": "EFTA02223514.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -74406,6 +74426,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.932094,
+          18.341129
+        ]
+      },
+      "properties": {
+        "id": "95327c017b2b14e0",
+        "name": "Cyril E. King Airport",
+        "location_name": "Cyril E. King Airport",
+        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
+        "location_description": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
+        "canonical_name": "Cyril E. King Airport, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Cyril E. King Airport",
+        "location_descriptor": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
+        "event_count": 2,
+        "evidence_count": 3,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-03-19",
+        "date_end": "2017-03-22",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "John Christensen",
+            "role": "associate"
+          },
+          {
+            "name": "Kevin Ouvre",
+            "role": "associate"
+          },
+          {
+            "name": "Philippe Van den Broek",
+            "role": "associate"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02222818.pdf, EFTA02222821.pdf, EFTA02223514.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
+        "events": [
+          {
+            "event_id": "01a2ca2c889bf957",
+            "event_title": "John Christensen Flies Fort Lauderdale to St. Thomas (NK201), March 19, 2017",
+            "event_type": "travel",
+            "description": "John Christensen flew Spirit Airlines flight NK201 from Fort Lauderdale/Hollywood International Airport to Cyril E. King Airport in St. Thomas, USVI on March 19, 2017, en route to Epstein's Little St. James Island.",
+            "date_start": "2017-03-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "John Christensen",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Lesley Groff (Epstein's assistant) to 'the island' (Little St. James) for John Christensen, confirming this is an Epstein-organized visit to his USVI property.",
+            "evidence": [
+              {
+                "file": "EFTA02222818.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight Information\nDate 19 Mar 2017\nAirline Spirit Airlines\nFlight/Class NK 201 T Economy Class\nOrigin Fort Lauderdale, Fort Lauderdale/hollywood International\nDestination Charlotte Amalie, Cyril E King Airport\nDeparting 12:58 PM\nArriving 03:29 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222818.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222821.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "HI John...here is your ticket to go to the island on Sunday...we arc purhchasing a scat, carry on and one checked baggage for you as well...\n\nFlight NK 201 T Economy Class\nOrigin Fort Lauderdale\nDestination Charlotte Amalie, Cyril E King Airport\nDeparting 12:58 PM\nArriving 03:29 PM\n19 Mar 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222821.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3eff704d428eca12",
+            "event_title": "Ouvre and Van den Broek Fly Gustavia to St. Thomas on Tradewind Aviation TJ301",
+            "event_type": "travel",
+            "description": "Kevin Ouvre and Philippe Van den Broek flew Tradewind Aviation TJ 301 from Gustavia (St-Jean) to Cyril E. King Airport, St. Thomas on March 22, 2017, en route to Little St. James Island.",
+            "date_start": "2017-03-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kevin Ouvre",
+                "role": "associate"
+              },
+              {
+                "name": "Philippe Van den Broek",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Flight to St. Thomas for access to Epstein's Little St. James Island, arranged via Epstein's American Express Centurion Travel account.",
+            "evidence": [
+              {
+                "file": "EFTA02223514.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TJ 301 Y Economy Class Gustavia, Gustaf III (St-Jean) Charlotte Amalie, Cyril E King Airport 08:45 AM 09:38 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223514.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02222818",
+            "file": "EFTA02222818.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222821",
+            "file": "EFTA02222821.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223514",
+            "file": "EFTA02223514.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.005994,
           40.712749
         ]
@@ -74535,12 +74695,12 @@
         "name": "Thurgood Marshall U.S. Courthouse",
         "location_name": "Thurgood Marshall U.S. Courthouse",
         "location_address": "West New York, New Jersey, United States",
-        "location_description": "A federal courthouse in Lower Manhattan serving the U.S. District Court for the Southern District of New York, one of the most prominent federal courts in the United States.",
+        "location_description": "A federal courthouse in downtown Manhattan at 40 Foley Square, housing numerous SDNY courtrooms and judges.",
         "canonical_name": "U.S. District Court, Southern District of New York, 40 Foley Square, New York, NY, West New York, New Jersey",
         "region": "",
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
-        "location_descriptor": "A federal courthouse in Lower Manhattan serving the U.S. District Court for the Southern District of New York, one of the most prominent federal courts in the United States.",
+        "location_descriptor": "A federal courthouse in downtown Manhattan at 40 Foley Square, housing numerous SDNY courtrooms and judges.",
         "event_count": 2,
         "evidence_count": 2,
         "primary_event_type": "legal",
@@ -74570,7 +74730,7 @@
         "sources_preview": "EFTA00083398.pdf, EFTA00083543.pdf",
         "epstein_nexus": "contextual",
         "event_type": "legal",
-        "event_description": "A federal courthouse in Lower Manhattan serving the U.S. District Court for the Southern District of New York, one of the most prominent federal courts in the United States.",
+        "event_description": "A federal courthouse in downtown Manhattan at 40 Foley Square, housing numerous SDNY courtrooms and judges.",
         "events": [
           {
             "event_id": "b6a3ff2b433db22b",
@@ -83112,7 +83272,7 @@
         "display_name": "YouTube Space NY",
         "location_descriptor": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
         "event_count": 1,
-        "evidence_count": 9,
+        "evidence_count": 10,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -83124,6 +83284,10 @@
             "role": "subject"
           },
           {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
             "name": "Deepak Chopra",
             "role": "associate"
           },
@@ -83132,8 +83296,8 @@
             "role": "other"
           }
         ],
-        "source_count": 9,
-        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+4 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+5 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
@@ -83151,6 +83315,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
               },
               {
                 "name": "Deepak Chopra",
@@ -83226,6 +83394,13 @@
                 "excerpt": "Just want to remind you of the Deepak event tonight!! 5-7:00pm",
                 "document_url": "",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223392.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be bringing the below guests with him to the Deepak Chopra event. When: Wednesday, September 27th Time: 5-7:00 pm Where: YouTube Space NY, 75 9th Avenue, NYC",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223392.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -83274,6 +83449,11 @@
           {
             "doc_id": "EFTA02223359",
             "file": "EFTA02223359.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223392",
+            "file": "EFTA02223392.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -85114,102 +85294,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.932094,
-          18.341129
-        ]
-      },
-      "properties": {
-        "id": "95327c017b2b14e0",
-        "name": "Cyril E. King Airport",
-        "location_name": "Cyril E. King Airport",
-        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
-        "location_description": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
-        "canonical_name": "Cyril E. King Airport, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Cyril E. King Airport",
-        "location_descriptor": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
-        "event_count": 1,
-        "evidence_count": 2,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-03-19",
-        "date_end": "2017-03-19",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "John Christensen",
-            "role": "associate"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02222818.pdf, EFTA02222821.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "travel",
-        "event_description": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
-        "events": [
-          {
-            "event_id": "01a2ca2c889bf957",
-            "event_title": "John Christensen Flies Fort Lauderdale to St. Thomas (NK201), March 19, 2017",
-            "event_type": "travel",
-            "description": "John Christensen flew Spirit Airlines flight NK201 from Fort Lauderdale/Hollywood International Airport to Cyril E. King Airport in St. Thomas, USVI on March 19, 2017, en route to Epstein's Little St. James Island.",
-            "date_start": "2017-03-19",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "John Christensen",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel arranged by Lesley Groff (Epstein's assistant) to 'the island' (Little St. James) for John Christensen, confirming this is an Epstein-organized visit to his USVI property.",
-            "evidence": [
-              {
-                "file": "EFTA02222818.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight Information\nDate 19 Mar 2017\nAirline Spirit Airlines\nFlight/Class NK 201 T Economy Class\nOrigin Fort Lauderdale, Fort Lauderdale/hollywood International\nDestination Charlotte Amalie, Cyril E King Airport\nDeparting 12:58 PM\nArriving 03:29 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222818.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02222821.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "HI John...here is your ticket to go to the island on Sunday...we arc purhchasing a scat, carry on and one checked baggage for you as well...\n\nFlight NK 201 T Economy Class\nOrigin Fort Lauderdale\nDestination Charlotte Amalie, Cyril E King Airport\nDeparting 12:58 PM\nArriving 03:29 PM\n19 Mar 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222821.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02222818",
-            "file": "EFTA02222818.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02222821",
-            "file": "EFTA02222821.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           26.10272,
           44.436141
         ]
@@ -85955,12 +86039,12 @@
         "name": "California",
         "location_name": "California",
         "location_address": "California, United States",
-        "location_description": "A state on the western coast of the United States, the most populous in the nation, encompassing major cities including Los Angeles and San Francisco.",
+        "location_description": "The U.S. state on the Pacific Coast, encompassing major cities including Los Angeles and San Francisco.",
         "canonical_name": "California, United States",
         "region": "",
         "property_type": "event",
         "display_name": "California",
-        "location_descriptor": "A state on the western coast of the United States, the most populous in the nation, encompassing major cities including Los Angeles and San Francisco.",
+        "location_descriptor": "The U.S. state on the Pacific Coast, encompassing major cities including Los Angeles and San Francisco.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "communication",
@@ -85973,7 +86057,7 @@
         "sources_preview": "EFTA00082106.pdf",
         "epstein_nexus": "contextual",
         "event_type": "communication",
-        "event_description": "A state on the western coast of the United States, the most populous in the nation, encompassing major cities including Los Angeles and San Francisco.",
+        "event_description": "The U.S. state on the Pacific Coast, encompassing major cities including Los Angeles and San Francisco.",
         "events": [
           {
             "event_id": "b6d7a2b569beb9a8",
@@ -86021,12 +86105,12 @@
         "name": "Museum of Modern Art (MoMA)",
         "location_name": "Museum of Modern Art (MoMA)",
         "location_address": "11 West 53rd Street, New York City, New York 10019, United States",
-        "location_description": "A world-renowned modern and contemporary art museum located on West 53rd Street in Midtown Manhattan, New York City, founded in 1929.",
+        "location_description": "A world-renowned art museum located at 11 West 53rd Street in Midtown Manhattan, New York City.",
         "canonical_name": "Museum of Modern Art, 11 West 53rd Street, New York, NY, New York City",
         "region": "",
         "property_type": "event",
         "display_name": "Museum of Modern Art (MoMA)",
-        "location_descriptor": "A world-renowned modern and contemporary art museum located on West 53rd Street in Midtown Manhattan, New York City, founded in 1929.",
+        "location_descriptor": "A world-renowned art museum located at 11 West 53rd Street in Midtown Manhattan, New York City.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -86048,7 +86132,7 @@
         "sources_preview": "EFTA02223492.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
-        "event_description": "A world-renowned modern and contemporary art museum located on West 53rd Street in Midtown Manhattan, New York City, founded in 1929.",
+        "event_description": "A world-renowned art museum located at 11 West 53rd Street in Midtown Manhattan, New York City.",
         "events": [
           {
             "event_id": "04495d8fc5e72c1d",
@@ -86102,15 +86186,15 @@
       },
       "properties": {
         "id": "de5618032fe7e3bc",
-        "name": "Havana",
-        "location_name": "Havana",
+        "name": "Havana, Cuba",
+        "location_name": "Havana, Cuba",
         "location_address": "Havana, Cuba",
-        "location_description": "The capital and largest city of Cuba, located on the northern coast of the island, known for its colonial architecture, vibrant culture, and as the center of Cuban government and commerce.",
+        "location_description": "The capital city of Cuba, a Caribbean island nation located approximately 90 miles south of Florida.",
         "canonical_name": "Havana, Cuba",
         "region": "",
         "property_type": "event",
-        "display_name": "Havana",
-        "location_descriptor": "The capital and largest city of Cuba, located on the northern coast of the island, known for its colonial architecture, vibrant culture, and as the center of Cuban government and commerce.",
+        "display_name": "Havana, Cuba",
+        "location_descriptor": "The capital city of Cuba, a Caribbean island nation located approximately 90 miles south of Florida.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -86132,7 +86216,7 @@
         "sources_preview": "EFTA02223502.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "The capital and largest city of Cuba, located on the northern coast of the island, known for its colonial architecture, vibrant culture, and as the center of Cuban government and commerce.",
+        "event_description": "The capital city of Cuba, a Caribbean island nation located approximately 90 miles south of Florida.",
         "events": [
           {
             "event_id": "cff1452d993f2412",
@@ -86189,12 +86273,12 @@
         "name": "Jet Aviation Palm Beach",
         "location_name": "Jet Aviation Palm Beach",
         "location_address": "2525 North Military Trail, West Palm Beach, Florida 33409, United States",
-        "location_description": "A fixed-base operator (FBO) providing private aviation services at Palm Beach International Airport, located at 2525 North Military Trail in West Palm Beach, Florida.",
+        "location_description": "A fixed-base operator (FBO) providing private aviation services at Palm Beach International Airport in West Palm Beach, Florida.",
         "canonical_name": "Jet Aviation, 2525 N Military Trail, West Palm Beach, FL, Florida",
         "region": "",
         "property_type": "event",
         "display_name": "Jet Aviation Palm Beach",
-        "location_descriptor": "A fixed-base operator (FBO) providing private aviation services at Palm Beach International Airport, located at 2525 North Military Trail in West Palm Beach, Florida.",
+        "location_descriptor": "A fixed-base operator (FBO) providing private aviation services at Palm Beach International Airport in West Palm Beach, Florida.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "presence",
@@ -86212,7 +86296,7 @@
         "sources_preview": "EFTA00083548.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
-        "event_description": "A fixed-base operator (FBO) providing private aviation services at Palm Beach International Airport, located at 2525 North Military Trail in West Palm Beach, Florida.",
+        "event_description": "A fixed-base operator (FBO) providing private aviation services at Palm Beach International Airport in West Palm Beach, Florida.",
         "events": [
           {
             "event_id": "225f19a0b259c861",
