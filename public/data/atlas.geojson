@@ -26625,7 +26625,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 49,
-        "evidence_count": 111,
+        "evidence_count": 112,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -26801,8 +26801,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 107,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+102 more)",
+        "source_count": 108,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+103 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -28693,6 +28693,13 @@
                 "excerpt": "Jeffrey is trying to decide if OK for her to go to Milan...this is for an interview...She will then go from Paris to Milan on Sept. 9th.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221266.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221713.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the ticket to Milan on Sunday 10th...Jeffreauest is for morning on Sunday...can you check availability for us on both tickets we need ... AZ 305 10SEP CDG LIN 0935A 1105A",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221713.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -29282,6 +29289,11 @@
           {
             "doc_id": "EFTA02221266",
             "file": "EFTA02221266.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221713",
+            "file": "EFTA02221713.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -44439,7 +44451,7 @@
         "display_name": "Paris Charles de Gaulle Airport",
         "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
         "event_count": 9,
-        "evidence_count": 15,
+        "evidence_count": 16,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -44471,8 +44483,8 @@
             "role": "other"
           }
         ],
-        "source_count": 14,
-        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf, ... (+9 more)",
+        "source_count": 15,
+        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf, ... (+10 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
@@ -44739,6 +44751,13 @@
                 "excerpt": "will arrive Paris Sept. 10th on SU#3004 at 9:40pm and depart on Sept. 12 on SU #2463 at 3:55pm",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221582.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221603.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "will arrive Paris 2:40pm on Aeroflot#2462 (TGGTCG) Return remains the same (depart 3:55pm on Tues. Sept. 12)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221603.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -44829,6 +44848,11 @@
           {
             "doc_id": "EFTA02221582",
             "file": "EFTA02221582.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221603",
+            "file": "EFTA02221603.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -75395,6 +75419,72 @@
           {
             "doc_id": "EFTA02221642",
             "file": "EFTA02221642.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.316229,
+          59.938732
+        ]
+      },
+      "properties": {
+        "id": "ac1dd744432c4a4e",
+        "name": "Pulkovo Airport",
+        "location_name": "Pulkovo Airport",
+        "location_address": "Saint Petersburg, Russia",
+        "location_description": "The international airport of Saint Petersburg, Russia, located approximately 15 kilometers south of the city center, serving as a major hub for both domestic and international flights.",
+        "canonical_name": "Pulkovo Airport, Saint Petersburg, Russia",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Pulkovo Airport",
+        "location_descriptor": "The international airport of Saint Petersburg, Russia, located approximately 15 kilometers south of the city center, serving as a major hub for both domestic and international flights.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-10",
+        "date_end": "2017-09-10",
+        "people": [],
+        "source_count": 1,
+        "sources_preview": "EFTA02221603.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "The international airport of Saint Petersburg, Russia, located approximately 15 kilometers south of the city center, serving as a major hub for both domestic and international flights.",
+        "events": [
+          {
+            "event_id": "6c8129dcdafd3eba",
+            "event_title": "Epstein Associate (\"Girl\") Departs Paris CDG for St. Petersburg \u2014 Sept 10, 2017",
+            "event_type": "presence",
+            "description": "Female associate departs Paris CDG on Aeroflot #3009 at 6:05pm September 10, 2017, arriving St. Petersburg at 10:15pm; connecting Aeroflot #6401 departs 12:25am arrives 5:50am Sept 11.",
+            "date_start": "2017-09-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel coordinated by Epstein organization per email \"New flights for girls\" addressed to Jeffrey Epstein and Julia Santos.",
+            "evidence": [
+              {
+                "file": "EFTA02221603.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "depart on Aeroflot#3009 6:05pm to St. Petersburg 10:15pm, Aeroflot#6401 depart 12:25am arrival 5:50am on 11th (OUXSTL)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221603.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221603",
+            "file": "EFTA02221603.pdf",
             "source_type": "doj_efta"
           }
         ]
