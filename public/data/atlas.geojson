@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 111,
-        "evidence_count": 399,
+        "evidence_count": 401,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -518,8 +518,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 331,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+326 more)",
+        "source_count": 332,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+327 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -3099,6 +3099,13 @@
                 "excerpt": "On the evening of Friday August 09, 2019, JIMENEZ was awake and listening to the radio in his cell... JIMENEZ recalled waking up around 6am on Saturday, August 10, 2019 and hearing possibly a male voice saying \"breathe.\" The last time JIMENEZ saw EPSTEIN was when he was on a stretcher being taken out of his cell.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076992.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077111.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On August 10, Epstein committed suicide at the MCC.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077111.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -4277,6 +4284,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Ms. Maxwell was arrested on July 2, 2020. On July 14, 2020, during her arraignment and bail hearing, the government indicated that it had \"begun preparing an initial production\"",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077100.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077111.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July I, we had an initial appearance and bail hearing before Judge Nathan, who heard a bail argument and granted our request to detain Maxwell pending trial",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077111.pdf",
                 "confidence": 0.7
               }
             ]
@@ -7011,6 +7025,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00077111",
+            "file": "EFTA00077111.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015296",
             "file": "EFTA00015296.pdf",
             "source_type": "doj_efta"
@@ -7593,8 +7612,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 105,
-        "evidence_count": 317,
+        "event_count": 106,
+        "evidence_count": 319,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8188,10 +8207,18 @@
           {
             "name": "Masha Drokova",
             "role": "associate"
+          },
+          {
+            "name": "Carluz Toylo",
+            "role": "staff"
+          },
+          {
+            "name": "Karyna",
+            "role": "staff"
           }
         ],
-        "source_count": 290,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+285 more)",
+        "source_count": 292,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+287 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -9615,6 +9642,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "law enforcement officers",
+                "role": "other"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               },
@@ -9649,6 +9680,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "found one page of notes that I took back at the original Epstein search back in July 2019. The notes are from the interview I had with Sonam Dema, the housekeeper.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075680.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077152.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "YOU ARE COMMANDED to execute this warrant on or before July 12, 2019... The premises to be searched... are described as a multi-story single-family residence located [in] New York, New York",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077152.pdf",
                 "confidence": 0.7
               }
             ]
@@ -13482,6 +13520,45 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "728cb64892a2950c",
+            "event_title": "New Household Staff (Carluz Toylo) Begins Employment at Epstein's NYC Residence (Oct 2017)",
+            "event_type": "travel",
+            "description": "Carluz Toylo begins employment at Epstein's 9 East 71st Street residence.",
+            "date_start": "2017-10-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
+                "name": "Carluz Toylo",
+                "role": "staff"
+              },
+              {
+                "name": "Karyna",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02221294.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NYC is where you will begin...do we know where they will be staying? at 71st?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221294.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -13888,6 +13965,11 @@
           {
             "doc_id": "EFTA00075680",
             "file": "EFTA00075680.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077152",
+            "file": "EFTA00077152.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -14934,6 +15016,11 @@
             "doc_id": "EFTA02221269",
             "file": "EFTA02221269.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221294",
+            "file": "EFTA02221294.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -14959,7 +15046,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 100,
-        "evidence_count": 222,
+        "evidence_count": 223,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -15363,8 +15450,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 209,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+204 more)",
+        "source_count": 210,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+205 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -18282,6 +18369,13 @@
                 "excerpt": "Jeffrey says it is just too nice to sit inside today...he would like you to meet him at 59th and 5th at noon instead of coming here",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221274.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221291.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey says it is just too nice to sit inside today...he would like you to meet him at 59th and 5th at noon instead of coming here",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221291.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -20238,6 +20332,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221291",
+            "file": "EFTA02221291.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02218381",
             "file": "EFTA02218381.pdf",
             "source_type": "doj_efta"
@@ -20491,7 +20590,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
         "event_count": 56,
-        "evidence_count": 96,
+        "evidence_count": 97,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -20599,8 +20698,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 66,
-        "sources_preview": "EFTA02212949.pdf, EFTA02212953.pdf, EFTA00010075.pdf, EFTA00075962.pdf, EFTA00040470.pdf, ... (+61 more)",
+        "source_count": 67,
+        "sources_preview": "EFTA02212949.pdf, EFTA02212953.pdf, EFTA00010075.pdf, EFTA00075962.pdf, EFTA00040470.pdf, ... (+62 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
@@ -22214,6 +22313,13 @@
                 "excerpt": "Pick up: Sat. Aug. 26 @ 6:35am from and take to JFK for her flight at 8:35am (Delta)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220186.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221279.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Sat, 26AUG DEPART ARM\nDELTA 465 NYC-KENNEDY ST T ISLA Main Cabin (U) 8:35am 12:4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221279.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -22732,6 +22838,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221279",
+            "file": "EFTA02221279.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219654",
             "file": "EFTA02219654.pdf",
             "source_type": "doj_efta"
@@ -22825,7 +22936,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 55,
-        "evidence_count": 131,
+        "evidence_count": 132,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -22969,8 +23080,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 114,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215018.pdf, EFTA02216389.pdf, ... (+109 more)",
+        "source_count": 115,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215018.pdf, EFTA02216389.pdf, ... (+110 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -24685,6 +24796,13 @@
                 "excerpt": "DL 676 23AUG STT JFK 0200P 0610P\nTOTAL FARE - USD 541.06\n...We need a coach one way ticket for from STT to NY on Wed. Aug. 23rd, direct flight",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219685.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221279.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mon, 28AUG DEPART AMU\nDELTA 676 ST THOMAS, VIRGIN NYC ISLANDS, U.S. Main Cabin (H) 5:39 1:37pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221279.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -25565,6 +25683,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221279",
+            "file": "EFTA02221279.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219872",
             "file": "EFTA02219872.pdf",
             "source_type": "doj_efta"
@@ -25683,7 +25806,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 49,
-        "evidence_count": 106,
+        "evidence_count": 107,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -25859,8 +25982,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 103,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+98 more)",
+        "source_count": 104,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+99 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -27750,6 +27873,13 @@
                 "excerpt": "In the summer of 2019, upon his return from a stay in Paris, Jeffrey EPSTEIN was arrested, charged and detained in Manhattan.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077200.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077207.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Interpelle au cours de l'ete 2019 au retour d'un sejour a Paris, Jeffrey EPSTEIN etait inculpe et place en detention a Manhattan, retrouve pendu dans sa cellule quelque temps plus tard.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077207.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -28295,6 +28425,11 @@
           {
             "doc_id": "EFTA00077200",
             "file": "EFTA00077200.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077207",
+            "file": "EFTA00077207.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -36433,7 +36568,7 @@
         "display_name": "Epstein East 66th Street Apartment Building",
         "location_descriptor": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
         "event_count": 21,
-        "evidence_count": 38,
+        "evidence_count": 39,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -36565,6 +36700,10 @@
             "role": "other"
           },
           {
+            "name": "Richard Kahn",
+            "role": "associate"
+          },
+          {
             "name": "Yoni",
             "role": "other"
           },
@@ -36573,8 +36712,8 @@
             "role": "other"
           }
         ],
-        "source_count": 35,
-        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+30 more)",
+        "source_count": 36,
+        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+31 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
@@ -37364,6 +37503,14 @@
                 "role": "other"
               },
               {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
                 "name": "Yoni Koren",
                 "role": "associate"
               },
@@ -37395,6 +37542,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Yoni the dad is ill going through treatment in NY apt 10B IT visit Sept 9",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221067.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221290.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Yoni in 10B will be in the apartment this Friday 12-12:30pm...or is there anything else you need to do at 301?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221290.pdf",
                 "confidence": 0.7
               }
             ]
@@ -37574,6 +37728,11 @@
           {
             "doc_id": "EFTA02221067",
             "file": "EFTA02221067.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221290",
+            "file": "EFTA02221290.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -46559,7 +46718,7 @@
         "display_name": "Paris Charles de Gaulle Airport",
         "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
         "event_count": 6,
-        "evidence_count": 8,
+        "evidence_count": 9,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -46591,8 +46750,8 @@
             "role": "other"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf, ... (+3 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf, ... (+4 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
@@ -46756,6 +46915,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "Lesley Groff",
                 "role": "staff"
               },
@@ -46772,6 +46935,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "We can change her to\nSU2463 09SEP CDG SVO 355P 830P\nSU1408 09SEP SVO SVX 1150P 410A",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221384.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221276.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please void yesterday's ticket for Milena and repurchase the same flight for Saturday now!! Jeffrey wants her to stay until Saturday the ninth!!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221276.pdf",
                 "confidence": 0.7
               }
             ]
@@ -46816,6 +46986,11 @@
           {
             "doc_id": "EFTA02221384",
             "file": "EFTA02221384.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221276",
+            "file": "EFTA02221276.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -47725,7 +47900,7 @@
         "display_name": "London, England",
         "location_descriptor": "The capital and largest city of England and the United Kingdom, a global financial and cultural center located along the River Thames in southeastern England.",
         "event_count": 5,
-        "evidence_count": 11,
+        "evidence_count": 12,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -47777,8 +47952,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 10,
-        "sources_preview": "EFTA00008998.pdf, EFTA00017716.pdf, EFTA00017726.pdf, EFTA00018407.pdf, EFTA00016373.pdf, ... (+5 more)",
+        "source_count": 11,
+        "sources_preview": "EFTA00008998.pdf, EFTA00017716.pdf, EFTA00017726.pdf, EFTA00018407.pdf, EFTA00016373.pdf, ... (+6 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The capital and largest city of England and the United Kingdom, a global financial and cultural center located along the River Thames in southeastern England.",
@@ -47849,6 +48024,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "MAXWELL groomed and befriended Minor Victim-3 in London, England between approximately 1994 and 1995, including during a period of time in which MAXWELL knew that Minor Victim-3 was under the age of 18... MAXWELL introduced Minor Victim-3 to Epstein and arranged for multiple interactions between Minor Victim-3 and Epstein... Epstein sexually abused Minor Victim-3.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077180.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077157.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "d. MAXWELL's personal residence in London, England.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077157.pdf",
                 "confidence": 0.7
               }
             ]
@@ -48041,6 +48223,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00077157",
+            "file": "EFTA00077157.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00017769",
             "file": "EFTA00017769.pdf",
             "source_type": "doj_efta"
@@ -48084,7 +48271,7 @@
         "display_name": "U.S. Attorney's Office, S.D. Fla. (Miami)",
         "location_descriptor": "The main headquarters of the U.S. Attorney's Office for the Southern District of Florida, located in downtown Miami and responsible for federal prosecutions across South Florida.",
         "event_count": 5,
-        "evidence_count": 8,
+        "evidence_count": 9,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -48108,8 +48295,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA00013801.pdf, EFTA00040473.pdf, EFTA00075957.pdf, EFTA02213790.pdf, EFTA02219722.pdf, ... (+3 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA00013801.pdf, EFTA00040473.pdf, EFTA00075957.pdf, EFTA02213790.pdf, EFTA02219722.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The main headquarters of the U.S. Attorney's Office for the Southern District of Florida, located in downtown Miami and responsible for federal prosecutions across South Florida.",
@@ -48270,6 +48457,13 @@
                 "excerpt": "The same year, she left for Miami with the couple, 6 months later, she was invited to New York by Ghislaine MAXWELL, near the 5th avenue. It was during these 5 days that Jeffrey EPSTEIN was touching the girl, who tried in vain to resist him. She remembered in particular that he had penetrated her with a vibrator.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077200.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077207.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "La meme annee, elle partait a Miami avec le couple. 6 mois plus tard, elle etait invitee a New-York par Ghislaine MAXWELL, vers la 5eme avenue. C'est durant ces 5 jours que Jeffrey EPSTEIN se livrait a des attouchements sur la jeune fille, qui tentait vainement de lui resister.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077207.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -48313,6 +48507,11 @@
           {
             "doc_id": "EFTA00077200",
             "file": "EFTA00077200.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077207",
+            "file": "EFTA00077207.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -57707,7 +57906,7 @@
         "display_name": "Maxwell's Bradford, NH Property",
         "location_descriptor": "A 156-acre rural property in Bradford, New Hampshire, a small town in Merrimack County, purchased anonymously through an LLC in December 2019.",
         "event_count": 2,
-        "evidence_count": 4,
+        "evidence_count": 5,
         "primary_event_type": "transaction",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -57723,8 +57922,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA00018505.pdf, EFTA00071826.pdf, EFTA00072390.pdf, EFTA00075325.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA00018505.pdf, EFTA00071826.pdf, EFTA00072390.pdf, EFTA00075325.pdf, EFTA00077111.pdf",
         "epstein_nexus": "contextual",
         "event_type": "transaction",
         "event_description": "A 156-acre rural property in Bradford, New Hampshire, a small town in Merrimack County, purchased anonymously through an LLC in December 2019.",
@@ -57798,6 +57997,13 @@
                 "excerpt": "On July 2, 2020, the defendant was arrested in Bradford, New Hampshire on the charges contained in the above-captioned Indictment and presented before a United States Magistrate Judge in the District of New Hampshire.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075325.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077111.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Maxwell was arrested on July 2 at a residence in New Hampshire and has been detained since. She was transported by the USMS to New York and is currently at the MDC.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077111.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -57821,6 +58027,11 @@
           {
             "doc_id": "EFTA00075325",
             "file": "EFTA00075325.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077111",
+            "file": "EFTA00077111.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -64574,7 +64785,7 @@
         "display_name": "New Hampshire",
         "location_descriptor": "A state in the New England region of the northeastern United States, bordered by Maine, Vermont, Massachusetts, and Quebec, with Concord as its capital.",
         "event_count": 1,
-        "evidence_count": 4,
+        "evidence_count": 5,
         "primary_event_type": "legal",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -64590,8 +64801,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA00017729.pdf, EFTA00017732.pdf, EFTA00017734.pdf, EFTA00016166.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA00017729.pdf, EFTA00017732.pdf, EFTA00017734.pdf, EFTA00016166.pdf, EFTA00077219.pdf",
         "epstein_nexus": "direct",
         "event_type": "legal",
         "event_description": "A state in the New England region of the northeastern United States, bordered by Maine, Vermont, Massachusetts, and Quebec, with Concord as its capital.",
@@ -64645,6 +64856,13 @@
                 "excerpt": "Ghislane Maxwell was arrested this morning and charged with enticing a minor to travel to engage in criminal sexual activity, transporting a minor with the intent to engage in criminal sexual activity... Maxwell is expected to be presented this afternoon in federal court in New Hampshire.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016166.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077219.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Before the feds busted Ghislaine Maxwell, they tracked her to a New Hampshire hideaway using her cellphone data, according to a newly unsealed court filing.... The revelation comes in an affidavit in support of an application for a search warrant, filed by an FBI agent on July 1, 2020\u2014one day before Maxwell's arrest at a nearly $1-million secluded mansion in Bradford.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077219.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -64668,6 +64886,11 @@
           {
             "doc_id": "EFTA00016166",
             "file": "EFTA00016166.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077219",
+            "file": "EFTA00077219.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -72624,7 +72847,7 @@
         "display_name": "Saint-Tropez",
         "location_descriptor": "Saint-Tropez is a glamorous seaside resort town on the French Riviera in the Var department of southeastern France, renowned for its Mediterranean beaches, luxury yachts, and vibrant nightlife.",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 2,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -72640,8 +72863,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA00077200.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA00077200.pdf, EFTA00077207.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "Saint-Tropez is a glamorous seaside resort town on the French Riviera in the Var department of southeastern France, renowned for its Mediterranean beaches, luxury yachts, and vibrant nightlife.",
@@ -72674,6 +72897,13 @@
                 "excerpt": "born on EIMIS of= nationality, stated that she had met Jeffrey EPSTEIN and his partner Ghislaine MAXWELL at the age of 16, in the south of France near Saint Tropez. They had made friends and she went to their Parisian apartment on Avenue Foch in 2000.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077200.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077207.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "declarait avoir rencontre Jeffrey EPSTEIN et sa compagne Ghislaine MAXWELL a l'age de ans, dans le sud de la France vers Saint Tropez. Ils avaient sympathise et elle s'etait rendue dans leur appartement parisien de l'avenue Foch en 2000.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077207.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -72682,6 +72912,11 @@
           {
             "doc_id": "EFTA00077200",
             "file": "EFTA00077200.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077207",
+            "file": "EFTA00077207.pdf",
             "source_type": "doj_efta"
           }
         ]
