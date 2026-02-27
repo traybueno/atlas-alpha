@@ -22,7 +22,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 129,
-        "evidence_count": 405,
+        "evidence_count": 406,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -694,8 +694,8 @@
             "role": "other"
           }
         ],
-        "source_count": 374,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+369 more)",
+        "source_count": 375,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+370 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -7194,6 +7194,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Masha Drokova",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -7204,6 +7208,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey has an 8:30am out of the house and I want to make sure he is back in time. Jeffreys home address is 9 East 71st street between 5th and Madison.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223064.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223048.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thursday is great, but May we do 10:30am just in case?. Jeffrey has an 8:30am out of the house and I want to make sure he is back in time. Jeffreys home address is 9 East 71st street between 5th and Madison.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223048.pdf",
                 "confidence": 0.7
               }
             ]
@@ -9100,6 +9111,11 @@
           {
             "doc_id": "EFTA02223064",
             "file": "EFTA02223064.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223048",
+            "file": "EFTA02223048.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -41810,7 +41826,7 @@
         "display_name": "Palm Beach",
         "location_descriptor": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
         "event_count": 29,
-        "evidence_count": 56,
+        "evidence_count": 57,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -41938,8 +41954,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 55,
-        "sources_preview": "EFTA02212960.pdf, EFTA02213188.pdf, EFTA02213238.pdf, EFTA00039383.pdf, EFTA02212890.pdf, ... (+50 more)",
+        "source_count": 56,
+        "sources_preview": "EFTA02212960.pdf, EFTA02213188.pdf, EFTA02213238.pdf, EFTA00039383.pdf, EFTA02212890.pdf, ... (+51 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
@@ -42978,6 +42994,13 @@
                 "excerpt": "Tues. Sept. 19.2017 NY-PB? TBD Depart NY TBD Arrive PB TBD Dinner w/Tom Pritzker??",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221642.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223050.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "FYI-Jeffrey is leaving tomorrow for PB at 7:30am\u2014so no worries on coming to the house! ;)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223050.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -43304,6 +43327,11 @@
           {
             "doc_id": "EFTA02221642",
             "file": "EFTA02221642.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223050",
+            "file": "EFTA02223050.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -51197,12 +51225,12 @@
         "property_type": "event",
         "display_name": "Great St. James Island",
         "location_descriptor": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
-        "event_count": 9,
-        "evidence_count": 13,
+        "event_count": 10,
+        "evidence_count": 14,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2016-01",
+        "date_start": "2007-08",
         "date_end": "2019-03-15",
         "people": [
           {
@@ -51238,8 +51266,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 13,
-        "sources_preview": "EFTA02214290.pdf, EFTA02214417.pdf, EFTA02220244.pdf, EFTA00014362.pdf, EFTA00014367.pdf, ... (+8 more)",
+        "source_count": 14,
+        "sources_preview": "EFTA02214290.pdf, EFTA02214417.pdf, EFTA02220244.pdf, EFTA00014362.pdf, EFTA00014367.pdf, ... (+9 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
@@ -51536,6 +51564,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "de8ed8440e751001",
+            "event_title": "Epstein Diverts Plane to USVI to Block FBI from Serving Subpoenas on Employees",
+            "event_type": "communication",
+            "description": "Epstein, aboard his private aircraft over the Southern District of Florida in August 2007, redirected the plane to the U.S. Virgin Islands to prevent FBI agents from serving target letters on his employees.",
+            "date_start": "2007-08",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was personally aboard the aircraft and personally directed it to be diverted to the USVI to obstruct FBI service of process.",
+            "evidence": [
+              {
+                "file": "EFTA00081315.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein was then aboard a civilian aircraft in the Southern District of Florida...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081315.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -51602,6 +51657,11 @@
           {
             "doc_id": "EFTA02220251",
             "file": "EFTA02220251.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00081315",
+            "file": "EFTA00081315.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -80014,7 +80074,7 @@
         "display_name": "YouTube Space NY",
         "location_descriptor": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
         "event_count": 1,
-        "evidence_count": 2,
+        "evidence_count": 3,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -80034,8 +80094,8 @@
             "role": "other"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
@@ -80079,6 +80139,13 @@
                 "excerpt": "JEffrcy plus 5 guests! I will get you their names prior to scpt 22!\n...When: Wednesday, September 27th\nTime: 5-7:00 pm\nWhere: YouTube Space NY, 75 9th Avenue, NYC\nCheck in on the guest list and come up to level Level 6.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222022.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223084.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be attending Deepak Chopra event at the YouTube Space NY, 75 9th Avenue, Level 6.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223084.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -80092,6 +80159,11 @@
           {
             "doc_id": "EFTA02222022",
             "file": "EFTA02222022.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223084",
+            "file": "EFTA02223084.pdf",
             "source_type": "doj_efta"
           }
         ]
