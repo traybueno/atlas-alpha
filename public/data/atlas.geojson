@@ -22,7 +22,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 129,
-        "evidence_count": 406,
+        "evidence_count": 408,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -686,6 +686,10 @@
             "role": "associate"
           },
           {
+            "name": "Alex Klokus",
+            "role": "other"
+          },
+          {
             "name": "Peter Roth",
             "role": "associate"
           },
@@ -694,8 +698,8 @@
             "role": "other"
           }
         ],
-        "source_count": 375,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+370 more)",
+        "source_count": 377,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+372 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -7086,6 +7090,10 @@
               {
                 "name": "Masha Drokova",
                 "role": "other"
+              },
+              {
+                "name": "Alex Klokus",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -7096,6 +7104,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "There's Jeffrey in person interview with Futurism editor that he confirmed. Would he be able to do that on 18th or on the first part of day on 19th? I'd also join the interview",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222678.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223109.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Interview w/Futurism Editor,Alex Klokus. Masha to join the interview",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223109.pdf",
                 "confidence": 0.7
               }
             ]
@@ -7142,6 +7157,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Kathy will come see you around 3:30pm on Sunday...she will be on the 2pm shuttle from DC...\nSun. Sept 17. 2017 NY\nReminder: Charlie illbrighi in Boston\n1:00pm Appt w/Peter Roth\n2:00pm Appt w/Patd Barrett (\n3:30pm Appt w/Kathy Ruemmler",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222846.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223110.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "3:30pm Appt w/Kathy Ruemmler",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223110.pdf",
                 "confidence": 0.7
               }
             ]
@@ -9094,6 +9116,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223109",
+            "file": "EFTA02223109.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02222456",
             "file": "EFTA02222456.pdf",
             "source_type": "doj_efta"
@@ -9101,6 +9128,11 @@
           {
             "doc_id": "EFTA02222846",
             "file": "EFTA02222846.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223110",
+            "file": "EFTA02223110.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -38437,7 +38469,7 @@
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 36,
-        "evidence_count": 64,
+        "evidence_count": 65,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -38565,8 +38597,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 50,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+45 more)",
+        "source_count": 51,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+46 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -39882,6 +39914,13 @@
                 "excerpt": "He is leaving for PB on Tuesday and then the island to check damage over weekend.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223053.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223088.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is leaving tomorrow for PB at 7:30am...so no worries on coming to the house!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223088.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -40135,6 +40174,11 @@
           {
             "doc_id": "EFTA02223053",
             "file": "EFTA02223053.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223088",
+            "file": "EFTA02223088.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -43367,8 +43411,8 @@
         "property_type": "event",
         "display_name": "Metropolitan Detention Center Brooklyn",
         "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
-        "event_count": 25,
-        "evidence_count": 57,
+        "event_count": 26,
+        "evidence_count": 58,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -43416,8 +43460,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 52,
-        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+47 more)",
+        "source_count": 53,
+        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00009831.pdf, EFTA00010199.pdf, EFTA00010211.pdf, ... (+48 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
@@ -44350,6 +44394,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "48c20a3e51d7e61d",
+            "event_title": "Prosecutors Deliver Maxwell Discovery Materials to MDC Brooklyn",
+            "event_type": "presence",
+            "description": "Prosecutors plan to hand-deliver discovery drive and CD with laptop to MDC where Maxwell is detained, as part of final Rule 16 discovery production.",
+            "date_start": "2020-11-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell is detained at MDC as part of Epstein-related prosecution; Epstein himself is not present.",
+            "evidence": [
+              {
+                "file": "EFTA00081870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "My plan is to leave one drive and CD for defense counsel to pick up at 1SA, and to hand deliver the second drive and CD together with the laptop to the MDC tomorrow morning.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081870.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -44611,6 +44682,11 @@
           {
             "doc_id": "EFTA00079701",
             "file": "EFTA00079701.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00081870",
+            "file": "EFTA00081870.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -50637,6 +50713,500 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.898101,
+          18.344444
+        ]
+      },
+      "properties": {
+        "id": "0bab320bf0197575",
+        "name": "Great St. James Island",
+        "location_name": "Great St. James Island",
+        "location_address": "US Virgin Islands",
+        "location_description": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
+        "canonical_name": "Great St. James Island, U.S. Virgin Islands, US Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Great St. James Island",
+        "location_descriptor": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
+        "event_count": 11,
+        "evidence_count": 15,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2007-08",
+        "date_end": "2019-03-15",
+        "people": [
+          {
+            "name": "Kevin Ouvre",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jermaine Ruan",
+            "role": "associate"
+          },
+          {
+            "name": "Stephen Hawking",
+            "role": "associate"
+          },
+          {
+            "name": "the scientists",
+            "role": "associate"
+          },
+          {
+            "name": "Daphne",
+            "role": "staff"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Cecile de Jongh",
+            "role": "associate"
+          }
+        ],
+        "source_count": 15,
+        "sources_preview": "EFTA02214290.pdf, EFTA02214417.pdf, EFTA02220244.pdf, EFTA00014362.pdf, EFTA00014367.pdf, ... (+10 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
+        "events": [
+          {
+            "event_id": "bb5a7ce33f476041",
+            "event_title": "Kevin Ouvre Authorized to Visit Great St. James Island",
+            "event_type": "presence",
+            "description": "Epstein authorized architect Kevin Ouvre to come to Great St. James Island alone to walk the grounds with staff and clear paths in May 2017.",
+            "date_start": "2017-05-24",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kevin Ouvre",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jermaine Ruan",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally directed Kevin Ouvre's visit to his property at Great St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA02214290.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "alone is fine, I suggest he walk GSJ with the guys and cut some paths.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214290.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02214417.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Kevin Jeffrey said a trip alone would be great! He suggest you walk GSJ with the guys and cut some paths...I will look into flights for you-is Thursday or Friday better?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214417.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220244.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "As Jeffrey suggested, he would like you to walk GSJ with the guys and cut some paths...\nHello Kevin...here is your ticket...I have you on the earliest flight we can get on Friday to STT and the latest flight we can get on Sat. back to St. Barth's",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220244.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8c4ad49ee0b242d3",
+            "event_title": "Epstein LLC Purchases Great St. James Island for $17.5M",
+            "event_type": "transaction",
+            "description": "Epstein's shell company Great St. Jim. LLC purchased parcels on Great St. James Island, USVI for $17,500,000 in January 2016.",
+            "date_start": "2016-01",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Great St. James property acquisition by Epstein LLC \u2014 real estate deed filing, not physical presence",
+            "evidence": [
+              {
+                "file": "EFTA00014362.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "THIS INDENTURE made the [day] of January, 2016 between Christian Kjaer...and Great St. Jim. LLC, a Virgin Islands Limited Liability Company...for and in consideration of the sum of SEVENTEEN MILLION FIVE HUNDRED THOUSAND and 00/100 DOLLARS",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014362.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00014367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "THIS INDENTURE made the [day] of January 2016 between GSJ Properties Corp...and Great St. Jim. LLC...for and in consideration of the sum of FIVE MILLION and 00/100 DOLLARS ($5,000,000.00)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014367.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a02762fcc4a68486",
+            "event_title": "Air Traffic Controllers See Epstein Arriving with Young Girls",
+            "event_type": "presence",
+            "description": "Air traffic controllers observed Jeffrey Epstein leaving his private aircraft in the Virgin Islands accompanied by girls who appeared to be as young as 11 years old",
+            "date_start": "2018",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was directly observed physically present, disembarking from his aircraft with potential victims.",
+            "evidence": [
+              {
+                "file": "EFTA00016836.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The suit also said air traffic controllers in the Virgin Islands observed Mr. Epstein leaving his private plane in 2018 with girls who looked as young as 11.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016836.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e849fe40bd8da078",
+            "event_title": "Epstein Signs USVI Sex Offender Travel Notification Form",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein physically present in U.S. Virgin Islands to sign sex offender registry International Megan's Law travel notification form on March 15, 2019.",
+            "date_start": "2019-03-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein signed USVI sex offender travel notification form \u2014 administrative paperwork at registration office",
+            "evidence": [
+              {
+                "file": "EFTA00018159.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On March 15, 2019 Mr. Epstein signed the Virgin Islands sex offender registry Notification of Duty to Report Travel (IML) form.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018159.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d92f89bb885dcecd",
+            "event_title": "Scientists Including Hawking Board Epstein's Submarine in Virgin Islands",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein and scientists including Stephen Hawking boarded a chartered submarine during conferences sponsored by Epstein in the U.S. Virgin Islands",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Stephen Hawking",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "the scientists",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present with the scientists on the chartered submarine.",
+            "evidence": [
+              {
+                "file": "EFTA00018441.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Others flew to conferences sponsored by Mr. Epstein in the United States Virgin Islands and were feted on his private island there. Once, the scientists \u2014 including Mr. Hawking \u2014 crowded on board a submarine that Mr. Epstein had chartered.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00018466.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Once, the scientists \u2014 including Mr. Hawking \u2014 crowded on board a submarine that Mr. Epstein had chartered.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ba4cea2d1cb175b6",
+            "event_title": "Kevin Ouvre Visits Great St. James to Cut Paths",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein directed Kevin Ouvre of KO Concept to travel to Great St. James Island (USVI) on May 26-27, 2017, to walk paths and cut them with others; Daphne coordinated transportation from the airport.",
+            "date_start": "2017-05-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kevin Ouvre",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Daphne",
+                "role": "staff"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein personally directed this visit to his Great St. James Island property, indicating his active involvement in developing the island.",
+            "evidence": [
+              {
+                "file": "EFTA02213455.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "As Jeffrey suggested, he would like you to walk GSJ with the guys and cut some paths...Daphne will make sure you are picked up from the airport and shuttled to/from islands and hotel",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213455.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "78f4248dc8b040a0",
+            "event_title": "Kevin Ouvre Works on Infrastructure at Great St. James Island",
+            "event_type": "presence",
+            "description": "Kevin Ouvre was invited by Jeffrey Epstein to come to Great St. James Island on June 21, 2017 to work on infrastructure including paths and roads. Travel arrangements were coordinated through Epstein's staff, who organized tickets for Ouvre's trip.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein owned Great St. James Island and personally directed Ouvre's infrastructure work there through his assistant.",
+            "evidence": [
+              {
+                "file": "EFTA02214088.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey would like you to come on June 21. How long should you stay and I'll organize a ticket...I shall be available to come if needed on the 21 for...paths and roads on GSJ.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214088.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "211de0f8dd5b452d",
+            "event_title": "Kevin Ouvre Works on Infrastructure at Great St. James Island",
+            "event_type": "presence",
+            "description": "Kevin Ouvre was directed by Jeffrey Epstein to come to Great St. James Island on June 21, 2017 to work on paths and roads. Email communications between Ouvre and Epstein's staff confirm Epstein personally requested the infrastructure work on the island.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein owned Great St. James Island and personally directed Ouvre to perform infrastructure work there.",
+            "evidence": [
+              {
+                "file": "EFTA02216973.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "From: Jeffrey E.\nyes come on 21\n\nOn Wed, Jun 14, 2017 at 7:22 AM wrote:\nI just want to let you know my schedule as Jeffrey wanted me to start on some path and roads on GSJ. I shall be available to come if needed on the 21 for few days whether it's necessary.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216973.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "03cc410051582d52",
+            "event_title": "Cecile de Jongh Coordinates VIEDC Conference for Epstein Associates",
+            "event_type": "presence",
+            "description": "Cecile de Jongh (wife of USVI Governor John de Jongh) coordinated attendance at the VIEDC (Virgin Islands Economic Development Council) conference on August 29, 2017 for Epstein associates Daphne and Una through Southern Trust Company.",
+            "date_start": "2017-08-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Cecile de Jongh",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Cecile de Jongh (wife of USVI Governor) corresponded with Epstein associates about VIEDC conference registration for Daphne and Una, showing Epstein's political connections in USVI.",
+            "evidence": [
+              {
+                "file": "EFTA02220251.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Cecile de Jongh... As discussed a few weeks ago, Daphne and Una will be attending the all-day VIEDC conference on Tuesday, August 29th... Southern Trust Company, Inc. - Registration Form for VIEDC Conference",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220251.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "de8ed8440e751001",
+            "event_title": "Epstein Diverts Plane to USVI to Block FBI from Serving Subpoenas on Employees",
+            "event_type": "communication",
+            "description": "Epstein, aboard his private aircraft over the Southern District of Florida in August 2007, redirected the plane to the U.S. Virgin Islands to prevent FBI agents from serving target letters on his employees.",
+            "date_start": "2007-08",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was personally aboard the aircraft and personally directed it to be diverted to the USVI to obstruct FBI service of process.",
+            "evidence": [
+              {
+                "file": "EFTA00081315.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein was then aboard a civilian aircraft in the Southern District of Florida...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081315.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e2794359bb5f0729",
+            "event_title": "Epstein Flies Employees to USVI Instead of New Jersey to Delay FBI Subpoenas",
+            "event_type": "travel",
+            "description": "Epstein changed travel plans in August 2007 and flew with employees to the U.S. Virgin Islands rather than to New Jersey to delay FBI agents from serving them with subpoenas.",
+            "date_start": "2007-08",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically aboard the plane and directed its diversion to the USVI to obstruct FBI process.",
+            "evidence": [
+              {
+                "file": "EFTA00081248.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein, in particular, changed travel plans and flew...to the United States Virgin Islands rather than to an airport in New Jersey...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081248.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02214290",
+            "file": "EFTA02214290.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214417",
+            "file": "EFTA02214417.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220244",
+            "file": "EFTA02220244.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014362",
+            "file": "EFTA00014362.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014367",
+            "file": "EFTA00014367.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00016836",
+            "file": "EFTA00016836.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00018159",
+            "file": "EFTA00018159.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00018441",
+            "file": "EFTA00018441.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00018466",
+            "file": "EFTA00018466.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213455",
+            "file": "EFTA02213455.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214088",
+            "file": "EFTA02214088.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216973",
+            "file": "EFTA02216973.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220251",
+            "file": "EFTA02220251.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00081315",
+            "file": "EFTA00081315.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00081248",
+            "file": "EFTA00081248.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.213952,
           40.729142
         ]
@@ -51200,468 +51770,6 @@
           {
             "doc_id": "EFTA02221121",
             "file": "EFTA02221121.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.898101,
-          18.344444
-        ]
-      },
-      "properties": {
-        "id": "0bab320bf0197575",
-        "name": "Great St. James Island",
-        "location_name": "Great St. James Island",
-        "location_address": "US Virgin Islands",
-        "location_description": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
-        "canonical_name": "Great St. James Island, U.S. Virgin Islands, US Virgin Islands",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Great St. James Island",
-        "location_descriptor": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
-        "event_count": 10,
-        "evidence_count": 14,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2007-08",
-        "date_end": "2019-03-15",
-        "people": [
-          {
-            "name": "Kevin Ouvre",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Jermaine Ruan",
-            "role": "associate"
-          },
-          {
-            "name": "Stephen Hawking",
-            "role": "associate"
-          },
-          {
-            "name": "the scientists",
-            "role": "associate"
-          },
-          {
-            "name": "Daphne",
-            "role": "staff"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Cecile de Jongh",
-            "role": "associate"
-          }
-        ],
-        "source_count": 14,
-        "sources_preview": "EFTA02214290.pdf, EFTA02214417.pdf, EFTA02220244.pdf, EFTA00014362.pdf, EFTA00014367.pdf, ... (+9 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A small private island in the U.S. Virgin Islands located east of St. Thomas, adjacent to Epstein's Little St. James Island.",
-        "events": [
-          {
-            "event_id": "bb5a7ce33f476041",
-            "event_title": "Kevin Ouvre Authorized to Visit Great St. James Island",
-            "event_type": "presence",
-            "description": "Epstein authorized architect Kevin Ouvre to come to Great St. James Island alone to walk the grounds with staff and clear paths in May 2017.",
-            "date_start": "2017-05-24",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kevin Ouvre",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jermaine Ruan",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally directed Kevin Ouvre's visit to his property at Great St. James Island.",
-            "evidence": [
-              {
-                "file": "EFTA02214290.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "alone is fine, I suggest he walk GSJ with the guys and cut some paths.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214290.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02214417.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Kevin Jeffrey said a trip alone would be great! He suggest you walk GSJ with the guys and cut some paths...I will look into flights for you-is Thursday or Friday better?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214417.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220244.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "As Jeffrey suggested, he would like you to walk GSJ with the guys and cut some paths...\nHello Kevin...here is your ticket...I have you on the earliest flight we can get on Friday to STT and the latest flight we can get on Sat. back to St. Barth's",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220244.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8c4ad49ee0b242d3",
-            "event_title": "Epstein LLC Purchases Great St. James Island for $17.5M",
-            "event_type": "transaction",
-            "description": "Epstein's shell company Great St. Jim. LLC purchased parcels on Great St. James Island, USVI for $17,500,000 in January 2016.",
-            "date_start": "2016-01",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Great St. James property acquisition by Epstein LLC \u2014 real estate deed filing, not physical presence",
-            "evidence": [
-              {
-                "file": "EFTA00014362.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "THIS INDENTURE made the [day] of January, 2016 between Christian Kjaer...and Great St. Jim. LLC, a Virgin Islands Limited Liability Company...for and in consideration of the sum of SEVENTEEN MILLION FIVE HUNDRED THOUSAND and 00/100 DOLLARS",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014362.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00014367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "THIS INDENTURE made the [day] of January 2016 between GSJ Properties Corp...and Great St. Jim. LLC...for and in consideration of the sum of FIVE MILLION and 00/100 DOLLARS ($5,000,000.00)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014367.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "a02762fcc4a68486",
-            "event_title": "Air Traffic Controllers See Epstein Arriving with Young Girls",
-            "event_type": "presence",
-            "description": "Air traffic controllers observed Jeffrey Epstein leaving his private aircraft in the Virgin Islands accompanied by girls who appeared to be as young as 11 years old",
-            "date_start": "2018",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was directly observed physically present, disembarking from his aircraft with potential victims.",
-            "evidence": [
-              {
-                "file": "EFTA00016836.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The suit also said air traffic controllers in the Virgin Islands observed Mr. Epstein leaving his private plane in 2018 with girls who looked as young as 11.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00016836.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e849fe40bd8da078",
-            "event_title": "Epstein Signs USVI Sex Offender Travel Notification Form",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein physically present in U.S. Virgin Islands to sign sex offender registry International Megan's Law travel notification form on March 15, 2019.",
-            "date_start": "2019-03-15",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein signed USVI sex offender travel notification form \u2014 administrative paperwork at registration office",
-            "evidence": [
-              {
-                "file": "EFTA00018159.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On March 15, 2019 Mr. Epstein signed the Virgin Islands sex offender registry Notification of Duty to Report Travel (IML) form.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018159.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d92f89bb885dcecd",
-            "event_title": "Scientists Including Hawking Board Epstein's Submarine in Virgin Islands",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein and scientists including Stephen Hawking boarded a chartered submarine during conferences sponsored by Epstein in the U.S. Virgin Islands",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Stephen Hawking",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "the scientists",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present with the scientists on the chartered submarine.",
-            "evidence": [
-              {
-                "file": "EFTA00018441.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Others flew to conferences sponsored by Mr. Epstein in the United States Virgin Islands and were feted on his private island there. Once, the scientists \u2014 including Mr. Hawking \u2014 crowded on board a submarine that Mr. Epstein had chartered.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00018466.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Once, the scientists \u2014 including Mr. Hawking \u2014 crowded on board a submarine that Mr. Epstein had chartered.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ba4cea2d1cb175b6",
-            "event_title": "Kevin Ouvre Visits Great St. James to Cut Paths",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein directed Kevin Ouvre of KO Concept to travel to Great St. James Island (USVI) on May 26-27, 2017, to walk paths and cut them with others; Daphne coordinated transportation from the airport.",
-            "date_start": "2017-05-26",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kevin Ouvre",
-                "role": "other"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Daphne",
-                "role": "staff"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein personally directed this visit to his Great St. James Island property, indicating his active involvement in developing the island.",
-            "evidence": [
-              {
-                "file": "EFTA02213455.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "As Jeffrey suggested, he would like you to walk GSJ with the guys and cut some paths...Daphne will make sure you are picked up from the airport and shuttled to/from islands and hotel",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213455.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "78f4248dc8b040a0",
-            "event_title": "Kevin Ouvre Works on Infrastructure at Great St. James Island",
-            "event_type": "presence",
-            "description": "Kevin Ouvre was invited by Jeffrey Epstein to come to Great St. James Island on June 21, 2017 to work on infrastructure including paths and roads. Travel arrangements were coordinated through Epstein's staff, who organized tickets for Ouvre's trip.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein owned Great St. James Island and personally directed Ouvre's infrastructure work there through his assistant.",
-            "evidence": [
-              {
-                "file": "EFTA02214088.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey would like you to come on June 21. How long should you stay and I'll organize a ticket...I shall be available to come if needed on the 21 for...paths and roads on GSJ.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214088.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "211de0f8dd5b452d",
-            "event_title": "Kevin Ouvre Works on Infrastructure at Great St. James Island",
-            "event_type": "presence",
-            "description": "Kevin Ouvre was directed by Jeffrey Epstein to come to Great St. James Island on June 21, 2017 to work on paths and roads. Email communications between Ouvre and Epstein's staff confirm Epstein personally requested the infrastructure work on the island.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein owned Great St. James Island and personally directed Ouvre to perform infrastructure work there.",
-            "evidence": [
-              {
-                "file": "EFTA02216973.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "From: Jeffrey E.\nyes come on 21\n\nOn Wed, Jun 14, 2017 at 7:22 AM wrote:\nI just want to let you know my schedule as Jeffrey wanted me to start on some path and roads on GSJ. I shall be available to come if needed on the 21 for few days whether it's necessary.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216973.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "03cc410051582d52",
-            "event_title": "Cecile de Jongh Coordinates VIEDC Conference for Epstein Associates",
-            "event_type": "presence",
-            "description": "Cecile de Jongh (wife of USVI Governor John de Jongh) coordinated attendance at the VIEDC (Virgin Islands Economic Development Council) conference on August 29, 2017 for Epstein associates Daphne and Una through Southern Trust Company.",
-            "date_start": "2017-08-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Cecile de Jongh",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Cecile de Jongh (wife of USVI Governor) corresponded with Epstein associates about VIEDC conference registration for Daphne and Una, showing Epstein's political connections in USVI.",
-            "evidence": [
-              {
-                "file": "EFTA02220251.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Cecile de Jongh... As discussed a few weeks ago, Daphne and Una will be attending the all-day VIEDC conference on Tuesday, August 29th... Southern Trust Company, Inc. - Registration Form for VIEDC Conference",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220251.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "de8ed8440e751001",
-            "event_title": "Epstein Diverts Plane to USVI to Block FBI from Serving Subpoenas on Employees",
-            "event_type": "communication",
-            "description": "Epstein, aboard his private aircraft over the Southern District of Florida in August 2007, redirected the plane to the U.S. Virgin Islands to prevent FBI agents from serving target letters on his employees.",
-            "date_start": "2007-08",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was personally aboard the aircraft and personally directed it to be diverted to the USVI to obstruct FBI service of process.",
-            "evidence": [
-              {
-                "file": "EFTA00081315.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mr. Epstein was then aboard a civilian aircraft in the Southern District of Florida...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081315.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02214290",
-            "file": "EFTA02214290.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214417",
-            "file": "EFTA02214417.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220244",
-            "file": "EFTA02220244.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00014362",
-            "file": "EFTA00014362.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00014367",
-            "file": "EFTA00014367.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00016836",
-            "file": "EFTA00016836.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00018159",
-            "file": "EFTA00018159.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00018441",
-            "file": "EFTA00018441.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00018466",
-            "file": "EFTA00018466.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213455",
-            "file": "EFTA02213455.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214088",
-            "file": "EFTA02214088.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216973",
-            "file": "EFTA02216973.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220251",
-            "file": "EFTA02220251.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00081315",
-            "file": "EFTA00081315.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -63449,6 +63557,342 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          25.384916,
+          54.92178
+        ]
+      },
+      "properties": {
+        "id": "11ffecd0b02003bf",
+        "name": "Vilnius Airport",
+        "location_name": "Vilnius Airport",
+        "location_address": "Vilniaus, Vilnius District, Lithuania",
+        "location_description": "The main international airport serving Vilnius, the capital of Lithuania, located about 7 km south of the city center.",
+        "canonical_name": "Vilnius International Airport, Vilnius, Lithuania, Vilniaus, Vilnius District",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Vilnius Airport",
+        "location_descriptor": "The main international airport serving Vilnius, the capital of Lithuania, located about 7 km south of the city center.",
+        "event_count": 3,
+        "evidence_count": 6,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-04-11",
+        "date_end": "2017-09-04",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Citizens of Lithuania",
+            "role": "associate"
+          }
+        ],
+        "source_count": 6,
+        "sources_preview": "EFTA02221122.pdf, EFTA02222701.pdf, EFTA02222708.pdf, EFTA02221534.pdf, EFTA02221753.pdf, ... (+1 more)",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "The main international airport serving Vilnius, the capital of Lithuania, located about 7 km south of the city center.",
+        "events": [
+          {
+            "event_id": "67d01f234b799263",
+            "event_title": "Epstein-Network Passenger Connects Copenhagen to Vilnius on SAS Flight SK074",
+            "event_type": "travel",
+            "description": "Departed: Copenhagen Airport (CPH). Arrived: Vilnius Airport (VNO). SAS flight SK074 departed Copenhagen CPH at 21:05 and arrived Vilnius VNO at 23:35 on September 4, 2017; itinerary forwarded by Epstein assistant Lesley Groff.",
+            "date_start": "2017-09-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel coordinated by Lesley Groff (Epstein staff) but no confirmed direct Epstein involvement in this specific itinerary.",
+            "evidence": [
+              {
+                "file": "EFTA02221122.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "04SEP17 Departure: Arrival:\nCopenhagen CPH Vilnius VNO\n2105 2335\nSK 074",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221122.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222701.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight: Mon 4 Sep 2017\n18:30 - 20:15\nSK1560\nParis, Charles De Gaulle (Terminal 1) - Copenhagen, Kastrup\n(Terminal 3)\nOperated by: Scandinavian Airlines\n\n21:05 - 23:35\nSK742\nCopenhagen, Kastrup (Terminal 3) - Vilnius, Vilnius International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222701.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222708.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight: Mon 4 Sep 2017\n18:30 - 20:15\nSK1560\nParis, Charles De Gaulle (Terminal 1) - Copenhagen, Kastrup\n(Terminal 3)\nOperated by: Scandinavian Airlines",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222708.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6ab9cc59a03d4c27",
+            "event_title": "Epstein Associate Travels Paris to Vilnius via Warsaw",
+            "event_type": "travel",
+            "description": "Departed: WAW (WAW). Arrived: Vilnius Airport (VNO). Unidentified Epstein associate travels from Paris CDG to Vilnius Lithuania via Warsaw on LOT Polish Airlines on September 4, 2017, booked by Lesley Groff at Epstein's direction.",
+            "date_start": "2017-09-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel to Vilnius arranged by Lesley Groff and directed by Jeffrey Epstein for an unnamed associate via Centurion Travel.",
+            "evidence": [
+              {
+                "file": "EFTA02221534.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "From Paris to Vilnius: LO 04SEP CDG WAW 1040A 1255P LO 1 04SEP WAW VNO 0140P 0345P OPERATED BY REGIONAL JET 1 ADT 181.60 TOTAL FARE - USD 363.20",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221534.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221753.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "BT 349 04SEP RIX VNO 1110P 1159P\n1ADT 186.60",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221753.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "21b437c73ab90f81",
+            "event_title": "Epstein Associate Returns New York to Vilnius via Helsinki on Finnair",
+            "event_type": "travel",
+            "description": "Epstein associate returned from JFK New York to Vilnius Lithuania via Helsinki on Finnair flights AY6 and AY131 on April 11-12, 2017.",
+            "date_start": "2017-04-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Citizens of Lithuania",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return travel for Epstein Lithuanian associate from New York to Vilnius, booked through his Amex Centurion account by Lesley Groff.",
+            "evidence": [
+              {
+                "file": "EFTA02223113.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AY 6 Q Economy Class / New York, John F Kennedy International / Vantaa, Helsinki-vantaa... AY 131 O Economy Class / Vantaa, Helsinki-vantaa / Vilnius, Vilnius",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223113.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221122",
+            "file": "EFTA02221122.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222701",
+            "file": "EFTA02222701.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222708",
+            "file": "EFTA02222708.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221534",
+            "file": "EFTA02221534.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221753",
+            "file": "EFTA02221753.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223113",
+            "file": "EFTA02223113.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8283,
+          40.7135
+        ]
+      },
+      "properties": {
+        "id": "b728fdeb7416ed1c",
+        "name": "John F. Kennedy International Airport",
+        "location_name": "John F. Kennedy International Airport",
+        "location_address": "Queens, New York, United States",
+        "location_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
+        "canonical_name": "John F. Kennedy International Airport, Queens, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "John F. Kennedy International Airport",
+        "location_descriptor": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
+        "event_count": 3,
+        "evidence_count": 3,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-03-30",
+        "date_end": "2017-10-17",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Ion",
+            "role": "associate"
+          },
+          {
+            "name": "Citizens of Lithuania",
+            "role": "associate"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02222329.pdf, EFTA02223102.pdf, EFTA02223113.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
+        "events": [
+          {
+            "event_id": "644936278618c353",
+            "event_title": "Return Flight from St. Thomas to JFK on Delta DL676, August 28, 2017",
+            "event_type": "travel",
+            "description": "Unnamed traveler returned from Cyril E. King Airport, St. Thomas to JFK on Delta DL676 on August 28, 2017, travel arranged through Epstein's assistant Lesley Groff.",
+            "date_start": "2017-08-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return flight from St. Thomas (near Little St. James) arranged by Lesley Groff (Epstein's PA), contextually connected to Epstein's network.",
+            "evidence": [
+              {
+                "file": "EFTA02222329.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Monday 28 Aug 17... Flight/Class DL 676 H Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 01:37 PM\nArriving 05:39 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222329.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "74c2133e389fc712",
+            "event_title": "Epstein Associate Ion Travels Bucharest to New York via Paris on Air France",
+            "event_type": "travel",
+            "description": "Epstein associate Ion traveled from Bucharest Henri Coanda Airport to JFK New York via Paris Charles de Gaulle on Air France flights AF1889 and AF8 on October 17, 2017, booked through Epstein Amex Centurion account.",
+            "date_start": "2017-10-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ion",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel for Epstein associate from Romania to New York booked through his Amex Centurion account, but Epstein not personally traveling.",
+            "evidence": [
+              {
+                "file": "EFTA02223102.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 1889 L Economy Class Bucharest, Henri Coanda / Paris, Charles De Gaulle... AF 8 V Economy Class Paris, Charles De Gaulle / New York, John F Kennedy International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223102.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8980fca71f8c143e",
+            "event_title": "Epstein Associate Flies Vilnius to New York via Helsinki on Finnair",
+            "event_type": "travel",
+            "description": "An Epstein associate with Lithuanian citizenship flew from Vilnius to JFK New York via Helsinki on Finnair flights AY132 and AY5 on March 30, 2017, travel arranged by Lesley Groff through Amex Centurion.",
+            "date_start": "2017-03-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Citizens of Lithuania",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Epstein staff (Lesley Groff) for a Lithuanian associate traveling to New York, booked through Epstein Amex account.",
+            "evidence": [
+              {
+                "file": "EFTA02223113.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AY 132 O Economy Class / Vilnius, Vilnius / Vantaa, Helsinki-vantaa... AY 5 Q Economy Class / Vantaa, Helsinki-vantaa / New York, John F Kennedy International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223113.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02222329",
+            "file": "EFTA02222329.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223102",
+            "file": "EFTA02223102.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223113",
+            "file": "EFTA02223113.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.017073,
           32.350751
         ]
@@ -70334,7 +70778,7 @@
         "display_name": "Lenox Hill Radiology",
         "location_descriptor": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
         "event_count": 2,
-        "evidence_count": 8,
+        "evidence_count": 9,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -70370,8 +70814,8 @@
             "role": "other"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA02220360.pdf, EFTA02222415.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf, ... (+3 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02220360.pdf, EFTA02222415.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
@@ -70493,6 +70937,13 @@
                 "excerpt": "1:00pm ARRIVE for 1:30-3:OOpm CT Scans & Ultrasound (Dr. Josephson)\nCT Scans of Sinus &Neck/Ultrasound of Thyroid\nLenox Hill Radiology\n61 E. 771\" Street (between Park and Madison)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222880.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223112.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "walk or drive to 1:30 appt at Lenox hill Imaging",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223112.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -70536,6 +70987,11 @@
           {
             "doc_id": "EFTA02222880",
             "file": "EFTA02222880.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223112",
+            "file": "EFTA02223112.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -71058,158 +71514,6 @@
           {
             "doc_id": "EFTA02220979",
             "file": "EFTA02220979.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.384916,
-          54.92178
-        ]
-      },
-      "properties": {
-        "id": "11ffecd0b02003bf",
-        "name": "Vilnius Airport",
-        "location_name": "Vilnius Airport",
-        "location_address": "Vilniaus, Vilnius District, Lithuania",
-        "location_description": "The main international airport serving Vilnius, the capital of Lithuania, located about 7 km south of the city center.",
-        "canonical_name": "Vilnius International Airport, Vilnius, Lithuania, Vilniaus, Vilnius District",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Vilnius Airport",
-        "location_descriptor": "The main international airport serving Vilnius, the capital of Lithuania, located about 7 km south of the city center.",
-        "event_count": 2,
-        "evidence_count": 5,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-09-04",
-        "date_end": "2017-09-04",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 5,
-        "sources_preview": "EFTA02221122.pdf, EFTA02222701.pdf, EFTA02222708.pdf, EFTA02221534.pdf, EFTA02221753.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "The main international airport serving Vilnius, the capital of Lithuania, located about 7 km south of the city center.",
-        "events": [
-          {
-            "event_id": "67d01f234b799263",
-            "event_title": "Epstein-Network Passenger Connects Copenhagen to Vilnius on SAS Flight SK074",
-            "event_type": "travel",
-            "description": "Departed: Copenhagen Airport (CPH). Arrived: Vilnius Airport (VNO). SAS flight SK074 departed Copenhagen CPH at 21:05 and arrived Vilnius VNO at 23:35 on September 4, 2017; itinerary forwarded by Epstein assistant Lesley Groff.",
-            "date_start": "2017-09-04",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel coordinated by Lesley Groff (Epstein staff) but no confirmed direct Epstein involvement in this specific itinerary.",
-            "evidence": [
-              {
-                "file": "EFTA02221122.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "04SEP17 Departure: Arrival:\nCopenhagen CPH Vilnius VNO\n2105 2335\nSK 074",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221122.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02222701.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight: Mon 4 Sep 2017\n18:30 - 20:15\nSK1560\nParis, Charles De Gaulle (Terminal 1) - Copenhagen, Kastrup\n(Terminal 3)\nOperated by: Scandinavian Airlines\n\n21:05 - 23:35\nSK742\nCopenhagen, Kastrup (Terminal 3) - Vilnius, Vilnius International",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222701.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02222708.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight: Mon 4 Sep 2017\n18:30 - 20:15\nSK1560\nParis, Charles De Gaulle (Terminal 1) - Copenhagen, Kastrup\n(Terminal 3)\nOperated by: Scandinavian Airlines",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222708.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "6ab9cc59a03d4c27",
-            "event_title": "Epstein Associate Travels Paris to Vilnius via Warsaw",
-            "event_type": "travel",
-            "description": "Departed: WAW (WAW). Arrived: Vilnius Airport (VNO). Unidentified Epstein associate travels from Paris CDG to Vilnius Lithuania via Warsaw on LOT Polish Airlines on September 4, 2017, booked by Lesley Groff at Epstein's direction.",
-            "date_start": "2017-09-04",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Travel to Vilnius arranged by Lesley Groff and directed by Jeffrey Epstein for an unnamed associate via Centurion Travel.",
-            "evidence": [
-              {
-                "file": "EFTA02221534.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "From Paris to Vilnius: LO 04SEP CDG WAW 1040A 1255P LO 1 04SEP WAW VNO 0140P 0345P OPERATED BY REGIONAL JET 1 ADT 181.60 TOTAL FARE - USD 363.20",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221534.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221753.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "BT 349 04SEP RIX VNO 1110P 1159P\n1ADT 186.60",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221753.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02221122",
-            "file": "EFTA02221122.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02222701",
-            "file": "EFTA02222701.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02222708",
-            "file": "EFTA02222708.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221534",
-            "file": "EFTA02221534.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221753",
-            "file": "EFTA02221753.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -80074,7 +80378,7 @@
         "display_name": "YouTube Space NY",
         "location_descriptor": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
         "event_count": 1,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -80094,8 +80398,8 @@
             "role": "other"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
@@ -80146,6 +80450,13 @@
                 "excerpt": "Jeffrey will be attending Deepak Chopra event at the YouTube Space NY, 75 9th Avenue, Level 6.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223084.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223079.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be attending Deepak Chopra's event on wed. Sept. 27th from 5-7pm at the YouTube Space NY",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223079.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -80164,6 +80475,11 @@
           {
             "doc_id": "EFTA02223084",
             "file": "EFTA02223084.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223079",
+            "file": "EFTA02223079.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -81735,82 +82051,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8283,
-          40.7135
-        ]
-      },
-      "properties": {
-        "id": "b728fdeb7416ed1c",
-        "name": "John F. Kennedy International Airport",
-        "location_name": "John F. Kennedy International Airport",
-        "location_address": "Queens, New York, United States",
-        "location_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
-        "canonical_name": "John F. Kennedy International Airport, Queens, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-08-28",
-        "date_end": "2017-08-28",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02222329.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "travel",
-        "event_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
-        "events": [
-          {
-            "event_id": "644936278618c353",
-            "event_title": "Return Flight from St. Thomas to JFK on Delta DL676, August 28, 2017",
-            "event_type": "travel",
-            "description": "Unnamed traveler returned from Cyril E. King Airport, St. Thomas to JFK on Delta DL676 on August 28, 2017, travel arranged through Epstein's assistant Lesley Groff.",
-            "date_start": "2017-08-28",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Return flight from St. Thomas (near Little St. James) arranged by Lesley Groff (Epstein's PA), contextually connected to Epstein's network.",
-            "evidence": [
-              {
-                "file": "EFTA02222329.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Monday 28 Aug 17... Flight/Class DL 676 H Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 01:37 PM\nArriving 05:39 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222329.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02222329",
-            "file": "EFTA02222329.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.025032,
           38.893576
         ]
@@ -82301,6 +82541,334 @@
           {
             "doc_id": "EFTA02222821",
             "file": "EFTA02222821.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10272,
+          44.436141
+        ]
+      },
+      "properties": {
+        "id": "8f57e117e1dba89f",
+        "name": "Henri Coand\u0103 International Airport",
+        "location_name": "Henri Coand\u0103 International Airport",
+        "location_address": "Bucharest, Romania",
+        "location_description": "The main international airport serving Bucharest, Romania, named after Romanian aviation pioneer Henri Coand\u0103, located approximately 16 km north of the city center.",
+        "canonical_name": "Henri Coanda International Airport, Bucharest, Romania",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Henri Coand\u0103 International Airport",
+        "location_descriptor": "The main international airport serving Bucharest, Romania, named after Romanian aviation pioneer Henri Coand\u0103, located approximately 16 km north of the city center.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-11-30",
+        "date_end": "2017-11-30",
+        "people": [
+          {
+            "name": "Ion",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02223102.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "The main international airport serving Bucharest, Romania, named after Romanian aviation pioneer Henri Coand\u0103, located approximately 16 km north of the city center.",
+        "events": [
+          {
+            "event_id": "7260228b556f197c",
+            "event_title": "Epstein Associate Ion Returns New York to Bucharest via Paris, November 30",
+            "event_type": "travel",
+            "description": "Epstein associate Ion returned from JFK New York to Bucharest Henri Coanda Airport via Paris CDG on Air France/Delta flights AF3577 and AF1888 on November 30-December 1, 2017.",
+            "date_start": "2017-11-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ion",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return travel for Epstein associate from New York back to Romania booked through his Amex Centurion account.",
+            "evidence": [
+              {
+                "file": "EFTA02223102.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 3577 V Economy Class New York, John F Kennedy International / Paris, Charles De Gaulle... AF 1888 L Economy Class Paris, Charles De Gaulle / Bucharest, Henri Coanda",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223102.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02223102",
+            "file": "EFTA02223102.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "6684a5b09deefbe8",
+        "name": "U.S. Attorney's Office, Southern District of New York",
+        "location_name": "U.S. Attorney's Office, Southern District of New York",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The federal prosecutorial office for the Southern District of New York, one of the most prominent U.S. Attorney offices in the country, headquartered at One St. Andrew's Plaza in Lower Manhattan.",
+        "canonical_name": "One St. Andrews Plaza, New York, NY 10007, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, Southern District of New York",
+        "location_descriptor": "The federal prosecutorial office for the Southern District of New York, one of the most prominent U.S. Attorney offices in the country, headquartered at One St. Andrew's Plaza in Lower Manhattan.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2020-11-18",
+        "date_end": "2020-11-18",
+        "people": [
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00081870.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The federal prosecutorial office for the Southern District of New York, one of the most prominent U.S. Attorney offices in the country, headquartered at One St. Andrew's Plaza in Lower Manhattan.",
+        "events": [
+          {
+            "event_id": "91a5aec998b99120",
+            "event_title": "Maxwell Defense Counsel Picks Up Discovery at SDNY Office",
+            "event_type": "presence",
+            "description": "Defense counsel for Ghislaine Maxwell to pick up discovery drive and CD at SDNY office, One St. Andrews Plaza, during Rule 16 production.",
+            "date_start": "2020-11-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is a legal logistics event in Maxwell prosecution related to Epstein case; Epstein not directly involved.",
+            "evidence": [
+              {
+                "file": "EFTA00081870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "My plan is to leave one drive and CD for defense counsel to pick up at 1SA",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081870.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00081870",
+            "file": "EFTA00081870.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96352,
+          40.764469
+        ]
+      },
+      "properties": {
+        "id": "f6c764aeaef47b45",
+        "name": "Dr. Jordan Josephson ENT Practice",
+        "location_name": "Dr. Jordan Josephson ENT Practice",
+        "location_address": "205 East 64th Street, New York City, New York 10065, United States",
+        "location_description": "A private ear, nose, and throat (ENT) medical practice on Manhattan's Upper East Side at 205 East 64th Street, operated by otolaryngologist Dr. Jordan Josephson.",
+        "canonical_name": "205 East 64th Street, Suite 201, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Dr. Jordan Josephson ENT Practice",
+        "location_descriptor": "A private ear, nose, and throat (ENT) medical practice on Manhattan's Upper East Side at 205 East 64th Street, operated by otolaryngologist Dr. Jordan Josephson.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-18",
+        "date_end": "2017-09-18",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jordan Josephson",
+            "role": "other"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02223110.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A private ear, nose, and throat (ENT) medical practice on Manhattan's Upper East Side at 205 East 64th Street, operated by otolaryngologist Dr. Jordan Josephson.",
+        "events": [
+          {
+            "event_id": "6876613598b84fcd",
+            "event_title": "Epstein Visits Dr. Jordan Josephson for ENT Appointment",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein attended a 10:00am medical appointment with ENT specialist Dr. Jordan Josephson on September 18, 2017, bringing medical films for the consultation.",
+            "date_start": "2017-09-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jordan Josephson",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein physically present at Dr. Josephson ENT practice at 10am on September 18, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02223110.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "10:00am Appt w/Dr. Jordan Josephson\nJOJO to Drive You\nReminder: You must take your films with you to Dr. Josephson",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223110.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02223110",
+            "file": "EFTA02223110.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "40c8687513c5a6c6",
+        "name": "U.S. Attorney's Office, Southern District of New York",
+        "location_name": "U.S. Attorney's Office, Southern District of New York",
+        "location_address": "New York City, New York, United States",
+        "location_description": "",
+        "canonical_name": "One Saint Andrew's Plaza, New York, NY 10007, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, Southern District of New York",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2020-11-18",
+        "date_end": "2020-11-18",
+        "people": [
+          {
+            "name": "Christian Everdell",
+            "role": "legal"
+          },
+          {
+            "name": "Laura Menninger",
+            "role": "legal"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00081871.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "2d94ea0a9029c668",
+            "event_title": "Maxwell Defense Counsel Receives Rule 16 Discovery at SDNY Manhattan",
+            "event_type": "presence",
+            "description": "SDNY produced discovery hard drive and CD (SDNY_GM_00536837 through SDNY_GM_02742043) to Maxwell defense counsel, available for pickup at One Saint Andrew's Plaza, Manhattan.",
+            "date_start": "2020-11-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Christian Everdell",
+                "role": "legal"
+              },
+              {
+                "name": "Laura Menninger",
+                "role": "legal"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell prosecution is directly related to Epstein case, though Epstein himself was not physically present at this discovery production.",
+            "evidence": [
+              {
+                "file": "EFTA00081871.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The drive and CD are both available for pickup at the U.S. Attorney's Office in Manhattan.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081871.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00081871",
+            "file": "EFTA00081871.pdf",
             "source_type": "doj_efta"
           }
         ]
