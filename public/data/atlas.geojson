@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 110,
-        "evidence_count": 394,
+        "evidence_count": 397,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -124,6 +124,10 @@
           {
             "name": "I",
             "role": "legal"
+          },
+          {
+            "name": "defendant Thomas",
+            "role": "other"
           },
           {
             "name": "two staffers",
@@ -510,8 +514,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 327,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+322 more)",
+        "source_count": 329,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+324 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -1504,6 +1508,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "defendant Thomas",
+                "role": "other"
+              },
+              {
                 "name": "Tova Noel",
                 "role": "other"
               },
@@ -1725,6 +1733,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Schoen reportedly believed that convicted sex offender Jeffrey Epstein didn\u2019t commit suicide in 2019, because he met him in jail earlier the same day to discuss Schoen leading his defense team.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075945.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076885.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "what video surveillance, if any, captures defendant Noel or defendant Thomas speaking with Lt. Jean on August 10, 2019 after the discovery of Epstein's body",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076885.pdf",
                 "confidence": 0.7
               }
             ]
@@ -2514,6 +2529,13 @@
                 "excerpt": "Associate Warden (AW) at MCC New York advised that Jeffrey EPSTEIN was found in his cell this morning at 0127 hours in a fetal position with a noose around his neck.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076619.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076885.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "All video surveillance seized by the Government as part of their investigation into Jeffrey Epstein's alleged July 23, 2019 suicide attempt, including any footage of Epstein from before or after the alleged suicide attempt",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076885.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -3065,6 +3087,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Following his arrest, JEFFREY EPSTEIN was detained pending trial at the Metropolitan Correctional Center...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076712.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076992.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On the evening of Friday August 09, 2019, JIMENEZ was awake and listening to the radio in his cell... JIMENEZ recalled waking up around 6am on Saturday, August 10, 2019 and hearing possibly a male voice saying \"breathe.\" The last time JIMENEZ saw EPSTEIN was when he was on a stretcher being taken out of his cell.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076992.pdf",
                 "confidence": 0.7
               }
             ]
@@ -6384,6 +6413,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00076885",
+            "file": "EFTA00076885.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00010818",
             "file": "EFTA00010818.pdf",
             "source_type": "doj_efta"
@@ -6931,6 +6965,11 @@
           {
             "doc_id": "EFTA00076712",
             "file": "EFTA00076712.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076992",
+            "file": "EFTA00076992.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -7506,8 +7545,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 102,
-        "evidence_count": 310,
+        "event_count": 103,
+        "evidence_count": 312,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8093,10 +8132,14 @@
           {
             "name": "R. Court Hay",
             "role": "other"
+          },
+          {
+            "name": "Masha Drokova",
+            "role": "associate"
           }
         ],
-        "source_count": 284,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+279 more)",
+        "source_count": 286,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+281 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -12551,6 +12594,10 @@
                 "role": "subject"
               },
               {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
                 "name": "Andrew Farkas",
                 "role": "associate"
               },
@@ -12592,6 +12639,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "start working at 71st on the 29th leaving AM Sept 5th",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221092.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221231.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "reconfirming Dr. Watson will come see Jeffrey tonight at 7pm\n9 East 71st Street between 5th and Madison",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221231.pdf",
                 "confidence": 0.7
               }
             ]
@@ -13243,6 +13297,37 @@
                 "source_type": "doj_efta",
                 "excerpt": "\"He said, `That's me, and I had this painted because there is always the possibility that could be me again,'\" said R. Court Hay, a public relations specialist invited by Mr. Epstein to a meeting at his home and to view the mural three months ago.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076657.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "603af1f73ca55f98",
+            "event_title": "Epstein Associate Purchases Prada Tote at 841 Madison Ave for Masha Drokova (Aug 26, 2017)",
+            "event_type": "transaction",
+            "description": "An associate purchased a black Prada tote bag at Prada on 841 Madison Ave, New York on Epstein's behalf, to be FedExed to Masha Drokova; Epstein personally approved the selection via email.",
+            "date_start": "2017-08-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Masha Drokova",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein personally directed the purchase and approved the item via email, making this a direct Epstein-ordered transaction carried out by his network.",
+            "evidence": [
+              {
+                "file": "EFTA02221224.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey would like a Prada handbag purchased and fed ex'd to Masha Drokova....I believe they have this at Bloomingdales and Prada at 841 Madison Ave...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221224.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14540,6 +14625,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221231",
+            "file": "EFTA02221231.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220290",
             "file": "EFTA02220290.pdf",
             "source_type": "doj_efta"
@@ -14668,6 +14758,11 @@
             "doc_id": "EFTA00076657",
             "file": "EFTA00076657.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221224",
+            "file": "EFTA02221224.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -14693,7 +14788,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 99,
-        "evidence_count": 219,
+        "evidence_count": 220,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -15085,6 +15180,10 @@
             "role": "associate"
           },
           {
+            "name": "Thomas Pritzker",
+            "role": "associate"
+          },
+          {
             "name": "Cecile de Jongh",
             "role": "other"
           },
@@ -15093,8 +15192,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 206,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+201 more)",
+        "source_count": 207,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+202 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -18954,6 +19053,14 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Thomas Pritzker",
+                "role": "associate"
+              },
+              {
                 "name": "Maria",
                 "role": "other"
               },
@@ -18970,6 +19077,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "You want to have Valdson & Maria in NY Sept. 19-28\nPlease advise i f you would like me to purchase below ticket:\nDirect:\n1 DY 7019 19SEP CDG JFK 0615P 0830P\n2 DY 7020 28SEP JFK CDG 1005P 1105A",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220734.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "",
+                "source_type": "doj_efta",
+                "excerpt": "Tues. Sept 19...",
+                "document_url": "",
                 "confidence": 0.7
               }
             ]
@@ -20102,6 +20216,11 @@
           {
             "doc_id": "EFTA02220734",
             "file": "EFTA02220734.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221397",
+            "file": "",
             "source_type": "doj_efta"
           },
           {
@@ -22487,7 +22606,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 55,
-        "evidence_count": 129,
+        "evidence_count": 131,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -22631,8 +22750,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 113,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215018.pdf, EFTA02216389.pdf, ... (+108 more)",
+        "source_count": 114,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215018.pdf, EFTA02216389.pdf, ... (+109 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -24172,6 +24291,20 @@
                 "excerpt": "OK to send f= her ticket from STT to NY on Sunday? (rec Loc#PTAMTS)\nAugust 22, 2017 5:00 AM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220922.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221237.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1:05pm to arrive STT via Delta#465 (Rec. Loc#QFSLMQ)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221237.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221237.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2:00pm to depart STT via Delta #676 (Rec. Loc#ZJIAVH)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221237.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -25163,6 +25296,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221237",
+            "file": "EFTA02221237.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219333",
             "file": "EFTA02219333.pdf",
             "source_type": "doj_efta"
@@ -25325,8 +25463,8 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 46,
-        "evidence_count": 99,
+        "event_count": 47,
+        "evidence_count": 102,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -25486,12 +25624,20 @@
             "role": "other"
           },
           {
+            "name": "Lundeg Purevsuren",
+            "role": "other"
+          },
+          {
+            "name": "Anas Alrasheed",
+            "role": "other"
+          },
+          {
             "name": "Valdson Vieira Cotrin",
             "role": "associate"
           }
         ],
-        "source_count": 97,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+92 more)",
+        "source_count": 100,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+95 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -27183,6 +27329,14 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Lundeg Purevsuren",
+                "role": "other"
+              },
+              {
+                "name": "Anas Alrasheed",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -27207,6 +27361,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Flight to Paris (SU 2462)\nSeptember 8, 2017 4:45 AM : Flight to Paris (SU 2462)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220926.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "",
+                "source_type": "doj_efta",
+                "excerpt": "Sept 14...",
+                "document_url": "",
                 "confidence": 0.7
               }
             ]
@@ -27286,6 +27447,44 @@
                 "source_type": "doj_efta",
                 "excerpt": "round trip, coach tickets Paris/NY/Paris depart Sept. 19 for Valdson Vieira Cotrin, Maria Gomes De Melo",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221036.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "649480aaa883a4b3",
+            "event_title": "Epstein Associate Travels Paris to Milan, Sept 8-10 2017 (Ticket Change)",
+            "event_type": "presence",
+            "description": "Lesley Groff arranges ticket change for unnamed associate to arrive Paris Sep 8 and depart for Milan on Sep 10, 2017",
+            "date_start": "2017-09-08",
+            "date_end": "2017-09-10",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Epstein's staff (Lesley Groff) for a person in his network via Amex Centurion travel service.",
+            "evidence": [
+              {
+                "file": "EFTA02221327.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Change to arrive Paris on Friday Sept 8 and leave for Milan on Sunday morning Sept.10.",
+                "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221239.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I just don't want her to have any issue with getting on that plane and to Paris...coach cabin became available on flight on September 8th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221239.pdf",
                 "confidence": 0.7
               }
             ]
@@ -27753,6 +27952,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221397",
+            "file": "",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220943",
             "file": "EFTA02220943.pdf",
             "source_type": "doj_efta"
@@ -27775,6 +27979,16 @@
           {
             "doc_id": "EFTA02221036",
             "file": "EFTA02221036.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221327",
+            "file": "EFTA02221327.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221239",
+            "file": "EFTA02221239.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -31620,8 +31834,8 @@
         "property_type": "event",
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 35,
-        "evidence_count": 79,
+        "event_count": 37,
+        "evidence_count": 81,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -31689,8 +31903,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 73,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+68 more)",
+        "source_count": 75,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+70 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -32988,6 +33202,55 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "31291c946d3a868a",
+            "event_title": "Flight N415LM (Gulfstream) Arrives Teterboro Airport from Long Island, Aug 31 2017",
+            "event_type": "travel",
+            "description": "Gulfstream G550 N415LM arrived Teterboro Airport at approximately 7:44 PM EDT on August 31, 2017.",
+            "date_start": "2017-08-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02221227.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) departed Long Island MacArthur (KISP) at 07:19PM EDT enroute to Teterboro (KTEB) for an estimated arrival at 07:44PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221227.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0288d5a022a2bb49",
+            "event_title": "N415LM (Gulfstream V) Filed Flight Plan: Teterboro to Paris Le Bourget, Sep 2 2017",
+            "event_type": "travel",
+            "description": "Epstein's Gulfstream V (N415LM) filed a flight plan to depart Teterboro at 7:00am EDT Sep 2 2017 heading to Paris Le Bourget, estimated arrival 8:31pm CEST",
+            "date_start": "2017-09-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Flight alert sent to Epstein's email address for aircraft N415LM, indicating travel planned in his name or by his network from Teterboro to Paris.",
+            "evidence": [
+              {
+                "file": "EFTA02221372.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) has just filed a flight plan. It is scheduled to depart from Teterboro (KTEB) at 07:00AM EDT Saturday (02 Sep) heading for Paris Le Bourget (LFPB/LBG) for an estimated arrival at 08:31PM CEST Saturday (02 Sep).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221372.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -33354,6 +33617,16 @@
           {
             "doc_id": "EFTA02221193",
             "file": "EFTA02221193.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221227",
+            "file": "EFTA02221227.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221372",
+            "file": "EFTA02221372.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -41351,7 +41624,7 @@
         "display_name": "Long Island MacArthur Airport",
         "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
         "event_count": 9,
-        "evidence_count": 24,
+        "evidence_count": 25,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -41379,8 +41652,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 24,
-        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+19 more)",
+        "source_count": 25,
+        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+20 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
@@ -41749,6 +42022,13 @@
                 "excerpt": "N415LM arrived at Long Island MacArthur (KISP) at 06:33PM EDT from Stewart Intl (KSWF)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221179.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221227.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) departed Long Island MacArthur (KISP) at 07:19PM EDT enroute to Teterboro (KTEB) for an estimated arrival at 07:44PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221227.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -41872,6 +42152,11 @@
           {
             "doc_id": "EFTA02221179",
             "file": "EFTA02221179.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221227",
+            "file": "EFTA02221227.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -45306,7 +45591,7 @@
         "display_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
         "location_descriptor": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
         "event_count": 6,
-        "evidence_count": 8,
+        "evidence_count": 9,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -45334,8 +45619,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+3 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
@@ -45524,6 +45809,13 @@
                 "excerpt": "the address i gave you is for the Prada store...tomorrow will be fine to purchase! Jeffrey just emailed me back re the Tote I chose...he said it is PERFECT!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221203.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221234.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "is requesting a hair cut and color correction at Fekkai. OK to make her appointments?\n...Yes\nJeffrey E.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221234.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -45567,6 +45859,11 @@
           {
             "doc_id": "EFTA02221203",
             "file": "EFTA02221203.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221234",
+            "file": "EFTA02221234.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -45894,6 +46191,289 @@
           {
             "doc_id": "EFTA02221105",
             "file": "EFTA02221105.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.517709,
+          49.00382
+        ]
+      },
+      "properties": {
+        "id": "c732c80a3f45b74d",
+        "name": "Paris Charles de Gaulle Airport",
+        "location_name": "Paris Charles de Gaulle Airport",
+        "location_address": "Roissy-en-France, Val-d'Oise, France",
+        "location_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "canonical_name": "Paris Charles de Gaulle Airport, Roissy-en-France, France, Val-d'Oise",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris Charles de Gaulle Airport",
+        "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "event_count": 6,
+        "evidence_count": 8,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-04",
+        "date_end": "2017-09-09",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lasma",
+            "role": "associate"
+          },
+          {
+            "name": "Fettah Tamince",
+            "role": "associate"
+          },
+          {
+            "name": "unnamed passenger",
+            "role": "other"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Milena",
+            "role": "other"
+          }
+        ],
+        "source_count": 8,
+        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf, ... (+3 more)",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "events": [
+          {
+            "event_id": "6c25338ea4f4ca28",
+            "event_title": "Lasma Departs Paris for Riga on Air France #7982 \u2014 July 11, 2017",
+            "event_type": "travel",
+            "description": "An Epstein associate named Lasma departed Paris at 10:10am on July 11, 2017, on Air France flight 7982 to Riga, Latvia (reservation VQAQYTY).",
+            "date_start": "2017-07-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lasma",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Lasma's travel was arranged by Epstein's staff and tracked in his schedule, suggesting she was an associate.",
+            "evidence": [
+              {
+                "file": "EFTA02216282.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: 10:10am Lasma to depart Paris for Riga via AirFrance#7982 (Rec. Loc#VQAQYTY)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216282.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217578.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 7982 Z Business Class Paris, Charles De Gaulle Riga, Riga International 10:10 AM 01:55 PM Terminal 2 D",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217578.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ebf9a29b9e3a28d2",
+            "event_title": "Epstein Arranges Travel for Paris Contact: CDG to JFK, July 14 2017 (Norwegian Air)",
+            "event_type": "travel",
+            "description": "Epstein arranged travel for an unidentified contact from Paris Charles de Gaulle to JFK on July 14, 2017 via Norwegian Air Shuttle economy class.",
+            "date_start": "2017-07-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein arranged and paid for this flight ticket to bring an unidentified person from Paris to New York to visit him.",
+            "evidence": [
+              {
+                "file": "EFTA02217695.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight Information Date 14 Jul 2017 Airline Norwegian Air Shuttle Flight/Class E Economy Class Origin Paris, Charles De Gaulle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217695.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fb4755715c821531",
+            "event_title": "Russian Traveler Returns Istanbul\u2192Paris CDG Turkish Airlines Jul 4 2017",
+            "event_type": "travel",
+            "description": "TK1827 Istanbul\u2192Paris CDG July 4 2017 for Russian citizen in Epstein network.",
+            "date_start": "2017-07-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Fettah Tamince",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return leg of Epstein network itinerary to Paris.",
+            "evidence": [
+              {
+                "file": "EFTA02219548.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TK1827 Istanbul Paris CDG Jul 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219548.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "20390feedc48ed8c",
+            "event_title": "Epstein Network Associates Arrive Paris CDG from Milan Linate, Sept 2, 2017",
+            "event_type": "travel",
+            "description": "Two women arrived at Paris Charles de Gaulle Airport Terminal 2D on September 2, 2017 on easyJet booking ESQFJJL, with car pickup arranged for the same day.",
+            "date_start": "2017-09-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel to Paris arranged via Epstein network; Epstein was known to be in Paris during this period based on other documents.",
+            "evidence": [
+              {
+                "file": "EFTA02221056.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Milan Linate to Paris Charles de Gaulle (Terminal 2D)\nPick-up Drop-off 02/09/2017 03/09/2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221056.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "38d203372104bfbf",
+            "event_title": "Epstein Network Associate Departs Paris CDG to Vilnius via Copenhagen, Sept 4, 2017",
+            "event_type": "travel",
+            "description": "Departure from Paris CDG to Vilnius via Copenhagen Sept 4 2017.",
+            "date_start": "2017-09-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "unnamed passenger",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return to Vilnius from Paris via Copenhagen.",
+            "evidence": [
+              {
+                "file": "EFTA02221089.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Paris CDG to Copenhagen to Vilnius Sept 4 2017 SK 1560 SK 0742",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221089.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221361.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Date 04 Sep 2017\nAirline Lot Polish Airlines\nOrigin Paris, Charles De Gaulle\nDestination Warsaw, Frederic Chopin\nDeparting 10:40 AM\nArriving 12:55 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221361.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fcb980869b886b1c",
+            "event_title": "Milena Flies Paris CDG to Moscow to Yekaterinburg on Aeroflot, Sep 9 2017",
+            "event_type": "travel",
+            "description": "Epstein associate Milena changed to Aeroflot flights SU2463 Paris CDG to Moscow SVO (3:55pm-8:30pm) then SU1408 Moscow to Yekaterinburg SVX (11:50pm-4:10am), travel arranged by Lesley Groff per Jeffrey's instruction",
+            "date_start": "2017-09-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Milena",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Epstein's assistant for a person named Milena, with Jeffrey personally deciding she should stay until Saturday the 9th.",
+            "evidence": [
+              {
+                "file": "EFTA02221384.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We can change her to\nSU2463 09SEP CDG SVO 355P 830P\nSU1408 09SEP SVO SVX 1150P 410A",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221384.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02216282",
+            "file": "EFTA02216282.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217578",
+            "file": "EFTA02217578.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217695",
+            "file": "EFTA02217695.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219548",
+            "file": "EFTA02219548.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221056",
+            "file": "EFTA02221056.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221089",
+            "file": "EFTA02221089.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221361",
+            "file": "EFTA02221361.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221384",
+            "file": "EFTA02221384.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -47384,92 +47964,105 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.517709,
-          49.00382
+          -73.938472,
+          40.689307
         ]
       },
       "properties": {
-        "id": "c732c80a3f45b74d",
-        "name": "Paris Charles de Gaulle Airport",
-        "location_name": "Paris Charles de Gaulle Airport",
-        "location_address": "Roissy-en-France, Val-d'Oise, France",
-        "location_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
-        "canonical_name": "Paris Charles de Gaulle Airport, Roissy-en-France, France, Val-d'Oise",
+        "id": "eb1a088f52ac3bb8",
+        "name": "HBRK Associates Inc.",
+        "location_name": "HBRK Associates Inc.",
+        "location_address": "575 Lexington Avenue, Brooklyn, New York 11221, United States",
+        "location_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
+        "canonical_name": "HBRK Associates Inc., 575 Lexington Avenue, 4th Floor, New York, NY, New York City",
         "region": "",
         "property_type": "event",
-        "display_name": "Paris Charles de Gaulle Airport",
-        "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "display_name": "HBRK Associates Inc.",
+        "location_descriptor": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
         "event_count": 5,
-        "evidence_count": 6,
-        "primary_event_type": "travel",
+        "evidence_count": 5,
+        "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-07-04",
-        "date_end": "2017-09-04",
+        "date_start": "2017-05-30",
+        "date_end": "2017-10-01",
         "people": [
+          {
+            "name": "Richard Kahn",
+            "role": "associate"
+          },
+          {
+            "name": "the Ross's",
+            "role": "associate"
+          },
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
           },
           {
-            "name": "Lasma",
-            "role": "associate"
+            "name": "Bebe Avdiu",
+            "role": "legal"
           },
           {
-            "name": "Fettah Tamince",
-            "role": "associate"
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Carluz Toylo",
+            "role": "staff"
+          },
+          {
+            "name": "Darren K. Indyke",
+            "role": "legal"
+          },
+          {
+            "name": "Darren Indyke",
+            "role": "legal"
           }
         ],
-        "source_count": 6,
-        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf, ... (+1 more)",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "source_count": 5,
+        "sources_preview": "EFTA02214145.pdf, EFTA02215951.pdf, EFTA02220623.pdf, EFTA02221223.pdf, EFTA02221367.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
         "events": [
           {
-            "event_id": "6c25338ea4f4ca28",
-            "event_title": "Lasma Departs Paris for Riga on Air France #7982 \u2014 July 11, 2017",
-            "event_type": "travel",
-            "description": "An Epstein associate named Lasma departed Paris at 10:10am on July 11, 2017, on Air France flight 7982 to Riga, Latvia (reservation VQAQYTY).",
-            "date_start": "2017-07-11",
+            "event_id": "279523f73a15fa9c",
+            "event_title": "Richard Kahn Meets Michael and Kimberly Ross at HBRK Office (May 30, 2017)",
+            "event_type": "presence",
+            "description": "Richard Kahn of HBRK Associates met Michael and Kimberly Ross at his office at 575 Lexington Avenue at 11:15am on May 30, 2017, regarding their upcoming visit to Epstein's island.",
+            "date_start": "2017-05-30",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
               {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
+                "name": "Richard Kahn",
+                "role": "associate"
               },
               {
-                "name": "Lasma",
+                "name": "the Ross's",
                 "role": "associate"
               }
             ],
             "epstein_nexus": "contextual",
-            "nexus_reasoning": "Lasma's travel was arranged by Epstein's staff and tracked in his schedule, suggesting she was an associate.",
+            "nexus_reasoning": "Richard Kahn works closely with Epstein; the Ross's were coordinating their visit to Epstein's island through Epstein's associates.",
             "evidence": [
               {
-                "file": "EFTA02216282.pdf",
+                "file": "EFTA02214145.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Reminder: 10:10am Lasma to depart Paris for Riga via AirFrance#7982 (Rec. Loc#VQAQYTY)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216282.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217578.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AF 7982 Z Business Class Paris, Charles De Gaulle Riga, Riga International 10:10 AM 01:55 PM Terminal 2 D",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217578.pdf",
+                "excerpt": "i am meeting them today 11:15am at my office",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214145.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "ebf9a29b9e3a28d2",
-            "event_title": "Epstein Arranges Travel for Paris Contact: CDG to JFK, July 14 2017 (Norwegian Air)",
-            "event_type": "travel",
-            "description": "Epstein arranged travel for an unidentified contact from Paris Charles de Gaulle to JFK on July 14, 2017 via Norwegian Air Shuttle economy class.",
-            "date_start": "2017-07-14",
+            "event_id": "b3da1aa4444ace49",
+            "event_title": "Visitor on Epstein's Schedule Contacted by Darren Indyke Office \u2014 June 30, 2017",
+            "event_type": "presence",
+            "description": "A legal assistant at Darren K. Indyke PLLC contacted someone on Epstein's schedule for June 30, 2017 asking for their address, indicating a scheduled meeting or appointment.",
+            "date_start": "2017-06-30",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
@@ -47477,87 +48070,121 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Bebe Avdiu",
+                "role": "legal"
               }
             ],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein arranged and paid for this flight ticket to bring an unidentified person from Paris to New York to visit him.",
+            "nexus_reasoning": "The person is on Epstein's official schedule and contacted by his legal counsel's office.",
             "evidence": [
               {
-                "file": "EFTA02217695.pdf",
+                "file": "EFTA02215951.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Flight Information Date 14 Jul 2017 Airline Norwegian Air Shuttle Flight/Class E Economy Class Origin Paris, Charles De Gaulle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217695.pdf",
+                "excerpt": "My name is Bebe and I am covering for Mr. Epstein's assistant as she is out this week. I see you are on Jeffrey's schedule for today. May you please forward me your address?\nBebe Avdiu\nLegal Assistant\nDARREN K INDYKE, PLLC\n575 Lexington Avenue, 4th Floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215951.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "fb4755715c821531",
-            "event_title": "Russian Traveler Returns Istanbul\u2192Paris CDG Turkish Airlines Jul 4 2017",
+            "event_id": "8a17d695e0c09a6f",
+            "event_title": "Carluz Toylo to Begin Employment at NYC Office (575 Lexington Ave)",
             "event_type": "travel",
-            "description": "TK1827 Istanbul\u2192Paris CDG July 4 2017 for Russian citizen in Epstein network.",
-            "date_start": "2017-07-04",
+            "description": "Carluz Toylo scheduled to begin employment at HBRK Associates Inc. office in New York on October 1, 2017, with Richard Kahn instructing coordination with Lesley for flight arrangements from Hawaii.",
+            "date_start": "2017-10-01",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
               {
-                "name": "Fettah Tamince",
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Richard Kahn",
                 "role": "associate"
+              },
+              {
+                "name": "Carluz Toylo",
+                "role": "staff"
               }
             ],
             "epstein_nexus": "contextual",
-            "nexus_reasoning": "Return leg of Epstein network itinerary to Paris.",
+            "nexus_reasoning": "Employment coordination at Richard Kahn's office (Epstein's financial manager) but no evidence Epstein was physically present at this specific location on this date.",
             "evidence": [
               {
-                "file": "EFTA02219548.pdf",
+                "file": "EFTA02220623.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "TK1827 Istanbul Paris CDG Jul 4",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219548.pdf",
+                "excerpt": "NYC is where you will begin please coordinate with Lesley and she will help you arrange flights... Richard Kahn HBRK Associates Inc. 575 Lexington Avenue, 4th Floor New York, NY 10022",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220623.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "20390feedc48ed8c",
-            "event_title": "Epstein Network Associates Arrive Paris CDG from Milan Linate, Sept 2, 2017",
-            "event_type": "travel",
-            "description": "Two women arrived at Paris Charles de Gaulle Airport Terminal 2D on September 2, 2017 on easyJet booking ESQFJJL, with car pickup arranged for the same day.",
-            "date_start": "2017-09-02",
+            "event_id": "ccaea5b9904a7d7f",
+            "event_title": "Darren Indyke Invited to Meet Jeffrey Epstein in New York, Aug 30, 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein's staff summoned attorney Darren Indyke to a 12:30pm meeting with Epstein in New York on August 30, 2017, with only Indyke confirmed as attendee.",
+            "date_start": "2017-08-30",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel to Paris arranged via Epstein network; Epstein was known to be in Paris during this period based on other documents.",
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bebe Avdiu",
+                "role": "legal"
+              },
+              {
+                "name": "Darren K. Indyke",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally requested the meeting ('come see Jeffrey'), confirming his physical presence at the meeting location.",
             "evidence": [
               {
-                "file": "EFTA02221056.pdf",
+                "file": "EFTA02221223.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Milan Linate to Paris Charles de Gaulle (Terminal 2D)\nPick-up Drop-off 02/09/2017 03/09/2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221056.pdf",
+                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221223.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "38d203372104bfbf",
-            "event_title": "Epstein Network Associate Departs Paris CDG to Vilnius via Copenhagen, Sept 4, 2017",
-            "event_type": "travel",
-            "description": "Departure from Paris CDG to Vilnius via Copenhagen Sept 4 2017.",
-            "date_start": "2017-09-04",
+            "event_id": "c1feaac048a36a8b",
+            "event_title": "Epstein Staff Meeting at Darren Indyke Law Office, 575 Lexington Ave NY, Aug 29 2017",
+            "event_type": "presence",
+            "description": "Lesley Groff coordinates meeting at 12:30pm at Darren Indyke's law office at 575 Lexington Avenue, New York on August 29, 2017",
+            "date_start": "2017-08-29",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
-            "people": [],
+            "people": [
+              {
+                "name": "Darren Indyke",
+                "role": "legal"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
             "epstein_nexus": "contextual",
-            "nexus_reasoning": "Return to Vilnius from Paris via Copenhagen.",
+            "nexus_reasoning": "Meeting coordinated by Epstein's assistant at Epstein's attorney's office.",
             "evidence": [
               {
-                "file": "EFTA02221089.pdf",
+                "file": "EFTA02221367.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Paris CDG to Copenhagen to Vilnius Sept 4 2017 SK 1560 SK 0742",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221089.pdf",
+                "excerpt": "yes, Rich is out from Wed Aug. 30-Sept. 4, back in office Sept 5\nJust Darren, right?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221367.pdf",
                 "confidence": 0.7
               }
             ]
@@ -47565,33 +48192,28 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA02216282",
-            "file": "EFTA02216282.pdf",
+            "doc_id": "EFTA02214145",
+            "file": "EFTA02214145.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02217578",
-            "file": "EFTA02217578.pdf",
+            "doc_id": "EFTA02215951",
+            "file": "EFTA02215951.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02217695",
-            "file": "EFTA02217695.pdf",
+            "doc_id": "EFTA02220623",
+            "file": "EFTA02220623.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02219548",
-            "file": "EFTA02219548.pdf",
+            "doc_id": "EFTA02221223",
+            "file": "EFTA02221223.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02221056",
-            "file": "EFTA02221056.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221089",
-            "file": "EFTA02221089.pdf",
+            "doc_id": "EFTA02221367",
+            "file": "EFTA02221367.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -48256,7 +48878,7 @@
         "display_name": "Apollo Global Management",
         "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
         "event_count": 4,
-        "evidence_count": 6,
+        "evidence_count": 7,
         "primary_event_type": "communication",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -48292,8 +48914,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 6,
-        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02220888.pdf, EFTA02221148.pdf, EFTA02221167.pdf, ... (+1 more)",
+        "source_count": 7,
+        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02220888.pdf, EFTA02221148.pdf, EFTA02221167.pdf, ... (+2 more)",
         "epstein_nexus": "direct",
         "event_type": "communication",
         "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
@@ -48385,6 +49007,10 @@
               {
                 "name": "Kathy Ruemmler",
                 "role": "legal"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
               }
             ],
             "epstein_nexus": "implied",
@@ -48409,6 +49035,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I have an appointment at Fekkai at 5:30 pm. If I land on time (supposed to be at 3 pm), I could come see Jeffrey at 4 pm. Would that work?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221167.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221229.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "HI Kathy! 4pm would be perfect!! ...Jeffrey actually just mentioned he could possibly meet you at Fekkai around 4pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221229.pdf",
                 "confidence": 0.7
               }
             ]
@@ -48469,6 +49102,11 @@
           {
             "doc_id": "EFTA02221167",
             "file": "EFTA02221167.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221229",
+            "file": "EFTA02221229.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -49880,226 +50518,6 @@
           {
             "doc_id": "EFTA02219276",
             "file": "EFTA02219276.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.938472,
-          40.689307
-        ]
-      },
-      "properties": {
-        "id": "eb1a088f52ac3bb8",
-        "name": "HBRK Associates Inc.",
-        "location_name": "HBRK Associates Inc.",
-        "location_address": "575 Lexington Avenue, Brooklyn, New York 11221, United States",
-        "location_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
-        "canonical_name": "HBRK Associates Inc., 575 Lexington Avenue, 4th Floor, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "HBRK Associates Inc.",
-        "location_descriptor": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
-        "event_count": 4,
-        "evidence_count": 4,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-30",
-        "date_end": "2017-10-01",
-        "people": [
-          {
-            "name": "Richard Kahn",
-            "role": "associate"
-          },
-          {
-            "name": "the Ross's",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Bebe Avdiu",
-            "role": "legal"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Carluz Toylo",
-            "role": "staff"
-          },
-          {
-            "name": "Darren K. Indyke",
-            "role": "legal"
-          }
-        ],
-        "source_count": 4,
-        "sources_preview": "EFTA02214145.pdf, EFTA02215951.pdf, EFTA02220623.pdf, EFTA02221223.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
-        "events": [
-          {
-            "event_id": "279523f73a15fa9c",
-            "event_title": "Richard Kahn Meets Michael and Kimberly Ross at HBRK Office (May 30, 2017)",
-            "event_type": "presence",
-            "description": "Richard Kahn of HBRK Associates met Michael and Kimberly Ross at his office at 575 Lexington Avenue at 11:15am on May 30, 2017, regarding their upcoming visit to Epstein's island.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Richard Kahn",
-                "role": "associate"
-              },
-              {
-                "name": "the Ross's",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Richard Kahn works closely with Epstein; the Ross's were coordinating their visit to Epstein's island through Epstein's associates.",
-            "evidence": [
-              {
-                "file": "EFTA02214145.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "i am meeting them today 11:15am at my office",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214145.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b3da1aa4444ace49",
-            "event_title": "Visitor on Epstein's Schedule Contacted by Darren Indyke Office \u2014 June 30, 2017",
-            "event_type": "presence",
-            "description": "A legal assistant at Darren K. Indyke PLLC contacted someone on Epstein's schedule for June 30, 2017 asking for their address, indicating a scheduled meeting or appointment.",
-            "date_start": "2017-06-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bebe Avdiu",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "The person is on Epstein's official schedule and contacted by his legal counsel's office.",
-            "evidence": [
-              {
-                "file": "EFTA02215951.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "My name is Bebe and I am covering for Mr. Epstein's assistant as she is out this week. I see you are on Jeffrey's schedule for today. May you please forward me your address?\nBebe Avdiu\nLegal Assistant\nDARREN K INDYKE, PLLC\n575 Lexington Avenue, 4th Floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215951.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8a17d695e0c09a6f",
-            "event_title": "Carluz Toylo to Begin Employment at NYC Office (575 Lexington Ave)",
-            "event_type": "travel",
-            "description": "Carluz Toylo scheduled to begin employment at HBRK Associates Inc. office in New York on October 1, 2017, with Richard Kahn instructing coordination with Lesley for flight arrangements from Hawaii.",
-            "date_start": "2017-10-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Richard Kahn",
-                "role": "associate"
-              },
-              {
-                "name": "Carluz Toylo",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Employment coordination at Richard Kahn's office (Epstein's financial manager) but no evidence Epstein was physically present at this specific location on this date.",
-            "evidence": [
-              {
-                "file": "EFTA02220623.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NYC is where you will begin please coordinate with Lesley and she will help you arrange flights... Richard Kahn HBRK Associates Inc. 575 Lexington Avenue, 4th Floor New York, NY 10022",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220623.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ccaea5b9904a7d7f",
-            "event_title": "Darren Indyke Invited to Meet Jeffrey Epstein in New York, Aug 30, 2017",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein's staff summoned attorney Darren Indyke to a 12:30pm meeting with Epstein in New York on August 30, 2017, with only Indyke confirmed as attendee.",
-            "date_start": "2017-08-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bebe Avdiu",
-                "role": "legal"
-              },
-              {
-                "name": "Darren K. Indyke",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally requested the meeting ('come see Jeffrey'), confirming his physical presence at the meeting location.",
-            "evidence": [
-              {
-                "file": "EFTA02221223.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221223.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02214145",
-            "file": "EFTA02214145.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215951",
-            "file": "EFTA02215951.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220623",
-            "file": "EFTA02220623.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221223",
-            "file": "EFTA02221223.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -51538,7 +51956,7 @@
         "display_name": "Harvard University",
         "location_descriptor": "A prestigious private research university established in 1636, located in Cambridge, Massachusetts, and consistently ranked among the world's leading academic institutions.",
         "event_count": 3,
-        "evidence_count": 10,
+        "evidence_count": 11,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -51562,16 +51980,28 @@
             "role": "associate"
           },
           {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Noam Chomsky",
+            "role": "associate"
+          },
+          {
             "name": "Danny Hillis",
             "role": "associate"
           },
           {
             "name": "Joi Ito",
             "role": "associate"
+          },
+          {
+            "name": "Valeria Chomsky",
+            "role": "associate"
           }
         ],
-        "source_count": 9,
-        "sources_preview": "EFTA02213406.pdf, EFTA00018441.pdf, EFTA00018466.pdf, EFTA02220590.pdf, EFTA02220941.pdf, ... (+4 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA02213406.pdf, EFTA00018441.pdf, EFTA00018466.pdf, EFTA02220590.pdf, EFTA02220941.pdf, ... (+5 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A prestigious private research university established in 1636, located in Cambridge, Massachusetts, and consistently ranked among the world's leading academic institutions.",
@@ -51671,11 +52101,23 @@
                 "role": "subject"
               },
               {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Noam Chomsky",
+                "role": "associate"
+              },
+              {
                 "name": "Danny Hillis",
                 "role": "associate"
               },
               {
                 "name": "Joi Ito",
+                "role": "associate"
+              },
+              {
+                "name": "Valeria Chomsky",
                 "role": "associate"
               }
             ],
@@ -51722,6 +52164,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey is considering a trip to Boston/Harvard this Sunday Sept. 17th...might you be around and available?\nDanny's on a plane at the moment...not returning to Boston until the 22nd.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221095.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221230.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is considering a trip to Boston/Harvard this Sunday Sept. 17th... might you and Noam be around and available?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221230.pdf",
                 "confidence": 0.7
               }
             ]
@@ -51771,6 +52220,11 @@
           {
             "doc_id": "EFTA02221095",
             "file": "EFTA02221095.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221230",
+            "file": "EFTA02221230.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -59487,7 +59941,7 @@
         "display_name": "Lenox Hill Radiology",
         "location_descriptor": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
         "event_count": 2,
-        "evidence_count": 4,
+        "evidence_count": 5,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -59515,8 +59969,8 @@
             "role": "other"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA02220360.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA02220360.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf, ",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
@@ -59602,6 +60056,13 @@
                 "excerpt": "1:00pm ARRIVE for I:30-3:00pm CT Scans & Ultrasound (Dr. Josephson)\nCT Scans of Sinus &Neck/Ultrasound of Thyroid\nLenox Hill Radiology\n61 E. 77thStreet (between Park and Madison)\nJOJO TO DRIVE YOU!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220599.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "",
+                "source_type": "doj_efta",
+                "excerpt": "Fri. Sept 15...",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           }
@@ -59625,6 +60086,11 @@
           {
             "doc_id": "EFTA02220599",
             "file": "EFTA02220599.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221397",
+            "file": "",
             "source_type": "doj_efta"
           }
         ]
@@ -71478,6 +71944,182 @@
           {
             "doc_id": "EFTA02221122",
             "file": "EFTA02221122.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005712,
+          40.74237
+        ]
+      },
+      "properties": {
+        "id": "a1a922558771a6f4",
+        "name": "YouTube Space NY",
+        "location_name": "YouTube Space NY",
+        "location_address": "75 9th Avenue, New York City, New York 10011, United States",
+        "location_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
+        "canonical_name": "75 9th Avenue, New York, NY 10011, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "YouTube Space NY",
+        "location_descriptor": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-27",
+        "date_end": "2017-09-27",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Deepak Chopra",
+            "role": "associate"
+          },
+          {
+            "name": "Michael Shermer",
+            "role": "other"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02221328.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
+        "events": [
+          {
+            "event_id": "7ef89b87f52156f4",
+            "event_title": "Epstein RSVPs for Deepak Chopra/Skeptic Magazine Event at YouTube Space NY, Sep 27 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein RSVP'd yes plus 5 guests to Deepak Chopra's invitation to Skeptic Magazine 25th anniversary event at YouTube Space NY on September 27, 2017 at 5-7pm",
+            "date_start": "2017-09-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Deepak Chopra",
+                "role": "associate"
+              },
+              {
+                "name": "Michael Shermer",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein RSVP'd 'yes plus 5 guests' to the event invitation, indicating planned attendance at this location.",
+            "evidence": [
+              {
+                "file": "EFTA02221328.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "When: Wednesday, September 27th\nTime: 5-7:00 pm\nWhere: YouTube Space NY, 75 9th Avenue, NYC\nJEffrey plus 5 guests! I will get you their names prior to sept 22!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221328.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221328",
+            "file": "EFTA02221328.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.958169,
+          40.772303
+        ]
+      },
+      "properties": {
+        "id": "5a83444167278e12",
+        "name": "205 East 76th Street",
+        "location_name": "205 East 76th Street",
+        "location_address": "205 East 76th Street, New York City, New York 10021, United States",
+        "location_description": "A residential and mixed-use building on the Upper East Side of Manhattan, New York City, located between Second and Third Avenues.",
+        "canonical_name": "205 East 76th Street, New York, NY 10021, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "205 East 76th Street",
+        "location_descriptor": "A residential and mixed-use building on the Upper East Side of Manhattan, New York City, located between Second and Third Avenues.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-18",
+        "date_end": "2017-09-18",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jordan Josephson",
+            "role": "other"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02221397.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A residential and mixed-use building on the Upper East Side of Manhattan, New York City, located between Second and Third Avenues.",
+        "events": [
+          {
+            "event_id": "48326bc536933fa0",
+            "event_title": "Epstein Medical Appointment with Dr. Jordan Josephson, 205 E 76th St NY, Sep 18 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein has a 10am appointment with Dr. Jordan Josephson at 205 East 76th Street, New York to review CT scan results on September 18, 2017",
+            "date_start": "2017-09-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jordan Josephson",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Schedule is addressed to Jeffrey Epstein for his personal medical appointment with Dr. Josephson.",
+            "evidence": [
+              {
+                "file": "EFTA02221397.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mon. Sept 18.2017 NY\n10:00am Appt w/Dr. Jordan Josephson\n205 E 76th Street\nJOJO to Drive You",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221397.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221397",
+            "file": "EFTA02221397.pdf",
             "source_type": "doj_efta"
           }
         ]
