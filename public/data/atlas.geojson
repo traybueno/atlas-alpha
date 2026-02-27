@@ -7435,7 +7435,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 101,
-        "evidence_count": 299,
+        "evidence_count": 301,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -7983,6 +7983,10 @@
             "role": "associate"
           },
           {
+            "name": "Paul Barrett",
+            "role": "associate"
+          },
+          {
             "name": "Tede",
             "role": "associate"
           },
@@ -8003,8 +8007,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 274,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+269 more)",
+        "source_count": 276,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+271 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -12816,11 +12820,27 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Ehud Barak",
+                "role": "associate"
+              },
+              {
+                "name": "Kathryn Ruemmler",
+                "role": "associate"
+              },
+              {
+                "name": "Paul Barrett",
+                "role": "associate"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               },
               {
                 "name": "Ehud",
+                "role": "associate"
+              },
+              {
+                "name": "terje",
                 "role": "associate"
               },
               {
@@ -12836,6 +12856,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey has lunch with Ehud at 12:30 and Tede at around 5pm",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220788.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221041.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "wed terje, ehud, ruemmler. ask for her and friend thurs at 2",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221041.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221054.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Paul Barrett asking for appt on Wed. Sept 13",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221054.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14358,6 +14392,16 @@
           {
             "doc_id": "EFTA02220788",
             "file": "EFTA02220788.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221041",
+            "file": "EFTA02221041.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221054",
+            "file": "EFTA02221054.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -19747,7 +19791,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
         "event_count": 56,
-        "evidence_count": 93,
+        "evidence_count": 96,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -19855,8 +19899,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 63,
-        "sources_preview": "EFTA02212949.pdf, EFTA02212953.pdf, EFTA00010075.pdf, EFTA00075962.pdf, EFTA00040470.pdf, ... (+58 more)",
+        "source_count": 66,
+        "sources_preview": "EFTA02212949.pdf, EFTA02212953.pdf, EFTA00010075.pdf, EFTA00075962.pdf, EFTA00040470.pdf, ... (+61 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An international airport in Jamaica, Queens, New York City, serving as one of the largest and busiest airports in the United States.",
@@ -21486,6 +21530,10 @@
               {
                 "name": "Lesley Groff",
                 "role": "staff"
+              },
+              {
+                "name": "Bella Klein",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "contextual",
@@ -21503,6 +21551,27 @@
                 "source_type": "doj_efta",
                 "excerpt": "Hi ..here is your ticket to come to NY on Friday July 14th! Please double check for accuracy and confirm receipt. ... Date 14 Jul 2017 Airline Norwegian Air Shuttle Flight/Class DY 7019 E Economy Class Origin Paris, Charles De Gaulle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219861.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221126.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Here is your ticket to come to NY July 22-Aug. 12! I have also set aside an apartment for you!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221126.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221046.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PS 231 Kiev to JFK July 22 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221046.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221131.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight PS 231 Kiev Boryspil -> New York JFK 11:00AM 02:20PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221131.pdf",
                 "confidence": 0.7
               }
             ]
@@ -21970,6 +22039,21 @@
           {
             "doc_id": "EFTA02219861",
             "file": "EFTA02219861.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221126",
+            "file": "EFTA02221126.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221046",
+            "file": "EFTA02221046.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221131",
+            "file": "EFTA02221131.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -24763,7 +24847,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 46,
-        "evidence_count": 97,
+        "evidence_count": 98,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -24927,8 +25011,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 95,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+90 more)",
+        "source_count": 96,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+91 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -26459,6 +26543,13 @@
                 "excerpt": "From Paris to Vilnius on Sept 4: LO 332 04SEP CDG WAW 1040A 11255P LO I\" 779 04SEP WAW VNO 0140P 0345P",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220514.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221122.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "04SEP17 Departure: Arrival:\nParis CDG Copenhagen CPH\n1830 2015\nSK 1561",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221122.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -27108,6 +27199,11 @@
           {
             "doc_id": "EFTA02220514",
             "file": "EFTA02220514.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221122",
+            "file": "EFTA02221122.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -35090,7 +35186,7 @@
         "display_name": "Epstein East 66th Street Apartment Building",
         "location_descriptor": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
         "event_count": 21,
-        "evidence_count": 35,
+        "evidence_count": 36,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -35218,6 +35314,10 @@
             "role": "other"
           },
           {
+            "name": "Taylor Visoski",
+            "role": "other"
+          },
+          {
             "name": "Yoni",
             "role": "other"
           },
@@ -35226,8 +35326,8 @@
             "role": "other"
           }
         ],
-        "source_count": 32,
-        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+27 more)",
+        "source_count": 33,
+        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+28 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
@@ -35937,6 +36037,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Taylor Visoski",
+                "role": "other"
+              },
+              {
                 "name": "Karen",
                 "role": "other"
               }
@@ -35949,6 +36053,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Guest arriving Fri. Sept. 8- to stay in 3M (Karen leaves Sept. 5)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220589.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221040.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "welcome letter for apt 3M for Taylor Visoski arriving on Friday. Sept 8th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221040.pdf",
                 "confidence": 0.7
               }
             ]
@@ -36170,6 +36281,11 @@
           {
             "doc_id": "EFTA02221034",
             "file": "EFTA02221034.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221040",
+            "file": "EFTA02221040.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -39281,6 +39397,593 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.8283,
+          40.7135
+        ]
+      },
+      "properties": {
+        "id": "20bcf2196270c06c",
+        "name": "John F. Kennedy International Airport",
+        "location_name": "John F. Kennedy International Airport",
+        "location_address": "Queens, New York, United States",
+        "location_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
+        "canonical_name": "John F. Kennedy International Airport, Queens, NY, New York City, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "John F. Kennedy International Airport",
+        "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
+        "event_count": 11,
+        "evidence_count": 22,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1999-10-02",
+        "date_end": "2017-09-28",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "associate"
+          },
+          {
+            "name": "Bella Klein",
+            "role": "associate"
+          },
+          {
+            "name": "Maria Gomes de Melo",
+            "role": "other"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Natalia Molotkova",
+            "role": "other"
+          },
+          {
+            "name": "Elena",
+            "role": "associate"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Valdson Vieira Cotrin",
+            "role": "associate"
+          }
+        ],
+        "source_count": 21,
+        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+16 more)",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
+        "events": [
+          {
+            "event_id": "8217b14a66e63949",
+            "event_title": "Flight DL 465 Booked JFK to STT for Aug 27, 2017 via Lesley Groff",
+            "event_type": "travel",
+            "description": "Lesley Groff coordinated booking of Delta flight 465 from JFK to St. Thomas for August 27, 2017, departing 8:35 AM, arriving 12:42 PM, through American Express Centurion travel services, fare $586.20.",
+            "date_start": "2017-08-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "associate"
+              },
+              {
+                "name": "Bella Klein",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Lesley Groff, Epstein's assistant, arranged travel to St. Thomas (location of Epstein's island property) but passenger identity not explicitly confirmed in document.",
+            "evidence": [
+              {
+                "file": "EFTA02220455.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DL 465 27AUG JFK STT 0835A 1242P 1ADT 293.10 TOTAL FARE - USD 586.20 Non refundabele coach with 200 change fee.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220455.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220535.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Sat, 26AUG DEPART DELTA 465 NYC-KENNEDY Main Cabin (U) 8:35am ARRIVE ST THOMAS VIRGIN ISLANDS, U.S. 12:40pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220535.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "196c9af5d92c4c86",
+            "event_title": "Maria Gomes de Melo: Return Delta Flight DL 404 JFK to Paris CDG",
+            "event_type": "travel",
+            "description": "Maria Gomes de Melo traveled on Delta Air Lines flight DL 404 in economy class from New York JFK International Airport to Paris Charles de Gaulle Airport, departing at 5:29 PM on May 7 and arriving at 7:00 AM on May 8, 2017.",
+            "date_start": "2017-05-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Maria Gomes de Melo",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return flight for Maria Gomes de Melo coordinated through correspondence with individuals potentially in Epstein's network, but no evidence of Epstein's direct involvement in this specific travel.",
+            "evidence": [
+              {
+                "file": "EFTA02220498.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "07 May 2017\nDelta Air Lines\nHPGMBE\nDL 404 K Economy Class\nNew York, John F Kennedy International\nParis, Charles De Gaulle\n05:29 PM\n07:00 AM / 08 May 2017\nTerminal 4\nTerminal 2 E",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220498.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "05883c215cdb5caf",
+            "event_title": "Flight DL 676: Passenger Arrives JFK from St. Thomas (10 Apr 2017)",
+            "event_type": "travel",
+            "description": "Passenger arrived at John F. Kennedy International Airport Terminal 4 in New York on Delta Air Lines flight DL 676 from St. Thomas at 6:29 PM on April 10, 2017, seat 42C.",
+            "date_start": "2017-04-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "associate"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is an American Express travel itinerary found in Epstein case files, but the document does not identify the passenger or establish Epstein's physical presence on this flight.",
+            "evidence": [
+              {
+                "file": "EFTA02220526.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeats 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220526.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220620.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nClass T Economy Class\nSeats 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220620.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220665.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeals 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220665.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220798.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeats 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220798.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221016.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Teresa, please pick up tomorrow from JFK and take her home to...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221016.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "16763a383559d11e",
+            "event_title": "Redacted passenger return flight DL 458: JFK to LAX (seats 26A, 26B)",
+            "event_type": "travel",
+            "description": "Redacted passenger traveled on Delta Air Lines flight DL 458 from John F. Kennedy International Airport to Los Angeles International Airport, occupying seats 26A and 26B, with tickets arranged by Lesley Groff through American Express Centurion Travel Service.",
+            "date_start": "2017-08-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Lesley Groff, who was Epstein's assistant, but the redacted passenger's identity and relationship to Epstein is not established from this document alone.",
+            "evidence": [
+              {
+                "file": "EFTA02220641.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "02 Aug 2017\nDelta Air Lines\nH467T4\nDL 458 U Economy Class\nNew York, John F Kennedy International\nLos Angeles, Los Angeles International\n01:45 PM\n04:45 PM\nTerminal 4\nTerminal 2\n6 Hrs\nNon-stop\n26A, 26B",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220641.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220755.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "02 Aug 2017\nDelta Air Lines\nAirline Record Locator H467T4\nFlight/Class DL 458 U Economy Class\nOrigin New York, John F Kennedy International\nDestination Los Angeles, Los Angeles International\nDeparting 01:45 PM\nArriving 04:45 PM\nDeparture Terminal 4\nArrival Terminal 2\nEstimated Time 6 Hrs\nNon-stop\nSeats 26A, 26B",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220755.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220803.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Wednesday 02 Aug 17\nFlight Information\nDate 02 Aug 2017\nAirline Delta Air Lines\nAirline Record Locator H467T4\nFlight/Class DL 458 U Economy Class\nOrigin New York, John F Kennedy International\nDestination Los Angeles, Los Angeles International\nDeparting 01:45 PM\nArriving 04:45 PM\nDeparture Terminal 4\nArrival Terminal 2",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220803.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4dcd17bc91cf14dd",
+            "event_title": "Flight DL 465: Passenger Departs JFK for St. Thomas, USVI (Aug 26, 2017)",
+            "event_type": "travel",
+            "description": "Lesley Groff arranged Delta Airlines flight DL 465 for an unidentified passenger departing JFK Terminal 4 at 8:35 AM on August 26, 2017, arriving at Cyril E King Airport in St. Thomas at 12:40 PM, with ticket number DL 0068648380927, seat 29A, record locator UQPZCC.",
+            "date_start": "2017-08-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Natalia Molotkova",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "associate"
+              },
+              {
+                "name": "Elena",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel arrangements were made by Epstein's assistant Lesley Groff and approved by Jeffrey Epstein via email, but it is unclear if Epstein himself was the passenger on this flight.",
+            "evidence": [
+              {
+                "file": "EFTA02220683.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "26 Aug 2017\nDelta Air Lines\nGN9CBZ\nDL 465 U Economy Class\nNew York, John F Kennedy International\nCharlotte Amalie, Cyril E King Airport\n08:35 AM\n12:40 PM\nTerminal 4\n4 Hrs 5 Mins\nNon-stop\n29A",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220683.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220720.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DL 676 26AUG STT JFK 0137P 0537P\n\nFlight Information\nDate 27 Aug 2017\nAirline Delta Air Lines\nFlight/Class DL 676 Y Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 01:37 PM\nArriving 05:39 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220720.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220771.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I know that Elena is flying out to the island tomorrow and she has just asked me if the transportation to JFK can be organized for her.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220771.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "08faa1f22ffeb043",
+            "event_title": "Flight DL 1750: Two Passengers Travel Los Angeles to New York JFK",
+            "event_type": "travel",
+            "description": "Two passengers flew Delta Air Lines flight DL 1750 from Los Angeles International Airport to John F. Kennedy International Airport on July 16, 2017, departing at 8:45 AM and arriving at 5:30 PM, with assigned seats 29A and 29B.",
+            "date_start": "2017-07-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel itinerary forwarded by Epstein's assistant Lesley Groff to his email address suggests his involvement in the travel, though the ticket names are redacted.",
+            "evidence": [
+              {
+                "file": "EFTA02220755.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "16 Jul 2017\nDelta Air Lines\nAirline Record Locator H467T4\nFlight/Class DL 1750 L Economy Class\nOrigin Los Angeles, Los Angeles International\nDestination New York, John F Kennedy International\nDeparting 08:45 AM\nArriving 05:30 PM\nDeparture Terminal 2\nArrival Terminal 4\nEstimated Time 5 Hrs 45 Mins\nNon-stop\nSeats 29A, 29B",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220755.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f7bcc4b8b0941d6c",
+            "event_title": "Maxwell Departs JFK to London Heathrow on British Airways Flight 3 (Oct 2, 1999)",
+            "event_type": "travel",
+            "description": "Ghislaine Maxwell departed JFK on British Airways flight BA3 to London Heathrow at 18:00, per CBP TECS APIS border records.",
+            "date_start": "1999-10-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Maxwell regular JFK-LHR travel documented in Epstein case files.",
+            "evidence": [
+              {
+                "file": "EFTA00075957.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MAXWELL GHISLAINE 10/02/1999 BA 3 = 4701 APIS JFK LHR 18:00",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075957.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d4d730a057527d99",
+            "event_title": "Lesley Groff Sends Ticket to Island Visitor: Delta DL465 JFK to St. Thomas, May 24, 2017",
+            "event_type": "travel",
+            "description": "Lesley Groff arranged and sent Delta DL465 ticket departing JFK at 9:00 AM for passenger to travel to Epstein's Little St. James Island on May 24, 2017",
+            "date_start": "2017-05-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Lesley Groff (Epstein's personal assistant) sent the island travel ticket, connecting the travel to Epstein's island.",
+            "evidence": [
+              {
+                "file": "EFTA02220931.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "HI ..here is your ticket to go to the island on Wed. May 24th!\nDelta Air Lines\nDL 465\nNew York, John F Kennedy International\nCharlotte Amalie, Cyril E King Airport\n09:00 AM\n01:08 PM\nTerminal 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220931.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220935.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "American Airlines\nAA 936\nCharlotte Amalie. Cyril E King Airport\nNew York. John F Kennedy International\n02:10 PM\n06:27 PM\n27 May 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220935.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "02eb8ba2424809ff",
+            "event_title": "Valdson Cotrin & Maria de Melo Return New York to Paris, Sept 28, 2017",
+            "event_type": "presence",
+            "description": "Valdson Vieira Cotrin and Maria Gomes De Melo returning from New York to Paris on September 28, 2017.",
+            "date_start": "2017-09-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Maria Gomes De Melo",
+                "role": "associate"
+              },
+              {
+                "name": "Valdson Vieira Cotrin",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return travel arranged through Epstein network.",
+            "evidence": [
+              {
+                "file": "EFTA02221036.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "round trip Paris/NY/Paris returning Sept. 28 for Valdson Vieira Cotrin, Maria Gomes De Melo",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221036.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "698f477783edcf11",
+            "event_title": "Lithuanian Associate Departs JFK to Kiev, August 12, 2017 (Epstein-Arranged)",
+            "event_type": "travel",
+            "description": "Lithuanian citizen departed JFK on PS 232 to Kiev August 12, 2017.",
+            "date_start": "2017-08-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Departure arranged by Epstein network.",
+            "evidence": [
+              {
+                "file": "EFTA02221046.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PS 232 JFK to Kiev Aug 12 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221046.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e964ec122719f052",
+            "event_title": "Lithuanian Associate (KELFXC) Arrives JFK from Kiev, July 22, 2017",
+            "event_type": "travel",
+            "description": "American Express KELFXC itinerary: Lithuania associate arrived JFK Terminal 7 from Kiev on Ukraine Intl Airlines PS 231, July 22, 2017.",
+            "date_start": "2017-07-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Arranged by Epstein network.",
+            "evidence": [
+              {
+                "file": "EFTA02221050.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PS 231 Kiev to JFK July 22 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221050.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221131.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight PS 231\nOrigin Kiev. Boryspil (Borispol)\nDestination New York, John F Kennedy International\nDeparting 11:00AM\nArriving 02:20 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221131.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02220455",
+            "file": "EFTA02220455.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220535",
+            "file": "EFTA02220535.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220498",
+            "file": "EFTA02220498.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220526",
+            "file": "EFTA02220526.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220620",
+            "file": "EFTA02220620.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220665",
+            "file": "EFTA02220665.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220798",
+            "file": "EFTA02220798.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221016",
+            "file": "EFTA02221016.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220641",
+            "file": "EFTA02220641.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220755",
+            "file": "EFTA02220755.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220803",
+            "file": "EFTA02220803.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220683",
+            "file": "EFTA02220683.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220720",
+            "file": "EFTA02220720.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220771",
+            "file": "EFTA02220771.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00075957",
+            "file": "EFTA00075957.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220931",
+            "file": "EFTA02220931.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220935",
+            "file": "EFTA02220935.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221036",
+            "file": "EFTA02221036.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221046",
+            "file": "EFTA02221046.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221050",
+            "file": "EFTA02221050.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221131",
+            "file": "EFTA02221131.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.617494,
           55.750446
         ]
@@ -40839,517 +41542,6 @@
           {
             "doc_id": "EFTA02220251",
             "file": "EFTA02220251.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8283,
-          40.7135
-        ]
-      },
-      "properties": {
-        "id": "20bcf2196270c06c",
-        "name": "John F. Kennedy International Airport",
-        "location_name": "John F. Kennedy International Airport",
-        "location_address": "Queens, New York, United States",
-        "location_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
-        "canonical_name": "John F. Kennedy International Airport, Queens, NY, New York City, New York",
-        "region": "",
-        "property_type": "event",
-        "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
-        "event_count": 9,
-        "evidence_count": 19,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "1999-10-02",
-        "date_end": "2017-09-28",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "associate"
-          },
-          {
-            "name": "Bella Klein",
-            "role": "associate"
-          },
-          {
-            "name": "Maria Gomes de Melo",
-            "role": "other"
-          },
-          {
-            "name": "Larry Visoski",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Natalia Molotkova",
-            "role": "other"
-          },
-          {
-            "name": "Elena",
-            "role": "associate"
-          },
-          {
-            "name": "Ghislaine Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "Valdson Vieira Cotrin",
-            "role": "associate"
-          }
-        ],
-        "source_count": 18,
-        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+13 more)",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
-        "events": [
-          {
-            "event_id": "8217b14a66e63949",
-            "event_title": "Flight DL 465 Booked JFK to STT for Aug 27, 2017 via Lesley Groff",
-            "event_type": "travel",
-            "description": "Lesley Groff coordinated booking of Delta flight 465 from JFK to St. Thomas for August 27, 2017, departing 8:35 AM, arriving 12:42 PM, through American Express Centurion travel services, fare $586.20.",
-            "date_start": "2017-08-27",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "associate"
-              },
-              {
-                "name": "Bella Klein",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Lesley Groff, Epstein's assistant, arranged travel to St. Thomas (location of Epstein's island property) but passenger identity not explicitly confirmed in document.",
-            "evidence": [
-              {
-                "file": "EFTA02220455.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "DL 465 27AUG JFK STT 0835A 1242P 1ADT 293.10 TOTAL FARE - USD 586.20 Non refundabele coach with 200 change fee.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220455.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220535.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Sat, 26AUG DEPART DELTA 465 NYC-KENNEDY Main Cabin (U) 8:35am ARRIVE ST THOMAS VIRGIN ISLANDS, U.S. 12:40pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220535.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "196c9af5d92c4c86",
-            "event_title": "Maria Gomes de Melo: Return Delta Flight DL 404 JFK to Paris CDG",
-            "event_type": "travel",
-            "description": "Maria Gomes de Melo traveled on Delta Air Lines flight DL 404 in economy class from New York JFK International Airport to Paris Charles de Gaulle Airport, departing at 5:29 PM on May 7 and arriving at 7:00 AM on May 8, 2017.",
-            "date_start": "2017-05-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Maria Gomes de Melo",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Return flight for Maria Gomes de Melo coordinated through correspondence with individuals potentially in Epstein's network, but no evidence of Epstein's direct involvement in this specific travel.",
-            "evidence": [
-              {
-                "file": "EFTA02220498.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "07 May 2017\nDelta Air Lines\nHPGMBE\nDL 404 K Economy Class\nNew York, John F Kennedy International\nParis, Charles De Gaulle\n05:29 PM\n07:00 AM / 08 May 2017\nTerminal 4\nTerminal 2 E",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220498.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "05883c215cdb5caf",
-            "event_title": "Flight DL 676: Passenger Arrives JFK from St. Thomas (10 Apr 2017)",
-            "event_type": "travel",
-            "description": "Passenger arrived at John F. Kennedy International Airport Terminal 4 in New York on Delta Air Lines flight DL 676 from St. Thomas at 6:29 PM on April 10, 2017, seat 42C.",
-            "date_start": "2017-04-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "associate"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This is an American Express travel itinerary found in Epstein case files, but the document does not identify the passenger or establish Epstein's physical presence on this flight.",
-            "evidence": [
-              {
-                "file": "EFTA02220526.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeats 42C",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220526.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220620.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nClass T Economy Class\nSeats 42C",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220620.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220665.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeals 42C",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220665.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220798.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeats 42C",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220798.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221016.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hi Teresa, please pick up tomorrow from JFK and take her home to...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221016.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "16763a383559d11e",
-            "event_title": "Redacted passenger return flight DL 458: JFK to LAX (seats 26A, 26B)",
-            "event_type": "travel",
-            "description": "Redacted passenger traveled on Delta Air Lines flight DL 458 from John F. Kennedy International Airport to Los Angeles International Airport, occupying seats 26A and 26B, with tickets arranged by Lesley Groff through American Express Centurion Travel Service.",
-            "date_start": "2017-08-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel arranged by Lesley Groff, who was Epstein's assistant, but the redacted passenger's identity and relationship to Epstein is not established from this document alone.",
-            "evidence": [
-              {
-                "file": "EFTA02220641.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "02 Aug 2017\nDelta Air Lines\nH467T4\nDL 458 U Economy Class\nNew York, John F Kennedy International\nLos Angeles, Los Angeles International\n01:45 PM\n04:45 PM\nTerminal 4\nTerminal 2\n6 Hrs\nNon-stop\n26A, 26B",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220641.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220755.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "02 Aug 2017\nDelta Air Lines\nAirline Record Locator H467T4\nFlight/Class DL 458 U Economy Class\nOrigin New York, John F Kennedy International\nDestination Los Angeles, Los Angeles International\nDeparting 01:45 PM\nArriving 04:45 PM\nDeparture Terminal 4\nArrival Terminal 2\nEstimated Time 6 Hrs\nNon-stop\nSeats 26A, 26B",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220755.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220803.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Wednesday 02 Aug 17\nFlight Information\nDate 02 Aug 2017\nAirline Delta Air Lines\nAirline Record Locator H467T4\nFlight/Class DL 458 U Economy Class\nOrigin New York, John F Kennedy International\nDestination Los Angeles, Los Angeles International\nDeparting 01:45 PM\nArriving 04:45 PM\nDeparture Terminal 4\nArrival Terminal 2",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220803.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "4dcd17bc91cf14dd",
-            "event_title": "Flight DL 465: Passenger Departs JFK for St. Thomas, USVI (Aug 26, 2017)",
-            "event_type": "travel",
-            "description": "Lesley Groff arranged Delta Airlines flight DL 465 for an unidentified passenger departing JFK Terminal 4 at 8:35 AM on August 26, 2017, arriving at Cyril E King Airport in St. Thomas at 12:40 PM, with ticket number DL 0068648380927, seat 29A, record locator UQPZCC.",
-            "date_start": "2017-08-26",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Natalia Molotkova",
-                "role": "other"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "associate"
-              },
-              {
-                "name": "Elena",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Travel arrangements were made by Epstein's assistant Lesley Groff and approved by Jeffrey Epstein via email, but it is unclear if Epstein himself was the passenger on this flight.",
-            "evidence": [
-              {
-                "file": "EFTA02220683.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "26 Aug 2017\nDelta Air Lines\nGN9CBZ\nDL 465 U Economy Class\nNew York, John F Kennedy International\nCharlotte Amalie, Cyril E King Airport\n08:35 AM\n12:40 PM\nTerminal 4\n4 Hrs 5 Mins\nNon-stop\n29A",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220683.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220720.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "DL 676 26AUG STT JFK 0137P 0537P\n\nFlight Information\nDate 27 Aug 2017\nAirline Delta Air Lines\nFlight/Class DL 676 Y Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 01:37 PM\nArriving 05:39 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220720.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220771.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I know that Elena is flying out to the island tomorrow and she has just asked me if the transportation to JFK can be organized for her.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220771.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "08faa1f22ffeb043",
-            "event_title": "Flight DL 1750: Two Passengers Travel Los Angeles to New York JFK",
-            "event_type": "travel",
-            "description": "Two passengers flew Delta Air Lines flight DL 1750 from Los Angeles International Airport to John F. Kennedy International Airport on July 16, 2017, departing at 8:45 AM and arriving at 5:30 PM, with assigned seats 29A and 29B.",
-            "date_start": "2017-07-16",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Travel itinerary forwarded by Epstein's assistant Lesley Groff to his email address suggests his involvement in the travel, though the ticket names are redacted.",
-            "evidence": [
-              {
-                "file": "EFTA02220755.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "16 Jul 2017\nDelta Air Lines\nAirline Record Locator H467T4\nFlight/Class DL 1750 L Economy Class\nOrigin Los Angeles, Los Angeles International\nDestination New York, John F Kennedy International\nDeparting 08:45 AM\nArriving 05:30 PM\nDeparture Terminal 2\nArrival Terminal 4\nEstimated Time 5 Hrs 45 Mins\nNon-stop\nSeats 29A, 29B",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220755.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f7bcc4b8b0941d6c",
-            "event_title": "Maxwell Departs JFK to London Heathrow on British Airways Flight 3 (Oct 2, 1999)",
-            "event_type": "travel",
-            "description": "Ghislaine Maxwell departed JFK on British Airways flight BA3 to London Heathrow at 18:00, per CBP TECS APIS border records.",
-            "date_start": "1999-10-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ghislaine Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Maxwell regular JFK-LHR travel documented in Epstein case files.",
-            "evidence": [
-              {
-                "file": "EFTA00075957.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "MAXWELL GHISLAINE 10/02/1999 BA 3 = 4701 APIS JFK LHR 18:00",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075957.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d4d730a057527d99",
-            "event_title": "Lesley Groff Sends Ticket to Island Visitor: Delta DL465 JFK to St. Thomas, May 24, 2017",
-            "event_type": "travel",
-            "description": "Lesley Groff arranged and sent Delta DL465 ticket departing JFK at 9:00 AM for passenger to travel to Epstein's Little St. James Island on May 24, 2017",
-            "date_start": "2017-05-24",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Lesley Groff (Epstein's personal assistant) sent the island travel ticket, connecting the travel to Epstein's island.",
-            "evidence": [
-              {
-                "file": "EFTA02220931.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "HI ..here is your ticket to go to the island on Wed. May 24th!\nDelta Air Lines\nDL 465\nNew York, John F Kennedy International\nCharlotte Amalie, Cyril E King Airport\n09:00 AM\n01:08 PM\nTerminal 4",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220931.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220935.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "American Airlines\nAA 936\nCharlotte Amalie. Cyril E King Airport\nNew York. John F Kennedy International\n02:10 PM\n06:27 PM\n27 May 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220935.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "02eb8ba2424809ff",
-            "event_title": "Valdson Cotrin & Maria de Melo Return New York to Paris, Sept 28, 2017",
-            "event_type": "presence",
-            "description": "Valdson Vieira Cotrin and Maria Gomes De Melo returning from New York to Paris on September 28, 2017.",
-            "date_start": "2017-09-28",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Maria Gomes De Melo",
-                "role": "associate"
-              },
-              {
-                "name": "Valdson Vieira Cotrin",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Return travel arranged through Epstein network.",
-            "evidence": [
-              {
-                "file": "EFTA02221036.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "round trip Paris/NY/Paris returning Sept. 28 for Valdson Vieira Cotrin, Maria Gomes De Melo",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221036.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02220455",
-            "file": "EFTA02220455.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220535",
-            "file": "EFTA02220535.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220498",
-            "file": "EFTA02220498.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220526",
-            "file": "EFTA02220526.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220620",
-            "file": "EFTA02220620.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220665",
-            "file": "EFTA02220665.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220798",
-            "file": "EFTA02220798.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221016",
-            "file": "EFTA02221016.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220641",
-            "file": "EFTA02220641.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220755",
-            "file": "EFTA02220755.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220803",
-            "file": "EFTA02220803.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220683",
-            "file": "EFTA02220683.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220720",
-            "file": "EFTA02220720.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220771",
-            "file": "EFTA02220771.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00075957",
-            "file": "EFTA00075957.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220931",
-            "file": "EFTA02220931.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220935",
-            "file": "EFTA02220935.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221036",
-            "file": "EFTA02221036.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -46505,6 +46697,214 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.975093,
+          40.763751
+        ]
+      },
+      "properties": {
+        "id": "0a30f1c9b5351f03",
+        "name": "Apollo Global Management",
+        "location_name": "Apollo Global Management",
+        "location_address": "9 West 57th Street, New York City, New York 10019, United States",
+        "location_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
+        "canonical_name": "9 West 57th Street, New York, NY 10019, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Apollo Global Management",
+        "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
+        "event_count": 4,
+        "evidence_count": 4,
+        "primary_event_type": "communication",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-10",
+        "date_end": "2017-09-13",
+        "people": [
+          {
+            "name": "Melanie Spinella",
+            "role": "other"
+          },
+          {
+            "name": "Leon",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Leon Black",
+            "role": "associate"
+          },
+          {
+            "name": "Kathryn Ruemmler",
+            "role": "legal"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 4,
+        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02220888.pdf, EFTA02221135.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "communication",
+        "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
+        "events": [
+          {
+            "event_id": "d75c084ea1d1f9b6",
+            "event_title": "Leon Meets at Apollo Management Offices, 9 W 57th St NY (May 19 2017)",
+            "event_type": "communication",
+            "description": "Confirmed that Leon would arrive at Apollo Management offices at 9 West 57th Street, New York at 8:30am on May 19, 2017, per Melanie Spinella's email from the firm.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
+                "name": "Leon",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The email confirming Leon's meeting at Apollo Management appears in Epstein's files, suggesting Leon is connected to Epstein's network, though Epstein's presence is not confirmed.",
+            "evidence": [
+              {
+                "file": "EFTA02213051.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "just confirming Leon is coming at 8:30am tomorrow!\nMelanie Spinella I Apollo Management\n9West 57th Street, New York, New York 10019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213051.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "39adc39263e84972",
+            "event_title": "Jeffrey Epstein Meets Leon Black at Apollo Management, 1:30pm May 10 2017",
+            "event_type": "communication",
+            "description": "Jeffrey Epstein invited to meet Leon Black at Apollo Management 9W57St NY at 1:30pm May 10, 2017.",
+            "date_start": "2017-05-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02213177.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he said he could see you at 1:30 today",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213177.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ac1f7f7cd86f4a93",
+            "event_title": "Tentative Meeting: Epstein and Kathy Ruemmler at Fekkai Salon, 714 5th Ave NYC (Sept 13, 2017)",
+            "event_type": "presence",
+            "description": "Tentative meeting between Jeffrey Epstein and attorney Kathy Ruemmler at Frederic Fekkai Salon, 714 5th Avenue, New York, on September 13, 2017 at 4:00 PM.",
+            "date_start": "2017-09-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kathryn Ruemmler",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Calendar entry shows a tentative meeting at Fekkai salon between Epstein and his attorney Kathy Ruemmler, placing both at this location.",
+            "evidence": [
+              {
+                "file": "EFTA02220888.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "4:00pm TENTATIVE MEET Kathy Ruemmler at Fekkai (Kathy Fakkai Salon, 714 5th Ave. (btn 55th & 56th), 4th floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220888.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "17842a5dbbcba13a",
+            "event_title": "Epstein Network Associate Scheduled for Hair Appointment at Fekkai NYC, Aug 2017",
+            "event_type": "presence",
+            "description": "Unnamed Epstein-network associate requested hair appointment with stylist Patrick at Fr\u00e9d\u00e9ric Fekkai salon in New York City, coordinated by Lesley Groff with Jeffrey Epstein permission, late August 2017.",
+            "date_start": "2017-08-25",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein gave explicit permission for appointment, coordinated by PA.",
+            "evidence": [
+              {
+                "file": "EFTA02221135.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I have contacted Jeffrey regarding a hair appointment...he gave his permission and told me to contact you to organize it...see if there are spots to see Patrick at Fekkai anytime soon",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221135.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213051",
+            "file": "EFTA02213051.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213177",
+            "file": "EFTA02213177.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220888",
+            "file": "EFTA02220888.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221135",
+            "file": "EFTA02221135.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.979437,
           40.754786
         ]
@@ -49678,174 +50078,6 @@
           {
             "doc_id": "EFTA02212850",
             "file": "EFTA02212850.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.975093,
-          40.763751
-        ]
-      },
-      "properties": {
-        "id": "0a30f1c9b5351f03",
-        "name": "Apollo Global Management",
-        "location_name": "Apollo Global Management",
-        "location_address": "9 West 57th Street, New York City, New York 10019, United States",
-        "location_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
-        "canonical_name": "9 West 57th Street, New York, NY 10019, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Apollo Global Management",
-        "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
-        "event_count": 3,
-        "evidence_count": 3,
-        "primary_event_type": "communication",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-10",
-        "date_end": "2017-09-13",
-        "people": [
-          {
-            "name": "Melanie Spinella",
-            "role": "other"
-          },
-          {
-            "name": "Leon",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Leon Black",
-            "role": "associate"
-          },
-          {
-            "name": "Kathryn Ruemmler",
-            "role": "legal"
-          }
-        ],
-        "source_count": 3,
-        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02220888.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "communication",
-        "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
-        "events": [
-          {
-            "event_id": "d75c084ea1d1f9b6",
-            "event_title": "Leon Meets at Apollo Management Offices, 9 W 57th St NY (May 19 2017)",
-            "event_type": "communication",
-            "description": "Confirmed that Leon would arrive at Apollo Management offices at 9 West 57th Street, New York at 8:30am on May 19, 2017, per Melanie Spinella's email from the firm.",
-            "date_start": "2017-05-19",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Melanie Spinella",
-                "role": "other"
-              },
-              {
-                "name": "Leon",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The email confirming Leon's meeting at Apollo Management appears in Epstein's files, suggesting Leon is connected to Epstein's network, though Epstein's presence is not confirmed.",
-            "evidence": [
-              {
-                "file": "EFTA02213051.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "just confirming Leon is coming at 8:30am tomorrow!\nMelanie Spinella I Apollo Management\n9West 57th Street, New York, New York 10019",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213051.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "39adc39263e84972",
-            "event_title": "Jeffrey Epstein Meets Leon Black at Apollo Management, 1:30pm May 10 2017",
-            "event_type": "communication",
-            "description": "Jeffrey Epstein invited to meet Leon Black at Apollo Management 9W57St NY at 1:30pm May 10, 2017.",
-            "date_start": "2017-05-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Melanie Spinella",
-                "role": "other"
-              },
-              {
-                "name": "Leon Black",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02213177.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he said he could see you at 1:30 today",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213177.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ac1f7f7cd86f4a93",
-            "event_title": "Tentative Meeting: Epstein and Kathy Ruemmler at Fekkai Salon, 714 5th Ave NYC (Sept 13, 2017)",
-            "event_type": "presence",
-            "description": "Tentative meeting between Jeffrey Epstein and attorney Kathy Ruemmler at Frederic Fekkai Salon, 714 5th Avenue, New York, on September 13, 2017 at 4:00 PM.",
-            "date_start": "2017-09-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kathryn Ruemmler",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Calendar entry shows a tentative meeting at Fekkai salon between Epstein and his attorney Kathy Ruemmler, placing both at this location.",
-            "evidence": [
-              {
-                "file": "EFTA02220888.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "4:00pm TENTATIVE MEET Kathy Ruemmler at Fekkai (Kathy Fakkai Salon, 714 5th Ave. (btn 55th & 56th), 4th floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220888.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213051",
-            "file": "EFTA02213051.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213177",
-            "file": "EFTA02213177.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220888",
-            "file": "EFTA02220888.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -58376,6 +58608,123 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.023451,
+          41.47666
+        ]
+      },
+      "properties": {
+        "id": "89c8d7821bc05b34",
+        "name": "Stewart International Airport",
+        "location_name": "Stewart International Airport",
+        "location_address": "New Windsor, New York, United States",
+        "location_description": "A commercial and general aviation airport located in New Windsor, New York, approximately 60 miles north of New York City.",
+        "canonical_name": "Stewart International Airport, New Windsor, NY, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Stewart International Airport",
+        "location_descriptor": "A commercial and general aviation airport located in New Windsor, New York, approximately 60 miles north of New York City.",
+        "event_count": 2,
+        "evidence_count": 4,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-08-31",
+        "date_end": "2017-08-31",
+        "people": [],
+        "source_count": 4,
+        "sources_preview": "EFTA02220678.pdf, EFTA02220698.pdf, EFTA02220768.pdf, EFTA02221121.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "A commercial and general aviation airport located in New Windsor, New York, approximately 60 miles north of New York City.",
+        "events": [
+          {
+            "event_id": "697ec0a8c144f9f8",
+            "event_title": "Flight N415LM Arrived at Stewart International Airport from Long Island",
+            "event_type": "presence",
+            "description": "Aircraft N415LM, a Gulfstream GLF5, was scheduled to arrive at Stewart International Airport from Long Island MacArthur Airport on August 31, 2017 at 4:57 PM EDT.",
+            "date_start": "2017-08-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is a flight alert for aircraft N415LM with no indication of passengers or direct connection to Epstein beyond being in case files.",
+            "evidence": [
+              {
+                "file": "EFTA02220678.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) has just filed a flight plan. It is scheduled to depart from Long Island MacArthur (KISP) at 04:42PM EDT Thursday (31 Aug) heading for Stewart Intl (KSWF) for an estimated arrival at 04:57PM EDT Thursday (31 Aug).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220678.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220698.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) departed Long Island MacArthur (KISP) at 04:42PM EDT enroute to Stewart Intl (KSWF) for an estimated arrival at 04:57PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220698.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220768.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM arrived at Stewart Intl (KSWF) at 05:09PM EDT from Long Island MacArthur (KISP)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220768.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "33b65140e9516e52",
+            "event_title": "N415LM (Gulfstream 5) Flies Stewart Intl to Long Island MacArthur Airport",
+            "event_type": "travel",
+            "description": "Aircraft N415LM (Gulfstream 5) departed Stewart International Airport (KSWF) at 6:03PM EDT enroute to Long Island MacArthur Airport (KISP), estimated arrival 6:23PM EDT on August 31, 2017.",
+            "date_start": "2017-08-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Flight alert sent to Epstein-network contact; N415LM appears in Epstein case files as an aircraft associated with his operations.",
+            "evidence": [
+              {
+                "file": "EFTA02221121.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) departed Stewart Intl (KSWF) at 06:03PM EDT enroute to Long Island MacArthur (KISP) for an estimated arrival at 06:23PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221121.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02220678",
+            "file": "EFTA02220678.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220698",
+            "file": "EFTA02220698.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220768",
+            "file": "EFTA02220768.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221121",
+            "file": "EFTA02221121.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.753462,
           42.120246
         ]
@@ -63492,7 +63841,7 @@
         "display_name": "Kaunas International Airport",
         "location_descriptor": "The second-largest airport in Lithuania, located about 9 km north of Kaunas city center and serving Central and Eastern Europe.",
         "event_count": 1,
-        "evidence_count": 3,
+        "evidence_count": 6,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -63512,8 +63861,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA02214006.pdf, EFTA02217015.pdf, EFTA02219654.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA02214006.pdf, EFTA02217015.pdf, EFTA02219654.pdf, EFTA02221126.pdf, EFTA02221131.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The second-largest airport in Lithuania, located about 9 km north of Kaunas city center and serving Central and Eastern Europe.",
@@ -63564,6 +63913,27 @@
                 "excerpt": "Here is your ticket to come to NY July 22-Aug. 12! I have also set aside an apartment for you!\n...Ukraine Intl Airlines PS974 Kaunas\u2192Kiev 22 Jul 2017\n...PS231 Kiev\u2192[connecting to New York]\n...CITIZENS OF LITHUANIA MUST CARRY A VALID PASSPORT",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219654.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221126.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "22 Jul 2017 Ukraine Intl Airlines MTILLS PS 974 N Economy Class Kaunas, Kaunas Kiev, Boryspil (Borispol) 06:55 AM 08:25 AM 1 Hr 30 Mins Non-stop",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221126.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221131.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "CITIZENS OF LITHUANIA...Flight PS 974...Kaunas...Kiev 06:55 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221131.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221131.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "CITIZENS OF LITHUANIA MUST CARRY A VALID PASSPORT\nFlight PS 974\nOrigin Kaunas, Kaunas\nDestination Kiev, Boryspil (Borispol)\nDeparting 06:55 AM\nArriving 08:25 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221131.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -63582,6 +63952,16 @@
           {
             "doc_id": "EFTA02219654",
             "file": "EFTA02219654.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221126",
+            "file": "EFTA02221126.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221131",
+            "file": "EFTA02221131.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -68798,96 +69178,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.023451,
-          41.47666
-        ]
-      },
-      "properties": {
-        "id": "89c8d7821bc05b34",
-        "name": "Stewart International Airport",
-        "location_name": "Stewart International Airport",
-        "location_address": "New Windsor, New York, United States",
-        "location_description": "A commercial and general aviation airport located in New Windsor, New York, approximately 60 miles north of New York City.",
-        "canonical_name": "Stewart International Airport, New Windsor, NY, New York",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Stewart International Airport",
-        "location_descriptor": "A commercial and general aviation airport located in New Windsor, New York, approximately 60 miles north of New York City.",
-        "event_count": 1,
-        "evidence_count": 3,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-08-31",
-        "date_end": "2017-08-31",
-        "people": [],
-        "source_count": 3,
-        "sources_preview": "EFTA02220678.pdf, EFTA02220698.pdf, EFTA02220768.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "presence",
-        "event_description": "A commercial and general aviation airport located in New Windsor, New York, approximately 60 miles north of New York City.",
-        "events": [
-          {
-            "event_id": "697ec0a8c144f9f8",
-            "event_title": "Flight N415LM Arrived at Stewart International Airport from Long Island",
-            "event_type": "presence",
-            "description": "Aircraft N415LM, a Gulfstream GLF5, was scheduled to arrive at Stewart International Airport from Long Island MacArthur Airport on August 31, 2017 at 4:57 PM EDT.",
-            "date_start": "2017-08-31",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This is a flight alert for aircraft N415LM with no indication of passengers or direct connection to Epstein beyond being in case files.",
-            "evidence": [
-              {
-                "file": "EFTA02220678.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM (GLF5) has just filed a flight plan. It is scheduled to depart from Long Island MacArthur (KISP) at 04:42PM EDT Thursday (31 Aug) heading for Stewart Intl (KSWF) for an estimated arrival at 04:57PM EDT Thursday (31 Aug).",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220678.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220698.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM (GLF5) departed Long Island MacArthur (KISP) at 04:42PM EDT enroute to Stewart Intl (KSWF) for an estimated arrival at 04:57PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220698.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220768.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM arrived at Stewart Intl (KSWF) at 05:09PM EDT from Long Island MacArthur (KISP)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220768.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02220678",
-            "file": "EFTA02220678.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220698",
-            "file": "EFTA02220698.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220768",
-            "file": "EFTA02220768.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -84.703192,
           39.066141
         ]
@@ -69830,6 +70120,82 @@
           {
             "doc_id": "EFTA00076294",
             "file": "EFTA00076294.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569734,
+          55.675313
+        ]
+      },
+      "properties": {
+        "id": "3e2691a83cfe630f",
+        "name": "Copenhagen Airport",
+        "location_name": "Copenhagen Airport",
+        "location_address": "Copenhagen, Capital Region of Denmark, Denmark",
+        "location_description": "The main international airport of Denmark, located in Kastrup on the island of Amager, approximately 8 km southeast of central Copenhagen.",
+        "canonical_name": "Copenhagen Airport, Copenhagen, Denmark, Capital Region of Denmark",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Copenhagen Airport",
+        "location_descriptor": "The main international airport of Denmark, located in Kastrup on the island of Amager, approximately 8 km southeast of central Copenhagen.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-04",
+        "date_end": "2017-09-04",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02221122.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "The main international airport of Denmark, located in Kastrup on the island of Amager, approximately 8 km southeast of central Copenhagen.",
+        "events": [
+          {
+            "event_id": "67d01f234b799263",
+            "event_title": "Epstein-Network Passenger Connects Copenhagen to Vilnius on SAS Flight SK074",
+            "event_type": "travel",
+            "description": "SAS flight SK074 departed Copenhagen CPH at 21:05 and arrived Vilnius VNO at 23:35 on September 4, 2017; itinerary forwarded by Epstein assistant Lesley Groff.",
+            "date_start": "2017-09-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel coordinated by Lesley Groff (Epstein staff) but no confirmed direct Epstein involvement in this specific itinerary.",
+            "evidence": [
+              {
+                "file": "EFTA02221122.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "04SEP17 Departure: Arrival:\nCopenhagen CPH Vilnius VNO\n2105 2335\nSK 074",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221122.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221122",
+            "file": "EFTA02221122.pdf",
             "source_type": "doj_efta"
           }
         ]
