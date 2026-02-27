@@ -10310,7 +10310,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 136,
-        "evidence_count": 511,
+        "evidence_count": 512,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -10894,8 +10894,8 @@
             "role": "other"
           }
         ],
-        "source_count": 430,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+425 more)",
+        "source_count": 431,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+426 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -12432,6 +12432,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "WE COMMAND YOU... Appearance Date: November 29, 2021 Appearance Place: 40 Foley Square, Courtroom 906 to testify and give evidence in the following matter: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085086.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00086534.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "you appear and attend before the United States District Court for the Southern District of New York, 40 Foley Square, in the Borough of Manhattan... Appearance Date: November 29, 2021 Appearance Time: 9:00 a.m. ... to testify and give evidence in the following matter: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00086534.pdf",
                 "confidence": 0.7
               }
             ]
@@ -18464,6 +18471,11 @@
           {
             "doc_id": "EFTA00085086",
             "file": "EFTA00085086.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00086534",
+            "file": "EFTA00086534.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -34612,7 +34624,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 57,
-        "evidence_count": 145,
+        "evidence_count": 146,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -34806,10 +34818,14 @@
           {
             "name": "Eduardo A. Robles",
             "role": "associate"
+          },
+          {
+            "name": "Employee-3 in Indictment",
+            "role": "witness"
           }
         ],
-        "source_count": 135,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+130 more)",
+        "source_count": 136,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+131 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -37128,6 +37144,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Employee-3 in Indictment",
+                "role": "witness"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               }
@@ -37140,6 +37160,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "The threesomes occurred 3-4 times in New York, New Mexico, or on the Island.",
                 "document_url": "...",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00086365.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "At least some of these encounters involved herself providing Epstein with his massages when they were in the Virgin Islands.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00086365.pdf",
                 "confidence": 0.7
               }
             ]
@@ -37889,6 +37916,11 @@
           {
             "doc_id": "EFTA00084191",
             "file": "EFTA00084191.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00086365",
+            "file": "EFTA00086365.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -55883,7 +55915,7 @@
         "display_name": "Long Island MacArthur Airport",
         "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
         "event_count": 10,
-        "evidence_count": 28,
+        "evidence_count": 29,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -55915,8 +55947,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 26,
-        "sources_preview": "EFTA00005994.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, EFTA02216069.pdf, ... (+21 more)",
+        "source_count": 27,
+        "sources_preview": "EFTA00005994.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, EFTA02216069.pdf, ... (+22 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
@@ -56110,6 +56142,13 @@
                 "file": "EFTA02224058.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "N212JE arrived at Long Island MacArthur (KISP) at 03:07PM EDT from Teterboro (KTEB)",
+                "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02224132.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Does Darren need to be notified since we will be departing Islip at least 45 minutes later than I expected?",
                 "document_url": "",
                 "confidence": 0.7
               }
@@ -56386,6 +56425,11 @@
           {
             "doc_id": "EFTA02224058",
             "file": "EFTA02224058.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02224132",
+            "file": "EFTA02224132.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -70613,6 +70657,274 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.982582,
+          40.773629
+        ]
+      },
+      "properties": {
+        "id": "2e49265825030a14",
+        "name": "Alice Tully Hall, Lincoln Center",
+        "location_name": "Alice Tully Hall, Lincoln Center",
+        "location_address": "1941 Broadway, New York City, New York 10023, United States",
+        "location_description": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
+        "canonical_name": "Alice Tully Hall, Lincoln Center, 1941 Broadway, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Alice Tully Hall, Lincoln Center",
+        "location_descriptor": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
+        "event_count": 3,
+        "evidence_count": 11,
+        "primary_event_type": "transaction",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09",
+        "date_end": "2017-12-06",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Peggy Siegal",
+            "role": "associate"
+          },
+          {
+            "name": "Rebecca Drescher",
+            "role": "other"
+          },
+          {
+            "name": "Peggy",
+            "role": "associate"
+          },
+          {
+            "name": "Alan Gilbert",
+            "role": "other"
+          }
+        ],
+        "source_count": 11,
+        "sources_preview": "EFTA02223062.pdf, EFTA02223224.pdf, EFTA02223282.pdf, EFTA02223331.pdf, EFTA02223318.pdf, ... (+6 more)",
+        "epstein_nexus": "direct",
+        "event_type": "transaction",
+        "event_description": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
+        "events": [
+          {
+            "event_id": "42ab928299c1b734",
+            "event_title": "Epstein Plans to Attend NY Film Festival Opening \"Last Flag Flying\" Sept 28",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein planned to attend the New York Film Festival opening film \"Last Flag Flying\" with a companion on September 28, 2017.",
+            "date_start": "2017-09-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Peggy Siegal",
+                "role": "associate"
+              },
+              {
+                "name": "Rebecca Drescher",
+                "role": "other"
+              },
+              {
+                "name": "Peggy",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally planned to attend the NY Film Festival opening night event on September 28, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02223062.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey mentioned he would attend with her...so I assume this is the film he wil\nOn Sep 19, 2017, at 12:13 PM, Rebecca Drescher wrote:\nThe opening film is \"Last Flag Flying\" starting at 6pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223062.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223224.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "9:00pm Screening: \"Last Flag Flying\"\nAlice Tully",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223224.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223282.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is only coming to the film and possibly the after party for a bit. Peggy just spoke with him!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223282.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223331.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is only coming to the film and possibly the after party for a bit. Peggy just spoke with him! I will messenger over the movie tickets tomorrow.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223331.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223318.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is only coming to the film and possibly the after party for a bit. Peggy just spoke with him! I will messenger over the movie tickets tomorrow.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223318.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223498.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey mentioned he would attend with her...so I assume this is the film he will go to with Peggy.. The opening film is \"Last Flag Flying\" starting at 6pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223498.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223468.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "9:00pm Screening: 'Last Flag Flying' Alice Tully Hall, Lincoln Center West 65th Street & Broadway",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223468.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223476.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey mentioned he would attend with her...so I assume this is the film he will go to with Peggy. The opening film is 'Last Flag Flying' starting at 6pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223476.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223723.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "6:00pm NY Film Festival with Peggy...",
+                "document_url": "",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "625d73460fda53b5",
+            "event_title": "Epstein Attends New York Philharmonic Orchestra Concert, December 6",
+            "event_type": "transaction",
+            "description": "Jeffrey Epstein purchased 2 Philharmonic Orchestra tickets at $400 each through Amex for the December 6, 2017 show at Lincoln Center.",
+            "date_start": "2017-12-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally attending the Philharmonic concert on December 6, 2017, as noted in staff email about tickets.",
+            "evidence": [
+              {
+                "file": "EFTA02223143.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2 tickets to the Philharmonic Orchestra purchased on JEs amex for $400 each-Dec. 6th show... JE to go to concert.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223143.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b3df31d332309ab8",
+            "event_title": "Epstein Purchases New York Philharmonic Tickets for Alan Gilbert Concert",
+            "event_type": "transaction",
+            "description": "Jeffrey Epstein purchased tickets to a New York Philharmonic concert conducted by Alan Gilbert at Lincoln Center, tickets confirmed September 2017.",
+            "date_start": "2017-09",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Alan Gilbert",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Tickets were purchased in Epstein's name for a NY Philharmonic concert, indicating planned attendance though no specific concert date or confirmation of actual attendance is documented.",
+            "evidence": [
+              {
+                "file": "EFTA02224162.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Re: New York Philharmonic: Alan Gilbert - Jeffrey Epstein tickets\nHi. I recd the confirmation but did not receive the tickets. I assume they come later.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02224162.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02223062",
+            "file": "EFTA02223062.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223224",
+            "file": "EFTA02223224.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223282",
+            "file": "EFTA02223282.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223331",
+            "file": "EFTA02223331.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223318",
+            "file": "EFTA02223318.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223498",
+            "file": "EFTA02223498.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223468",
+            "file": "EFTA02223468.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223476",
+            "file": "EFTA02223476.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223723",
+            "file": "EFTA02223723.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223143",
+            "file": "EFTA02223143.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02224162",
+            "file": "EFTA02224162.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.017073,
           32.350751
         ]
@@ -78182,234 +78494,6 @@
           {
             "doc_id": "EFTA02223468",
             "file": "EFTA02223468.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.982582,
-          40.773629
-        ]
-      },
-      "properties": {
-        "id": "2e49265825030a14",
-        "name": "Alice Tully Hall, Lincoln Center",
-        "location_name": "Alice Tully Hall, Lincoln Center",
-        "location_address": "1941 Broadway, New York City, New York 10023, United States",
-        "location_description": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
-        "canonical_name": "Alice Tully Hall, Lincoln Center, 1941 Broadway, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Alice Tully Hall, Lincoln Center",
-        "location_descriptor": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
-        "event_count": 2,
-        "evidence_count": 10,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-09-28",
-        "date_end": "2017-12-06",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Peggy Siegal",
-            "role": "associate"
-          },
-          {
-            "name": "Rebecca Drescher",
-            "role": "other"
-          },
-          {
-            "name": "Peggy",
-            "role": "associate"
-          }
-        ],
-        "source_count": 10,
-        "sources_preview": "EFTA02223062.pdf, EFTA02223224.pdf, EFTA02223282.pdf, EFTA02223331.pdf, EFTA02223318.pdf, ... (+5 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
-        "events": [
-          {
-            "event_id": "42ab928299c1b734",
-            "event_title": "Epstein Plans to Attend NY Film Festival Opening \"Last Flag Flying\" Sept 28",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein planned to attend the New York Film Festival opening film \"Last Flag Flying\" with a companion on September 28, 2017.",
-            "date_start": "2017-09-28",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Peggy Siegal",
-                "role": "associate"
-              },
-              {
-                "name": "Rebecca Drescher",
-                "role": "other"
-              },
-              {
-                "name": "Peggy",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally planned to attend the NY Film Festival opening night event on September 28, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02223062.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey mentioned he would attend with her...so I assume this is the film he wil\nOn Sep 19, 2017, at 12:13 PM, Rebecca Drescher wrote:\nThe opening film is \"Last Flag Flying\" starting at 6pm.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223062.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223224.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "9:00pm Screening: \"Last Flag Flying\"\nAlice Tully",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223224.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223282.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey is only coming to the film and possibly the after party for a bit. Peggy just spoke with him!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223282.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223331.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey is only coming to the film and possibly the after party for a bit. Peggy just spoke with him! I will messenger over the movie tickets tomorrow.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223331.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223318.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey is only coming to the film and possibly the after party for a bit. Peggy just spoke with him! I will messenger over the movie tickets tomorrow.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223318.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223498.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey mentioned he would attend with her...so I assume this is the film he will go to with Peggy.. The opening film is \"Last Flag Flying\" starting at 6pm.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223498.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223468.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "9:00pm Screening: 'Last Flag Flying' Alice Tully Hall, Lincoln Center West 65th Street & Broadway",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223468.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223476.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey mentioned he would attend with her...so I assume this is the film he will go to with Peggy. The opening film is 'Last Flag Flying' starting at 6pm.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223476.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223723.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "6:00pm NY Film Festival with Peggy...",
-                "document_url": "",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "625d73460fda53b5",
-            "event_title": "Epstein Attends New York Philharmonic Orchestra Concert, December 6",
-            "event_type": "transaction",
-            "description": "Jeffrey Epstein purchased 2 Philharmonic Orchestra tickets at $400 each through Amex for the December 6, 2017 show at Lincoln Center.",
-            "date_start": "2017-12-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally attending the Philharmonic concert on December 6, 2017, as noted in staff email about tickets.",
-            "evidence": [
-              {
-                "file": "EFTA02223143.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "2 tickets to the Philharmonic Orchestra purchased on JEs amex for $400 each-Dec. 6th show... JE to go to concert.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223143.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02223062",
-            "file": "EFTA02223062.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223224",
-            "file": "EFTA02223224.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223282",
-            "file": "EFTA02223282.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223331",
-            "file": "EFTA02223331.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223318",
-            "file": "EFTA02223318.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223498",
-            "file": "EFTA02223498.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223468",
-            "file": "EFTA02223468.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223476",
-            "file": "EFTA02223476.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223723",
-            "file": "EFTA02223723.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223143",
-            "file": "EFTA02223143.pdf",
             "source_type": "doj_efta"
           }
         ]
