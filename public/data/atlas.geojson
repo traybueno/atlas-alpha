@@ -22,7 +22,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 136,
-        "evidence_count": 427,
+        "evidence_count": 430,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -722,8 +722,8 @@
             "role": "witness"
           }
         ],
-        "source_count": 396,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+391 more)",
+        "source_count": 399,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+394 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -1410,6 +1410,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "The Subject Devices were recovered from a search of JEFFREY EPSTEIN's private residence located at 9 East 71st Street, New York, New York, which took place on July 11, 2019. The Subject Devices are particularly described as follows: a. A \"Seagate Path 100\" hard drive, which was seized from inside a book shelf cabinet in an oval study on the first floor of the New York Residence",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081933.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00082663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, EPSTEIN sexually abused numerous minor victims at the Subject Premises. When a victim arrived, she would be escorted to a room with a massage table, where she would perform a massage on EPSTEIN. Victims were as young as 14 years of age.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082663.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00082672.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "from at least in or about 2002, up to and including at least in or about 2005, JEFFREY EPSTEIN sexually abused multiple minor girls in the Southern District of New York and elsewhere. During that time and continuing to the present, EPSTEIN possessed and controlled the Subject Premises.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082672.pdf",
                 "confidence": 0.7
               }
             ]
@@ -7219,6 +7233,13 @@
                 "excerpt": "will drop by tonight at 9pm to see JE...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223280.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223354.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reconfirming you will come see Jeffrey today at 12:30. His name is Alex Klokus.",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           },
@@ -7841,6 +7862,16 @@
           {
             "doc_id": "EFTA00081933",
             "file": "EFTA00081933.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00082663",
+            "file": "EFTA00082663.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00082672",
+            "file": "EFTA00082672.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -9516,6 +9547,11 @@
           {
             "doc_id": "EFTA02223280",
             "file": "EFTA02223280.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223354",
+            "file": "EFTA02223354.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -24974,7 +25010,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 71,
-        "evidence_count": 167,
+        "evidence_count": 169,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -25158,8 +25194,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 146,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02221589.pdf, EFTA02221743.pdf, ... (+141 more)",
+        "source_count": 148,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00082688.pdf, EFTA02212885.pdf, EFTA02221589.pdf, ... (+143 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -25268,6 +25304,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "EPSTEIN  JEFFREY  01/20/1953  P  469911707  03/11/2017 06:17  N212JE  I  PASSENGER CUSTOMS  KBAF TIST",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263197.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00082688.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "3/8/2017 - Inbound from TFFJ to TIST (St. Barts to Cyril E King, USVI)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082688.pdf",
                 "confidence": 0.7
               }
             ]
@@ -27874,6 +27917,13 @@
                 "excerpt": "then oct 25th or 26th, new york to st thomas.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223237.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223350.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ion Nicola departing...to STT on either Oct. 25 or 26",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           },
@@ -27926,6 +27976,11 @@
           {
             "doc_id": "EFTA01263197",
             "file": "EFTA01263197.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00082688",
+            "file": "EFTA00082688.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -28641,6 +28696,11 @@
           {
             "doc_id": "EFTA02223237",
             "file": "EFTA02223237.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223350",
+            "file": "EFTA02223350.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -41095,8 +41155,8 @@
         "property_type": "event",
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 33,
-        "evidence_count": 81,
+        "event_count": 34,
+        "evidence_count": 82,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -41156,8 +41216,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 74,
-        "sources_preview": "EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, EFTA00015561.pdf, ... (+69 more)",
+        "source_count": 75,
+        "sources_preview": "EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, EFTA00015561.pdf, ... (+70 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -42420,6 +42480,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "aff2db35a4f91e77",
+            "event_title": "Epstein Returns from Paris to Teterboro on Private Jet",
+            "event_type": "travel",
+            "description": "CBP records show Epstein arrived at Teterboro Airport NJ from Le Bourget Airport Paris on February 24, 2017 completing private jet trip to France",
+            "date_start": "2017-02-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Teterboro Airport NJ per CBP international travel records returning from France",
+            "evidence": [
+              {
+                "file": "EFTA00082688.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2/24/2017 - Inbound from LFPB to KTEB (Le Bourget, Paris to Teterboro)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082688.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -42791,6 +42878,11 @@
           {
             "doc_id": "EFTA02223244",
             "file": "EFTA02223244.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00082688",
+            "file": "EFTA00082688.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -57047,6 +57139,304 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.425996,
+          48.934868
+        ]
+      },
+      "properties": {
+        "id": "a053c4c19b47493a",
+        "name": "Paris Le Bourget Airport",
+        "location_name": "Paris Le Bourget Airport",
+        "location_address": "Le Bourget, Seine-Saint-Denis, France",
+        "location_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
+        "canonical_name": "Paris Le Bourget Airport, Rue de Paris, Le Bourget, France, Seine-Saint-Denis",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris Le Bourget Airport",
+        "location_descriptor": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
+        "event_count": 6,
+        "evidence_count": 10,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017",
+        "date_end": "2017-09-13",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Brad Karp",
+            "role": "legal"
+          },
+          {
+            "name": "Julia Santo",
+            "role": "staff"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          }
+        ],
+        "source_count": 9,
+        "sources_preview": "EFTA02216282.pdf, EFTA02217663.pdf, EFTA00066572.pdf, EFTA02218431.pdf, EFTA02218607.pdf, ... (+4 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
+        "events": [
+          {
+            "event_id": "5752dc07865b35d2",
+            "event_title": "Epstein Flies Paris to New York, Meets Brad Karp",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein flew from Paris to New York on July 11, 2017, departing at 6:28am and arriving at 8:30am, followed by a 2:30pm appointment with Brad Karp (attorney at Paul, Weiss).",
+            "date_start": "2017-07-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Brad Karp",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal schedule confirms his flight from Paris to New York on July 11, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02216282.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tues. July 11. 2017 Paris-NY\n6:28am Depart Paris\n8:30am Arrive NY\n2:30pm Appt w/Brad Karp",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216282.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be departing Paris Le Bourget airport (LFPB/LBG) at 6:30 a.m. on Tuesday, July 11, 2017.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217663.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "23753ac4ab5b4773",
+            "event_title": "N908JE Arrives Paris Le Bourget Airport",
+            "event_type": "travel",
+            "description": "Arrived: Paris. ",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00066572.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JEGE, INC. PASSENGER MANIFEST. Registration Number: N908JE. Type: B-727-31. Pilots: Dave Rodgers, Larry Visoski. Flight Engineer: Larry Morrison. DATE: 21-/OZ, 2004. FROM (me to LFPB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00066572.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d30a8c978036d0f8",
+            "event_title": "Epstein Departs Paris Le Bourget for Geneva",
+            "event_type": "travel",
+            "description": "Departed: Paris Le Bourget Airport. Jeffrey Epstein departed Paris Le Bourget Airport (LFPB/LBG) at 11:35 AM local time on July 7, 2017, heading to Geneva International Airport (LSGG/GVA), estimated arrival 12:30 PM.",
+            "date_start": "2017-07-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Julia Santo",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Document explicitly states Jeffrey will personally depart from Paris Le Bourget Airport on July 7, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02218431.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be departing Paris, France for Geneva, Switzerland on July 7, 2017 at 11:35 a.m. Local Time. We will be arriving Geneva at approximately 12:30 p.m. Local Time.\nWe will be departing the Paris Le Bourget airport (LFPB/LBG) and arriving at the Geneva, Switzerland airport (LSGG/GVA).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218431.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218607.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tuesday. July 11 LFPB-TEB, Depart at 1600",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218607.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219389.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "will arrive Paris Friday July 7th at 8:53pm (19:53) from London. Please pick her up! Jeffrey arrives 5:45pm (17:45).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219389.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219390.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Paris Le Bourget (LFPB/LBG) in 45 minutes at 07:52PM CEST",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219390.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fc26433a9f6c24eb",
+            "event_title": "Epstein Departs Paris Le Bourget on G550 to Islip NY",
+            "event_type": "travel",
+            "description": "Departed: Paris. Arrived: New York. Epstein departed Paris Le Bourget on G550 N415LM Sept 13 2017.",
+            "date_start": "2017-09-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Pilot Larry Visoski Paris departure.",
+            "evidence": [
+              {
+                "file": "EFTA02221105.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "depart Paris G550 N415LM Sept 13th Le Bourget 7:30am to Islip",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221105.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "32f2e222c3fc1b51",
+            "event_title": "Epstein Flies from Teterboro to Paris Le Bourget on Private Jet",
+            "event_type": "travel",
+            "description": "CBP records show Epstein departed Teterboro Airport NJ and flew to Le Bourget Airport Paris on a private jet on February 16, 2017 per private aircraft travel records",
+            "date_start": "2017-02-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Le Bourget Airport Paris per CBP international travel records",
+            "evidence": [
+              {
+                "file": "EFTA00082688.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2/16/2017 \u2014 Outbound from KTEB to LFPB (Teterboro to Le Bourget, Paris)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082688.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "28d0f4ec34bb9b0b",
+            "event_title": "Epstein Makes Multiple Trips from Teterboro to Paris Le Bourget in 2017",
+            "event_type": "travel",
+            "description": "CBP records show Epstein made at least 6 private jet trips from Teterboro Airport to Le Bourget Airport Paris in 2017 alone, reflecting regular travel to France",
+            "date_start": "2017",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Le Bourget Airport Paris on multiple occasions in 2017 per CBP international travel records",
+            "evidence": [
+              {
+                "file": "EFTA00082688.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "3/30/2017 \u2014 Outbound from KTEB to LFPB (Teterboro to Le Bourget, Paris); 5/11/2017 \u2014 Outbound from KTEB to LFPB; 7/2/2017 \u2014 Outbound from TEB to XXX; 9/2/2017 \u2014 Outbound from KTEB to LFPB; 10/9/2017 \u2014 Outbound from KTEB to LFPB; 12/8/2017 \u2014 Outbound from KTEB to LFPB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082688.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02216282",
+            "file": "EFTA02216282.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217663",
+            "file": "EFTA02217663.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00066572",
+            "file": "EFTA00066572.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218431",
+            "file": "EFTA02218431.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218607",
+            "file": "EFTA02218607.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219389",
+            "file": "EFTA02219389.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219390",
+            "file": "EFTA02219390.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221105",
+            "file": "EFTA02221105.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00082688",
+            "file": "EFTA00082688.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.03363,
           28.944465
         ]
@@ -61566,245 +61956,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.425996,
-          48.934868
-        ]
-      },
-      "properties": {
-        "id": "a053c4c19b47493a",
-        "name": "Paris Le Bourget Airport",
-        "location_name": "Paris Le Bourget Airport",
-        "location_address": "Le Bourget, Seine-Saint-Denis, France",
-        "location_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
-        "canonical_name": "Paris Le Bourget Airport, Rue de Paris, Le Bourget, France, Seine-Saint-Denis",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Paris Le Bourget Airport",
-        "location_descriptor": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
-        "event_count": 4,
-        "evidence_count": 8,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-07-07",
-        "date_end": "2017-09-13",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Brad Karp",
-            "role": "legal"
-          },
-          {
-            "name": "Julia Santo",
-            "role": "staff"
-          },
-          {
-            "name": "Larry Visoski",
-            "role": "staff"
-          }
-        ],
-        "source_count": 8,
-        "sources_preview": "EFTA02216282.pdf, EFTA02217663.pdf, EFTA00066572.pdf, EFTA02218431.pdf, EFTA02218607.pdf, ... (+3 more)",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
-        "events": [
-          {
-            "event_id": "5752dc07865b35d2",
-            "event_title": "Epstein Flies Paris to New York, Meets Brad Karp",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein flew from Paris to New York on July 11, 2017, departing at 6:28am and arriving at 8:30am, followed by a 2:30pm appointment with Brad Karp (attorney at Paul, Weiss).",
-            "date_start": "2017-07-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Brad Karp",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's personal schedule confirms his flight from Paris to New York on July 11, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02216282.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Tues. July 11. 2017 Paris-NY\n6:28am Depart Paris\n8:30am Arrive NY\n2:30pm Appt w/Brad Karp",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216282.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217663.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey will be departing Paris Le Bourget airport (LFPB/LBG) at 6:30 a.m. on Tuesday, July 11, 2017.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217663.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "23753ac4ab5b4773",
-            "event_title": "N908JE Arrives Paris Le Bourget Airport",
-            "event_type": "travel",
-            "description": "Arrived: Paris. ",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA00066572.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "JEGE, INC. PASSENGER MANIFEST. Registration Number: N908JE. Type: B-727-31. Pilots: Dave Rodgers, Larry Visoski. Flight Engineer: Larry Morrison. DATE: 21-/OZ, 2004. FROM (me to LFPB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00066572.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d30a8c978036d0f8",
-            "event_title": "Epstein Departs Paris Le Bourget for Geneva",
-            "event_type": "travel",
-            "description": "Departed: Paris Le Bourget Airport. Jeffrey Epstein departed Paris Le Bourget Airport (LFPB/LBG) at 11:35 AM local time on July 7, 2017, heading to Geneva International Airport (LSGG/GVA), estimated arrival 12:30 PM.",
-            "date_start": "2017-07-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Julia Santo",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Document explicitly states Jeffrey will personally depart from Paris Le Bourget Airport on July 7, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02218431.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey will be departing Paris, France for Geneva, Switzerland on July 7, 2017 at 11:35 a.m. Local Time. We will be arriving Geneva at approximately 12:30 p.m. Local Time.\nWe will be departing the Paris Le Bourget airport (LFPB/LBG) and arriving at the Geneva, Switzerland airport (LSGG/GVA).",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218431.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02218607.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Tuesday. July 11 LFPB-TEB, Depart at 1600",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218607.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219389.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "will arrive Paris Friday July 7th at 8:53pm (19:53) from London. Please pick her up! Jeffrey arrives 5:45pm (17:45).",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219389.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219390.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE is expected to arrive at Paris Le Bourget (LFPB/LBG) in 45 minutes at 07:52PM CEST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219390.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "fc26433a9f6c24eb",
-            "event_title": "Epstein Departs Paris Le Bourget on G550 to Islip NY",
-            "event_type": "travel",
-            "description": "Departed: Paris. Arrived: New York. Epstein departed Paris Le Bourget on G550 N415LM Sept 13 2017.",
-            "date_start": "2017-09-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Pilot Larry Visoski Paris departure.",
-            "evidence": [
-              {
-                "file": "EFTA02221105.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "depart Paris G550 N415LM Sept 13th Le Bourget 7:30am to Islip",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221105.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02216282",
-            "file": "EFTA02216282.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217663",
-            "file": "EFTA02217663.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00066572",
-            "file": "EFTA00066572.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218431",
-            "file": "EFTA02218431.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218607",
-            "file": "EFTA02218607.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219389",
-            "file": "EFTA02219389.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219390",
-            "file": "EFTA02219390.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221105",
-            "file": "EFTA02221105.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -121.895799,
           36.600213
         ]
@@ -64054,6 +64205,165 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.058112,
+          31.627855
+        ]
+      },
+      "properties": {
+        "id": "9267c0b18b0495c7",
+        "name": "Marrakech Menara Airport",
+        "location_name": "Marrakech Menara Airport",
+        "location_address": "Menara, Marrakesh, Marrakesh-Safi, Morocco",
+        "location_description": "The international airport serving Marrakech, Morocco, located about 6 km southwest of the city center in the M\u00e9nara district.",
+        "canonical_name": "Marrakech Menara Airport, Marrakech, Morocco, Marrakesh, Marrakesh-Safi",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Marrakech Menara Airport",
+        "location_descriptor": "The international airport serving Marrakech, Morocco, located about 6 km southwest of the city center in the M\u00e9nara district.",
+        "event_count": 3,
+        "evidence_count": 5,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-04-06",
+        "date_end": "2019-04-25",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 5,
+        "sources_preview": "EFTA02212868.pdf, EFTA00076028.pdf, EFTA00076036.pdf, EFTA00076044.pdf, EFTA00082688.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "The international airport serving Marrakech, Morocco, located about 6 km southwest of the city center in the M\u00e9nara district.",
+        "events": [
+          {
+            "event_id": "66c26d38af495347",
+            "event_title": "Epstein Associate Flies Paris to Marrakech",
+            "event_type": "travel",
+            "description": "Departed: Paris Charles de Gaulle Airport (CDG). Arrived: Marrakech Menara Airport (RAK). Unnamed Epstein associate flew from Paris CDG to Marrakech RAK on Air France flight AF1076, arriving 8:25AM, staying through May 29, 2017.",
+            "date_start": "2017-05-21",
+            "date_end": "2017-05-29",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel booked through Epstein's Amex Centurion concierge service for an unnamed associate traveling to Marrakech in May 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02212868.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1 AF 1076 21MAY CDG RAK 0705A 0825A\n2 AT 400 29MAY RAK CMN 0510A 0555A\n788 29MAY CMN CDG 1135A 0440P\nTOTAL FARE - USD 860.70",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212868.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "38f72372e82fc440",
+            "event_title": "Epstein Travels Through Marrakech Airport, Morocco",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein crossed the Moroccan border at Marrakech-Menara Airport on April 25, 2019, with both an entry and exit recorded by the General Directorate for National Security.",
+            "date_start": "2019-04-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally passed through Marrakech-Menara Airport on April 25, 2019 as confirmed by Moroccan border records.",
+            "evidence": [
+              {
+                "file": "EFTA00076028.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the interested made two border passages during the year 2019, an entry and exit registered on April 25, 2019 at the airport Marrakech-Menara utilizing passport # 566672615.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076028.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076036.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the interested made two border passages during the year 2019, an entry and exit registered on April 25, 2019 at the airport Marrakech-Menara utilizing passport # 566672615.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076036.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076044.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On April 25, 2019 Mr. Epstein travelled to Morocco and it appears this travel was not reported.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076044.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cb5fead366c737a1",
+            "event_title": "Epstein Flies from Marrakesh Morocco to Long Island MacArthur Airport",
+            "event_type": "travel",
+            "description": "CBP records show Epstein flew from Marrakesh-Menara Airport Morocco to Long Island MacArthur Airport Islip NY on April 6, 2017, indicating a stay in Marrakesh Morocco",
+            "date_start": "2017-04-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Marrakesh Morocco prior to the April 6 2017 flight back to the US per CBP records",
+            "evidence": [
+              {
+                "file": "EFTA00082688.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "4/6/2017 - Inbound from GMMX to KISP (Marrakesh, Morocco to Long Island, Islip)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082688.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212868",
+            "file": "EFTA02212868.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076028",
+            "file": "EFTA00076028.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076036",
+            "file": "EFTA00076036.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076044",
+            "file": "EFTA00076044.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00082688",
+            "file": "EFTA00082688.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.97617,
           40.738511
         ]
@@ -64070,7 +64380,7 @@
         "display_name": "NYC Office of the Chief Medical Examiner",
         "location_descriptor": "The New York City Office of the Chief Medical Examiner, located on East 26th Street in Manhattan, is the municipal forensic science facility responsible for investigating deaths occurring in New York City, including conducting autopsies.",
         "event_count": 3,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -64086,8 +64396,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA00063395.pdf, EFTA00063517.pdf, EFTA00080155.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA00063395.pdf, EFTA00063517.pdf, EFTA00080155.pdf, EFTA00082080.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "The New York City Office of the Chief Medical Examiner, located on East 26th Street in Manhattan, is the municipal forensic science facility responsible for investigating deaths occurring in New York City, including conducting autopsies.",
@@ -64170,6 +64480,13 @@
                 "excerpt": "Event: Epstein records w SDNY Start Date: 2019-08-27 17:30:00 +0000 End Date: 2019-08-27 18:30:00 +0000 Location: OCME, 421 E. 26th St",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080155.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00082080.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "General Counsel / Office of Chief Medical Examiner / 421 E. 26th Street / New York, NY 10016",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082080.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -64188,6 +64505,11 @@
           {
             "doc_id": "EFTA00080155",
             "file": "EFTA00080155.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00082080",
+            "file": "EFTA00082080.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -69200,133 +69522,6 @@
           {
             "doc_id": "EFTA02213484",
             "file": "EFTA02213484.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.058112,
-          31.627855
-        ]
-      },
-      "properties": {
-        "id": "9267c0b18b0495c7",
-        "name": "Marrakech Menara Airport",
-        "location_name": "Marrakech Menara Airport",
-        "location_address": "Menara, Marrakesh, Marrakesh-Safi, Morocco",
-        "location_description": "The international airport serving Marrakech, Morocco, located about 6 km southwest of the city center in the M\u00e9nara district.",
-        "canonical_name": "Marrakech Menara Airport, Marrakech, Morocco, Marrakesh, Marrakesh-Safi",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Marrakech Menara Airport",
-        "location_descriptor": "The international airport serving Marrakech, Morocco, located about 6 km southwest of the city center in the M\u00e9nara district.",
-        "event_count": 2,
-        "evidence_count": 4,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-21",
-        "date_end": "2019-04-25",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 4,
-        "sources_preview": "EFTA02212868.pdf, EFTA00076028.pdf, EFTA00076036.pdf, EFTA00076044.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "The international airport serving Marrakech, Morocco, located about 6 km southwest of the city center in the M\u00e9nara district.",
-        "events": [
-          {
-            "event_id": "66c26d38af495347",
-            "event_title": "Epstein Associate Flies Paris to Marrakech",
-            "event_type": "travel",
-            "description": "Departed: Paris Charles de Gaulle Airport (CDG). Arrived: Marrakech Menara Airport (RAK). Unnamed Epstein associate flew from Paris CDG to Marrakech RAK on Air France flight AF1076, arriving 8:25AM, staying through May 29, 2017.",
-            "date_start": "2017-05-21",
-            "date_end": "2017-05-29",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Travel booked through Epstein's Amex Centurion concierge service for an unnamed associate traveling to Marrakech in May 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02212868.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "1 AF 1076 21MAY CDG RAK 0705A 0825A\n2 AT 400 29MAY RAK CMN 0510A 0555A\n788 29MAY CMN CDG 1135A 0440P\nTOTAL FARE - USD 860.70",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212868.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "38f72372e82fc440",
-            "event_title": "Epstein Travels Through Marrakech Airport, Morocco",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein crossed the Moroccan border at Marrakech-Menara Airport on April 25, 2019, with both an entry and exit recorded by the General Directorate for National Security.",
-            "date_start": "2019-04-25",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally passed through Marrakech-Menara Airport on April 25, 2019 as confirmed by Moroccan border records.",
-            "evidence": [
-              {
-                "file": "EFTA00076028.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "the interested made two border passages during the year 2019, an entry and exit registered on April 25, 2019 at the airport Marrakech-Menara utilizing passport # 566672615.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076028.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00076036.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "the interested made two border passages during the year 2019, an entry and exit registered on April 25, 2019 at the airport Marrakech-Menara utilizing passport # 566672615.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076036.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00076044.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "On April 25, 2019 Mr. Epstein travelled to Morocco and it appears this travel was not reported.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076044.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212868",
-            "file": "EFTA02212868.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00076028",
-            "file": "EFTA00076028.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00076036",
-            "file": "EFTA00076036.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00076044",
-            "file": "EFTA00076044.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -76957,7 +77152,7 @@
         "display_name": "Santa Monica, CA",
         "location_descriptor": "A beachfront city in Los Angeles County, California, located on the western edge of the Los Angeles Basin along the Pacific Ocean.",
         "event_count": 1,
-        "evidence_count": 2,
+        "evidence_count": 3,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -76969,8 +77164,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA00015715.pdf, EFTA00079137.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA00015715.pdf, EFTA00079137.pdf, EFTA00082089.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
         "event_description": "A beachfront city in Los Angeles County, California, located on the western edge of the Los Angeles Basin along the Pacific Ocean.",
@@ -77006,6 +77201,13 @@
                 "excerpt": "Travel authorization 10810811 - Epstein investigation (2018R01618) - Witness Interviews, Santa Monica, CA, 2019-11-14 - 2019-11-15",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00079137.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00082089.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "U.S. v. Epstein - Witness Interview, CA, 2019-11-13",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           }
@@ -77019,6 +77221,11 @@
           {
             "doc_id": "EFTA00079137",
             "file": "EFTA00079137.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00082089",
+            "file": "EFTA00082089.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -82124,7 +82331,7 @@
         "display_name": "YouTube Space NY",
         "location_descriptor": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
         "event_count": 1,
-        "evidence_count": 7,
+        "evidence_count": 9,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -82144,8 +82351,8 @@
             "role": "other"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+2 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+4 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
@@ -82224,6 +82431,20 @@
                 "excerpt": "5-7:00pm Invite to Deepak Chopra & Michael Shermer on stage for Skeptic Magazines 2, Anniversary (JE +5)\nYou Tube Studio (check in on the guest list & go up to level 6)\n75 9th Ave.\nChelsea Market",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223172.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223344.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey has told the girls he wants to leave the house at 4pm today for the Deepak event...5-7:00pm Invite to Deepak Chopra & Michael Shermer on stage",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223344.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223359.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Just want to remind you of the Deepak event tonight!! 5-7:00pm",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           }
@@ -82262,6 +82483,16 @@
           {
             "doc_id": "EFTA02223172",
             "file": "EFTA02223172.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223344",
+            "file": "EFTA02223344.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223359",
+            "file": "EFTA02223359.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -82480,7 +82711,7 @@
         "display_name": "Directors Guild of America Theater",
         "location_descriptor": "A premier screening venue operated by the Directors Guild of America, located in Midtown Manhattan at 110 West 57th Street, hosting film premieres, screenings, and industry events.",
         "event_count": 1,
-        "evidence_count": 9,
+        "evidence_count": 10,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -82504,8 +82735,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 9,
-        "sources_preview": "EFTA02221520.pdf, EFTA02222308.pdf, EFTA02222401.pdf, EFTA02222724.pdf, EFTA02222736.pdf, ... (+4 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA02221520.pdf, EFTA02222308.pdf, EFTA02222401.pdf, EFTA02222724.pdf, EFTA02222736.pdf, ... (+5 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A premier screening venue operated by the Directors Guild of America, located in Midtown Manhattan at 110 West 57th Street, hosting film premieres, screenings, and industry events.",
@@ -82602,6 +82833,13 @@
                 "excerpt": "7:30pm Premier of Angelina Jolie is film: First They Killed My Father (JE + I)\nDirectors Guild of America Theater\nJOJO TO DRIVE YOU!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223139.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223346.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alert - 7:30pm Premier of Angelina Jolie's film: First They Killed My Father Directors Guild of America Theater 110 W. 57th Street JOJO TO DRIVE YOU!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223346.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -82650,6 +82888,11 @@
           {
             "doc_id": "EFTA02223139",
             "file": "EFTA02223139.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223346",
+            "file": "EFTA02223346.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -84684,6 +84927,318 @@
           {
             "doc_id": "EFTA00082040",
             "file": "EFTA00082040.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "935d12dc9e9136d3",
+        "name": "U.S. Attorney's Office, SDNY",
+        "location_name": "U.S. Attorney's Office, SDNY",
+        "location_address": "New York City, New York, United States",
+        "location_description": "One Saint Andrews Plaza houses the U.S. Attorney's Office for the Southern District of New York, one of the most prominent federal prosecutorial offices in the United States, located in Lower Manhattan near the federal courts.",
+        "canonical_name": "One Saint Andrews Plaza, New York, NY 10007, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, SDNY",
+        "location_descriptor": "One Saint Andrews Plaza houses the U.S. Attorney's Office for the Southern District of New York, one of the most prominent federal prosecutorial offices in the United States, located in Lower Manhattan near the federal courts.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-09-28",
+        "date_end": "2019-09-28",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Benjamin Margulis",
+            "role": "legal"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00082074.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "One Saint Andrews Plaza houses the U.S. Attorney's Office for the Southern District of New York, one of the most prominent federal prosecutorial offices in the United States, located in Lower Manhattan near the federal courts.",
+        "events": [
+          {
+            "event_id": "868c4799c5f93174",
+            "event_title": "FBI Interviews Epstein Victim at SDNY About 1995-1996 Encounters with Epstein",
+            "event_type": "presence",
+            "description": "FBI and AUSA interviewed a redacted victim at One Saint Andrews Plaza on September 28, 2019; witness described being introduced to Jeffrey Epstein through her sister in December 1995 when witness was 16 years old.",
+            "date_start": "2019-09-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Benjamin Margulis",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "FBI 302 interview of an Epstein victim at SDNY; Epstein was not physically present (deceased).",
+            "evidence": [
+              {
+                "file": "EFTA00082074.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "was interviewed at One Saint Andrews Plaza, New York, New York. Present for this interview was AUSA. Also present for this interview was attorney Benjamin Margulis.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082074.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00082074",
+            "file": "EFTA00082074.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.43558,
+          18.44913
+        ]
+      },
+      "properties": {
+        "id": "47849bc0997549df",
+        "name": "Virgin Gorda Airport",
+        "location_name": "Virgin Gorda Airport",
+        "location_address": "Virgin Gorda, British Virgin Islands",
+        "location_description": "Virgin Gorda Airport is a small general aviation airstrip on Virgin Gorda, the third-largest island of the British Virgin Islands in the northeastern Caribbean Sea.",
+        "canonical_name": "Virgin Gorda Airport, Virgin Gorda, British Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Virgin Gorda Airport",
+        "location_descriptor": "Virgin Gorda Airport is a small general aviation airstrip on Virgin Gorda, the third-largest island of the British Virgin Islands in the northeastern Caribbean Sea.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-03-08",
+        "date_end": "2017-03-08",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00082688.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "Virgin Gorda Airport is a small general aviation airstrip on Virgin Gorda, the third-largest island of the British Virgin Islands in the northeastern Caribbean Sea.",
+        "events": [
+          {
+            "event_id": "19c3445dd507ddea",
+            "event_title": "Epstein Flies from USVI to Virgin Gorda British Virgin Islands",
+            "event_type": "travel",
+            "description": "CBP records show Epstein departed Cyril E King Airport USVI and flew to Virgin Gorda Airport in the British Virgin Islands on March 8, 2017 on private aircraft",
+            "date_start": "2017-03-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Virgin Gorda British Virgin Islands per CBP international travel records",
+            "evidence": [
+              {
+                "file": "EFTA00082688.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "3/8/2017 \u2014 Outbound from TIST to TUPW (Cyril E King, USVI to Virgin Gorda, British VI)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082688.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00082688",
+            "file": "EFTA00082688.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.039393,
+          52.745853
+        ]
+      },
+      "properties": {
+        "id": "6baf1b775f3c18ba",
+        "name": "CFB Goose Bay Airport",
+        "location_name": "CFB Goose Bay Airport",
+        "location_address": "Newfoundland and Labrador, Canada",
+        "location_description": "Canadian Forces Base Goose Bay is a military and civilian airfield in Happy Valley-Goose Bay, Labrador, Canada, historically used as a transatlantic aviation refueling stop since World War II.",
+        "canonical_name": "CFB Goose Bay Airport, Happy Valley-Goose Bay, Newfoundland and Labrador, Canada",
+        "region": "",
+        "property_type": "event",
+        "display_name": "CFB Goose Bay Airport",
+        "location_descriptor": "Canadian Forces Base Goose Bay is a military and civilian airfield in Happy Valley-Goose Bay, Labrador, Canada, historically used as a transatlantic aviation refueling stop since World War II.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2018-01-27",
+        "date_end": "2018-01-27",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00082688.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "Canadian Forces Base Goose Bay is a military and civilian airfield in Happy Valley-Goose Bay, Labrador, Canada, historically used as a transatlantic aviation refueling stop since World War II.",
+        "events": [
+          {
+            "event_id": "8f068cdc4b5860d3",
+            "event_title": "Epstein's Private Jet Refuels at Goose Bay Canada Arriving at Teterboro",
+            "event_type": "presence",
+            "description": "CBP records show Epstein's private jet stopped at Goose Bay Canada on January 27, 2018 before arriving at Teterboro NJ, indicating a refueling stop on return from Europe",
+            "date_start": "2018-01-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Goose Bay Canada airport per CBP international travel records",
+            "evidence": [
+              {
+                "file": "EFTA00082688.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1/27/2018 - Inbound from CYYR to KTEB (Goose Bay, Canada to Teterboro)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082688.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00082688",
+            "file": "EFTA00082688.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.856155,
+          17.918591
+        ]
+      },
+      "properties": {
+        "id": "b74639753f764a6b",
+        "name": "Gustaf III Airport, Saint-Barth\u00e9lemy",
+        "location_name": "Gustaf III Airport, Saint-Barth\u00e9lemy",
+        "location_address": "Saint Barth\u00e9lemy",
+        "location_description": "Gustaf III Airport is a short runway general aviation airfield on Saint-Barth\u00e9lemy, a French-administered Caribbean island territory known as a luxury travel destination in the northeastern Antilles.",
+        "canonical_name": "Gustaf III Airport, Saint-Barthelemy, French Caribbean, Saint Barth\u00e9lemy",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Gustaf III Airport, Saint-Barth\u00e9lemy",
+        "location_descriptor": "Gustaf III Airport is a short runway general aviation airfield on Saint-Barth\u00e9lemy, a French-administered Caribbean island territory known as a luxury travel destination in the northeastern Antilles.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-03-07",
+        "date_end": "2017-03-07",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00082688.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "Gustaf III Airport is a short runway general aviation airfield on Saint-Barth\u00e9lemy, a French-administered Caribbean island territory known as a luxury travel destination in the northeastern Antilles.",
+        "events": [
+          {
+            "event_id": "f4bd29af316c0782",
+            "event_title": "Epstein Flies from USVI to Saint-Barthelemy on Private Jet",
+            "event_type": "travel",
+            "description": "CBP records show Epstein departed Cyril E King Airport USVI and flew to Gustaf III Airport Saint-Barthelemy on March 7, 2017 on private aircraft",
+            "date_start": "2017-03-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Saint-Barthelemy per CBP international travel records",
+            "evidence": [
+              {
+                "file": "EFTA00082688.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "3/7/2017 \u2014 Outbound from TIST to TFFJ (Cyril E King, USVI to St. Baits)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082688.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00082688",
+            "file": "EFTA00082688.pdf",
             "source_type": "doj_efta"
           }
         ]
