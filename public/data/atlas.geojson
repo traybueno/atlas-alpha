@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 108,
-        "evidence_count": 385,
+        "event_count": 110,
+        "evidence_count": 388,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -504,10 +504,14 @@
           {
             "name": "Jeff Pagliuca",
             "role": "legal"
+          },
+          {
+            "name": "Jane Doe",
+            "role": "victim"
           }
         ],
-        "source_count": 319,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+314 more)",
+        "source_count": 321,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+316 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -3012,6 +3016,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "On Saturday, Aug 10, 2019, at approximately 0633 a.m., I responded to a medical emergency 9S, upon arrival Inmate (EPSTEIN, J. Reg #: 76318-054) was received on the floor of his cell unresponsive with CPR in progress by correctional officers, Inmate was Cold, with circumferential Bruising around the neck and posterior mottling",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075366.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076185.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The news on August 10, 2019, that Jeffrey Epstein had been found dead in his cell at the Metropolitan Correctional Center, at the MCC, was certainly shocking.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076185.pdf",
                 "confidence": 0.7
               }
             ]
@@ -5726,6 +5737,72 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "f74a6307c6870c91",
+            "event_title": "Victim Testifies at Maxwell Pretrial Detention Hearing in SDNY",
+            "event_type": "travel",
+            "description": "Anonymous victim speaks via phone to SDNY court at Ghislaine Maxwell pretrial detention hearing, identifying herself by name, describing Maxwell as a sexual predator who groomed children, and urging the court to detain Maxwell as a significant flight risk pending trial.",
+            "date_start": "2020-07",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jane Doe",
+                "role": "victim"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell was charged for crimes committed in furtherance of Epstein network activity, and this hearing directly arose from her prosecution for those crimes.",
+            "evidence": [
+              {
+                "file": "EFTA00076183.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I met Ghislaine Maxwell when I was 16 years old. She is a sexual predator who groomed and abused me and countless other children and young women.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076183.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ec858f76bff5f2e9",
+            "event_title": "SDNY Court Hears Government Motion to Dismiss Epstein Indictment After His Death",
+            "event_type": "legal",
+            "description": "Federal court convened August 27, 2019 before Judge Richard M. Berman at SDNY, with US Attorney Geoffrey Berman, defense counsel from Steptoe & Johnson, FBI Special Agent, NYPD Detective, and victims physically present for hearing on government motion to dismiss Epstein indictment following his death.",
+            "date_start": "2019-08-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Martin G. Weinberg",
+                "role": "legal"
+              },
+              {
+                "name": "Geoffrey S. Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "This hearing was specifically about Jeffrey Epstein \u2014 his indictment (19 CR 490), his death, and the government motion to dismiss charges against him.",
+            "evidence": [
+              {
+                "file": "EFTA00076185.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "August 27, 2019\n10:30 a.m.\nHON. RICHARD M. BERMAN,\nDistrict Judge",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076185.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -6780,6 +6857,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00076185",
+            "file": "EFTA00076185.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015296",
             "file": "EFTA00015296.pdf",
             "source_type": "doj_efta"
@@ -7323,6 +7405,11 @@
             "doc_id": "EFTA00075979",
             "file": "EFTA00075979.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076183",
+            "file": "EFTA00076183.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -7348,7 +7435,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 99,
-        "evidence_count": 293,
+        "evidence_count": 294,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -7856,6 +7943,10 @@
             "role": "associate"
           },
           {
+            "name": "Stuart Orsher",
+            "role": "other"
+          },
+          {
             "name": "Jo'o Fontanilla",
             "role": "staff"
           },
@@ -7900,8 +7991,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 268,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+263 more)",
+        "source_count": 269,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+264 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -12364,6 +12455,10 @@
               {
                 "name": "James D. Watson",
                 "role": "associate"
+              },
+              {
+                "name": "Stuart Orsher",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -12381,6 +12476,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "please ask watson to autograph a book to [redacted] that says great meeting you at jeffreys house.\ndouble hleix",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220312.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221015.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey has a doctor appt tomorrow at 10:30am...it is within walking distance but please note he may want you to drive him.\n10:30am Appt iv/Dr. Stuart Orsher, MD\n9 East 70' Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221015.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14095,6 +14197,11 @@
           {
             "doc_id": "EFTA02220312",
             "file": "EFTA02220312.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221015",
+            "file": "EFTA02221015.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -40518,7 +40625,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
         "event_count": 8,
-        "evidence_count": 17,
+        "evidence_count": 18,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -40538,6 +40645,10 @@
             "role": "other"
           },
           {
+            "name": "Larry Visoski",
+            "role": "associate"
+          },
+          {
             "name": "Jeffrey Epstein",
             "role": "subject"
           },
@@ -40554,8 +40665,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 16,
-        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+11 more)",
+        "source_count": 17,
+        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+12 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
@@ -40634,7 +40745,16 @@
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
-            "people": [],
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "associate"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
             "epstein_nexus": "contextual",
             "nexus_reasoning": "This is an American Express travel itinerary found in Epstein case files, but the document does not identify the passenger or establish Epstein's physical presence on this flight.",
             "evidence": [
@@ -40664,6 +40784,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeats 42C",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220798.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221016.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Teresa, please pick up tomorrow from JFK and take her home to...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221016.pdf",
                 "confidence": 0.7
               }
             ]
@@ -40893,6 +41020,11 @@
           {
             "doc_id": "EFTA02220798",
             "file": "EFTA02220798.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221016",
+            "file": "EFTA02221016.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -51430,7 +51562,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
         "event_count": 3,
-        "evidence_count": 16,
+        "evidence_count": 17,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -51466,8 +51598,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 16,
-        "sources_preview": "EFTA02220490.pdf, EFTA02220720.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, ... (+11 more)",
+        "source_count": 17,
+        "sources_preview": "EFTA02220490.pdf, EFTA02220720.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, ... (+12 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
@@ -51630,6 +51762,13 @@
                 "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nClass T Economy Class\nSeats 42C",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220798.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221016.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight Information\nDate 10 Apr 2017\nAirline Delta Air Lines\nFlight/Class DL 676 T Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221016.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -51739,6 +51878,11 @@
           {
             "doc_id": "EFTA02220798",
             "file": "EFTA02220798.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221016",
+            "file": "EFTA02221016.pdf",
             "source_type": "doj_efta"
           },
           {
