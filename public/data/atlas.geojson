@@ -22,7 +22,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 127,
-        "evidence_count": 393,
+        "evidence_count": 394,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -678,8 +678,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 362,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+357 more)",
+        "source_count": 363,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+358 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -6335,6 +6335,13 @@
                 "excerpt": "5:00pm Appt w/Leon Botstein\n6:00pm Appt w/Terje\n6-7:00pm Appt w/Purevsuren Lundeg\n7:00pm Appt w/Rich and Darren",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222401.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222721.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I'm going to arrive at JFK airport about 05.00 pm I thonk I could come to you between 08.00 and 09.00 pm.\n\nOn Sunday, September 10, 2017...jeffrey E. <jeevacation@gmail.com> wrote: Yes what time good for you\n\nI will be in the evening of Sep. 14th in NYC. Are you there?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222721.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -8696,6 +8703,11 @@
           {
             "doc_id": "EFTA02222401",
             "file": "EFTA02222401.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222721",
+            "file": "EFTA02222721.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -17502,8 +17514,8 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 121,
-        "evidence_count": 254,
+        "event_count": 122,
+        "evidence_count": 255,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -17939,8 +17951,8 @@
             "role": "other"
           }
         ],
-        "source_count": 233,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+228 more)",
+        "source_count": 234,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+229 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -22678,6 +22690,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "4461141bc6ae3a3c",
+            "event_title": "Epstein Recruiter Approaches Dancer at New York Ballet Studio to Provide 'Massages'",
+            "event_type": "presence",
+            "description": "Epstein's recruiters approached dancers at ballet studios in New York City in 2002 and 2006, asking them to provide private exercise classes or massages to Epstein as part of his sex trafficking network.",
+            "date_start": "2002",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein's recruiters were acting on his behalf to procure victims from NYC dance studios, though Epstein himself was not present at the ballet studios during the recruitment approach.",
+            "evidence": [
+              {
+                "file": "EFTA00080605.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "M was 17 when a fellow dancer approached her after a ballet class in 2002 and asked if she wanted to give private exercise classes to a wealthy man named Jeffrey Epstein. Another dancer, received a similar pitch in 2006 from a woman, this time to give Mr. Epstein a massage.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080605.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -23844,6 +23883,11 @@
           {
             "doc_id": "EFTA02222415",
             "file": "EFTA02222415.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00080605",
+            "file": "EFTA00080605.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -27475,8 +27519,8 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 67,
-        "evidence_count": 165,
+        "event_count": 68,
+        "evidence_count": 167,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27652,8 +27696,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 147,
-        "sources_preview": "EFTA00077200.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02209722.pdf, EFTA02212901.pdf, ... (+142 more)",
+        "source_count": 149,
+        "sources_preview": "EFTA00077200.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02209722.pdf, EFTA02212901.pdf, ... (+144 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -30377,6 +30421,44 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "fcdf3e8d2a10067c",
+            "event_title": "Epstein Keeps Chief Pilot Larry Visoski in Paris, September 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein kept his chief pilot Larry Visoski in Paris around September 7, 2017, preventing Visoski from returning home to deal with hurricane-related concerns.",
+            "date_start": "2017-09-07",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present in Paris with his pilot Larry Visoski, confirmed by Visoski's own email ('JE kept me in Paris').",
+            "evidence": [
+              {
+                "file": "EFTA02222698.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I'm pretty Bummed that JE kept me in Paris,, nobody's home to take care of my house,. He offered Renato but I'm trying to get somebody to break into my car and get the garage door opener out not easy from across the pond",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222698.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222530.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I'm pretty Bummed that JE kept me in Paris",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222530.pdf",
+                "confidence": 0.75
+              }
+            ]
           }
         ],
         "sources": [
@@ -31113,6 +31195,16 @@
           {
             "doc_id": "EFTA00079596",
             "file": "EFTA00079596.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222698",
+            "file": "EFTA02222698.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222530",
+            "file": "EFTA02222530.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -41137,8 +41229,8 @@
         "property_type": "event",
         "display_name": "Palm Beach",
         "location_descriptor": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
-        "event_count": 28,
-        "evidence_count": 55,
+        "event_count": 29,
+        "evidence_count": 56,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -41266,8 +41358,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 54,
-        "sources_preview": "EFTA02212960.pdf, EFTA02213188.pdf, EFTA02213238.pdf, EFTA00039383.pdf, EFTA02212890.pdf, ... (+49 more)",
+        "source_count": 55,
+        "sources_preview": "EFTA02212960.pdf, EFTA02213188.pdf, EFTA02213238.pdf, EFTA00039383.pdf, EFTA02212890.pdf, ... (+50 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
@@ -42339,6 +42431,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "8e5962f4f7324697",
+            "event_title": "Epstein Arranged for NYC Women to Be Flown to Palm Beach for Sex During Work-Release",
+            "event_type": "presence",
+            "description": "Epstein arranged for two women he had recruited in New York City's dance studios to be flown to Florida during his 2008-2009 work-release period, where he pressured them into sex at his Palm Beach office or residence.",
+            "date_start": "2008",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present in Palm Beach on work-release where he sexually abused women he arranged to be flown from New York.",
+            "evidence": [
+              {
+                "file": "EFTA00080605.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "While in jail, Mr. Epstein arranged for two women he had recruited in New York to be flown to Florida, where he pressured them into sex while he was on work release, the court papers said.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080605.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -42610,6 +42729,11 @@
           {
             "doc_id": "EFTA00077923",
             "file": "EFTA00077923.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00080605",
+            "file": "EFTA00080605.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -81044,12 +81168,12 @@
         "name": "Palm Beach International Airport",
         "location_name": "Palm Beach International Airport",
         "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
-        "location_description": "",
+        "location_description": "A commercial airport serving the Palm Beach, Florida area, located in West Palm Beach and handling both passenger and cargo flights.",
         "canonical_name": "Palm Beach International Airport, 1000 James L Turnage Blvd, West Palm Beach, FL, Florida",
         "region": "",
         "property_type": "event",
         "display_name": "Palm Beach International Airport",
-        "location_descriptor": "",
+        "location_descriptor": "A commercial airport serving the Palm Beach, Florida area, located in West Palm Beach and handling both passenger and cargo flights.",
         "event_count": 1,
         "evidence_count": 1,
         "primary_event_type": "travel",
@@ -81067,7 +81191,7 @@
         "sources_preview": "EFTA02222430.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
-        "event_description": "",
+        "event_description": "A commercial airport serving the Palm Beach, Florida area, located in West Palm Beach and handling both passenger and cargo flights.",
         "events": [
           {
             "event_id": "c09dde819638676a",
