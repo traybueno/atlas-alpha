@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 138,
-        "evidence_count": 434,
+        "event_count": 139,
+        "evidence_count": 447,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -726,8 +726,8 @@
             "role": "other"
           }
         ],
-        "source_count": 403,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+398 more)",
+        "source_count": 415,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+410 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -5440,6 +5440,20 @@
                 "excerpt": "12:30pm Appt w/Masha Drokova (347 614-8468) 1:30pm Interview w/Futurism Editor, Alex Klokus. Masha to join the interview 4:30pm Appt w/Jude Hess (347 6888 2009) 5:00pm Appt w/Leon Black (212 515 3205)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223383.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223564.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: Take Leon Black to 2nd Floor\n9:30am BREAKFAST w/Leon Black",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223564.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223564.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:00pm DINNER w/Woody and Soon Yi (==1",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223564.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -7404,6 +7418,20 @@
                 "excerpt": "Thursday is great, but May we do 10:30am just in case?. Jeffrey has an 8:30am out of the house and I want to make sure he is back in time. Jeffreys home address is 9 East 71st street between 5th and Madison.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223048.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223558.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "10:30-12:00pm Interview with Dylan Love of TNW and Business Insider (Alaska's contact)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223558.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223468.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "10:30-12:00pm Interview with Dylan Love of TTIW and Business Insider (Masha's contact)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223468.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -7462,6 +7490,27 @@
                 "excerpt": "Reconfirming we will see Tommy at 10:30am!... 9 East 71st Street between 5th and Madison!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223145.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223426.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "confirmed Tommy to come see Jeffrey tomorrow morning at 8:30am...Jeffrey forgot he has an appointment out of the house at 8:30am! I wanted to see if Tommy might be available to come at 10am instead tomorrow?!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223426.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223442.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "confirmed Tommy to come see Jeffrey tomorrow morning at 8:30am...how is 1030?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223442.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223477.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "10:30 is fantastic! thank you so000 very much! 9 East 71st Street between 5th and Madison",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223477.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -7476,8 +7525,16 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Dylan Love",
+                "role": "other"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Masha Drokova",
+                "role": "associate"
               },
               {
                 "name": "Dangene",
@@ -7492,6 +7549,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey is in NY today and asking if Dangene might have some spare time to see him! Possible?! It's been awhile!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223202.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223434.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dylan Love Jeffrey agreed to take in person interview in New York with Dylan who's writing for TNW and Business Insider. I guess Sept 24; 26-27 would be the best days for Dylan.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223434.pdf",
                 "confidence": 0.7
               }
             ]
@@ -7704,6 +7768,34 @@
                 "excerpt": "Hello Barnaby. Breakfast this Friday, Sept 29th, with Jeffrey...? 7am?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223371.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223409.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Barnaby. Breakfast this Friday, Sept 29th, with Jeffrey...? 7am confirmed.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223409.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223412.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Barnaby. Breakfast this Friday, Sept 29th, with Jeffrey...? 7am confirmed.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223412.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223425.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Barnaby Marsh will come see you for breakfast at 7am on Friday Sept 29",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223425.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223462.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Barnaby Marsh will come see you for breakfast at 7am on Friday Sept 29",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223462.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -7738,6 +7830,41 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey agreed to take in person interview in New York with Dylan who's writing for TNW and Business Insider. I guess Sept 24; 26-27 would be the best days for Dylan.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223511.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d39c9d00dbd18312",
+            "event_title": "Darren Indyke Visits Jeffrey Epstein at NYC Residence, September 19, 2017",
+            "event_type": "presence",
+            "description": "Darren Indyke (Epstein's attorney) visited Jeffrey Epstein at his NYC residence on September 19, 2017, bringing cash; Richard Kahn also arranged cash for Little St. James Island.",
+            "date_start": "2017-09-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Darren Indyke",
+                "role": "legal"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his NYC mansion when Darren Indyke visited on September 19, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02223410.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "i believe darren brought when he visited jee today",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223410.pdf",
                 "confidence": 0.7
               }
             ]
@@ -9155,6 +9282,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223564",
+            "file": "EFTA02223564.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220405",
             "file": "EFTA02220405.pdf",
             "source_type": "doj_efta"
@@ -9695,6 +9827,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223558",
+            "file": "EFTA02223558.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223468",
+            "file": "EFTA02223468.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00081226",
             "file": "EFTA00081226.pdf",
             "source_type": "doj_efta"
@@ -9705,8 +9847,28 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223426",
+            "file": "EFTA02223426.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223442",
+            "file": "EFTA02223442.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223477",
+            "file": "EFTA02223477.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02223202",
             "file": "EFTA02223202.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223434",
+            "file": "EFTA02223434.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -9755,8 +9917,33 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223409",
+            "file": "EFTA02223409.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223412",
+            "file": "EFTA02223412.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223425",
+            "file": "EFTA02223425.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223462",
+            "file": "EFTA02223462.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02223511",
             "file": "EFTA02223511.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223410",
+            "file": "EFTA02223410.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -16382,7 +16569,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 125,
-        "evidence_count": 470,
+        "evidence_count": 472,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -16411,6 +16598,10 @@
           },
           {
             "name": "Michael Thomas",
+            "role": "other"
+          },
+          {
+            "name": "two correctional officers",
             "role": "other"
           },
           {
@@ -16556,6 +16747,10 @@
           {
             "name": "Reid Weingarten",
             "role": "legal"
+          },
+          {
+            "name": "R. Couri Hay",
+            "role": "witness"
           },
           {
             "name": "Correctional Services Supervisors and Line Staff",
@@ -16930,8 +17125,8 @@
             "role": "other"
           }
         ],
-        "source_count": 395,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+390 more)",
+        "source_count": 397,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+392 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -17462,6 +17657,10 @@
               {
                 "name": "Michael Thomas",
                 "role": "other"
+              },
+              {
+                "name": "two correctional officers",
+                "role": "other"
               }
             ],
             "epstein_nexus": "contextual",
@@ -17479,6 +17678,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "On November 19, 2019, a grand jury sitting in this District returned a six-count indictment (the \"Indictment\"), which charged Michael Thomas with committing offenses against the United States... United States District Court, Southern District of New York, 19 Cr. 830 (AT)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009786.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00083670.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "USAO-SDNY plans to seek an indictment charging two correctional officers...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083670.pdf",
                 "confidence": 0.7
               }
             ]
@@ -18538,6 +18744,10 @@
                 "role": "subject"
               },
               {
+                "name": "R. Couri Hay",
+                "role": "witness"
+              },
+              {
                 "name": "Correctional Services Supervisors and Line Staff",
                 "role": "staff"
               }
@@ -18550,6 +18760,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220... Appearance Date: July 31, 2019 Appearance Time: 10:00 a.m.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014334.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00083969.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "you appear and attend before the GRAND JURY... Appearance Date: July 31, 2019 Appearance Time: 10:00 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083969.pdf",
                 "confidence": 0.7
               }
             ]
@@ -23500,6 +23717,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00083670",
+            "file": "EFTA00083670.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00009767",
             "file": "EFTA00009767.pdf",
             "source_type": "doj_efta"
@@ -23947,6 +24169,11 @@
           {
             "doc_id": "EFTA00014334",
             "file": "EFTA00014334.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00083969",
+            "file": "EFTA00083969.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -25218,7 +25445,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 73,
-        "evidence_count": 174,
+        "evidence_count": 177,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -25402,12 +25629,16 @@
             "role": "associate"
           },
           {
+            "name": "Philippe Van den Broek",
+            "role": "associate"
+          },
+          {
             "name": "Russian citizen",
             "role": "associate"
           }
         ],
-        "source_count": 152,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00082688.pdf, EFTA02212885.pdf, EFTA02221589.pdf, ... (+147 more)",
+        "source_count": 155,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00082688.pdf, EFTA02212885.pdf, EFTA02221589.pdf, ... (+150 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -28065,6 +28296,13 @@
                 "excerpt": "In the Caribbean, workers at the airport in St. Thomas were disgusted to see Epstein, by then a man in his late 40s, flying with so many underage girls, according to interviews published by Vanity Fair magazine.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078263.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00083968.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Multiple workers at the airstrip on St. Thomas have been quotes in two recent articles saying they repeatedly saw Epstein fly in with girls they believed were minors",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083968.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -28220,6 +28458,13 @@
                 "excerpt": "I called St Thomas emergency ops to obtain landing permission for Monday or Tuesday...I informed them we are bringing hurricane relief supplies...The person I spoke with informed the airport is closed and they are trying to set up the temporary control tower again.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223507.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223486.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I called St Thomas emergency ops to obtain landing permission for Monday or Tuesday. The Coast Guard command is in charge of operations at St. Thomas airport. I'm expecting a return phone call later today. I informed them we are bringing hurricane relief supplies.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223486.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -28233,6 +28478,10 @@
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
+              {
+                "name": "Philippe Van den Broek",
+                "role": "associate"
+              },
               {
                 "name": "Russian citizen",
                 "role": "associate"
@@ -28253,6 +28502,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Flight AA 943 Origin Charlotte Amalie, Cyril E King Airport Destination Miami, Miami International Departing 02:30 PM Arriving 04:40 PM Thursday 09 Feb 17",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223388.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223538.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hotel: THE RITZ CARLTON ST THOMAS\n6900 Great Bay\nST. THOMAS VI 00802\nCheck In Date: Thu 09 Feb 2017\nCheck Out Date: Fri 10 Feb 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223538.pdf",
                 "confidence": 0.7
               }
             ]
@@ -28985,6 +29241,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00083968",
+            "file": "EFTA00083968.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02213258",
             "file": "EFTA02213258.pdf",
             "source_type": "doj_efta"
@@ -29010,6 +29271,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223486",
+            "file": "EFTA02223486.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02223385",
             "file": "EFTA02223385.pdf",
             "source_type": "doj_efta"
@@ -29017,6 +29283,11 @@
           {
             "doc_id": "EFTA02223388",
             "file": "EFTA02223388.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223538",
+            "file": "EFTA02223538.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -32754,7 +33025,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 53,
-        "evidence_count": 129,
+        "evidence_count": 136,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -32950,8 +33221,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 119,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+114 more)",
+        "source_count": 126,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+121 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -34960,6 +35231,13 @@
                 "excerpt": "He is leaving for PB on Tuesday and then the island to check damage over weekend.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223053.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223454.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey was talking about visiting the island tomorrow (Sunday) for the day and then fly back to PB.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223454.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -35083,6 +35361,27 @@
                 "excerpt": "here are your tickets to come to the island this Wed. March 22nd and depart on Thurs. March 23rd. Anna will make sure you are picked up at the airport and taken to the island...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223514.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223402.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Kevin and Philippe...here are your tickets to come to the island this Wed. March 22nd and depart on Thurs. March 23rd.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223402.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223437.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Kevin and Philippe...here are your tickets to come to the island this Wed. March 22nd and depart on Thurs. March 23rd.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223437.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223480.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Kevin and Philippe...here are your tickets to come to the island this Wed. March 22nd and depart on Thurs. March 23rd. Anna will make sure you are picked up at the airport and taken to the island.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223480.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -35136,6 +35435,27 @@
                 "source_type": "doj_efta",
                 "excerpt": "Eduardo and Thanu will arrive STT tomorrow at 8:05am...Jermaine will pick you up from the airport and get you on to Jeffrey's island.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223335.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223397.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Eduardo and Thanu will arrive STT tomorrow at 8:05am via Jet Blue#1236...Jermaine will pick you up from the airport and get you on to Jeffrey's island. Anna will make sure you are shown around and taken care of. You will stay on the island overnight.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223397.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223416.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Eduardo and Thanu will arrive STT tomorrow at 8:05am...Jermaine will pick you up from the airport and get you on to Jeffrey's island. Anna will make sure you are shown around and taken care of.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223416.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223443.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Eduardo and Thanu will arrive STT tomorrow at 8:05am...Jermaine will pick you up from the airport and get you on to Jeffrey's island.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223443.pdf",
                 "confidence": 0.7
               }
             ]
@@ -35734,6 +36054,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223454",
+            "file": "EFTA02223454.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02223174",
             "file": "EFTA02223174.pdf",
             "source_type": "doj_efta"
@@ -35754,6 +36079,21 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223402",
+            "file": "EFTA02223402.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223437",
+            "file": "EFTA02223437.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223480",
+            "file": "EFTA02223480.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02223297",
             "file": "EFTA02223297.pdf",
             "source_type": "doj_efta"
@@ -35761,6 +36101,21 @@
           {
             "doc_id": "EFTA02223335",
             "file": "EFTA02223335.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223397",
+            "file": "EFTA02223397.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223416",
+            "file": "EFTA02223416.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223443",
+            "file": "EFTA02223443.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -39786,8 +40141,8 @@
         "property_type": "event",
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
-        "event_count": 37,
-        "evidence_count": 69,
+        "event_count": 38,
+        "evidence_count": 70,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -39913,10 +40268,14 @@
           {
             "name": "Leon Black",
             "role": "associate"
+          },
+          {
+            "name": "Kasatkina",
+            "role": "associate"
           }
         ],
-        "source_count": 54,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+49 more)",
+        "source_count": 55,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+50 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -41297,6 +41656,41 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "624d1089a8b6a1f1",
+            "event_title": "Kasatkina Flies Moscow to Miami to Visit Epstein's Palm Beach Estate",
+            "event_type": "travel",
+            "description": "Russian national Kasatkina traveled from Moscow via Munich to Miami on February 5, 2017, with Epstein's driver Janusz picking her up to take her to Epstein's Palm Beach estate at 358 El Brillo Way.",
+            "date_start": "2017-02-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Janusz",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Kasatkina",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Kasatkina was traveling to Epstein's own home at 358 El Brillo Way, arranged by Lesley Groff (Epstein's assistant) via Amex Centurion Travel.",
+            "evidence": [
+              {
+                "file": "EFTA02223525.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "HI is your ticket to go to Miami on Sunday...Janusz will pick you up and take you to Jeffrey's home in Palm Beach\n358 El Britlo Way\nPalm Beach, FL 33480",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223525.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -41569,6 +41963,11 @@
             "doc_id": "EFTA00083548",
             "file": "EFTA00083548.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223525",
+            "file": "EFTA02223525.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -41594,7 +41993,7 @@
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
         "event_count": 34,
-        "evidence_count": 82,
+        "evidence_count": 83,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -41654,8 +42053,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 75,
-        "sources_preview": "EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, EFTA00015561.pdf, ... (+70 more)",
+        "source_count": 76,
+        "sources_preview": "EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, EFTA00015561.pdf, ... (+71 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -42905,6 +43304,10 @@
               {
                 "name": "Larry Visoski",
                 "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
               }
             ],
             "epstein_nexus": "implied",
@@ -42915,6 +43318,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Depart Atlantic aviation at 3 PM today\narrival Teterboro Meridian at 5:15 PM\nN120JE\nGIV",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223244.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223561.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NI2OJE (GLF4) has just filed a flight plan. It is scheduled to depart from Palm Beach Intl (PBI) at 03:00PM EDT Monday (25 Sep) heading fix Teterboro (TEB) for an estimated arrival at 05:31PM EDT Monday (25 Sep).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223561.pdf",
                 "confidence": 0.7
               }
             ]
@@ -43319,6 +43729,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223561",
+            "file": "EFTA02223561.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00082688",
             "file": "EFTA00082688.pdf",
             "source_type": "doj_efta"
@@ -43347,7 +43762,7 @@
         "display_name": "Metropolitan Detention Center Brooklyn",
         "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
         "event_count": 32,
-        "evidence_count": 67,
+        "evidence_count": 69,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -43411,8 +43826,8 @@
             "role": "other"
           }
         ],
-        "source_count": 62,
-        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00081877.pdf, EFTA00009831.pdf, EFTA00010199.pdf, ... (+57 more)",
+        "source_count": 64,
+        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00081877.pdf, EFTA00009831.pdf, EFTA00010199.pdf, ... (+59 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
@@ -43675,6 +44090,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Ghislaine Maxwell (Reg. No. 02879-509)\nMDC Brooklyn\nMetropolitan Detention Center\nP.O. Box 329002\nBrooklyn, NY 11232\nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077346.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00084054.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "M previously delivered a drive to the MDC in January... We cannot guarantee that we will be able to have an agent personally hand deliver the hard drive, but we will try to have an agent deliver the hard drive to counsel or a designated person at the MDC on Tuesday.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084054.pdf",
                 "confidence": 0.7
               }
             ]
@@ -44476,6 +44898,13 @@
                 "excerpt": "At the request of defense counsel, our office is preparing a new drive with a copy of discovery material that was previously produced to Ghislaine Maxwell on a CD, but which she has been unable to view. The drive will be ready tomorrow. Today, defense counsel asked that Maxwell be able to review those materials over this coming weekend",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081980.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00084058.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I'm here in front MDC on 29th Avenue but not totally sure where you would like to meet.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084058.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -44667,6 +45096,11 @@
           {
             "doc_id": "EFTA00077346",
             "file": "EFTA00077346.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084054",
+            "file": "EFTA00084054.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -44870,6 +45304,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00084058",
+            "file": "EFTA00084058.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00081996",
             "file": "EFTA00081996.pdf",
             "source_type": "doj_efta"
@@ -44907,13 +45346,13 @@
         "property_type": "event",
         "display_name": "Palm Beach",
         "location_descriptor": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
-        "event_count": 30,
-        "evidence_count": 58,
+        "event_count": 31,
+        "evidence_count": 59,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "1996-01-13",
-        "date_end": "2019-07-11",
+        "date_end": "2019-10-15",
         "people": [
           {
             "name": "Dr. Bard",
@@ -45038,10 +45477,14 @@
           {
             "name": "Marilyn",
             "role": "staff"
+          },
+          {
+            "name": "Epstein's victims",
+            "role": "victim"
           }
         ],
-        "source_count": 57,
-        "sources_preview": "EFTA02212960.pdf, EFTA02213188.pdf, EFTA02213238.pdf, EFTA00039383.pdf, EFTA02212890.pdf, ... (+52 more)",
+        "source_count": 58,
+        "sources_preview": "EFTA02212960.pdf, EFTA02213188.pdf, EFTA02213238.pdf, EFTA00039383.pdf, EFTA02212890.pdf, ... (+53 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An affluent town on a barrier island in Palm Beach County, Florida, on the Atlantic coast, known for its luxury estates and upscale residences.",
@@ -46178,6 +46621,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "1af2fe8531327581",
+            "event_title": "SDNY Prosecutors Meet Epstein Victims and Counsel in Florida, October 15, 2019",
+            "event_type": "travel",
+            "description": "SDNY prosecutors and victim services unit staff traveled to Florida to meet with several Epstein victims.",
+            "date_start": "2019-10-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Epstein's victims",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Prosecutors meeting with Epstein victims.",
+            "evidence": [
+              {
+                "file": "EFTA00083641.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Representatives from the U.S. Attorney's Office for the Southern District of New York traveled to Florida for an Oct. 15 meeting with several of Epstein's victims and their counsel.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083641.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -46464,6 +46934,11 @@
           {
             "doc_id": "EFTA02223257",
             "file": "EFTA02223257.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00083641",
+            "file": "EFTA00083641.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -54550,7 +55025,7 @@
         "display_name": "Dangene: The Institute of Skinovation",
         "location_descriptor": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
         "event_count": 7,
-        "evidence_count": 9,
+        "evidence_count": 10,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -54582,12 +55057,16 @@
             "role": "witness"
           },
           {
+            "name": "Tommy Mottola",
+            "role": "associate"
+          },
+          {
             "name": "Anne",
             "role": "associate"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213901.pdf, EFTA02213153.pdf, ... (+3 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213901.pdf, EFTA02213153.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
@@ -54798,6 +55277,10 @@
                 "role": "subject"
               },
               {
+                "name": "Tommy Mottola",
+                "role": "associate"
+              },
+              {
                 "name": "Anne",
                 "role": "associate"
               }
@@ -54810,6 +55293,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "8:30am Appt w/Anne at Core Club\n66 East 55th Street\nbetween park and mad\nJOJO TO DRIVE YOU!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223172.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223520.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:30am Appt w/Anne at Core Club\nJOJO TO DRIVE YOU!\n10:30am Appt iv/Tommy Mottola",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223520.pdf",
                 "confidence": 0.7
               }
             ]
@@ -54854,6 +55344,11 @@
           {
             "doc_id": "EFTA02223172",
             "file": "EFTA02223172.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223520",
+            "file": "EFTA02223520.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -57326,6 +57821,366 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.938472,
+          40.689307
+        ]
+      },
+      "properties": {
+        "id": "eb1a088f52ac3bb8",
+        "name": "HBRK Associates Inc.",
+        "location_name": "HBRK Associates Inc.",
+        "location_address": "575 Lexington Avenue, Brooklyn, New York 11221, United States",
+        "location_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
+        "canonical_name": "HBRK Associates Inc., 575 Lexington Avenue, 4th Floor, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "HBRK Associates Inc.",
+        "location_descriptor": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
+        "event_count": 6,
+        "evidence_count": 9,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2016-07-22",
+        "date_end": "2017-10-01",
+        "people": [
+          {
+            "name": "Richard Kahn",
+            "role": "associate"
+          },
+          {
+            "name": "the Ross's",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Bebe Avdiu",
+            "role": "legal"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Carluz Toylo",
+            "role": "staff"
+          },
+          {
+            "name": "Darren K. Indyke",
+            "role": "legal"
+          },
+          {
+            "name": "Darren Indyke",
+            "role": "legal"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "David Boies",
+            "role": "legal"
+          },
+          {
+            "name": "Paul Cassell",
+            "role": "legal"
+          },
+          {
+            "name": "Brad Edwards",
+            "role": "legal"
+          }
+        ],
+        "source_count": 9,
+        "sources_preview": "EFTA02214145.pdf, EFTA02215951.pdf, EFTA02220623.pdf, EFTA02221617.pdf, EFTA02221223.pdf, ... (+4 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
+        "events": [
+          {
+            "event_id": "279523f73a15fa9c",
+            "event_title": "Richard Kahn Meets Michael and Kimberly Ross Before Island Visit",
+            "event_type": "presence",
+            "description": "Richard Kahn of HBRK Associates met Michael and Kimberly Ross at his office at 575 Lexington Avenue at 11:15am on May 30, 2017, regarding their upcoming visit to Epstein's island.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
+                "name": "the Ross's",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Richard Kahn works closely with Epstein; the Ross's were coordinating their visit to Epstein's island through Epstein's associates.",
+            "evidence": [
+              {
+                "file": "EFTA02214145.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "i am meeting them today 11:15am at my office",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214145.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b3da1aa4444ace49",
+            "event_title": "Visitor on Epstein's Schedule Contacted by Indyke Office",
+            "event_type": "presence",
+            "description": "A legal assistant at Darren K. Indyke PLLC contacted someone on Epstein's schedule for June 30, 2017 asking for their address, indicating a scheduled meeting or appointment.",
+            "date_start": "2017-06-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bebe Avdiu",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "The person is on Epstein's official schedule and contacted by his legal counsel's office.",
+            "evidence": [
+              {
+                "file": "EFTA02215951.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "My name is Bebe and I am covering for Mr. Epstein's assistant as she is out this week. I see you are on Jeffrey's schedule for today. May you please forward me your address?\nBebe Avdiu\nLegal Assistant\nDARREN K INDYKE, PLLC\n575 Lexington Avenue, 4th Floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215951.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8a17d695e0c09a6f",
+            "event_title": "Carluz Toylo Begins Employment at Epstein's NYC Office",
+            "event_type": "travel",
+            "description": "Carluz Toylo scheduled to begin employment at HBRK Associates Inc. office in New York on October 1, 2017, with Richard Kahn instructing coordination with Lesley for flight arrangements from Hawaii.",
+            "date_start": "2017-10-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
+                "name": "Carluz Toylo",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Employment coordination at Richard Kahn's office (Epstein's financial manager) but no evidence Epstein was physically present at this specific location on this date.",
+            "evidence": [
+              {
+                "file": "EFTA02220623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NYC is where you will begin please coordinate with Lesley and she will help you arrange flights... Richard Kahn HBRK Associates Inc. 575 Lexington Avenue, 4th Floor New York, NY 10022",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220623.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221617.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NYC is where you will begin please coordinate with Lesley and she will help you arrange flights",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221617.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ccaea5b9904a7d7f",
+            "event_title": "Darren Indyke Summoned to Meet Epstein in New York",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein's staff summoned attorney Darren Indyke to a 12:30pm meeting with Epstein in New York on August 30, 2017, with only Indyke confirmed as attendee.",
+            "date_start": "2017-08-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
+                "name": "Bebe Avdiu",
+                "role": "legal"
+              },
+              {
+                "name": "Darren K. Indyke",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally requested the meeting ('come see Jeffrey'), confirming his physical presence at the meeting location.",
+            "evidence": [
+              {
+                "file": "EFTA02221223.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221223.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221253.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks\nJust Darren, right?\nyes, Rich is out from Wed Aug. 30-Sept. 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221253.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221271.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks\nyep - Just wanted to make sure I wasn't going too lol",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221271.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c1feaac048a36a8b",
+            "event_title": "Epstein Staff Meeting at Darren Indyke Law Office",
+            "event_type": "presence",
+            "description": "Lesley Groff coordinates meeting at 12:30pm at Darren Indyke's law office at 575 Lexington Avenue, New York on August 29, 2017",
+            "date_start": "2017-08-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Darren Indyke",
+                "role": "legal"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Meeting coordinated by Epstein's assistant at Epstein's attorney's office.",
+            "evidence": [
+              {
+                "file": "EFTA02221367.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "yes, Rich is out from Wed Aug. 30-Sept. 4, back in office Sept 5\nJust Darren, right?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221367.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6865ae18fa57d1ae",
+            "event_title": "Ghislaine Maxwell Deposition Held at Boies Schiller Offices, July 22, 2016",
+            "event_type": "legal",
+            "description": "Ghislaine Maxwell appeared for continued videotaped deposition in civil case 15-cv-07433-RWS at Boies Schiller offices with attorneys from multiple law firms present.",
+            "date_start": "2016-07-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "David Boies",
+                "role": "legal"
+              },
+              {
+                "name": "Paul Cassell",
+                "role": "legal"
+              },
+              {
+                "name": "Brad Edwards",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell is Epstein's key associate and this deposition directly relates to Epstein case activity, but Epstein was not physically present at the deposition.",
+            "evidence": [
+              {
+                "file": "EFTA00083933.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Continued Videotaped Deposition of GHISLAINE MAXWELL, the Defendant herein, taken pursuant to subpoena, was held at the law offices of Boies, Schiller & Flexner, LLP, 575 Lexington Avenue, New York, New York, commencing July 22, 2016, 9:04 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083933.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02214145",
+            "file": "EFTA02214145.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215951",
+            "file": "EFTA02215951.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220623",
+            "file": "EFTA02220623.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221617",
+            "file": "EFTA02221617.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221223",
+            "file": "EFTA02221223.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221253",
+            "file": "EFTA02221253.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221271",
+            "file": "EFTA02221271.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221367",
+            "file": "EFTA02221367.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00083933",
+            "file": "EFTA00083933.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.539993,
           43.202211
         ]
@@ -59418,306 +60273,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.938472,
-          40.689307
-        ]
-      },
-      "properties": {
-        "id": "eb1a088f52ac3bb8",
-        "name": "HBRK Associates Inc.",
-        "location_name": "HBRK Associates Inc.",
-        "location_address": "575 Lexington Avenue, Brooklyn, New York 11221, United States",
-        "location_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
-        "canonical_name": "HBRK Associates Inc., 575 Lexington Avenue, 4th Floor, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "HBRK Associates Inc.",
-        "location_descriptor": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
-        "event_count": 5,
-        "evidence_count": 8,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-30",
-        "date_end": "2017-10-01",
-        "people": [
-          {
-            "name": "Richard Kahn",
-            "role": "associate"
-          },
-          {
-            "name": "the Ross's",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Bebe Avdiu",
-            "role": "legal"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Carluz Toylo",
-            "role": "staff"
-          },
-          {
-            "name": "Darren K. Indyke",
-            "role": "legal"
-          },
-          {
-            "name": "Darren Indyke",
-            "role": "legal"
-          }
-        ],
-        "source_count": 8,
-        "sources_preview": "EFTA02214145.pdf, EFTA02215951.pdf, EFTA02220623.pdf, EFTA02221617.pdf, EFTA02221223.pdf, ... (+3 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
-        "events": [
-          {
-            "event_id": "279523f73a15fa9c",
-            "event_title": "Richard Kahn Meets Michael and Kimberly Ross Before Island Visit",
-            "event_type": "presence",
-            "description": "Richard Kahn of HBRK Associates met Michael and Kimberly Ross at his office at 575 Lexington Avenue at 11:15am on May 30, 2017, regarding their upcoming visit to Epstein's island.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Richard Kahn",
-                "role": "associate"
-              },
-              {
-                "name": "the Ross's",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Richard Kahn works closely with Epstein; the Ross's were coordinating their visit to Epstein's island through Epstein's associates.",
-            "evidence": [
-              {
-                "file": "EFTA02214145.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "i am meeting them today 11:15am at my office",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214145.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b3da1aa4444ace49",
-            "event_title": "Visitor on Epstein's Schedule Contacted by Indyke Office",
-            "event_type": "presence",
-            "description": "A legal assistant at Darren K. Indyke PLLC contacted someone on Epstein's schedule for June 30, 2017 asking for their address, indicating a scheduled meeting or appointment.",
-            "date_start": "2017-06-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bebe Avdiu",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "The person is on Epstein's official schedule and contacted by his legal counsel's office.",
-            "evidence": [
-              {
-                "file": "EFTA02215951.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "My name is Bebe and I am covering for Mr. Epstein's assistant as she is out this week. I see you are on Jeffrey's schedule for today. May you please forward me your address?\nBebe Avdiu\nLegal Assistant\nDARREN K INDYKE, PLLC\n575 Lexington Avenue, 4th Floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215951.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8a17d695e0c09a6f",
-            "event_title": "Carluz Toylo Begins Employment at Epstein's NYC Office",
-            "event_type": "travel",
-            "description": "Carluz Toylo scheduled to begin employment at HBRK Associates Inc. office in New York on October 1, 2017, with Richard Kahn instructing coordination with Lesley for flight arrangements from Hawaii.",
-            "date_start": "2017-10-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Richard Kahn",
-                "role": "associate"
-              },
-              {
-                "name": "Carluz Toylo",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Employment coordination at Richard Kahn's office (Epstein's financial manager) but no evidence Epstein was physically present at this specific location on this date.",
-            "evidence": [
-              {
-                "file": "EFTA02220623.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NYC is where you will begin please coordinate with Lesley and she will help you arrange flights... Richard Kahn HBRK Associates Inc. 575 Lexington Avenue, 4th Floor New York, NY 10022",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220623.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221617.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NYC is where you will begin please coordinate with Lesley and she will help you arrange flights",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221617.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ccaea5b9904a7d7f",
-            "event_title": "Darren Indyke Summoned to Meet Epstein in New York",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein's staff summoned attorney Darren Indyke to a 12:30pm meeting with Epstein in New York on August 30, 2017, with only Indyke confirmed as attendee.",
-            "date_start": "2017-08-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Richard Kahn",
-                "role": "associate"
-              },
-              {
-                "name": "Bebe Avdiu",
-                "role": "legal"
-              },
-              {
-                "name": "Darren K. Indyke",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally requested the meeting ('come see Jeffrey'), confirming his physical presence at the meeting location.",
-            "evidence": [
-              {
-                "file": "EFTA02221223.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221223.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221253.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks\nJust Darren, right?\nyes, Rich is out from Wed Aug. 30-Sept. 4",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221253.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221271.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks\nyep - Just wanted to make sure I wasn't going too lol",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221271.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c1feaac048a36a8b",
-            "event_title": "Epstein Staff Meeting at Darren Indyke Law Office",
-            "event_type": "presence",
-            "description": "Lesley Groff coordinates meeting at 12:30pm at Darren Indyke's law office at 575 Lexington Avenue, New York on August 29, 2017",
-            "date_start": "2017-08-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Darren Indyke",
-                "role": "legal"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Meeting coordinated by Epstein's assistant at Epstein's attorney's office.",
-            "evidence": [
-              {
-                "file": "EFTA02221367.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "yes, Rich is out from Wed Aug. 30-Sept. 4, back in office Sept 5\nJust Darren, right?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221367.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02214145",
-            "file": "EFTA02214145.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215951",
-            "file": "EFTA02215951.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220623",
-            "file": "EFTA02220623.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221617",
-            "file": "EFTA02221617.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221223",
-            "file": "EFTA02221223.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221253",
-            "file": "EFTA02221253.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221271",
-            "file": "EFTA02221271.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221367",
-            "file": "EFTA02221367.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.056804,
           42.35888
         ]
@@ -61069,6 +61624,214 @@
           {
             "doc_id": "EFTA02214755",
             "file": "EFTA02214755.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1919,
+          25.773357
+        ]
+      },
+      "properties": {
+        "id": "bce49ac1faa55462",
+        "name": "U.S. Attorney's Office, S.D. Fla. (Miami)",
+        "location_name": "U.S. Attorney's Office, S.D. Fla. (Miami)",
+        "location_address": "Miami, Florida, United States",
+        "location_description": "The main headquarters of the U.S. Attorney's Office for the Southern District of Florida, located in downtown Miami and responsible for federal prosecutions across South Florida.",
+        "canonical_name": "U.S. Attorney's Office, Southern District of Florida, 99 NE 4th Street, Miami, FL 33132",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, S.D. Fla. (Miami)",
+        "location_descriptor": "The main headquarters of the U.S. Attorney's Office for the Southern District of Florida, located in downtown Miami and responsible for federal prosecutions across South Florida.",
+        "event_count": 4,
+        "evidence_count": 5,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2007",
+        "date_end": "2017-02-05",
+        "people": [
+          {
+            "name": "defense counsel",
+            "role": "legal"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Alexander Acosta",
+            "role": "legal"
+          },
+          {
+            "name": "Epstein's defense team",
+            "role": "legal"
+          },
+          {
+            "name": "Kasatkina",
+            "role": "associate"
+          }
+        ],
+        "source_count": 5,
+        "sources_preview": "EFTA00013801.pdf, EFTA00076059.pdf, EFTA00076060.pdf, EFTA00083566.pdf, EFTA02223525.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The main headquarters of the U.S. Attorney's Office for the Southern District of Florida, located in downtown Miami and responsible for federal prosecutions across South Florida.",
+        "events": [
+          {
+            "event_id": "e82b0a3f823725a6",
+            "event_title": "Defense Counsel Meets DOJ/CEOS Reviewer at USAO Miami",
+            "event_type": "presence",
+            "description": "Epstein defense counsel met with DOJ CEOS reviewer at the US Attorney's Office in Miami in September 2007, during which the reviewer expressed strong belief in the prosecution.",
+            "date_start": "2007-09",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "defense counsel",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is a legal proceeding directly related to the Epstein case at the USAO Miami, but Epstein himself was not physically present.",
+            "evidence": [
+              {
+                "file": "EFTA00013801.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "During a meeting with defense counsel at the United States Attorney's Office in Miami (the \"USAO\") in September of 2007, he opined that he so believed in the prosecution that he \"would try the case myself\"",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013801.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ba1ed73bab30c6fc",
+            "event_title": "Acosta Cuts Non-Prosecution Deal After 'Belonged to Intelligence' Claim",
+            "event_type": "presence",
+            "description": "Alexander Acosta, then U.S. Attorney in Miami, met with one of Epstein's attorneys and cut a non-prosecution deal after reportedly being told Epstein \"belonged to intelligence\" and to leave him alone.",
+            "date_start": "2007",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Alexander Acosta",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "The meeting concerned Epstein's case directly and led to the controversial 2007 non-prosecution plea deal, though Epstein himself was not at the meeting.",
+            "evidence": [
+              {
+                "file": "EFTA00076059.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "back in the day he'd had just one meeting on the Epstein case. He'd cut the non-prosecution deal with one of Epstein's attorneys because he had \"been told\" to back off, that Epstein was above his pay grade. \"I was told Epstein 'belonged to intelligence' and to leave it alone\"",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076059.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076060.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "back in the day he'd had just one meeting on the Epstein case. He'd cut the non-prosecution deal with one of Epstein's attorneys because he had \"been told\" to back off, that Epstein was above his pay grade.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076060.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "6b63cb2214a98928",
+            "event_title": "Epstein Defense Team Meets with US Attorney's Office in Fort Lauderdale, February 1, 2007",
+            "event_type": "communication",
+            "description": "Epstein's defense team presented a 24-page letter to the US Attorney's Office (SDFL) before meeting in-person on the same day to discuss proposed charges against Epstein.",
+            "date_start": "2007-02-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Epstein's defense team",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The meeting was about Epstein himself and his defense team attended on his behalf, representing him personally in the NPA negotiations.",
+            "evidence": [
+              {
+                "file": "EFTA00083566.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On February I, 2007, Epstein's defense team sent a 24-page letter to the Office going over what they intended to present during a meeting at the Office the same day.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083566.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "298fdc1dddd7cf9c",
+            "event_title": "Kasatkina Arrives at Miami International on United Airlines UA8779 from Munich",
+            "event_type": "travel",
+            "description": "Kasatkina flew United Airlines UA 8779 from Munich Franz Josef Strauss to Miami International Airport, arriving on February 5, 2017, en route to Epstein's Palm Beach estate.",
+            "date_start": "2017-02-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kasatkina",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Flight arranged via Epstein's Amex Centurion Travel account to travel to his Palm Beach property; Kasatkina not Epstein himself.",
+            "evidence": [
+              {
+                "file": "EFTA02223525.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight Information Date 05 Feb 2017 Airline United Airlines Flight/Class UA 8779 W Economy Class Origin Muenchen, Franz Josef Strauss Destination Miami, Miami International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223525.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00013801",
+            "file": "EFTA00013801.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076059",
+            "file": "EFTA00076059.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076060",
+            "file": "EFTA00076060.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00083566",
+            "file": "EFTA00083566.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223525",
+            "file": "EFTA02223525.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -68108,7 +68871,7 @@
         "display_name": "FBI Miami Field Office",
         "location_descriptor": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
         "event_count": 2,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -68124,6 +68887,10 @@
             "role": "other"
           },
           {
+            "name": "Jane Doe 2",
+            "role": "victim"
+          },
+          {
             "name": "Witness",
             "role": "victim"
           },
@@ -68132,8 +68899,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA00010507.pdf, EFTA00076294.pdf, EFTA00015211.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA00010507.pdf, EFTA00076294.pdf, EFTA00083566.pdf, EFTA00015211.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
         "event_description": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
@@ -68155,6 +68922,10 @@
               {
                 "name": "SA",
                 "role": "other"
+              },
+              {
+                "name": "Jane Doe 2",
+                "role": "victim"
               },
               {
                 "name": "Witness",
@@ -68180,6 +68951,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "SA was co-case agent...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076294.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00083566.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jane Doe 1 provided information about her abuse and Jane Doe 2s abuse to the FBI on August 7, 2007.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083566.pdf",
                 "confidence": 0.7
               }
             ]
@@ -68219,140 +68997,13 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00083566",
+            "file": "EFTA00083566.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015211",
             "file": "EFTA00015211.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1919,
-          25.773357
-        ]
-      },
-      "properties": {
-        "id": "bce49ac1faa55462",
-        "name": "U.S. Attorney's Office, S.D. Fla. (Miami)",
-        "location_name": "U.S. Attorney's Office, S.D. Fla. (Miami)",
-        "location_address": "Miami, Florida, United States",
-        "location_description": "The main headquarters of the U.S. Attorney's Office for the Southern District of Florida, located in downtown Miami and responsible for federal prosecutions across South Florida.",
-        "canonical_name": "U.S. Attorney's Office, Southern District of Florida, 99 NE 4th Street, Miami, FL 33132",
-        "region": "",
-        "property_type": "event",
-        "display_name": "U.S. Attorney's Office, S.D. Fla. (Miami)",
-        "location_descriptor": "The main headquarters of the U.S. Attorney's Office for the Southern District of Florida, located in downtown Miami and responsible for federal prosecutions across South Florida.",
-        "event_count": 2,
-        "evidence_count": 3,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2007",
-        "date_end": "2007-09",
-        "people": [
-          {
-            "name": "defense counsel",
-            "role": "legal"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Alexander Acosta",
-            "role": "legal"
-          }
-        ],
-        "source_count": 3,
-        "sources_preview": "EFTA00013801.pdf, EFTA00076059.pdf, EFTA00076060.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "The main headquarters of the U.S. Attorney's Office for the Southern District of Florida, located in downtown Miami and responsible for federal prosecutions across South Florida.",
-        "events": [
-          {
-            "event_id": "e82b0a3f823725a6",
-            "event_title": "Defense Counsel Meets DOJ/CEOS Reviewer at USAO Miami",
-            "event_type": "presence",
-            "description": "Epstein defense counsel met with DOJ CEOS reviewer at the US Attorney's Office in Miami in September 2007, during which the reviewer expressed strong belief in the prosecution.",
-            "date_start": "2007-09",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "defense counsel",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This is a legal proceeding directly related to the Epstein case at the USAO Miami, but Epstein himself was not physically present.",
-            "evidence": [
-              {
-                "file": "EFTA00013801.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "During a meeting with defense counsel at the United States Attorney's Office in Miami (the \"USAO\") in September of 2007, he opined that he so believed in the prosecution that he \"would try the case myself\"",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013801.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ba1ed73bab30c6fc",
-            "event_title": "Acosta Cuts Non-Prosecution Deal After 'Belonged to Intelligence' Claim",
-            "event_type": "presence",
-            "description": "Alexander Acosta, then U.S. Attorney in Miami, met with one of Epstein's attorneys and cut a non-prosecution deal after reportedly being told Epstein \"belonged to intelligence\" and to leave him alone.",
-            "date_start": "2007",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Alexander Acosta",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "The meeting concerned Epstein's case directly and led to the controversial 2007 non-prosecution plea deal, though Epstein himself was not at the meeting.",
-            "evidence": [
-              {
-                "file": "EFTA00076059.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "back in the day he'd had just one meeting on the Epstein case. He'd cut the non-prosecution deal with one of Epstein's attorneys because he had \"been told\" to back off, that Epstein was above his pay grade. \"I was told Epstein 'belonged to intelligence' and to leave it alone\"",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076059.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00076060.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "back in the day he'd had just one meeting on the Epstein case. He'd cut the non-prosecution deal with one of Epstein's attorneys because he had \"been told\" to back off, that Epstein was above his pay grade.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076060.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00013801",
-            "file": "EFTA00013801.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00076059",
-            "file": "EFTA00076059.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00076060",
-            "file": "EFTA00076060.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -73073,7 +73724,7 @@
         "display_name": "Lenox Hill Radiology",
         "location_descriptor": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
         "event_count": 2,
-        "evidence_count": 10,
+        "evidence_count": 11,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -73109,8 +73760,8 @@
             "role": "other"
           }
         ],
-        "source_count": 10,
-        "sources_preview": "EFTA02220360.pdf, EFTA02222415.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf, ... (+5 more)",
+        "source_count": 11,
+        "sources_preview": "EFTA02220360.pdf, EFTA02222415.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf, ... (+6 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
@@ -73246,6 +73897,13 @@
                 "excerpt": "JE to TAKE SCRIPT, ID, INSURANCE CARD, CC with him to 1pm Lenox Hill Radiology appt!\nSeptember 15, 2017 12:00 PM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223321.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223414.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1:00pm ARRIVE for 1:30-3:00pm CT Scans & Ultrasound (Dr. Josephson) CT Scans of Sinus & Neck/Ultrasound of Thyroid Lenox Hill Radiology 61 E. 77th Street (between Park and Madison)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223414.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -73300,6 +73958,11 @@
             "doc_id": "EFTA02223321",
             "file": "EFTA02223321.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223414",
+            "file": "EFTA02223414.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -73325,7 +73988,7 @@
         "display_name": "9 East 79th Street",
         "location_descriptor": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
         "event_count": 2,
-        "evidence_count": 9,
+        "evidence_count": 10,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -73359,10 +74022,14 @@
           {
             "name": "Dr. Orsher",
             "role": "other"
+          },
+          {
+            "name": "Jojo",
+            "role": "staff"
           }
         ],
-        "source_count": 9,
-        "sources_preview": "EFTA02220445.pdf, EFTA02220479.pdf, EFTA02220519.pdf, EFTA02220770.pdf, EFTA02221015.pdf, ... (+4 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA02220445.pdf, EFTA02220479.pdf, EFTA02220519.pdf, EFTA02220770.pdf, EFTA02221015.pdf, ... (+5 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
@@ -73480,6 +74147,10 @@
               {
                 "name": "Dr. Orsher",
                 "role": "other"
+              },
+              {
+                "name": "Jojo",
+                "role": "staff"
               }
             ],
             "epstein_nexus": "direct",
@@ -73490,6 +74161,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "8:30am Fasting Blood Test w/Dr. Orsher (==)\n9 East 79th Street ( E)\nJOJO TO DRIVE YOU IF ITS RAINING!!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222880.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223424.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Walk or have Jojo drive you to your 8:30am Dr. Orsher bloodworm (9 East 79th street)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223424.pdf",
                 "confidence": 0.7
               }
             ]
@@ -73539,6 +74217,11 @@
           {
             "doc_id": "EFTA02222880",
             "file": "EFTA02222880.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223424",
+            "file": "EFTA02223424.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -73959,7 +74642,7 @@
         "display_name": "Walter Reade Theater",
         "location_descriptor": "A 268-seat arthouse cinema operated by Film at Lincoln Center, located inside the Lincoln Center for the Performing Arts complex on the Upper West Side of Manhattan, New York City.",
         "event_count": 2,
-        "evidence_count": 3,
+        "evidence_count": 5,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -73979,8 +74662,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA02221520.pdf, EFTA02223224.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA02221520.pdf, EFTA02223224.pdf, EFTA02223558.pdf, EFTA02223468.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A 268-seat arthouse cinema operated by Film at Lincoln Center, located inside the Lincoln Center for the Performing Arts complex on the Upper West Side of Manhattan, New York City.",
@@ -74055,6 +74738,20 @@
                 "excerpt": "Jeffrey says he will attend the New York Film Festival dinner, movie and possibly after party tomorrow night (Thursday Sept. 28) with Peggy Siegal...\n6:00pm NY Film Festival with Peggy, \"Last Flag Flying\"\nDinner Reception\nLincoln Ristorante\n9:00pm Screening: \"Last Flag Flying\"\nAlice Tully",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223224.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223558.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "6:00pm NY Film Festival with Peggy. \"Last Flag Flying\"\nDinner Reception Lincoln Ristoraine\n142 West 65th Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223558.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223468.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "6:00pm NY Film Festival with Peggy, 'Last Flag Flying' Dinner Reception Lincoln Ristorante 142 West 69th Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223468.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -74068,6 +74765,16 @@
           {
             "doc_id": "EFTA02223224",
             "file": "EFTA02223224.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223558",
+            "file": "EFTA02223558.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223468",
+            "file": "EFTA02223468.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -74094,7 +74801,7 @@
         "display_name": "Palm Beach International Airport",
         "location_descriptor": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
         "event_count": 2,
-        "evidence_count": 5,
+        "evidence_count": 6,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -74114,8 +74821,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 5,
-        "sources_preview": "EFTA02222430.pdf, EFTA02223054.pdf, EFTA02223256.pdf, EFTA02223271.pdf, EFTA02223496.pdf",
+        "source_count": 6,
+        "sources_preview": "EFTA02222430.pdf, EFTA02223054.pdf, EFTA02223256.pdf, EFTA02223271.pdf, EFTA02223496.pdf, ... (+1 more)",
         "epstein_nexus": "contextual",
         "event_type": "travel",
         "event_description": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
@@ -74196,6 +74903,13 @@
                 "excerpt": "NI2OJE arrived at Palm Beach Intl (KPBI) at 01:47PM EDT from Long Island MacArthur (KISP)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223496.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223431.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NI2OJE is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 01:49PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223431.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -74225,6 +74939,11 @@
             "doc_id": "EFTA02223496",
             "file": "EFTA02223496.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223431",
+            "file": "EFTA02223431.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -74250,7 +74969,7 @@
         "display_name": "Alice Tully Hall, Lincoln Center",
         "location_descriptor": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
         "event_count": 2,
-        "evidence_count": 7,
+        "evidence_count": 9,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -74274,8 +74993,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA02223062.pdf, EFTA02223224.pdf, EFTA02223282.pdf, EFTA02223331.pdf, EFTA02223318.pdf, ... (+2 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02223062.pdf, EFTA02223224.pdf, EFTA02223282.pdf, EFTA02223331.pdf, EFTA02223318.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
@@ -74351,6 +75070,20 @@
                 "excerpt": "Jeffrey mentioned he would attend with her...so I assume this is the film he will go to with Peggy.. The opening film is \"Last Flag Flying\" starting at 6pm.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223498.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223468.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "9:00pm Screening: 'Last Flag Flying' Alice Tully Hall, Lincoln Center West 65th Street & Broadway",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223468.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223476.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey mentioned he would attend with her...so I assume this is the film he will go to with Peggy. The opening film is 'Last Flag Flying' starting at 6pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223476.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -74411,6 +75144,16 @@
           {
             "doc_id": "EFTA02223498",
             "file": "EFTA02223498.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223468",
+            "file": "EFTA02223468.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223476",
+            "file": "EFTA02223476.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -83272,7 +84015,7 @@
         "display_name": "YouTube Space NY",
         "location_descriptor": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
         "event_count": 1,
-        "evidence_count": 10,
+        "evidence_count": 12,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -83284,6 +84027,10 @@
             "role": "subject"
           },
           {
+            "name": "Julie Taymor",
+            "role": "associate"
+          },
+          {
             "name": "Lesley Groff",
             "role": "staff"
           },
@@ -83292,12 +84039,16 @@
             "role": "associate"
           },
           {
+            "name": "Karyna",
+            "role": "associate"
+          },
+          {
             "name": "Michael Shermer",
             "role": "other"
           }
         ],
-        "source_count": 10,
-        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+5 more)",
+        "source_count": 12,
+        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+7 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
@@ -83317,11 +84068,19 @@
                 "role": "subject"
               },
               {
+                "name": "Julie Taymor",
+                "role": "associate"
+              },
+              {
                 "name": "Lesley Groff",
                 "role": "staff"
               },
               {
                 "name": "Deepak Chopra",
+                "role": "associate"
+              },
+              {
+                "name": "Karyna",
                 "role": "associate"
               },
               {
@@ -83401,6 +84160,20 @@
                 "excerpt": "Jeffrey will be bringing the below guests with him to the Deepak Chopra event. When: Wednesday, September 27th Time: 5-7:00 pm Where: YouTube Space NY, 75 9th Avenue, NYC",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223392.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223520.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "5-7:00pm Invite to Deepak Chopra & Michael Shermer on stage for Skeptic Magazines 2, Anniversary (JE +5)\nYou Tube Studio (check in on the guest list & go up to level 6)\n75 9th Ave.\nChelsea Market\nNY, NY",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223520.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223485.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be attending Deepak Chopra's event on Wed. Sept. 27th from 5-7pm at the YouTube Space NY, 75 9th Avenue, Level 6. Jeffrey is asking if you might like to attend with him as his guest.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223485.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -83454,6 +84227,16 @@
           {
             "doc_id": "EFTA02223392",
             "file": "EFTA02223392.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223520",
+            "file": "EFTA02223520.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223485",
+            "file": "EFTA02223485.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -86330,6 +87113,366 @@
           {
             "doc_id": "EFTA00083548",
             "file": "EFTA00083548.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "c843237fe53770af",
+        "name": "U.S. Attorney's Office SDNY",
+        "location_name": "U.S. Attorney's Office SDNY",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The Southern District of New York U.S. Attorney's Office, headquartered in Manhattan, is one of the most prominent federal prosecutor offices in the United States.",
+        "canonical_name": "U.S. Attorney's Office, Southern District of New York, One St. Andrew's Plaza, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office SDNY",
+        "location_descriptor": "The Southern District of New York U.S. Attorney's Office, headquartered in Manhattan, is one of the most prominent federal prosecutor offices in the United States.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-10-23",
+        "date_end": "2019-10-23",
+        "people": [
+          {
+            "name": "Epstein's victims",
+            "role": "victim"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00083641.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The Southern District of New York U.S. Attorney's Office, headquartered in Manhattan, is one of the most prominent federal prosecutor offices in the United States.",
+        "events": [
+          {
+            "event_id": "2e221e62dfdee2dd",
+            "event_title": "SDNY Victim Services Staff Meet Epstein Victims in New York, October 23, 2019",
+            "event_type": "presence",
+            "description": "SDNY victim services unit staff held a meeting in New York with Epstein victims and their lawyers, as federal prosecutors built criminal case against Epstein accomplices.",
+            "date_start": "2019-10-23",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Epstein's victims",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Meeting involves Epstein victims cooperating with prosecutors investigating the Epstein network, but Epstein himself was deceased.",
+            "evidence": [
+              {
+                "file": "EFTA00083641.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The staffers, who worked in the victim services unit, held a similar meeting in New York on Oct. 23, lawyers for the women and a law enforcement source told The Daily Beast.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083641.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00083641",
+            "file": "EFTA00083641.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.052985,
+          40.854917
+        ]
+      },
+      "properties": {
+        "id": "5cfeb9a14bfeab3d",
+        "name": "Teterboro Airport",
+        "location_name": "Teterboro Airport",
+        "location_address": "150 Riser Road, Little Ferry, New Jersey 07643, United States",
+        "location_description": "A general aviation reliever airport in Bergen County, New Jersey, primarily serving private and charter aircraft for the New York metropolitan area.",
+        "canonical_name": "Teterboro Airport, 150 Riser Road, Teterboro, NJ, Little Ferry, New Jersey",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Teterboro Airport",
+        "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, primarily serving private and charter aircraft for the New York metropolitan area.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-07-06",
+        "date_end": "2019-07-06",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Geoffrey Berman",
+            "role": "legal"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00083658.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A general aviation reliever airport in Bergen County, New Jersey, primarily serving private and charter aircraft for the New York metropolitan area.",
+        "events": [
+          {
+            "event_id": "ae60b2c647dc7d04",
+            "event_title": "Epstein Confirmed Aboard Flight Before July 6, 2019 Arrest - FBI Gets Manifest",
+            "event_type": "travel",
+            "description": "FBI received CBP flight manifest confirming Epstein and two pilots were aboard flight.",
+            "date_start": "2019-07-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Geoffrey Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically on the aircraft.",
+            "evidence": [
+              {
+                "file": "EFTA00083658.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "FBI received a flight manifest from CBP last night.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083658.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00083658",
+            "file": "EFTA00083658.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.297558,
+          25.25809
+        ]
+      },
+      "properties": {
+        "id": "0d69d6afe45a6386",
+        "name": "Dubai International Airport",
+        "location_name": "Dubai International Airport",
+        "location_address": "Dubai, Dubai, United Arab Emirates",
+        "location_description": "The primary international airport of Dubai, United Arab Emirates, and one of the world's busiest airports by international passenger traffic.",
+        "canonical_name": "Dubai International Airport, Dubai, United Arab Emirates",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Dubai International Airport",
+        "location_descriptor": "The primary international airport of Dubai, United Arab Emirates, and one of the world's busiest airports by international passenger traffic.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "transaction",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-01-22",
+        "date_end": "2017-01-22",
+        "people": [
+          {
+            "name": "Thanu",
+            "role": "associate"
+          },
+          {
+            "name": "Eduardo Robles",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02223448.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "transaction",
+        "event_description": "The primary international airport of Dubai, United Arab Emirates, and one of the world's busiest airports by international passenger traffic.",
+        "events": [
+          {
+            "event_id": "b857b064202f5c0b",
+            "event_title": "Eduardo Robles and Thanu Depart Epstein's Island, Return to Dubai",
+            "event_type": "transaction",
+            "description": "Eduardo Robles and Thanu were booked to return from the island to Dubai on January 22, 2017, with Epstein approving the ticket purchase.",
+            "date_start": "2017-01-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Thanu",
+                "role": "associate"
+              },
+              {
+                "name": "Eduardo Robles",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Eduardo and Thanu departing from Epstein's island back to Dubai, coordinated by Epstein's staff.",
+            "evidence": [
+              {
+                "file": "EFTA02223448.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Below ticket is on HOLD...we are holding Biz seats for $10,018.50 EACH! We can do coach for $1037.50 each. Please advise if I should purchase these tickets back to Dubai for Eduardo and Thanu.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223448.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02223448",
+            "file": "EFTA02223448.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "46b7144dce02106d",
+        "name": "Tavern on the Green",
+        "location_name": "Tavern on the Green",
+        "location_address": "New York City, New York, United States",
+        "location_description": "A historic restaurant located in Central Park, Manhattan, at the intersection of West 67th Street and Central Park West, known for hosting private events and galas.",
+        "canonical_name": "Tavern on the Green, West 67th Street & Central Park West, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Tavern on the Green",
+        "location_descriptor": "A historic restaurant located in Central Park, Manhattan, at the intersection of West 67th Street and Central Park West, known for hosting private events and galas.",
+        "event_count": 1,
+        "evidence_count": 3,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-28",
+        "date_end": "2017-09-28",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Peggy Siegal",
+            "role": "associate"
+          },
+          {
+            "name": "Rebecca Drescher",
+            "role": "other"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02223455.pdf, EFTA02223558.pdf, EFTA02223468.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "A historic restaurant located in Central Park, Manhattan, at the intersection of West 67th Street and Central Park West, known for hosting private events and galas.",
+        "events": [
+          {
+            "event_id": "38a02159637ca75b",
+            "event_title": "NYFF 'Last Flag Flying' After Party at Tavern on the Green, Epstein Invited",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein was invited to the NYFF after party for 'Last Flag Flying' at Tavern on the Green on September 28, 2017, along with a dinner beforehand.",
+            "date_start": "2017-09-28",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Peggy Siegal",
+                "role": "associate"
+              },
+              {
+                "name": "Rebecca Drescher",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein was invited to the after party event at Tavern on the Green per staff coordination, attendance not explicitly confirmed.",
+            "evidence": [
+              {
+                "file": "EFTA02223455.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I don't have the details on the dinner yet, but the after party is at Tavern on the Green. The premiere is actually at 9pm, and there is a dinner beforehand.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223455.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223558.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "11:00pm After Party at Tavern on the Green (?)\nCentral Park West & 67th Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223558.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223468.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "11:00pm After Party at Tavern on the Green (?) Central Park West & 67th Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223468.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02223455",
+            "file": "EFTA02223455.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223558",
+            "file": "EFTA02223558.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223468",
+            "file": "EFTA02223468.pdf",
             "source_type": "doj_efta"
           }
         ]
