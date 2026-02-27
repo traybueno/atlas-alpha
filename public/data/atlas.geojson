@@ -7546,7 +7546,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 103,
-        "evidence_count": 312,
+        "evidence_count": 313,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8138,8 +8138,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 286,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+281 more)",
+        "source_count": 287,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+282 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -11814,6 +11814,13 @@
                 "excerpt": "yes 9 east 71 . put on everyone list\n...10 am and put again at 4\nPlease advise when will come to house (and I will include on everyone's schedule)!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219578.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221407.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Morning Soon Yi...wanted to confirm you and Woody will come see Jeffrey tomorrow night, Friday, Sept. 15th for dinner! Will 7pm be good for you?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221407.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -14432,6 +14439,11 @@
           {
             "doc_id": "EFTA02219578",
             "file": "EFTA02219578.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221407",
+            "file": "EFTA02221407.pdf",
             "source_type": "doj_efta"
           },
           {
