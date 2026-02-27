@@ -8223,8 +8223,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 113,
-        "evidence_count": 359,
+        "event_count": 115,
+        "evidence_count": 363,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8882,10 +8882,14 @@
           {
             "name": "David",
             "role": "other"
+          },
+          {
+            "name": "Bobby",
+            "role": "associate"
           }
         ],
-        "source_count": 328,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+323 more)",
+        "source_count": 332,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+327 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -13555,6 +13559,13 @@
                 "excerpt": "YES! that will be fantastic! Jeffrey would love to host him for dinner at his home, 9 East 71st Street between 5th and Madison. What time is good for Dr. Watson?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222147.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222204.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dr. Jim Watson is confirmed to come see you for dinner on Tues. Aug. 29th at 7pm!",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           },
@@ -13583,6 +13594,10 @@
               {
                 "name": "Stuart Orsher",
                 "role": "other"
+              },
+              {
+                "name": "Michael Wolff",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -13607,6 +13622,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey has a doctor appt tomorrow at 10:30am...it is within walking distance but please note he may want you to drive him.\n10:30am Appt iv/Dr. Stuart Orsher, MD\n9 East 70' Street",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221015.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222082.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Great. See you then.\n...4?\n...Ill be back in nyc by 3:30.\n...Tonight?\nWould you like to have snacks served with Michael at 4pm?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222082.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14783,6 +14805,68 @@
                 "source_type": "doj_efta",
                 "excerpt": "Hi David-Jeffrey says Andrew was to give him a call...Jeffrey is available on his cell (212 533 3739)\u2014or if Andrew would like to stop by, Jeffrey will be back at the house at 2pm...he could come over then...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222052.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "208c26eaa33677b3",
+            "event_title": "Bobby and Girlfriend Stay at Epstein's NYC Apartment, Oct 19-23, 2017 for Springsteen on Broadway",
+            "event_type": "presence",
+            "description": "Associate Bobby and his girlfriend use Jeffrey Epstein's NYC apartment October 19-23, 2017 while attending Bruce Springsteen on Broadway.",
+            "date_start": "2017-10-19",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bobby",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Bobby is a third party using Epstein's apartment.",
+            "evidence": [
+              {
+                "file": "EFTA02222081.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Email describing associate 'Bobby' requesting use of Jeffrey Epstein's NYC apartment for a visit with his girlfriend October 19-23, 2017 to attend Springsteen on Broadway.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222081.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "059e032a909ba970",
+            "event_title": "Associate Karen Stays in Apartment 3M at Epstein's NYC Residence, Aug 28-Sep 5, 2017",
+            "event_type": "presence",
+            "description": "Karen resides in apartment 3M at Epstein's NYC building from August 28 through September 5, 2017.",
+            "date_start": "2017-08-28",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Karen",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Contextual use of Epstein's property.",
+            "evidence": [
+              {
+                "file": "EFTA02222092.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alert - Karen in 3M Aug. 28-Sept 5\nAugust 28, 2017 in 3M Aug. 28-Sept 5",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222092.pdf",
                 "confidence": 0.7
               }
             ]
@@ -16170,6 +16254,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222204",
+            "file": "EFTA02222204.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220290",
             "file": "EFTA02220290.pdf",
             "source_type": "doj_efta"
@@ -16182,6 +16271,11 @@
           {
             "doc_id": "EFTA02221015",
             "file": "EFTA02221015.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222082",
+            "file": "EFTA02222082.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -16427,6 +16521,16 @@
           {
             "doc_id": "EFTA02222052",
             "file": "EFTA02222052.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222081",
+            "file": "EFTA02222081.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222092",
+            "file": "EFTA02222092.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -27638,7 +27742,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 49,
-        "evidence_count": 123,
+        "evidence_count": 125,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27814,8 +27918,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 117,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+112 more)",
+        "source_count": 119,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+114 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -29672,6 +29776,13 @@
                 "excerpt": "Subject Alert - Flight to Pads (SU 2454)\nSeptember 5, 2017 3:10 AM : Flight to Paris (SU 2454)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221962.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222079.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Can you Call Jeffrey? He wants to speak to you! Is it possible?\ncell: 212 533 3739\nParis house: + 33 1441 70210",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222079.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -29789,6 +29900,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Coach, non refundable:\nAF 1230 10SEP CDG MXP 0130P 0300P\nTOTAL FARE - USD 699.60\n...Jeffrey's request is for morning on Sunday...AF 1730 10SEP CDG MXP 0315P 0440P",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222063.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222190.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We were able to get a Coach ticket for [redacted]. She will take same flight to Paris tomorrow just in coach instead of Biz.",
+                "document_url": "",
                 "confidence": 0.7
               }
             ]
@@ -30387,6 +30505,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222079",
+            "file": "EFTA02222079.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221036",
             "file": "EFTA02221036.pdf",
             "source_type": "doj_efta"
@@ -30432,6 +30555,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222190",
+            "file": "EFTA02222190.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00077200",
             "file": "EFTA00077200.pdf",
             "source_type": "doj_efta"
@@ -30465,7 +30593,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 45,
-        "evidence_count": 117,
+        "evidence_count": 118,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -30625,8 +30753,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 107,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+102 more)",
+        "source_count": 108,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+103 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -32468,6 +32596,13 @@
                 "excerpt": "Jefffrey plans to go there tomorrow I know Anna is off island. I know Carlos and his wife are staying there but what about the Ross's?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221864.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222182.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "As far as I know suggested comes to the island Sat-Mon.",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           },
@@ -33067,6 +33202,11 @@
           {
             "doc_id": "EFTA02221864",
             "file": "EFTA02221864.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222182",
+            "file": "EFTA02222182.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -39428,7 +39568,7 @@
         "display_name": "Epstein East 66th Street Apartment Building",
         "location_descriptor": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
         "event_count": 21,
-        "evidence_count": 39,
+        "evidence_count": 42,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -39552,6 +39692,10 @@
             "role": "associate"
           },
           {
+            "name": "Yoni",
+            "role": "associate"
+          },
+          {
             "name": "Yoni Korent",
             "role": "other"
           },
@@ -39564,16 +39708,12 @@
             "role": "associate"
           },
           {
-            "name": "Yoni",
-            "role": "other"
-          },
-          {
             "name": "James Ce",
             "role": "other"
           }
         ],
-        "source_count": 36,
-        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+31 more)",
+        "source_count": 38,
+        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+33 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
@@ -40242,6 +40382,10 @@
                 "role": "associate"
               },
               {
+                "name": "Yoni",
+                "role": "associate"
+              },
+              {
                 "name": "Karen (Zorro Ranch Manager)",
                 "role": "associate"
               },
@@ -40280,6 +40424,20 @@
                 "excerpt": "stay in 3ML code is 7002 Arrive 28th Sept 5th",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221092.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222171.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "10B: Yoni Koren, wife, daughter Sept. 4-Oct 19",
+                "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222188.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I wanted to confirm you will stay in apt 10B. The apartment address is: corner of 66th and 2nd Ave. I have you blocked for Sept. 4-Oct 19.",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           },
@@ -40293,6 +40451,10 @@
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
               {
                 "name": "Taylor Visoski",
                 "role": "other"
@@ -40317,6 +40479,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "welcome letter for apt 3M for Taylor Visoski arriving on Friday. Sept 8th",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221040.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222171.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "3M: Ta for Visoski Sept. 8-10",
+                "document_url": "",
                 "confidence": 0.7
               }
             ]
@@ -40573,6 +40742,16 @@
           {
             "doc_id": "EFTA02221092",
             "file": "EFTA02221092.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222171",
+            "file": "EFTA02222171.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222188",
+            "file": "EFTA02222188.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -45297,7 +45476,7 @@
         "display_name": "Long Island MacArthur Airport",
         "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
         "event_count": 9,
-        "evidence_count": 27,
+        "evidence_count": 29,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -45329,8 +45508,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 27,
-        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+22 more)",
+        "source_count": 29,
+        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+24 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
@@ -45660,6 +45839,20 @@
                 "excerpt": "wheels up 730 am wednesday . landing 930 islip. . should meet us at 10 . with jojo.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222141.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222158.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "wheels up 730 am wednesday . landing 930 islip. . should meet us at 10 . with jojo.",
+                "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222173.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please coordinate meeting time/place for Wed_you must be at Islip by 10am (best to get there before 10am!)",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           },
@@ -45827,6 +46020,16 @@
           {
             "doc_id": "EFTA02222141",
             "file": "EFTA02222141.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222158",
+            "file": "EFTA02222158.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222173",
+            "file": "EFTA02222173.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -53474,7 +53677,7 @@
         "display_name": "Apollo Global Management",
         "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
         "event_count": 4,
-        "evidence_count": 10,
+        "evidence_count": 11,
         "primary_event_type": "communication",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -53502,6 +53705,10 @@
             "role": "legal"
           },
           {
+            "name": "Patrick",
+            "role": "other"
+          },
+          {
             "name": "Kathy Ruemmler",
             "role": "legal"
           },
@@ -53518,8 +53725,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 10,
-        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02220888.pdf, EFTA02221148.pdf, EFTA02221167.pdf, ... (+5 more)",
+        "source_count": 11,
+        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02220888.pdf, EFTA02221148.pdf, EFTA02221167.pdf, ... (+6 more)",
         "epstein_nexus": "direct",
         "event_type": "communication",
         "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
@@ -53605,6 +53812,10 @@
                 "role": "legal"
               },
               {
+                "name": "Patrick",
+                "role": "other"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               },
@@ -53668,6 +53879,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Haircut for JE at Fekkai w/Patrick tonight Sept. 13 at 6pm ...Kathy Ruemmler has an appt at 5:30pm but I do not know if he is paying for her....she made appt herself...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221673.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222176.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Haircut for JE at Fekkai w/Patrick tonight Sept. 13 at 6pm",
+                "document_url": "",
                 "confidence": 0.7
               }
             ]
@@ -53750,6 +53968,11 @@
           {
             "doc_id": "EFTA02221673",
             "file": "EFTA02221673.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222176",
+            "file": "EFTA02222176.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -60656,7 +60879,7 @@
         "display_name": "Marrakesh",
         "location_descriptor": "A historic imperial city in central Morocco renowned for its medina, souks, Jemaa el-Fna square, and Moorish architecture.",
         "event_count": 2,
-        "evidence_count": 4,
+        "evidence_count": 5,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -60688,8 +60911,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA02209722.pdf, EFTA02213522.pdf, EFTA02213754.pdf, EFTA02214972.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA02209722.pdf, EFTA02213522.pdf, EFTA02213754.pdf, EFTA02214972.pdf, EFTA02222075.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A historic imperial city in central Morocco renowned for its medina, souks, Jemaa el-Fna square, and Moorish architecture.",
@@ -60775,6 +60998,13 @@
                 "excerpt": "This is the invoice ... I filled out the 3rd party credit card authorization form and faxed to th",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214972.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222075.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Even though I faxed over the required 3rd party Credit Authorization form the hotle\nThis is the invoice\n...Subject: Marrakech Hotel\n...Jeffrey Epstein [jeevacation@gmail.com]",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222075.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -60798,6 +61028,11 @@
           {
             "doc_id": "EFTA02214972",
             "file": "EFTA02214972.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222075",
+            "file": "EFTA02222075.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -76275,7 +76510,7 @@
         "display_name": "Dr. Magnani's Dental Office",
         "location_descriptor": "A dental practice located on the seventh floor of 7 West 51st Street in Midtown Manhattan, New York City, between Fifth and Sixth Avenues.",
         "event_count": 1,
-        "evidence_count": 2,
+        "evidence_count": 3,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -76287,12 +76522,16 @@
             "role": "other"
           },
           {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
             "name": "Lesley Groff",
             "role": "associate"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA02220654.pdf, EFTA02221157.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA02220654.pdf, EFTA02221157.pdf, EFTA02222093.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
         "event_description": "A dental practice located on the seventh floor of 7 West 51st Street in Midtown Manhattan, New York City, between Fifth and Sixth Avenues.",
@@ -76310,6 +76549,10 @@
               {
                 "name": "M",
                 "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
               },
               {
                 "name": "Lesley Groff",
@@ -76332,6 +76575,13 @@
                 "excerpt": "M, you are scheduled for a cleaning at Dr. Magnani office on Tues. Sept. 5th at 9:45am\n7 W. 51st Street, 7th Floor, btwn 5th & 6th",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221157.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222093.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "M, you are scheduled for a cleaning at Dr. Magnani's office on\nTues. Sept. 5th at 9:45am\n7 W. 51st Street, 7th Floor, btwn 5th & 6th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222093.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -76345,6 +76595,11 @@
           {
             "doc_id": "EFTA02221157",
             "file": "EFTA02221157.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222093",
+            "file": "EFTA02222093.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -78949,6 +79204,90 @@
           {
             "doc_id": "EFTA00078523",
             "file": "EFTA00078523.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "7aff6a597947b3bf",
+        "name": "USTA Billie Jean King National Tennis Center",
+        "location_name": "USTA Billie Jean King National Tennis Center",
+        "location_address": "New York City, New York, United States",
+        "location_description": "A major tennis complex in Flushing Meadows-Corona Park, Queens, New York, serving as the permanent home of the US Open Tennis Championships.",
+        "canonical_name": "USTA Billie Jean King National Tennis Center, 700 Tennis Place, Flushing, NY 11368, New York City, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "USTA Billie Jean King National Tennis Center",
+        "location_descriptor": "A major tennis complex in Flushing Meadows-Corona Park, Queens, New York, serving as the permanent home of the US Open Tennis Championships.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09",
+        "date_end": "2017-09",
+        "people": [
+          {
+            "name": "M",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02222093.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A major tennis complex in Flushing Meadows-Corona Park, Queens, New York, serving as the permanent home of the US Open Tennis Championships.",
+        "events": [
+          {
+            "event_id": "45c7a23c6b735560",
+            "event_title": "Epstein and Associates Attend US Open Tennis Tournament (Sep 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein obtained tickets for himself and associate 'M' to attend the US Open tennis tournament at USTA in Flushing, Queens, New York in September 2017, with a morning session show.",
+            "date_start": "2017-09",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "M",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally obtained US Open tickets for himself and his associate 'M', indicating his physical attendance at the USTA National Tennis Center in September 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02222093.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Lesley , Jeffrey got us tickets for US opening and the show is the morning .... can we change the date of dentist appointment ?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222093.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02222093",
+            "file": "EFTA02222093.pdf",
             "source_type": "doj_efta"
           }
         ]
