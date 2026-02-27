@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 139,
-        "evidence_count": 447,
+        "event_count": 140,
+        "evidence_count": 449,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -698,6 +698,10 @@
             "role": "associate"
           },
           {
+            "name": "Judith Hess",
+            "role": "associate"
+          },
+          {
             "name": "Terje Roed-Larsen",
             "role": "associate"
           },
@@ -724,10 +728,14 @@
           {
             "name": "Dylan",
             "role": "other"
+          },
+          {
+            "name": "Lynn",
+            "role": "staff"
           }
         ],
-        "source_count": 415,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+410 more)",
+        "source_count": 417,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+412 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -7222,6 +7230,10 @@
                 "role": "associate"
               },
               {
+                "name": "Judith Hess",
+                "role": "associate"
+              },
+              {
                 "name": "Alex Klokus",
                 "role": "other"
               },
@@ -7280,6 +7292,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Reconfirming you will come see Jeffrey today at 12:30. His name is Alex Klokus.",
                 "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223630.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "9 East 71st Street between 5th and Madison! so sorry! meant to send before...Jeffrey is running a tad behind...4:45pm would be great!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223630.pdf",
                 "confidence": 0.7
               }
             ]
@@ -7865,6 +7884,37 @@
                 "source_type": "doj_efta",
                 "excerpt": "i believe darren brought when he visited jee today",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223410.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "94873e03938432c3",
+            "event_title": "Witness's First Meeting with Epstein at Manhattan Residence, April 19, 2004",
+            "event_type": "presence",
+            "description": "Witness visited Epstein's large Manhattan residence with elevator for a massage on April 19, 2004; was introduced to Epstein by staff member Lynn.",
+            "date_start": "2004-04-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lynn",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his Manhattan residence on April 19, 2004.",
+            "evidence": [
+              {
+                "file": "EFTA00084191.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On April 19, 2004...",
+                "document_url": "...",
                 "confidence": 0.7
               }
             ]
@@ -9792,6 +9842,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223630",
+            "file": "EFTA02223630.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02222456",
             "file": "EFTA02222456.pdf",
             "source_type": "doj_efta"
@@ -9945,6 +10000,11 @@
             "doc_id": "EFTA02223410",
             "file": "EFTA02223410.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084191",
+            "file": "EFTA00084191.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -9969,8 +10029,8 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 126,
-        "evidence_count": 263,
+        "event_count": 127,
+        "evidence_count": 264,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -10410,8 +10470,8 @@
             "role": "other"
           }
         ],
-        "source_count": 242,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+237 more)",
+        "source_count": 243,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+238 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -15332,6 +15392,41 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "2fcac8e500d0f31d",
+            "event_title": "Epstein Dines with Woody Allen and Soon-Yi Previn, September 29, 2017",
+            "event_type": "presence",
+            "description": "Epstein's schedule shows a 7pm dinner in New York City with Woody Allen and Soon-Yi Previn on September 29, 2017.",
+            "date_start": "2017-09-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Soon-Yi Previn",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Woody Allen",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was personally scheduled to attend a dinner with Woody Allen and Soon-Yi Previn per his personal calendar.",
+            "evidence": [
+              {
+                "file": "EFTA02223662.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:00pm DINNER w/Woody Allen and Soon Yi",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223662.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -16544,6 +16639,11 @@
             "doc_id": "EFTA02223242",
             "file": "EFTA02223242.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223662",
+            "file": "EFTA02223662.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -16569,7 +16669,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 125,
-        "evidence_count": 472,
+        "evidence_count": 475,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -17125,8 +17225,8 @@
             "role": "other"
           }
         ],
-        "source_count": 397,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+392 more)",
+        "source_count": 400,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+395 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -18677,6 +18777,13 @@
                 "excerpt": "GHISLANE MAXWELL was arrested this morning and charged with enticing a minor to travel to engage in criminal sexual activity, transporting a minor with the intent to engage in criminal sexual activity, conspiracy to commit both of those offenses, and perjury",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017726.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00084311.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "According to the Indictment unsealed today in Manhattan federal court: From at least 1994 through at least 1997, GHISLAINE MAXWELL assisted, facilitated, and participated in Jeffrey Epstein abuse of minor girls",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084311.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -18844,6 +18951,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "UNITED STATES OF AMERICA v. JEFFREY EPSTEIN, Defendant. Conference. July 31, 2019. 11:05 a.m. HON. RICHARD M. BERMAN, District Judge...New York, N.Y...19 Cr. 490(RMB)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014546.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00084168.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Today at Jeffrey Epstein's hearing in SDNY it was stated that there are one million documents to be turned over to the defense.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084168.pdf",
                 "confidence": 0.7
               }
             ]
@@ -21281,6 +21395,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "We expect Maxwell will be arraigned and have a bail hearing before Judge Nathan this Friday 7/10.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077306.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00084179.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "...",
+                "document_url": "...",
                 "confidence": 0.7
               }
             ]
@@ -24152,6 +24273,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00084311",
+            "file": "EFTA00084311.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00014330",
             "file": "EFTA00014330.pdf",
             "source_type": "doj_efta"
@@ -24189,6 +24315,11 @@
           {
             "doc_id": "EFTA00014546",
             "file": "EFTA00014546.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084168",
+            "file": "EFTA00084168.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -25042,6 +25173,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00084179",
+            "file": "EFTA00084179.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00040107",
             "file": "EFTA00040107.pdf",
             "source_type": "doj_efta"
@@ -25444,8 +25580,8 @@
         "property_type": "event",
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
-        "event_count": 73,
-        "evidence_count": 177,
+        "event_count": 74,
+        "evidence_count": 178,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -25635,10 +25771,18 @@
           {
             "name": "Russian citizen",
             "role": "associate"
+          },
+          {
+            "name": "VAN DEN BROEK/PHILIPPE",
+            "role": "associate"
+          },
+          {
+            "name": "OUVRE/KEVIN",
+            "role": "associate"
           }
         ],
-        "source_count": 155,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00082688.pdf, EFTA02212885.pdf, EFTA02221589.pdf, ... (+150 more)",
+        "source_count": 156,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00082688.pdf, EFTA02212885.pdf, EFTA02221589.pdf, ... (+151 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -28512,6 +28656,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "8785043af8a2d2ef",
+            "event_title": "Kevin Ouvre and Philippe Van Den Broek Fly to St. Thomas to Visit Little St. James",
+            "event_type": "travel",
+            "description": "Kevin Ouvre and Philippe Van Den Broek flew Tradewind Aviation TJ 301 from Gustavia (St. Barths) to St. Thomas on March 22, 2017 to visit Little St. James Island.",
+            "date_start": "2017-03-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "VAN DEN BROEK/PHILIPPE",
+                "role": "associate"
+              },
+              {
+                "name": "OUVRE/KEVIN",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Flights were booked by Epstein's staff to 'visit the island' (Little St. James), but Epstein was not personally on these flights.",
+            "evidence": [
+              {
+                "file": "EFTA02223665.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tickets for Kevin and Philippe to visit the island this Wed. march 22.\n\nDate: 22 Mar 2017\nAirline Record Locator: TJB9R2\nFlight/Class: TJ 301 Y Economy Class\nOrigin: Gustavia, Gustaf III (St-Jean)\nDestination: Charlotte Amalie, Cyril E King Airport\nDeparting: 08:45 AM\nArriving: 09:38 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223665.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -29289,6 +29464,11 @@
             "doc_id": "EFTA02223538",
             "file": "EFTA02223538.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223665",
+            "file": "EFTA02223665.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -29313,8 +29493,8 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 68,
-        "evidence_count": 167,
+        "event_count": 69,
+        "evidence_count": 168,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -29490,8 +29670,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 149,
-        "sources_preview": "EFTA00077200.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02209722.pdf, EFTA02212901.pdf, ... (+144 more)",
+        "source_count": 150,
+        "sources_preview": "EFTA00077200.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02209722.pdf, EFTA02212901.pdf, ... (+145 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -32253,6 +32433,37 @@
                 "confidence": 0.75
               }
             ]
+          },
+          {
+            "event_id": "280ab0eb51bcb572",
+            "event_title": "Epstein Departs for Paris on N415LM (G550), October 1, 2017",
+            "event_type": "presence",
+            "description": "Epstein instructed pilot Larry Visoski that they would depart to Paris on Sunday using G550 aircraft N415LM, approximately October 1, 2017.",
+            "date_start": "2017-10-01",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally directed his pilot to depart to Paris, indicating he would be physically flying to Paris on the G550.",
+            "evidence": [
+              {
+                "file": "EFTA02223682.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JE said Sunday Departure to Paris\nWe will use the G550\nN415LM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223682.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -33000,6 +33211,11 @@
             "doc_id": "EFTA02222530",
             "file": "EFTA02222530.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223682",
+            "file": "EFTA02223682.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -33024,8 +33240,8 @@
         "property_type": "event",
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "event_count": 53,
-        "evidence_count": 136,
+        "event_count": 54,
+        "evidence_count": 139,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -33221,8 +33437,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 126,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+121 more)",
+        "source_count": 129,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+124 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -35220,6 +35436,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Anna",
+                "role": "staff"
               }
             ],
             "epstein_nexus": "direct",
@@ -35237,6 +35457,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey was talking about visiting the island tomorrow (Sunday) for the day and then fly back to PB.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223454.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223649.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PIP called! she says she will be sending you pictures soon and will try you again later\u2014she plans to leave the island around 4:30pm\u2014curfew is 6pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223649.pdf",
                 "confidence": 0.7
               }
             ]
@@ -35382,6 +35609,13 @@
                 "excerpt": "Hello Kevin and Philippe...here are your tickets to come to the island this Wed. March 22nd and depart on Thurs. March 23rd. Anna will make sure you are picked up at the airport and taken to the island.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223480.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Kevin and Philippe...here are your tickets to come to the island this Wed. March 22nd and depart on Thurs. March 23rd. Anna will make sure you are picked up at the airport and taken to the island",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223623.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -35487,6 +35721,33 @@
                 "source_type": "doj_efta",
                 "excerpt": "All of Jeffrey's people on his island and PB are ok, which is most important...homes will definitely need some work!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223490.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "72799aa02a29aa98",
+            "event_title": "Epstein Hosted Witness for Threesomes at Little St. James Island (Early 2005)",
+            "event_type": "presence",
+            "description": "Epstein hosted threesomes with the witness at Little St. James Island approximately 3-4 times, beginning in early 2005.",
+            "date_start": "2005",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Little St. James hosting the witness for sexual activities in 2005.",
+            "evidence": [
+              {
+                "file": "EFTA00084191.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The threesomes occurred 3-4 times in New York, New Mexico, or on the Island.",
+                "document_url": "...",
                 "confidence": 0.7
               }
             ]
@@ -36059,6 +36320,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223649",
+            "file": "EFTA02223649.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02223174",
             "file": "EFTA02223174.pdf",
             "source_type": "doj_efta"
@@ -36094,6 +36360,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02223623",
+            "file": "EFTA02223623.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02223297",
             "file": "EFTA02223297.pdf",
             "source_type": "doj_efta"
@@ -36121,6 +36392,11 @@
           {
             "doc_id": "EFTA02223490",
             "file": "EFTA02223490.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084191",
+            "file": "EFTA00084191.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -38656,8 +38932,8 @@
         "property_type": "event",
         "display_name": "Palm Beach International Airport",
         "location_descriptor": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
-        "event_count": 39,
-        "evidence_count": 60,
+        "event_count": 40,
+        "evidence_count": 61,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -38695,10 +38971,14 @@
           {
             "name": "Dave (helicopter co-pilot)",
             "role": "other"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
           }
         ],
-        "source_count": 45,
-        "sources_preview": "EFTA00005994.pdf, EFTA00009428.pdf, EFTA02212962.pdf, EFTA02213018.pdf, EFTA02212929.pdf, ... (+40 more)",
+        "source_count": 46,
+        "sources_preview": "EFTA00005994.pdf, EFTA00009428.pdf, EFTA02212962.pdf, EFTA02213018.pdf, EFTA02212929.pdf, ... (+41 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The primary commercial airport serving Palm Beach County, Florida, located in West Palm Beach near the Intracoastal Waterway.",
@@ -39890,6 +40170,41 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "14e986901feea360",
+            "event_title": "Karyna Shuliak and Associates Fly New York to Palm Beach to Visit Epstein",
+            "event_type": "travel",
+            "description": "Karyna Shuliak and three others flew Delta DL676 from LaGuardia to Palm Beach International on November 22, 2016, arranged by Lesley Groff via Epstein's Amex Centurion Travel, with a Citicar pickup and return flight on Nov 27.",
+            "date_start": "2016-11-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Karyna Shuliak's trip was arranged by Epstein's assistant via his Centurion Travel, implying a visit to Epstein's Palm Beach residence.",
+            "evidence": [
+              {
+                "file": "EFTA02223581.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "HI Karyna, and ..here are your tickets to go to PB on Nov. 22! Sue is going on the same exact flights...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223581.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -40116,6 +40431,11 @@
           {
             "doc_id": "EFTA00077923",
             "file": "EFTA00077923.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223581",
+            "file": "EFTA02223581.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -41993,7 +42313,7 @@
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
         "event_count": 34,
-        "evidence_count": 83,
+        "evidence_count": 86,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -42053,8 +42373,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 76,
-        "sources_preview": "EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, EFTA00015561.pdf, ... (+71 more)",
+        "source_count": 79,
+        "sources_preview": "EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, EFTA00015561.pdf, ... (+74 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -43326,6 +43646,27 @@
                 "excerpt": "NI2OJE (GLF4) has just filed a flight plan. It is scheduled to depart from Palm Beach Intl (PBI) at 03:00PM EDT Monday (25 Sep) heading fix Teterboro (TEB) for an estimated arrival at 05:31PM EDT Monday (25 Sep).",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223561.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223656.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Depart tomorrow / Monday Sept 25th \nAtlantic Aviation afternoon noon sometime, only estimate 3pm,. \nArrival Teterboro Meridean Aviaiton at 5pm ish,. \nAircraft in Use; \nN120JE. GIV \nJege, LLC",
+                "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223610.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NI2OJE (GLF4) departed Palm Beach Intl (PBI) at 03:44PM EDT enroute to Teterboro (TEB) for an estimated arrival at 05:56PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223610.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223661.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NI2OJE is expected to arrive at Teterboro (TEB) in 45 minutes at 05:55PM EDT",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           },
@@ -43731,6 +44072,21 @@
           {
             "doc_id": "EFTA02223561",
             "file": "EFTA02223561.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223656",
+            "file": "EFTA02223656.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223610",
+            "file": "EFTA02223610.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223661",
+            "file": "EFTA02223661.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -46964,8 +47320,8 @@
         "property_type": "event",
         "display_name": "Epstein's Zorro Ranch",
         "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
-        "event_count": 22,
-        "evidence_count": 46,
+        "event_count": 23,
+        "evidence_count": 47,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -47041,8 +47397,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 44,
-        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+39 more)",
+        "source_count": 45,
+        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+40 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
@@ -47911,6 +48267,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "d870eb4c17a075ce",
+            "event_title": "Epstein Hosted Witness for Threesomes at New Mexico Ranch (Early 2005)",
+            "event_type": "presence",
+            "description": "Epstein hosted threesomes with the witness at his New Mexico ranch location approximately 3-4 times, beginning in early 2005.",
+            "date_start": "2005",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Zorro Ranch for sexual activities in 2005.",
+            "evidence": [
+              {
+                "file": "EFTA00084191.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The threesomes occurred 3-4 times in New York, New Mexico, or on the Island.",
+                "document_url": "...",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -48132,6 +48515,11 @@
           {
             "doc_id": "EFTA00076712",
             "file": "EFTA00076712.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084191",
+            "file": "EFTA00084191.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -54530,6 +54918,396 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.972539,
+          40.76042
+        ]
+      },
+      "properties": {
+        "id": "5e22776e3fa57bc8",
+        "name": "Dangene: The Institute of Skinovation",
+        "location_name": "Dangene: The Institute of Skinovation",
+        "location_address": "66 East 55th Street, New York City, New York 10022, United States",
+        "location_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "canonical_name": "Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor, New York, NY 10022, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Dangene: The Institute of Skinovation",
+        "location_descriptor": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "event_count": 8,
+        "evidence_count": 11,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-11",
+        "date_end": "2021-10-27",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Angie Palumbo",
+            "role": "other"
+          },
+          {
+            "name": "Julia",
+            "role": "associate"
+          },
+          {
+            "name": "Bobby Slayton",
+            "role": "associate"
+          },
+          {
+            "name": "Lamine N'Diaye",
+            "role": "witness"
+          },
+          {
+            "name": "Tommy Mottola",
+            "role": "associate"
+          },
+          {
+            "name": "Anne",
+            "role": "associate"
+          },
+          {
+            "name": "Dangene",
+            "role": "associate"
+          }
+        ],
+        "source_count": 10,
+        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213901.pdf, EFTA02213153.pdf, ... (+5 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "events": [
+          {
+            "event_id": "23072bfb818b2e0c",
+            "event_title": "Julia Visits Dangene Skincare in NYC, Epstein Pays",
+            "event_type": "transaction",
+            "description": "Person named Julia visited Dangene skincare institute in NYC and received products worth $187.26, with Epstein authorizing payment via Amex on May 18 2017",
+            "date_start": "2017-05-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Angie Palumbo",
+                "role": "other"
+              },
+              {
+                "name": "Julia",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein personally authorized payment for Julia's skincare products at this location, indicating she was visiting at his expense.",
+            "evidence": [
+              {
+                "file": "EFTA02213534.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Julia was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213534.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213539.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "was given two products today totaling $187.26...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213539.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213554.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213554.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c1fe898de5b6ba81",
+            "event_title": "Bobby Slayton at Friars Club",
+            "event_type": "presence",
+            "description": "Slayton at Friars Club May 25",
+            "date_start": "2017-05-25",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bobby Slayton",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein associate.",
+            "evidence": [
+              {
+                "file": "EFTA02213901.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Friars Club lunch May 25",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213901.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bed04f18a37607fd",
+            "event_title": "Epstein Appointment at Dangene Institute of Skinovation",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein had appointment with Anne at Dangene Institute of Skinovation, 66 East 55th Street, New York at 3pm on May 19, 2017.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's assistant confirmed he would physically attend this appointment at the Dangene Institute.",
+            "evidence": [
+              {
+                "file": "EFTA02213153.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dangene: The Institute of Skinovation\n66 E 55th Street, 6th Floor\nBetween Park and Madison\nSouth Side of the Street\nNew York, NY 10022",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213153.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "442c084f8ee2501f",
+            "event_title": "Julia's Facial Appointments at Dangene Arranged by Epstein Staff",
+            "event_type": "presence",
+            "description": "Julia (an Epstein associate) had facial appointments at Dangene salon at 66 East 55th Street, New York on May 11 and possibly May 18, 2017, arranged by Epstein's staff.",
+            "date_start": "2017-05-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Julia",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Julia's salon appointments were arranged through Epstein's assistant Lesley Groff, indicating she is in Epstein's network.",
+            "evidence": [
+              {
+                "file": "EFTA02213470.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Did Julia see you again on May 18th (yesterday)? I made her a facial appointment for May 11th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213470.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "313fb7d4d4de3fff",
+            "event_title": "OIG Interviews BOP Employee N'Diaye on Epstein Death",
+            "event_type": "presence",
+            "description": "DOJ OIG Senior Special Agent and Special Agent conducted interview of BOP employee Lamine N'Diaye at attorney's office at 515 Madison Avenue, 31st Floor, New York on October 27, 2021 at 1:53 PM, as part of investigation into inmate Jeffrey Epstein's death (Case 2019-010614).",
+            "date_start": "2021-10-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lamine N'Diaye",
+                "role": "witness"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This OIG interview of a BOP employee was part of the investigation into Epstein's death; Epstein is the subject of investigation but not present at this 2021 interview.",
+            "evidence": [
+              {
+                "file": "EFTA00064311.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Today's date is October 27th, 2021, and the time is 1:53 p.m. This interview is being conducted - 515 Madison Avenue, 31st floor. New York, New York.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064311.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "edec16b8fd5440dc",
+            "event_title": "Epstein Visits Dangene Institute of Skinovation in NYC",
+            "event_type": "transaction",
+            "description": "Jeffrey Epstein visited the Dangene Institute of Skinovation at 66 East 55th Street in New York City for a personal appointment. Epstein's assistant sent a thank-you message to the institute for fitting Epstein in on short notice that day.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein personally visited the Dangene Institute, with the appointment arranged through his staff.",
+            "evidence": [
+              {
+                "file": "EFTA02213470.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "thank you again for fitting Jeffrey in today...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213470.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f70f9967d3044383",
+            "event_title": "Epstein Meets \"Anne\" at Core Club on East 55th Street, September 27",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein attended an 8:30am appointment with a person named Anne at the Core Club, 66 East 55th Street, New York on September 27, 2017.",
+            "date_start": "2017-09-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Tommy Mottola",
+                "role": "associate"
+              },
+              {
+                "name": "Anne",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally attending an appointment at the Core Club, 66 East 55th Street as noted in his personal schedule.",
+            "evidence": [
+              {
+                "file": "EFTA02223172.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:30am Appt w/Anne at Core Club\n66 East 55th Street\nbetween park and mad\nJOJO TO DRIVE YOU!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223172.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223520.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:30am Appt w/Anne at Core Club\nJOJO TO DRIVE YOU!\n10:30am Appt iv/Tommy Mottola",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223520.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e1895509a5f0a935",
+            "event_title": "Epstein in New York Seeks Meeting with Dangene Enterprise, September 2017",
+            "event_type": "presence",
+            "description": "Epstein was in New York on September 26, 2017, and reached out to Dangene Enterprise at 66 E. 55th Street seeking to arrange a meeting.",
+            "date_start": "2017-09-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dangene",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The email explicitly states Epstein was physically in New York that day and requesting a meeting at the Dangene Enterprise office.",
+            "evidence": [
+              {
+                "file": "EFTA02223655.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Good morning Dangene, Jennie and Angie. Jeffrey is in NY today and asking if Dangene might have some spare time to see him! Possible?! It's been awhile!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223655.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213534",
+            "file": "EFTA02213534.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213539",
+            "file": "EFTA02213539.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213554",
+            "file": "EFTA02213554.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213901",
+            "file": "EFTA02213901.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213153",
+            "file": "EFTA02213153.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213470",
+            "file": "EFTA02213470.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00064311",
+            "file": "EFTA00064311.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223172",
+            "file": "EFTA02223172.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223520",
+            "file": "EFTA02223520.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223655",
+            "file": "EFTA02223655.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.650945,
           35.088192
         ]
@@ -55009,74 +55787,267 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.972539,
-          40.76042
+          -73.974,
+          40.763
         ]
       },
       "properties": {
-        "id": "5e22776e3fa57bc8",
-        "name": "Dangene: The Institute of Skinovation",
-        "location_name": "Dangene: The Institute of Skinovation",
-        "location_address": "66 East 55th Street, New York City, New York 10022, United States",
-        "location_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
-        "canonical_name": "Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor, New York, NY 10022, New York City",
+        "id": "d7d20cebb33612c0",
+        "name": "Fr\u00e9d\u00e9ric Fekkai Salon",
+        "location_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
+        "location_address": "712 5th Avenue, Brooklyn, New York 11215, United States",
+        "location_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
+        "canonical_name": "Frederic Fekkai Salon, 712 Fifth Avenue, New York, NY, New York City",
         "region": "",
         "property_type": "event",
-        "display_name": "Dangene: The Institute of Skinovation",
-        "location_descriptor": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
-        "event_count": 7,
-        "evidence_count": 10,
+        "display_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
+        "location_descriptor": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
+        "event_count": 8,
+        "evidence_count": 13,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-05-11",
-        "date_end": "2021-10-27",
+        "date_start": "2017-05-30",
+        "date_end": "2017-09-29",
         "people": [
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
           },
           {
-            "name": "Lesley Groff",
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          },
+          {
+            "name": "Karyna",
+            "role": "associate"
+          },
+          {
+            "name": "Jojo",
             "role": "staff"
           },
           {
-            "name": "Angie Palumbo",
-            "role": "other"
-          },
-          {
-            "name": "Julia",
+            "name": "Kathryn Ruemmler",
             "role": "associate"
           },
           {
-            "name": "Bobby Slayton",
-            "role": "associate"
-          },
-          {
-            "name": "Lamine N'Diaye",
-            "role": "witness"
-          },
-          {
-            "name": "Tommy Mottola",
-            "role": "associate"
-          },
-          {
-            "name": "Anne",
-            "role": "associate"
+            "name": "Lesley Groff",
+            "role": "staff"
           }
         ],
-        "source_count": 9,
-        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213901.pdf, EFTA02213153.pdf, ... (+4 more)",
+        "source_count": 13,
+        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+8 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
-        "event_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
+        "event_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
         "events": [
           {
-            "event_id": "23072bfb818b2e0c",
-            "event_title": "Julia Visits Dangene Skincare in NYC, Epstein Pays",
+            "event_id": "4795c3367231de6c",
+            "event_title": "Jeffrey Epstein and Karyna visit Fr\u00e9d\u00e9ric Fekkai salon",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein visited the Fr\u00e9d\u00e9ric Fekkai salon in Manhattan on May 30, 2017 for a haircut, accompanied by an unidentified associate.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              },
+              {
+                "name": "Karyna",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Document confirms Jeffrey Epstein's personal visit to the Fekkai salon charged to his account on May 30.",
+            "evidence": [
+              {
+                "file": "EFTA02215243.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Did you go with Jeffrey to Fekkai salon on May 30th and have a cut? Someone went with him...charge from Fekkai on May 30.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215243.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216454.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "on Saturday 3 June and on Monday 5 June (dyeing hair)\nKaryna who went with Jeffrey [on May 30 to Fekkai]",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216454.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216761.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "never mind on the charge from Fekkai on May 30. It was Karyna who went with Jeffrey.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216761.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c7f2a7a038f8c44b",
+            "event_title": "Epstein Haircut with Patrick at Fr\u00e9d\u00e9ric Fekkai NYC",
+            "event_type": "presence",
+            "description": "Epstein confirmed for haircut with stylist Patrick at Frederic Fekkai NYC at 2:30pm May 30, 2017; driven by Jojo.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jojo",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein is the subject of this confirmed appointment at Frederic Fekkai salon, driven by personal driver Jojo.",
+            "evidence": [
+              {
+                "file": "EFTA02214835.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You are confirmed to see Patrick for a cut today at 2:30pm\nJOJO, be outside ready to go now please!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214835.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "836058f719005628",
+            "event_title": "Epstein Charged $590 at Fr\u00e9d\u00e9ric Fekkai Salon",
+            "event_type": "presence",
+            "description": "Epstein charged $590.43 at Frederic Fekkai salon in New York on June 3, 2017.",
+            "date_start": "2017-06-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's account charged at Fekkai.",
+            "evidence": [
+              {
+                "file": "EFTA02214841.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "06/03/2017 FREDERIC FEKKAI - NEW YORK, NY 590.43",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214841.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3422855347bb48fe",
+            "event_title": "Epstein Associate Gets Hair Done at Fekkai Salon NYC",
+            "event_type": "presence",
+            "description": "An Epstein associate had a hair appointment confirmed at the Fr\u00e9d\u00e9ric Fekkai Salon on 5th Avenue in New York City on Tuesday, June 13. The appointment included a women's haircut with Patrick, color highlights with Reyad, and a pedicure with Norm.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "The salon appointment was booked through Epstein's staff, indicating the associate was part of Epstein's household or inner circle.",
+            "evidence": [
+              {
+                "file": "EFTA02215920.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Confirmation from Frederic Fekkai - 5th Avenue\nDear We are writing to inform you that you have an appointment for Tuesday, June 13 at 12:00 PM.\nWomen's Hair Cut with PATRICK, Color - Highlights with REYAD and Pedicure with NORM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215920.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0e7ac8b1d8043a6a",
+            "event_title": "Epstein Meets Kathy Ruemmler at Fekkai Salon NYC",
+            "event_type": "presence",
+            "description": "Epstein planned to meet Ruemmler at Fekkai salon Sept 13 2017 at 4pm.",
+            "date_start": "2017-09-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kathryn Ruemmler",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally meeting Ruemmler.",
+            "evidence": [
+              {
+                "file": "EFTA02221088.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I think i will meet ruemmelrr tomorw at fekkai around 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221088.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222764.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "4:00pm TENTATIVE MEET Kathy Ruemmler at Fekkai (Kathy .a) OR Kathy come to 71st?\nFakkai Salon, 714 5th Ave. (bin 55th & 56th), 4i/1.1100r",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222764.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "27291f3e84e17a41",
+            "event_title": "Epstein Associate Purchases Prada Tote in NYC per His Approval",
             "event_type": "transaction",
-            "description": "Person named Julia visited Dangene skincare institute in NYC and received products worth $187.26, with Epstein authorizing payment via Amex on May 18 2017",
-            "date_start": "2017-05-18",
+            "description": "An Epstein associate purchased a black Prada tote at Prada NYC store August 26 2017 per Epstein approval.",
+            "date_start": "2017-08-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein personally approved the purchase but was not physically present.",
+            "evidence": [
+              {
+                "file": "EFTA02221203.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the address i gave you is for the Prada store...tomorrow will be fine to purchase! Jeffrey just emailed me back re the Tote I chose...he said it is PERFECT!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221203.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221234.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "is requesting a hair cut and color correction at Fekkai. OK to make her appointments?\n...Yes\nJeffrey E.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221234.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "90c43a50362683a4",
+            "event_title": "Epstein Associate Gets Fekkai Salon Appointment",
+            "event_type": "presence",
+            "description": "Salon appointment Sept 7, 2017 at 1:30pm.",
+            "date_start": "2017-09-07",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
@@ -55088,79 +56059,33 @@
               {
                 "name": "Lesley Groff",
                 "role": "staff"
-              },
-              {
-                "name": "Angie Palumbo",
-                "role": "other"
-              },
-              {
-                "name": "Julia",
-                "role": "associate"
               }
             ],
             "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein personally authorized payment for Julia's skincare products at this location, indicating she was visiting at his expense.",
+            "nexus_reasoning": "",
             "evidence": [
               {
-                "file": "EFTA02213534.pdf",
+                "file": "EFTA02221298.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Julia was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213534.pdf",
+                "excerpt": "1:30pm Fekkai appt for cut and color!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221298.pdf",
                 "confidence": 0.7
               },
               {
-                "file": "EFTA02213539.pdf",
+                "file": "EFTA02221313.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "was given two products today totaling $187.26...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213539.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213554.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "was given two products today totaling $187.26, may we have the payment method you'd like to charge these to? ...Dangene: The Institute of Skinovation, 66 E. 55th Street, 6th Floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213554.pdf",
-                "confidence": 0.7
+                "excerpt": "I have contacted Jeffrey regarding a hair appointment...he gave his permission...spots to see Patrick at Fekkai...cut and color correction",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221313.pdf",
+                "confidence": 0.8
               }
             ]
           },
           {
-            "event_id": "c1fe898de5b6ba81",
-            "event_title": "Bobby Slayton at Friars Club",
+            "event_id": "f5b17ca00c839ea9",
+            "event_title": "Epstein Gets Haircuts at Fekkai Salon, September 29, 2017",
             "event_type": "presence",
-            "description": "Slayton at Friars Club May 25",
-            "date_start": "2017-05-25",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bobby Slayton",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Epstein associate.",
-            "evidence": [
-              {
-                "file": "EFTA02213901.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Friars Club lunch May 25",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213901.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bed04f18a37607fd",
-            "event_title": "Epstein Appointment at Dangene Institute of Skinovation",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein had appointment with Anne at Dangene Institute of Skinovation, 66 East 55th Street, New York at 3pm on May 19, 2017.",
-            "date_start": "2017-05-19",
+            "description": "Epstein's schedule shows haircuts at Fekkai Salon at 12:30pm and 1pm on September 29, 2017 in New York City.",
+            "date_start": "2017-09-29",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
@@ -55171,135 +56096,13 @@
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's assistant confirmed he would physically attend this appointment at the Dangene Institute.",
+            "nexus_reasoning": "Epstein was physically scheduled to be at Fekkai Salon on this date per his personal calendar.",
             "evidence": [
               {
-                "file": "EFTA02213153.pdf",
+                "file": "EFTA02223662.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Dangene: The Institute of Skinovation\n66 E 55th Street, 6th Floor\nBetween Park and Madison\nSouth Side of the Street\nNew York, NY 10022",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213153.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "442c084f8ee2501f",
-            "event_title": "Julia's Facial Appointments at Dangene Arranged by Epstein Staff",
-            "event_type": "presence",
-            "description": "Julia (an Epstein associate) had facial appointments at Dangene salon at 66 East 55th Street, New York on May 11 and possibly May 18, 2017, arranged by Epstein's staff.",
-            "date_start": "2017-05-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Julia",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Julia's salon appointments were arranged through Epstein's assistant Lesley Groff, indicating she is in Epstein's network.",
-            "evidence": [
-              {
-                "file": "EFTA02213470.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Did Julia see you again on May 18th (yesterday)? I made her a facial appointment for May 11th",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213470.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "313fb7d4d4de3fff",
-            "event_title": "OIG Interviews BOP Employee N'Diaye on Epstein Death",
-            "event_type": "presence",
-            "description": "DOJ OIG Senior Special Agent and Special Agent conducted interview of BOP employee Lamine N'Diaye at attorney's office at 515 Madison Avenue, 31st Floor, New York on October 27, 2021 at 1:53 PM, as part of investigation into inmate Jeffrey Epstein's death (Case 2019-010614).",
-            "date_start": "2021-10-27",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lamine N'Diaye",
-                "role": "witness"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This OIG interview of a BOP employee was part of the investigation into Epstein's death; Epstein is the subject of investigation but not present at this 2021 interview.",
-            "evidence": [
-              {
-                "file": "EFTA00064311.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Today's date is October 27th, 2021, and the time is 1:53 p.m. This interview is being conducted - 515 Madison Avenue, 31st floor. New York, New York.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00064311.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "edec16b8fd5440dc",
-            "event_title": "Epstein Visits Dangene Institute of Skinovation in NYC",
-            "event_type": "transaction",
-            "description": "Jeffrey Epstein visited the Dangene Institute of Skinovation at 66 East 55th Street in New York City for a personal appointment. Epstein's assistant sent a thank-you message to the institute for fitting Epstein in on short notice that day.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein personally visited the Dangene Institute, with the appointment arranged through his staff.",
-            "evidence": [
-              {
-                "file": "EFTA02213470.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "thank you again for fitting Jeffrey in today...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213470.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "f70f9967d3044383",
-            "event_title": "Epstein Meets \"Anne\" at Core Club on East 55th Street, September 27",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein attended an 8:30am appointment with a person named Anne at the Core Club, 66 East 55th Street, New York on September 27, 2017.",
-            "date_start": "2017-09-27",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Tommy Mottola",
-                "role": "associate"
-              },
-              {
-                "name": "Anne",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally attending an appointment at the Core Club, 66 East 55th Street as noted in his personal schedule.",
-            "evidence": [
-              {
-                "file": "EFTA02223172.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "8:30am Appt w/Anne at Core Club\n66 East 55th Street\nbetween park and mad\nJOJO TO DRIVE YOU!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223172.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223520.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "8:30am Appt w/Anne at Core Club\nJOJO TO DRIVE YOU!\n10:30am Appt iv/Tommy Mottola",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223520.pdf",
+                "excerpt": "12:30 and fpm Cuts for and at Fekkai Salon",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223662.pdf",
                 "confidence": 0.7
               }
             ]
@@ -55307,48 +56110,68 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA02213534",
-            "file": "EFTA02213534.pdf",
+            "doc_id": "EFTA02215243",
+            "file": "EFTA02215243.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02213539",
-            "file": "EFTA02213539.pdf",
+            "doc_id": "EFTA02216454",
+            "file": "EFTA02216454.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02213554",
-            "file": "EFTA02213554.pdf",
+            "doc_id": "EFTA02216761",
+            "file": "EFTA02216761.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02213901",
-            "file": "EFTA02213901.pdf",
+            "doc_id": "EFTA02214835",
+            "file": "EFTA02214835.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02213153",
-            "file": "EFTA02213153.pdf",
+            "doc_id": "EFTA02214841",
+            "file": "EFTA02214841.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02213470",
-            "file": "EFTA02213470.pdf",
+            "doc_id": "EFTA02215920",
+            "file": "EFTA02215920.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA00064311",
-            "file": "EFTA00064311.pdf",
+            "doc_id": "EFTA02221088",
+            "file": "EFTA02221088.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02223172",
-            "file": "EFTA02223172.pdf",
+            "doc_id": "EFTA02222764",
+            "file": "EFTA02222764.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02223520",
-            "file": "EFTA02223520.pdf",
+            "doc_id": "EFTA02221203",
+            "file": "EFTA02221203.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221234",
+            "file": "EFTA02221234.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221298",
+            "file": "EFTA02221298.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221313",
+            "file": "EFTA02221313.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223662",
+            "file": "EFTA02223662.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -55375,7 +56198,7 @@
         "display_name": "London, England",
         "location_descriptor": "The capital and largest city of England and the United Kingdom, a global financial and cultural center located along the River Thames in southeastern England.",
         "event_count": 7,
-        "evidence_count": 14,
+        "evidence_count": 15,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -55431,8 +56254,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 13,
-        "sources_preview": "EFTA00008998.pdf, EFTA00017716.pdf, EFTA00017726.pdf, EFTA00018407.pdf, EFTA00016373.pdf, ... (+8 more)",
+        "source_count": 14,
+        "sources_preview": "EFTA00008998.pdf, EFTA00017716.pdf, EFTA00017726.pdf, EFTA00018407.pdf, EFTA00016373.pdf, ... (+9 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The capital and largest city of England and the United Kingdom, a global financial and cultural center located along the River Thames in southeastern England.",
@@ -55510,6 +56333,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "d. MAXWELL's personal residence in London, England.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077157.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00084311.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MAXWELL and Epstein's victims were groomed or abused at Epstein's residences in New York, Florida, and New Mexico, as well as MAXWELL's residence in London, England.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084311.pdf",
                 "confidence": 0.7
               }
             ]
@@ -55766,6 +56596,11 @@
           {
             "doc_id": "EFTA00077157",
             "file": "EFTA00077157.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084311",
+            "file": "EFTA00084311.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -56222,369 +57057,6 @@
           {
             "doc_id": "EFTA00074300",
             "file": "EFTA00074300.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.974,
-          40.763
-        ]
-      },
-      "properties": {
-        "id": "d7d20cebb33612c0",
-        "name": "Fr\u00e9d\u00e9ric Fekkai Salon",
-        "location_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
-        "location_address": "712 5th Avenue, Brooklyn, New York 11215, United States",
-        "location_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
-        "canonical_name": "Frederic Fekkai Salon, 712 Fifth Avenue, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
-        "location_descriptor": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
-        "event_count": 7,
-        "evidence_count": 12,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-30",
-        "date_end": "2017-09-13",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Karyna Shuliak",
-            "role": "associate"
-          },
-          {
-            "name": "Karyna",
-            "role": "associate"
-          },
-          {
-            "name": "Jojo",
-            "role": "staff"
-          },
-          {
-            "name": "Kathryn Ruemmler",
-            "role": "associate"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          }
-        ],
-        "source_count": 12,
-        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+7 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
-        "events": [
-          {
-            "event_id": "4795c3367231de6c",
-            "event_title": "Jeffrey Epstein and Karyna visit Fr\u00e9d\u00e9ric Fekkai salon",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein visited the Fr\u00e9d\u00e9ric Fekkai salon in Manhattan on May 30, 2017 for a haircut, accompanied by an unidentified associate.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Karyna Shuliak",
-                "role": "associate"
-              },
-              {
-                "name": "Karyna",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Document confirms Jeffrey Epstein's personal visit to the Fekkai salon charged to his account on May 30.",
-            "evidence": [
-              {
-                "file": "EFTA02215243.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Did you go with Jeffrey to Fekkai salon on May 30th and have a cut? Someone went with him...charge from Fekkai on May 30.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215243.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216454.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "on Saturday 3 June and on Monday 5 June (dyeing hair)\nKaryna who went with Jeffrey [on May 30 to Fekkai]",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216454.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216761.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "never mind on the charge from Fekkai on May 30. It was Karyna who went with Jeffrey.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216761.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c7f2a7a038f8c44b",
-            "event_title": "Epstein Haircut with Patrick at Fr\u00e9d\u00e9ric Fekkai NYC",
-            "event_type": "presence",
-            "description": "Epstein confirmed for haircut with stylist Patrick at Frederic Fekkai NYC at 2:30pm May 30, 2017; driven by Jojo.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jojo",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein is the subject of this confirmed appointment at Frederic Fekkai salon, driven by personal driver Jojo.",
-            "evidence": [
-              {
-                "file": "EFTA02214835.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "You are confirmed to see Patrick for a cut today at 2:30pm\nJOJO, be outside ready to go now please!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214835.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "836058f719005628",
-            "event_title": "Epstein Charged $590 at Fr\u00e9d\u00e9ric Fekkai Salon",
-            "event_type": "presence",
-            "description": "Epstein charged $590.43 at Frederic Fekkai salon in New York on June 3, 2017.",
-            "date_start": "2017-06-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's account charged at Fekkai.",
-            "evidence": [
-              {
-                "file": "EFTA02214841.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "06/03/2017 FREDERIC FEKKAI - NEW YORK, NY 590.43",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214841.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "3422855347bb48fe",
-            "event_title": "Epstein Associate Gets Hair Done at Fekkai Salon NYC",
-            "event_type": "presence",
-            "description": "An Epstein associate had a hair appointment confirmed at the Fr\u00e9d\u00e9ric Fekkai Salon on 5th Avenue in New York City on Tuesday, June 13. The appointment included a women's haircut with Patrick, color highlights with Reyad, and a pedicure with Norm.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "The salon appointment was booked through Epstein's staff, indicating the associate was part of Epstein's household or inner circle.",
-            "evidence": [
-              {
-                "file": "EFTA02215920.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Confirmation from Frederic Fekkai - 5th Avenue\nDear We are writing to inform you that you have an appointment for Tuesday, June 13 at 12:00 PM.\nWomen's Hair Cut with PATRICK, Color - Highlights with REYAD and Pedicure with NORM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215920.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "0e7ac8b1d8043a6a",
-            "event_title": "Epstein Meets Kathy Ruemmler at Fekkai Salon NYC",
-            "event_type": "presence",
-            "description": "Epstein planned to meet Ruemmler at Fekkai salon Sept 13 2017 at 4pm.",
-            "date_start": "2017-09-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kathryn Ruemmler",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally meeting Ruemmler.",
-            "evidence": [
-              {
-                "file": "EFTA02221088.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I think i will meet ruemmelrr tomorw at fekkai around 4",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221088.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02222764.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "4:00pm TENTATIVE MEET Kathy Ruemmler at Fekkai (Kathy .a) OR Kathy come to 71st?\nFakkai Salon, 714 5th Ave. (bin 55th & 56th), 4i/1.1100r",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222764.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "27291f3e84e17a41",
-            "event_title": "Epstein Associate Purchases Prada Tote in NYC per His Approval",
-            "event_type": "transaction",
-            "description": "An Epstein associate purchased a black Prada tote at Prada NYC store August 26 2017 per Epstein approval.",
-            "date_start": "2017-08-26",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Epstein personally approved the purchase but was not physically present.",
-            "evidence": [
-              {
-                "file": "EFTA02221203.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "the address i gave you is for the Prada store...tomorrow will be fine to purchase! Jeffrey just emailed me back re the Tote I chose...he said it is PERFECT!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221203.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221234.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "is requesting a hair cut and color correction at Fekkai. OK to make her appointments?\n...Yes\nJeffrey E.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221234.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "90c43a50362683a4",
-            "event_title": "Epstein Associate Gets Fekkai Salon Appointment",
-            "event_type": "presence",
-            "description": "Salon appointment Sept 7, 2017 at 1:30pm.",
-            "date_start": "2017-09-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02221298.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "1:30pm Fekkai appt for cut and color!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221298.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221313.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I have contacted Jeffrey regarding a hair appointment...he gave his permission...spots to see Patrick at Fekkai...cut and color correction",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221313.pdf",
-                "confidence": 0.8
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02215243",
-            "file": "EFTA02215243.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216454",
-            "file": "EFTA02216454.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216761",
-            "file": "EFTA02216761.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214835",
-            "file": "EFTA02214835.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214841",
-            "file": "EFTA02214841.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215920",
-            "file": "EFTA02215920.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221088",
-            "file": "EFTA02221088.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02222764",
-            "file": "EFTA02222764.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221203",
-            "file": "EFTA02221203.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221234",
-            "file": "EFTA02221234.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221298",
-            "file": "EFTA02221298.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221313",
-            "file": "EFTA02221313.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -58197,7 +58669,7 @@
         "display_name": "U.S. District Court, District of New Hampshire",
         "location_descriptor": "The federal courthouse of the U.S. District Court for the District of New Hampshire, located at 55 Pleasant Street in Concord, NH, handling federal criminal and civil cases in the state.",
         "event_count": 6,
-        "evidence_count": 10,
+        "evidence_count": 12,
         "primary_event_type": "legal",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -58221,8 +58693,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 10,
-        "sources_preview": "EFTA00017716.pdf, EFTA00017722.pdf, EFTA00017726.pdf, EFTA00078497.pdf, EFTA00017729.pdf, ... (+5 more)",
+        "source_count": 12,
+        "sources_preview": "EFTA00017716.pdf, EFTA00017722.pdf, EFTA00017726.pdf, EFTA00078497.pdf, EFTA00084311.pdf, ... (+7 more)",
         "epstein_nexus": "direct",
         "event_type": "legal",
         "event_description": "The federal courthouse of the U.S. District Court for the District of New Hampshire, located at 55 Pleasant Street in Concord, NH, handling federal criminal and civil cases in the state.",
@@ -58271,6 +58743,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Maxwell, who has intentionally evading detection since Epstein's arrest in July 2019, was located by the FBI at a residence in Bradford, New Hampshire, which she appears to have purchased through an LLC in December 2019. She was arrested at approximately 8:30am this morning and will be presented later this afternoon at the United States District Court for the District of New Hampshire.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078497.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00084311.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "GHISLANE MAXWELL was arrested this morning and charged with enticing a minor to travel to engage in criminal sexual activity...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084311.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00084280.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Removal hearing is scheduled for 3:30.",
+                "document_url": "...",
                 "confidence": 0.7
               }
             ]
@@ -58444,6 +58930,16 @@
           {
             "doc_id": "EFTA00078497",
             "file": "EFTA00078497.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084311",
+            "file": "EFTA00084311.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084280",
+            "file": "EFTA00084280.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -60062,7 +60558,7 @@
         "display_name": "FBI New York Field Office",
         "location_descriptor": "The Federal Bureau of Investigation's primary field office in New York City, located at 290 Broadway in Lower Manhattan, overseeing federal law enforcement operations in the New York area.",
         "event_count": 5,
-        "evidence_count": 6,
+        "evidence_count": 7,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -60082,12 +60578,16 @@
             "role": "witness"
           },
           {
+            "name": "Epstein victims",
+            "role": "victim"
+          },
+          {
             "name": "Gloria Allred",
             "role": "legal"
           }
         ],
-        "source_count": 6,
-        "sources_preview": "EFTA00039972.pdf, EFTA00072537.pdf, EFTA00062499.pdf, EFTA00064185.pdf, EFTA00064553.pdf, ... (+1 more)",
+        "source_count": 7,
+        "sources_preview": "EFTA00039972.pdf, EFTA00072537.pdf, EFTA00062499.pdf, EFTA00064185.pdf, EFTA00064553.pdf, ... (+2 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "The Federal Bureau of Investigation's primary field office in New York City, located at 290 Broadway in Lower Manhattan, overseeing federal law enforcement operations in the New York area.",
@@ -60217,6 +60717,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Epstein victims",
+                "role": "victim"
+              },
+              {
                 "name": "Gloria Allred",
                 "role": "legal"
               }
@@ -60229,6 +60733,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I will not have a means to communicate with you after 9:30 this morning, because I will be at the F.B.I. Victim Services meeting and they will take my phone. Would you please respond to my message below prior to that time in order that I may know the plan for meeting with and me today?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00079214.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00083681.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Date: October 23, 2019, Location: 290 Broadway, New York, NY 10007",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083681.pdf",
                 "confidence": 0.7
               }
             ]
@@ -60264,6 +60775,11 @@
             "doc_id": "EFTA00079214",
             "file": "EFTA00079214.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00083681",
+            "file": "EFTA00083681.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -60289,7 +60805,7 @@
         "display_name": "Boston",
         "location_descriptor": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
         "event_count": 4,
-        "evidence_count": 5,
+        "evidence_count": 6,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -60317,8 +60833,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA00004250.pdf, EFTA00017736.pdf, EFTA00040478.pdf, EFTA02221093.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA00004250.pdf, EFTA00017736.pdf, EFTA00040478.pdf, EFTA02221093.pdf, EFTA02223565.pdf",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
@@ -60443,6 +60959,13 @@
                 "excerpt": "do we invite Watson to go to Boston with JE to see Charlie Albright concert?\nSeptember 12, 2017 7:00 AM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221093.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223565.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject Alert - Reminder: Charlie Albright in Boston SEpt 17\nSeptember 17, 2017 7:00 AM : Reminder: Charlie Albright in Boston SEpt 17",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223565.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -60466,6 +60989,11 @@
           {
             "doc_id": "EFTA02221093",
             "file": "EFTA02221093.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223565",
+            "file": "EFTA02223565.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -65294,6 +65822,201 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.338106,
+          25.991041
+        ]
+      },
+      "properties": {
+        "id": "08b967bd27973d5b",
+        "name": "FBI Miami Field Office",
+        "location_name": "FBI Miami Field Office",
+        "location_address": "2030 Southwest 145th Avenue, Miramar, Florida 33027, United States",
+        "location_description": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
+        "canonical_name": "FBI Miami Field Office, 2030 SW 145th Ave, Miramar, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "FBI Miami Field Office",
+        "location_descriptor": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
+        "event_count": 3,
+        "evidence_count": 5,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2007-08-07",
+        "date_end": "2019-10-15",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "SA",
+            "role": "other"
+          },
+          {
+            "name": "Jane Doe 2",
+            "role": "victim"
+          },
+          {
+            "name": "Witness",
+            "role": "victim"
+          },
+          {
+            "name": "Jane Doe 1",
+            "role": "victim"
+          },
+          {
+            "name": "Epstein victims",
+            "role": "victim"
+          }
+        ],
+        "source_count": 5,
+        "sources_preview": "EFTA00010507.pdf, EFTA00076294.pdf, EFTA00083566.pdf, EFTA00015211.pdf, EFTA00083681.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
+        "events": [
+          {
+            "event_id": "3b3a3c435bcdf098",
+            "event_title": "Jane Doe 1 Tells FBI About Epstein Abuse",
+            "event_type": "presence",
+            "description": "Jane Doe 1 provided information to the FBI on August 7, 2007 about her own sexual abuse and the abuse of Jane Doe 2 by Jeffrey Epstein.",
+            "date_start": "2007-08-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "SA",
+                "role": "other"
+              },
+              {
+                "name": "Jane Doe 2",
+                "role": "victim"
+              },
+              {
+                "name": "Witness",
+                "role": "victim"
+              },
+              {
+                "name": "Jane Doe 1",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The interview concerns Epstein's crimes but Epstein was not present; Jane Doe 1 testified about him to investigators.",
+            "evidence": [
+              {
+                "file": "EFTA00010507.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jane Doe 1 provided information about her abuse and Jane Doe 2's abuse to the FBI on August 7, 2007.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076294.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SA was co-case agent...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076294.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00083566.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jane Doe 1 provided information about her abuse and Jane Doe 2s abuse to the FBI on August 7, 2007.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083566.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b232d32eb1fccb27",
+            "event_title": "FBI Virginia Receives 22 Boxes of Epstein Case Files",
+            "event_type": "presence",
+            "description": "FBI Virginia personnel received 22 boxes of Epstein case files from Miami Field Office, discovering some had been previously scanned by DocLab in 2013",
+            "date_start": "2019-07-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This involves processing of Epstein case file materials but no direct involvement or presence of Epstein himself.",
+            "evidence": [
+              {
+                "file": "EFTA00015211.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We just received 22 boxes about 5 minutes ago. We discovered that the Miami Field Office had requested DocLab to scan a number of them back in 2013.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015211.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "62ed65986b7d9c80",
+            "event_title": "FBI Hosts Epstein Victim Services Meeting in Miramar, FL \u2014 October 15, 2019",
+            "event_type": "presence",
+            "description": "FBI Victim Services Division and SDNY USAO held a meeting at FBI Miami Field Office (Miramar, FL) for Epstein victims to discuss available services and case updates, October 15, 2019 at 10:00 AM.",
+            "date_start": "2019-10-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Epstein victims",
+                "role": "victim"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "FBI meeting specifically for Epstein victims at FBI field office to provide victim services, directly related to Epstein case.",
+            "evidence": [
+              {
+                "file": "EFTA00083681.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Date: October 15, 2019\nTime: 10:00 AM\nLocation: 2030 SW 145th Avenue, Miramar, FL 33027",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083681.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00010507",
+            "file": "EFTA00010507.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076294",
+            "file": "EFTA00076294.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00083566",
+            "file": "EFTA00083566.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00015211",
+            "file": "EFTA00015211.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00083681",
+            "file": "EFTA00083681.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -62.838361,
           17.899586
         ]
@@ -66813,6 +67536,214 @@
           {
             "doc_id": "EFTA02223118",
             "file": "EFTA02223118.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.090477,
+          26.688241
+        ]
+      },
+      "properties": {
+        "id": "fcdade6e73d1523e",
+        "name": "Palm Beach International Airport",
+        "location_name": "Palm Beach International Airport",
+        "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
+        "location_description": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
+        "canonical_name": "Palm Beach International Airport, 1000 James L Turnage Blvd, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach International Airport",
+        "location_descriptor": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
+        "event_count": 3,
+        "evidence_count": 7,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1994-08-20",
+        "date_end": "2017-09-20",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Marilyn Flores",
+            "role": "staff"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          }
+        ],
+        "source_count": 7,
+        "sources_preview": "EFTA02222430.pdf, EFTA02223054.pdf, EFTA02223256.pdf, EFTA02223271.pdf, EFTA02223496.pdf, ... (+2 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
+        "events": [
+          {
+            "event_id": "c09dde819638676a",
+            "event_title": "Epstein Associate Flies Palm Beach to NYC on Delta, September 12, 2017",
+            "event_type": "travel",
+            "description": "Unnamed person rebooked by Delta from Palm Beach International Airport to New York City, departing September 12, 2017 at 7:35am, travel arranged by Epstein's assistant Lesley Groff.",
+            "date_start": "2017-09-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel booked through Lesley Groff (Epstein's PA) from Palm Beach (Epstein's primary Florida residence location) to NYC.",
+            "evidence": [
+              {
+                "file": "EFTA02222430.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "was rebooked by Delta to fly from PBI to NYC tomorrow, September 12, at 735am.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222430.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c9a56622b30f8b2b",
+            "event_title": "Marilyn Flores Flies New York to Palm Beach on JetBlue 461",
+            "event_type": "travel",
+            "description": "Epstein staff member Marilyn Flores traveled from LaGuardia Airport to Palm Beach International Airport on JetBlue flight 461, departing 7:30am and arriving 10:25am on September 20, 2017.",
+            "date_start": "2017-09-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Marilyn Flores",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein staff member traveling to Palm Beach, arranged by his Amex Centurion travel account, but Epstein not personally present.",
+            "evidence": [
+              {
+                "file": "EFTA02223054.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "jet blue#461 flight departs tomorrow at 7:30am arrives PBI at 10:25am",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223054.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223256.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N120JE (GLF4) departed Long Island MacArthur (KISP) at 11:21AM EDT enroute to Palm Beach Intl (KPBI) for an estimated arrival at 01:50PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223256.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223271.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We need a ticket for Marilyn FLORES...She should depart NY tonight (LGA preferred) to Palm Beach...and return to NY on Tues. Sept. 26th in the morning",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223271.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223496.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NI2OJE arrived at Palm Beach Intl (KPBI) at 01:47PM EDT from Long Island MacArthur (KISP)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223496.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223431.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NI2OJE is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 01:49PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223431.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b849315c83b35394",
+            "event_title": "Epstein and Maxwell Fly from Grand Traverse County to Palm Beach, August 20, 1994",
+            "event_type": "travel",
+            "description": "Epstein and Maxwell flew from Grand Traverse County, Michigan (TVC) to Palm Beach International Airport (PBI) on August 20, 1994.",
+            "date_start": "1994-08-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically aboard the flight with Maxwell and arrived at Palm Beach on August 20, 1994.",
+            "evidence": [
+              {
+                "file": "EFTA00084217.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "August 20th, flight from TVC to PBI (Palm Beach). Passengers are Epstein, Maxwell, and",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084217.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02222430",
+            "file": "EFTA02222430.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223054",
+            "file": "EFTA02223054.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223256",
+            "file": "EFTA02223256.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223271",
+            "file": "EFTA02223271.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223496",
+            "file": "EFTA02223496.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223431",
+            "file": "EFTA02223431.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084217",
+            "file": "EFTA00084217.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -68845,165 +69776,6 @@
           {
             "doc_id": "EFTA00040470",
             "file": "EFTA00040470.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.338106,
-          25.991041
-        ]
-      },
-      "properties": {
-        "id": "08b967bd27973d5b",
-        "name": "FBI Miami Field Office",
-        "location_name": "FBI Miami Field Office",
-        "location_address": "2030 Southwest 145th Avenue, Miramar, Florida 33027, United States",
-        "location_description": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
-        "canonical_name": "FBI Miami Field Office, 2030 SW 145th Ave, Miramar, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "FBI Miami Field Office",
-        "location_descriptor": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
-        "event_count": 2,
-        "evidence_count": 4,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2007-08-07",
-        "date_end": "2019-07-03",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "SA",
-            "role": "other"
-          },
-          {
-            "name": "Jane Doe 2",
-            "role": "victim"
-          },
-          {
-            "name": "Witness",
-            "role": "victim"
-          },
-          {
-            "name": "Jane Doe 1",
-            "role": "victim"
-          }
-        ],
-        "source_count": 4,
-        "sources_preview": "EFTA00010507.pdf, EFTA00076294.pdf, EFTA00083566.pdf, EFTA00015211.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "presence",
-        "event_description": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
-        "events": [
-          {
-            "event_id": "3b3a3c435bcdf098",
-            "event_title": "Jane Doe 1 Tells FBI About Epstein Abuse",
-            "event_type": "presence",
-            "description": "Jane Doe 1 provided information to the FBI on August 7, 2007 about her own sexual abuse and the abuse of Jane Doe 2 by Jeffrey Epstein.",
-            "date_start": "2007-08-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "SA",
-                "role": "other"
-              },
-              {
-                "name": "Jane Doe 2",
-                "role": "victim"
-              },
-              {
-                "name": "Witness",
-                "role": "victim"
-              },
-              {
-                "name": "Jane Doe 1",
-                "role": "victim"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The interview concerns Epstein's crimes but Epstein was not present; Jane Doe 1 testified about him to investigators.",
-            "evidence": [
-              {
-                "file": "EFTA00010507.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jane Doe 1 provided information about her abuse and Jane Doe 2's abuse to the FBI on August 7, 2007.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00076294.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SA was co-case agent...",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076294.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00083566.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jane Doe 1 provided information about her abuse and Jane Doe 2s abuse to the FBI on August 7, 2007.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083566.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b232d32eb1fccb27",
-            "event_title": "FBI Virginia Receives 22 Boxes of Epstein Case Files",
-            "event_type": "presence",
-            "description": "FBI Virginia personnel received 22 boxes of Epstein case files from Miami Field Office, discovering some had been previously scanned by DocLab in 2013",
-            "date_start": "2019-07-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This involves processing of Epstein case file materials but no direct involvement or presence of Epstein himself.",
-            "evidence": [
-              {
-                "file": "EFTA00015211.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We just received 22 boxes about 5 minutes ago. We discovered that the Miami Field Office had requested DocLab to scan a number of them back in 2013.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015211.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00010507",
-            "file": "EFTA00010507.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00076294",
-            "file": "EFTA00076294.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00083566",
-            "file": "EFTA00083566.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00015211",
-            "file": "EFTA00015211.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -73724,7 +74496,7 @@
         "display_name": "Lenox Hill Radiology",
         "location_descriptor": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
         "event_count": 2,
-        "evidence_count": 11,
+        "evidence_count": 12,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -73760,8 +74532,8 @@
             "role": "other"
           }
         ],
-        "source_count": 11,
-        "sources_preview": "EFTA02220360.pdf, EFTA02222415.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf, ... (+6 more)",
+        "source_count": 12,
+        "sources_preview": "EFTA02220360.pdf, EFTA02222415.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf, ... (+7 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
@@ -73904,6 +74676,13 @@
                 "excerpt": "1:00pm ARRIVE for 1:30-3:00pm CT Scans & Ultrasound (Dr. Josephson) CT Scans of Sinus & Neck/Ultrasound of Thyroid Lenox Hill Radiology 61 E. 77th Street (between Park and Madison)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223414.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223564.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1:00pm ARRIVE for 1:30-3:00pm CT Scans & Ultrasound (Dr. Josephson)\nCT Scans of Sinus &Neck/Ultrasound of Thyroid\nLenox Hill Radiology\n61 E. 77th Street (between Park and Madison)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223564.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -73962,6 +74741,11 @@
           {
             "doc_id": "EFTA02223414",
             "file": "EFTA02223414.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223564",
+            "file": "EFTA02223564.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -74785,174 +75569,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.090477,
-          26.688241
-        ]
-      },
-      "properties": {
-        "id": "fcdade6e73d1523e",
-        "name": "Palm Beach International Airport",
-        "location_name": "Palm Beach International Airport",
-        "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
-        "location_description": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
-        "canonical_name": "Palm Beach International Airport, 1000 James L Turnage Blvd, West Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Palm Beach International Airport",
-        "location_descriptor": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
-        "event_count": 2,
-        "evidence_count": 6,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-09-12",
-        "date_end": "2017-09-20",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Marilyn Flores",
-            "role": "staff"
-          }
-        ],
-        "source_count": 6,
-        "sources_preview": "EFTA02222430.pdf, EFTA02223054.pdf, EFTA02223256.pdf, EFTA02223271.pdf, EFTA02223496.pdf, ... (+1 more)",
-        "epstein_nexus": "contextual",
-        "event_type": "travel",
-        "event_description": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
-        "events": [
-          {
-            "event_id": "c09dde819638676a",
-            "event_title": "Epstein Associate Flies Palm Beach to NYC on Delta, September 12, 2017",
-            "event_type": "travel",
-            "description": "Unnamed person rebooked by Delta from Palm Beach International Airport to New York City, departing September 12, 2017 at 7:35am, travel arranged by Epstein's assistant Lesley Groff.",
-            "date_start": "2017-09-12",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel booked through Lesley Groff (Epstein's PA) from Palm Beach (Epstein's primary Florida residence location) to NYC.",
-            "evidence": [
-              {
-                "file": "EFTA02222430.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "was rebooked by Delta to fly from PBI to NYC tomorrow, September 12, at 735am.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222430.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c9a56622b30f8b2b",
-            "event_title": "Marilyn Flores Flies New York to Palm Beach on JetBlue 461",
-            "event_type": "travel",
-            "description": "Epstein staff member Marilyn Flores traveled from LaGuardia Airport to Palm Beach International Airport on JetBlue flight 461, departing 7:30am and arriving 10:25am on September 20, 2017.",
-            "date_start": "2017-09-20",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Marilyn Flores",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Epstein staff member traveling to Palm Beach, arranged by his Amex Centurion travel account, but Epstein not personally present.",
-            "evidence": [
-              {
-                "file": "EFTA02223054.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "jet blue#461 flight departs tomorrow at 7:30am arrives PBI at 10:25am",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223054.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223256.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N120JE (GLF4) departed Long Island MacArthur (KISP) at 11:21AM EDT enroute to Palm Beach Intl (KPBI) for an estimated arrival at 01:50PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223256.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223271.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We need a ticket for Marilyn FLORES...She should depart NY tonight (LGA preferred) to Palm Beach...and return to NY on Tues. Sept. 26th in the morning",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223271.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223496.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NI2OJE arrived at Palm Beach Intl (KPBI) at 01:47PM EDT from Long Island MacArthur (KISP)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223496.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223431.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NI2OJE is expected to arrive at Palm Beach Intl (KPBI) in 45 minutes at 01:49PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223431.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02222430",
-            "file": "EFTA02222430.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223054",
-            "file": "EFTA02223054.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223256",
-            "file": "EFTA02223256.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223271",
-            "file": "EFTA02223271.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223496",
-            "file": "EFTA02223496.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223431",
-            "file": "EFTA02223431.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.982582,
           40.773629
         ]
@@ -75185,7 +75801,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
         "event_count": 2,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -75205,12 +75821,12 @@
             "role": "associate"
           },
           {
-            "name": "Philippe Van den Broek",
-            "role": "associate"
+            "name": "Philippe Van Den Broek",
+            "role": "other"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA02222818.pdf, EFTA02222821.pdf, EFTA02223514.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA02222818.pdf, EFTA02222821.pdf, EFTA02223514.pdf, EFTA02223623.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
         "event_description": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
@@ -75268,6 +75884,10 @@
                 "role": "associate"
               },
               {
+                "name": "Philippe Van Den Broek",
+                "role": "other"
+              },
+              {
                 "name": "Philippe Van den Broek",
                 "role": "associate"
               }
@@ -75280,6 +75900,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "TJ 301 Y Economy Class Gustavia, Gustaf III (St-Jean) Charlotte Amalie, Cyril E King Airport 08:45 AM 09:38 AM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223514.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Date 22 Mar 2017 Tradewind Aviation TJB9R2 TJ 301 Y Economy Class Gustavia, Gustaf III (St-Jean) Charlotte Amalie, Cyril E King Airport 08:45 AM 09:38 AM 53 Mins Non-stop",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223623.pdf",
                 "confidence": 0.7
               }
             ]
@@ -75299,6 +75926,11 @@
           {
             "doc_id": "EFTA02223514",
             "file": "EFTA02223514.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223623",
+            "file": "EFTA02223623.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -87473,6 +88105,258 @@
           {
             "doc_id": "EFTA02223468",
             "file": "EFTA02223468.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.975255,
+          35.26476
+        ]
+      },
+      "properties": {
+        "id": "d6637a8b1d158589",
+        "name": "Zorro Ranch",
+        "location_name": "Zorro Ranch",
+        "location_address": "49 Zorro Ranch Rd, Stanley, New Mexico 87056, United States",
+        "location_description": "A large private ranch spanning approximately 10,000 acres in the Estancia Valley near Stanley, New Mexico, owned by Jeffrey Epstein.",
+        "canonical_name": "49 Zorro Ranch Road, Stanley, NM, New Mexico",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Zorro Ranch",
+        "location_descriptor": "A large private ranch spanning approximately 10,000 acres in the Estancia Valley near Stanley, New Mexico, owned by Jeffrey Epstein.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1994",
+        "date_end": "1994",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00084311.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A large private ranch spanning approximately 10,000 acres in the Estancia Valley near Stanley, New Mexico, owned by Jeffrey Epstein.",
+        "events": [
+          {
+            "event_id": "367d095182270541",
+            "event_title": "Maxwell and Epstein Abused Victims at New Mexico Ranch",
+            "event_type": "presence",
+            "description": "Maxwell and Epstein groomed and sexually abused minor victims at Epstein's New Mexico ranch from at least 1994 through 1997.",
+            "date_start": "1994",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally participated in abuse of minors at his own New Mexico ranch property.",
+            "evidence": [
+              {
+                "file": "EFTA00084311.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MAXWELL and Epstein's victims were groomed or abused at Epstein's residences in New York, Florida, and New Mexico, as well as MAXWELL's residence in London, England.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084311.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00084311",
+            "file": "EFTA00084311.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.118013,
+          42.372524
+        ]
+      },
+      "properties": {
+        "id": "1b36b769a361f8bb",
+        "name": "Hasty Pudding Club",
+        "location_name": "Hasty Pudding Club",
+        "location_address": "12 Holyoke Street, Cambridge, Massachusetts 02138, United States",
+        "location_description": "A historic private club at Harvard University in Cambridge, Massachusetts, founded in 1795, known for theatrical productions and the annual Hasty Pudding Man and Woman of the Year awards.",
+        "canonical_name": "Hasty Pudding Club, 12 Holyoke Street, Cambridge, MA, Massachusetts",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Hasty Pudding Club",
+        "location_descriptor": "A historic private club at Harvard University in Cambridge, Massachusetts, founded in 1795, known for theatrical productions and the annual Hasty Pudding Man and Woman of the Year awards.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "transaction",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-04-03",
+        "date_end": "2017-04-03",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02223596.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "transaction",
+        "event_description": "A historic private club at Harvard University in Cambridge, Massachusetts, founded in 1795, known for theatrical productions and the annual Hasty Pudding Man and Woman of the Year awards.",
+        "events": [
+          {
+            "event_id": "353e8ddbb404a9b7",
+            "event_title": "Epstein Hosts Table of 8 at Hasty Pudding Order of the Golden Sphinx Black Tie Event",
+            "event_type": "transaction",
+            "description": "Jeffrey Epstein purchased a table of 8 at the Hasty Pudding Order of the Golden Sphinx 2017 black-tie event on April 3, 2017, inviting Karyna and others to attend as his guests.",
+            "date_start": "2017-04-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally purchased a table and planned to attend the black-tie event at the Hasty Pudding Club with guests.",
+            "evidence": [
+              {
+                "file": "EFTA02223596.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello M, Karyna, ! Jeffrey has purchased a table of 8 for this Hasty Pudding BLACK TIE event Monday April 3rd...he would like you all to be one of his guests...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223596.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02223596",
+            "file": "EFTA02223596.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.615082,
+          45.113269
+        ]
+      },
+      "properties": {
+        "id": "b9ca49a58c403530",
+        "name": "Cherry Capital Airport",
+        "location_name": "Cherry Capital Airport",
+        "location_address": "49686 North West Bay Shore Drive, Northport, Michigan 49670, United States",
+        "location_description": "A public airport (TVC) serving the Traverse City, Michigan area in the northwest Lower Peninsula, the primary commercial airport for the Grand Traverse region.",
+        "canonical_name": "Cherry Capital Airport, Traverse City, MI 49686, Northport, Michigan",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Cherry Capital Airport",
+        "location_descriptor": "A public airport (TVC) serving the Traverse City, Michigan area in the northwest Lower Peninsula, the primary commercial airport for the Grand Traverse region.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1994-08-18",
+        "date_end": "1994-08-18",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00084217.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A public airport (TVC) serving the Traverse City, Michigan area in the northwest Lower Peninsula, the primary commercial airport for the Grand Traverse region.",
+        "events": [
+          {
+            "event_id": "b8d696d09e15c79a",
+            "event_title": "Epstein Flies from Aspen to Grand Traverse County (Interlochen Area), August 18, 1994",
+            "event_type": "travel",
+            "description": "Epstein flew from Aspen, Colorado (ASE) to Grand Traverse County, Michigan (TVC), near Interlochen arts camp, on August 18, 1994.",
+            "date_start": "1994-08-18",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present aboard the flight and arrived at the Interlochen area airport.",
+            "evidence": [
+              {
+                "file": "EFTA00084217.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "flight to Interlochen in the summer of '94 is on there: August 18th, flight from ASE (Aspen, Colorado) to TVC (Grand Traverse County, Michigan). Passengers are Epstein,",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084217.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00084217",
+            "file": "EFTA00084217.pdf",
             "source_type": "doj_efta"
           }
         ]
