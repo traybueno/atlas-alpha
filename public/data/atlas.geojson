@@ -7434,8 +7434,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 99,
-        "evidence_count": 294,
+        "event_count": 101,
+        "evidence_count": 299,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -7939,6 +7939,10 @@
             "role": "associate"
           },
           {
+            "name": "Andrew Farkas",
+            "role": "associate"
+          },
+          {
             "name": "James D. Watson",
             "role": "associate"
           },
@@ -7989,10 +7993,18 @@
           {
             "name": "Karen",
             "role": "staff"
+          },
+          {
+            "name": "Taylor Visoski",
+            "role": "other"
+          },
+          {
+            "name": "Yoni",
+            "role": "associate"
           }
         ],
-        "source_count": 269,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+264 more)",
+        "source_count": 274,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+269 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -11395,6 +11407,13 @@
                 "excerpt": "totally fine! don't stress...we will see you when we see you!\nSee you at 10:30am! Thanks\n9 East 71st Street between 5th and Madison.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220975.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221029.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Scheduled delivery: Fri, 8/18/2017\nMr. Jeffrey Epstein\nEast 71st Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221029.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -12411,6 +12430,10 @@
                 "role": "subject"
               },
               {
+                "name": "Andrew Farkas",
+                "role": "associate"
+              },
+              {
                 "name": "James D. Watson",
                 "role": "associate"
               }
@@ -12430,6 +12453,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jim Watson asks if he could have dinner with Jeffrey on Tuesday evening, August 29th.\nis ?pm good?\nYES!\n9 East 71st Street between 5th and Madison.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220310.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221026.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "August 25, 2017 4:00 PM : Can Andrew Farkas come see JE next week T-Th?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221026.pdf",
                 "confidence": 0.7
               }
             ]
@@ -12611,6 +12641,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Reconfirming we will see you at Jeffrey's for lunch today at noon! 9 East 71st Street between 5th and Madison.\nThur 8/31/2017",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220405.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221028.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hello Barnaby. Could we confirm lunch on Thursday at 12:00pm at Jeffrey's home?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221028.pdf",
                 "confidence": 0.7
               }
             ]
@@ -12923,6 +12960,60 @@
                 "source_type": "doj_efta",
                 "excerpt": "Arrive 28th, will start working at 71st on the 29th, leaving AM on Sept 5th\nJust got to Atlanta",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220998.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bf6b87c6cf18d220",
+            "event_title": "Taylor Visoski Arrives at Epstein NYC Apartment 3M, Sept 8, 2017",
+            "event_type": "communication",
+            "description": "Welcome letter prepared for Taylor Visoski arriving at apartment 3M on Friday September 8, 2017, with instructions to leave with doorman.",
+            "date_start": "2017-09-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Taylor Visoski",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Taylor Visoski related to Epstein pilot Larry Visoski; arriving at Epstein-linked NYC property.",
+            "evidence": [
+              {
+                "file": "EFTA02221024.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Can you please print this welcome letter for apt 3M for Taylor Visoski arriving on Frt 8th and leave with the doorman for us?!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221024.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "f84c8c2118326a4f",
+            "event_title": "Yoni Stays in Epstein NYC Apt 10B, Sept 4 \u2013 Oct 19, 2017",
+            "event_type": "presence",
+            "description": "Calendar alert: Yoni staying in apartment 10B at Epstein NYC property from September 4 through October 19, 2017.",
+            "date_start": "2017-09-04",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Yoni",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Yoni staying in apartment at Epstein property.",
+            "evidence": [
+              {
+                "file": "EFTA02221032.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "September 4, 2017 ; Yoni in 10B Sept. 4- Oct. 19",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221032.pdf",
                 "confidence": 0.7
               }
             ]
@@ -13925,6 +14016,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221029",
+            "file": "EFTA02221029.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00072127",
             "file": "EFTA00072127.pdf",
             "source_type": "doj_efta"
@@ -14190,6 +14286,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221026",
+            "file": "EFTA02221026.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220290",
             "file": "EFTA02220290.pdf",
             "source_type": "doj_efta"
@@ -14227,6 +14328,11 @@
           {
             "doc_id": "EFTA02220405",
             "file": "EFTA02220405.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221028",
+            "file": "EFTA02221028.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -14273,6 +14379,16 @@
             "doc_id": "EFTA02220998",
             "file": "EFTA02220998.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221024",
+            "file": "EFTA02221024.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221032",
+            "file": "EFTA02221032.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -14298,7 +14414,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 98,
-        "evidence_count": 210,
+        "evidence_count": 212,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -14594,6 +14710,14 @@
             "role": "associate"
           },
           {
+            "name": "maria",
+            "role": "associate"
+          },
+          {
+            "name": "Valdson",
+            "role": "associate"
+          },
+          {
             "name": "watson lauder",
             "role": "associate"
           },
@@ -14674,20 +14798,12 @@
             "role": "associate"
           },
           {
-            "name": "Maria",
-            "role": "other"
-          },
-          {
-            "name": "Valdson",
-            "role": "other"
-          },
-          {
             "name": "Cecile de Jongh",
             "role": "other"
           }
         ],
-        "source_count": 198,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+193 more)",
+        "source_count": 200,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+195 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -17680,6 +17796,14 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "maria",
+                "role": "associate"
+              },
+              {
+                "name": "Valdson",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -17704,6 +17828,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "back again the week of Sept 25",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220605.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221023.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "new york Cues -sat paris till 14 then new york till 19 th. then lsj.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221023.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221033.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: should we organize tickets for Valdson and maria to come to NY Sept. 19-28?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221033.pdf",
                 "confidence": 0.7
               }
             ]
@@ -19413,6 +19551,16 @@
           {
             "doc_id": "EFTA02220605",
             "file": "EFTA02220605.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221023",
+            "file": "EFTA02221023.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221033",
+            "file": "EFTA02221033.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -24614,8 +24762,8 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 45,
-        "evidence_count": 95,
+        "event_count": 46,
+        "evidence_count": 97,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -24773,10 +24921,14 @@
           {
             "name": "Anas Al Rasheed",
             "role": "other"
+          },
+          {
+            "name": "Valdson Vieira Cotrin",
+            "role": "associate"
           }
         ],
-        "source_count": 93,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+88 more)",
+        "source_count": 95,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+90 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -26520,6 +26672,44 @@
                 "excerpt": "SU 2462 B Economy Class\nMoscow, Sheremetyevo\nParis, Charles De Gaulle\n11:45 AM\n02:40 PM\n07 Sep 2017",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220952.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221023.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "new york Cues -sat paris till 14 then new york till 19 th. then lsj.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221023.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4b61ca4365c1241f",
+            "event_title": "Valdson Cotrin & Maria de Melo Travel Paris to New York, Sept 19, 2017",
+            "event_type": "travel",
+            "description": "Valdson Vieira Cotrin and Maria Gomes De Melo booked on round-trip coach flights departing Paris for New York on September 19, 2017.",
+            "date_start": "2017-09-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Maria Gomes De Melo",
+                "role": "associate"
+              },
+              {
+                "name": "Valdson Vieira Cotrin",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged through Epstein network.",
+            "evidence": [
+              {
+                "file": "EFTA02221036.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "round trip, coach tickets Paris/NY/Paris depart Sept. 19 for Valdson Vieira Cotrin, Maria Gomes De Melo",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221036.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -26989,6 +27179,16 @@
             "doc_id": "EFTA02220952",
             "file": "EFTA02220952.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221023",
+            "file": "EFTA02221023.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221036",
+            "file": "EFTA02221036.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -27014,7 +27214,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 42,
-        "evidence_count": 97,
+        "evidence_count": 98,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27114,6 +27314,10 @@
             "role": "associate"
           },
           {
+            "name": "Valdson",
+            "role": "associate"
+          },
+          {
             "name": "Rich Kah",
             "role": "legal"
           },
@@ -27146,8 +27350,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 88,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+83 more)",
+        "source_count": 89,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+84 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -28297,6 +28501,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Valdson",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -28328,6 +28536,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "new york tues -sat paris till 14 then new york till 19 th. then Isj.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220887.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221023.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "then lsj.\nNo he should come\nYou had wanted to be reminded to bring Valdson to NY Sept. 19-28",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221023.pdf",
                 "confidence": 0.7
               }
             ]
@@ -29125,6 +29340,11 @@
           {
             "doc_id": "EFTA02220887",
             "file": "EFTA02220887.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221023",
+            "file": "EFTA02221023.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -34870,7 +35090,7 @@
         "display_name": "Epstein East 66th Street Apartment Building",
         "location_descriptor": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
         "event_count": 21,
-        "evidence_count": 34,
+        "evidence_count": 35,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -34990,6 +35210,10 @@
             "role": "associate"
           },
           {
+            "name": "Yoni Koren",
+            "role": "associate"
+          },
+          {
             "name": "Yoni Korent",
             "role": "other"
           },
@@ -35002,8 +35226,8 @@
             "role": "other"
           }
         ],
-        "source_count": 31,
-        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+26 more)",
+        "source_count": 32,
+        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+27 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
@@ -35668,6 +35892,10 @@
                 "role": "staff"
               },
               {
+                "name": "Yoni Koren",
+                "role": "associate"
+              },
+              {
                 "name": "Yoni Korent",
                 "role": "other"
               }
@@ -35687,6 +35915,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I wanted to confirm you will stay in apt 10B. The code The apartment address is: 301 East 66th Street, corner of 66th and 2nd Ave. I have you blocked for Sept. 4-Oct 19.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220789.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221034.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi Yoni. I wanted to confirm you will stay in apt 10B. 301 East 66th Street, corner of 66th and 2nd Ave. Sept. 4-Oct 19.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221034.pdf",
                 "confidence": 0.7
               }
             ]
@@ -35930,6 +36165,11 @@
           {
             "doc_id": "EFTA02220789",
             "file": "EFTA02220789.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221034",
+            "file": "EFTA02221034.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -40624,13 +40864,13 @@
         "property_type": "event",
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
-        "event_count": 8,
-        "evidence_count": 18,
+        "event_count": 9,
+        "evidence_count": 19,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "1999-10-02",
-        "date_end": "2017-08-27",
+        "date_end": "2017-09-28",
         "people": [
           {
             "name": "Lesley Groff",
@@ -40663,10 +40903,14 @@
           {
             "name": "Ghislaine Maxwell",
             "role": "associate"
+          },
+          {
+            "name": "Valdson Vieira Cotrin",
+            "role": "associate"
           }
         ],
-        "source_count": 17,
-        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+12 more)",
+        "source_count": 18,
+        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+13 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
@@ -40984,6 +41228,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "02eb8ba2424809ff",
+            "event_title": "Valdson Cotrin & Maria de Melo Return New York to Paris, Sept 28, 2017",
+            "event_type": "presence",
+            "description": "Valdson Vieira Cotrin and Maria Gomes De Melo returning from New York to Paris on September 28, 2017.",
+            "date_start": "2017-09-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Maria Gomes De Melo",
+                "role": "associate"
+              },
+              {
+                "name": "Valdson Vieira Cotrin",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return travel arranged through Epstein network.",
+            "evidence": [
+              {
+                "file": "EFTA02221036.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "round trip Paris/NY/Paris returning Sept. 28 for Valdson Vieira Cotrin, Maria Gomes De Melo",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221036.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -41070,6 +41345,11 @@
           {
             "doc_id": "EFTA02220935",
             "file": "EFTA02220935.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221036",
+            "file": "EFTA02221036.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -49592,7 +49872,7 @@
         "display_name": "Harvard University",
         "location_descriptor": "A prestigious private research university established in 1636, located in Cambridge, Massachusetts, and consistently ranked among the world's leading academic institutions.",
         "event_count": 3,
-        "evidence_count": 7,
+        "evidence_count": 8,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -49624,8 +49904,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 6,
-        "sources_preview": "EFTA02213406.pdf, EFTA00018441.pdf, EFTA00018466.pdf, EFTA02220590.pdf, EFTA02220941.pdf, ... (+1 more)",
+        "source_count": 7,
+        "sources_preview": "EFTA02213406.pdf, EFTA00018441.pdf, EFTA00018466.pdf, EFTA02220590.pdf, EFTA02220941.pdf, ... (+2 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A prestigious private research university established in 1636, located in Cambridge, Massachusetts, and consistently ranked among the world's leading academic institutions.",
@@ -49756,6 +50036,13 @@
                 "excerpt": "Jeffrey is considering a trip to Boston/Harvard this Sunday Sept. 17th-might you be around and available?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220973.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221035.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is considering a trip to Boston/Harvard this Sunday Sept. 17th...might you be around and available?\nYes! Thank you for letting me know!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221035.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -49789,6 +50076,11 @@
           {
             "doc_id": "EFTA02220973",
             "file": "EFTA02220973.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221035",
+            "file": "EFTA02221035.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -51562,7 +51854,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
         "event_count": 3,
-        "evidence_count": 17,
+        "evidence_count": 18,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -51598,8 +51890,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 17,
-        "sources_preview": "EFTA02220490.pdf, EFTA02220720.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, ... (+12 more)",
+        "source_count": 18,
+        "sources_preview": "EFTA02220490.pdf, EFTA02220720.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, ... (+13 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
@@ -51769,6 +52061,13 @@
                 "excerpt": "Flight Information\nDate 10 Apr 2017\nAirline Delta Air Lines\nFlight/Class DL 676 T Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221016.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221020.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeals 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221020.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -51883,6 +52182,11 @@
           {
             "doc_id": "EFTA02221016",
             "file": "EFTA02221016.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221020",
+            "file": "EFTA02221020.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -53936,7 +54240,7 @@
         "display_name": "FBI Miami Field Office",
         "location_descriptor": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
         "event_count": 2,
-        "evidence_count": 2,
+        "evidence_count": 3,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -53948,12 +54252,20 @@
             "role": "subject"
           },
           {
+            "name": "SA",
+            "role": "other"
+          },
+          {
+            "name": "Witness",
+            "role": "victim"
+          },
+          {
             "name": "Jane Doe 1",
             "role": "victim"
           }
         ],
-        "source_count": 2,
-        "sources_preview": "EFTA00010507.pdf, EFTA00015211.pdf",
+        "source_count": 3,
+        "sources_preview": "EFTA00010507.pdf, EFTA00076294.pdf, EFTA00015211.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
         "event_description": "The Federal Bureau of Investigation's Miami Division field office, located in Miramar, Florida, responsible for federal law enforcement operations across South Florida.",
@@ -53973,6 +54285,14 @@
                 "role": "subject"
               },
               {
+                "name": "SA",
+                "role": "other"
+              },
+              {
+                "name": "Witness",
+                "role": "victim"
+              },
+              {
                 "name": "Jane Doe 1",
                 "role": "victim"
               }
@@ -53985,6 +54305,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jane Doe 1 provided information about her abuse and Jane Doe 2's abuse to the FBI on August 7, 2007.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076294.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SA was co-case agent...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076294.pdf",
                 "confidence": 0.7
               }
             ]
@@ -54016,6 +54343,11 @@
           {
             "doc_id": "EFTA00010507",
             "file": "EFTA00010507.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076294",
+            "file": "EFTA00076294.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -69406,6 +69738,98 @@
           {
             "doc_id": "EFTA02220997",
             "file": "EFTA02220997.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "2c3967335d7f66d3",
+        "name": "U.S. Attorney's Office, Southern District of New York",
+        "location_name": "U.S. Attorney's Office, Southern District of New York",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The federal prosecutor's office for the Southern District of New York, headquartered at One Saint Andrew's Plaza in lower Manhattan near the courthouse.",
+        "canonical_name": "U.S. Attorney's Office, Southern District of New York, 1 Saint Andrews Plaza, New York, NY 10007, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, Southern District of New York",
+        "location_descriptor": "The federal prosecutor's office for the Southern District of New York, headquartered at One Saint Andrew's Plaza in lower Manhattan near the courthouse.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2016-02-29",
+        "date_end": "2016-02-29",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "attorneys for the alleged victims",
+            "role": "legal"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00076294.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The federal prosecutor's office for the Southern District of New York, headquartered at One Saint Andrew's Plaza in lower Manhattan near the courthouse.",
+        "events": [
+          {
+            "event_id": "5df400542ac721e9",
+            "event_title": "Victims' Attorneys Meet USAO-SDNY Coordinator, Push for Epstein/Maxwell Investigation (Feb 2016)",
+            "event_type": "presence",
+            "description": "Attorneys for alleged Epstein victims met USAO-SDNY Human Trafficking Coordinator to urge opening federal investigation into Epstein and Maxwell, discussing prior Florida NPA.",
+            "date_start": "2016-02-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "attorneys for the alleged victims",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The meeting was about Epstein and his alleged crimes but Epstein was not physically present at USAO-SDNY.",
+            "evidence": [
+              {
+                "file": "EFTA00076294.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In her capacity as the Human Trafficking and Project Safe Childhood Coordinator for the USAO-SDNY, met with attorneys for several of the alleged victims who are testifying against Ms. Maxwell in this case on February 29, 2016. The attorneys for the alleged victims attempted to persuade her to open an investigation into Jeffrey Epstein and Ms. Maxwell.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076294.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00076294",
+            "file": "EFTA00076294.pdf",
             "source_type": "doj_efta"
           }
         ]
