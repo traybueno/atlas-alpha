@@ -21,12 +21,12 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 111,
-        "evidence_count": 412,
+        "event_count": 114,
+        "evidence_count": 420,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017",
+        "date_start": "2016-02-29",
         "date_end": "2023-04-05",
         "people": [
           {
@@ -528,10 +528,26 @@
           {
             "name": "unredacted parties",
             "role": "legal"
+          },
+          {
+            "name": "Colleen McMahon",
+            "role": "legal"
+          },
+          {
+            "name": "Stan Pottinger",
+            "role": "legal"
+          },
+          {
+            "name": "Brad Edwards",
+            "role": "legal"
+          },
+          {
+            "name": "Peter Skinner",
+            "role": "legal"
           }
         ],
-        "source_count": 343,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+338 more)",
+        "source_count": 348,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+343 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -1764,6 +1780,13 @@
                 "excerpt": "what video surveillance, if any, captures defendant Noel or defendant Thomas speaking with Lt. Jean on August 10, 2019 after the discovery of Epstein's body",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076885.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077545.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On Saturday, August 10, 2019, at approximately 6:30 a.m., inmate Jeffrey Edward Epstein was found unresponsive in his cell in the Special Housing Unit from an apparent suicide at the Metropolitan Correctional Center (MCC) in New York, New York.",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           },
@@ -2702,6 +2725,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Geoffrey Berman",
+                "role": "legal"
               }
             ],
             "epstein_nexus": "direct",
@@ -3174,6 +3201,34 @@
                 "source_type": "doj_efta",
                 "excerpt": "Count slips for 8/9 (12 AM, 3 AM, 5 AM, 4 PM, 10 PM)... Tru-scope logs 12am 8/9 through 8 am 8/10 for 9 south SHU... Incident report for Epstein suicide (583 form).",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077404.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077515.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On Aug. 9, lawyers crowded into the plastic chairs in the meeting room with Mr. Epstein as the world was riveted by news that a court had released a cache of previously sealed documents.",
+                "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077515.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein was found dead in a Manhattan jail cell Aug. 10. A medical examiner determined the cause of death was suicide.",
+                "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077539.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TO: Metropolitan Correctional Center...Appearance Date: September 10, 2019 Appearance Time: 10:00 a.m.",
+                "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077548.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the Manhattan Correctional Center confirmed that Jeffrey Epstein, who faced charges brought by this Office of engaging in the sex trafficking of minors, had been found unresponsive in his cell and was pronounced dead shortly thereafter of an apparent suicide.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077548.pdf",
                 "confidence": 0.7
               }
             ]
@@ -6051,6 +6106,107 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "b276e7cf3ac9b297",
+            "event_title": "Epstein Arrives at MCC New York on July 6, 2019 Under Pretrial Detention",
+            "event_type": "travel",
+            "description": "Epstein (age 66) arrived at MCC New York on July 6, 2019 under pretrial detention after being indicted for sex trafficking of minors and conspiracy.",
+            "date_start": "2019-07-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at MCC when he arrived for pretrial detention on July 6, 2019.",
+            "evidence": [
+              {
+                "file": "EFTA00077545.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein was a 66-year-old male who arrived at MCC New York on July 6, 2019 under pretrial status after being indicted for sex trafficking of minors and conspiracy.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077545.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0abd9ee90fbe01ef",
+            "event_title": "AUSA Appears Before Chief Judge McMahon at SDNY, Makes False Statements About Boies Schiller Contacts (Apr. 2019)",
+            "event_type": "presence",
+            "description": "Federal prosecutor appeared before Chief Judge McMahon and made false statements denying Boies Schiller attorneys had any role in initiating the investigation of Ghislaine Maxwell.",
+            "date_start": "2019-04-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Colleen McMahon",
+                "role": "legal"
+              },
+              {
+                "name": "AUSA",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Court proceeding relates to Maxwell prosecution arising from Epstein trafficking network, but Epstein was not physically present at this hearing.",
+            "evidence": [
+              {
+                "file": "EFTA00077571.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AUSA the prosecutor in charge of the case who appeared before Chief Judge McMahon on April 9, 2019, knew all of this and still denied that Boies Schiller had any role in fomenting the investigation and claimed that there had been no contacts between Boies Schiller and his office before November 2018",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077571.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "28ae58aed3e13755",
+            "event_title": "Prosecutors Meet with Boies Schiller Attorneys to Discuss Epstein and Maxwell Trafficking Allegations (Feb. 2016)",
+            "event_type": "presence",
+            "description": "SDNY Human Trafficking Coordinator AUSA met with Boies Schiller attorneys Peter Skinner, Stan Pottinger, and Brad Edwards to discuss sexual abuse and trafficking allegations against Jeffrey Epstein and Ghislaine Maxwell.",
+            "date_start": "2016-02-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Stan Pottinger",
+                "role": "legal"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              },
+              {
+                "name": "Brad Edwards",
+                "role": "legal"
+              },
+              {
+                "name": "Peter Skinner",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Meeting was about investigating Epstein and Maxwell trafficking network, but Epstein himself was not physically present at this legal meeting.",
+            "evidence": [
+              {
+                "file": "EFTA00077571.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On February 29, 2016, AUSA M, the Human Trafficking Coordinator and Project Safe Childhood Coordinator for the U.S. Attorney's Office for the Southern District of New York, Ex. J, p 1, met with Peter Skinner of Boies Schiller, Stan Pottinger, and Brad Edwards, who represented Ex. K, p I. The meeting concerned allegations of sexual abuse and trafficking by Jeffrey Epstein and Maxwell.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077571.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -6597,6 +6753,11 @@
           {
             "doc_id": "EFTA00076885",
             "file": "EFTA00076885.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077545",
+            "file": "EFTA00077545.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -7190,6 +7351,21 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00077515",
+            "file": "EFTA00077515.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077539",
+            "file": "EFTA00077539.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077548",
+            "file": "EFTA00077548.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015296",
             "file": "EFTA00015296.pdf",
             "source_type": "doj_efta"
@@ -7768,6 +7944,11 @@
             "doc_id": "EFTA00077078",
             "file": "EFTA00077078.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077571",
+            "file": "EFTA00077571.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -7793,7 +7974,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 109,
-        "evidence_count": 329,
+        "evidence_count": 335,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8317,6 +8498,10 @@
             "role": "associate"
           },
           {
+            "name": "James Ce (Personal Genius tech support)",
+            "role": "other"
+          },
+          {
             "name": "Stuart Orsher",
             "role": "other"
           },
@@ -8361,12 +8546,20 @@
             "role": "associate"
           },
           {
+            "name": "Unidentified Middle Eastern associate",
+            "role": "associate"
+          },
+          {
             "name": "Tede",
             "role": "associate"
           },
           {
             "name": "Kelly Coventry",
             "role": "other"
+          },
+          {
+            "name": "Masha Drokova",
+            "role": "associate"
           },
           {
             "name": "merwin",
@@ -8391,10 +8584,6 @@
           {
             "name": "R. Court Hay",
             "role": "other"
-          },
-          {
-            "name": "Masha Drokova",
-            "role": "associate"
           },
           {
             "name": "Carluz Toylo",
@@ -8425,8 +8614,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 300,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+295 more)",
+        "source_count": 305,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+300 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -12942,6 +13131,10 @@
                 "role": "staff"
               },
               {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
                 "name": "Andrew Farkas",
                 "role": "associate"
               },
@@ -12952,6 +13145,10 @@
               {
                 "name": "Karen (Zorro Ranch Manager)",
                 "role": "associate"
+              },
+              {
+                "name": "James Ce (Personal Genius tech support)",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -12990,6 +13187,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "reconfirming Dr. Watson will come see Jeffrey tonight at 7pm\n9 East 71st Street between 5th and Madison",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221231.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221676.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "jee coming into town today for remainder of the week are you around in case he needs anything?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221676.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221676.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "That's great. @ 71st St? ... yes, please. thanks ... See you then.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221676.pdf",
                 "confidence": 0.7
               }
             ]
@@ -13388,6 +13599,10 @@
                 "role": "associate"
               },
               {
+                "name": "Unidentified Middle Eastern associate",
+                "role": "associate"
+              },
+              {
                 "name": "Tede",
                 "role": "associate"
               }
@@ -13414,6 +13629,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Paul Barrett asking for appt on Wed. Sept 13",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221054.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221659.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "hi habebey i m in new york .. the sooner we meet the faster i go back to be with my son on his first week in a new school.. if you bussy dont worry i can wait until thursday ... very well.. plz when you have a minute send me the date and the time .. i know the house by now*",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221659.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221607.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Do you think you could come to Jeffrey's house at 4pm? I know you have your appt at 5:30pm and Jeffrey has an appt here at the house around 5/5:30pm... If I land on time (supposed to be at 3 pm), I could come see Jeffrey at 4 pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221607.pdf",
                 "confidence": 0.7
               }
             ]
@@ -13504,6 +13733,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Masha Drokova",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "contextual",
@@ -13521,6 +13754,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "JE may come back on Tuesday September 12",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221085.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221685.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Of course: 9 East 71st street between 5th and Madison ... Sure! 12:30 confined ... Better 12:30 if possible",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221685.pdf",
                 "confidence": 0.7
               }
             ]
@@ -13822,6 +14062,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "M\u00e9lanie Le Meur",
                 "role": "vendor"
               },
@@ -13845,6 +14089,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "The furniture has just arrived to IFL NY. Steeve Bastone confirmed the installation for Tuesday, 5 September at 12 noon, he will be there to receive the install.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221650.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221680.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The furniture has just arrived to IFL NY. Steeve Bastone confirmed the installation for Tuesday, 5 September at 12 noon, he will be there to receive the install.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221680.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15259,6 +15510,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221676",
+            "file": "EFTA02221676.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220290",
             "file": "EFTA02220290.pdf",
             "source_type": "doj_efta"
@@ -15349,6 +15605,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221659",
+            "file": "EFTA02221659.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221607",
+            "file": "EFTA02221607.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220850",
             "file": "EFTA02220850.pdf",
             "source_type": "doj_efta"
@@ -15371,6 +15637,11 @@
           {
             "doc_id": "EFTA02221085",
             "file": "EFTA02221085.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221685",
+            "file": "EFTA02221685.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -15419,6 +15690,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221680",
+            "file": "EFTA02221680.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221545",
             "file": "EFTA02221545.pdf",
             "source_type": "doj_efta"
@@ -15452,7 +15728,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 102,
-        "evidence_count": 227,
+        "evidence_count": 229,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -15808,6 +16084,10 @@
             "role": "associate"
           },
           {
+            "name": "Yoni (unidentified guest)",
+            "role": "other"
+          },
+          {
             "name": "David",
             "role": "other"
           },
@@ -15860,8 +16140,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 211,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+206 more)",
+        "source_count": 213,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+208 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -19303,6 +19583,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Yoni (unidentified guest)",
+                "role": "other"
+              },
+              {
                 "name": "David",
                 "role": "other"
               }
@@ -19315,6 +19599,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I'm coming back to NYC tues evening thru Thurs.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220573.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221652.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I have a guest in apt 10B asking if he can view 'regular news'...We have a family staying in 10B from now until Oct. 19th (long term visitors) Yoni, the dad, is ill, and going through treatment here in NY",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221652.pdf",
                 "confidence": 0.7
               }
             ]
@@ -20004,6 +20295,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "12:30pm Appt w/Masha Drokova 1:30pm Interview w/Futurism Editor, Masha to join the interview",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221642.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221685.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "There's Jeffrey in person interview with Futurism editor that he confirmed. Would he be able to do that on 18th or on the first part of day on 19th? I'd also join the interview",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221685.pdf",
                 "confidence": 0.7
               }
             ]
@@ -20946,6 +21244,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221652",
+            "file": "EFTA02221652.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220714",
             "file": "EFTA02220714.pdf",
             "source_type": "doj_efta"
@@ -21063,6 +21366,11 @@
           {
             "doc_id": "EFTA02221642",
             "file": "EFTA02221642.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221685",
+            "file": "EFTA02221685.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -23435,7 +23743,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 55,
-        "evidence_count": 132,
+        "evidence_count": 133,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -23579,8 +23887,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 115,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02215018.pdf, EFTA02216389.pdf, ... (+110 more)",
+        "source_count": 116,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA02212885.pdf, EFTA02221589.pdf, EFTA02215018.pdf, ... (+111 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -23700,6 +24008,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Origin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDate 27 Apr 2017\nFlight/Class AA 936 Q Economy Class\nDeparting 02:15 PM\nArriving 06:32 PM\nCITIZENS OF RUSSIAN FEDERATION MUST CARRY A VALID PASSPORT",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212885.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221589.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "27 Apr 2017 American Airlines AA 936 Q Economy Class Charlotte Amalie, Cyril E King Airport New York, John F Kennedy International 02:15 PM 06:32 PM CITIZENS OF RUSSIAN FEDERATION MUST CARRY A VALID PASSPORT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221589.pdf",
                 "confidence": 0.7
               }
             ]
@@ -25719,6 +26034,11 @@
           {
             "doc_id": "EFTA02212885",
             "file": "EFTA02212885.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221589",
+            "file": "EFTA02221589.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -30573,7 +30893,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 42,
-        "evidence_count": 104,
+        "evidence_count": 106,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -30725,8 +31045,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 95,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+90 more)",
+        "source_count": 97,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+92 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -31760,6 +32080,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               }
@@ -31821,6 +32145,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey says he will now go from the island to NY on Tuesday...no more PB!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221307.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221596.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on the island now and says he will go to PB on 28th and NY on 30th...Jeffrey has been all over the place with his arrival back to NY",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221596.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221608.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "wheels up at 11 am direct to isj. please have car pick me up at 10 am. I lam to LSJ confirmed",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221608.pdf",
                 "confidence": 0.7
               }
             ]
@@ -32766,6 +33104,16 @@
           {
             "doc_id": "EFTA02221307",
             "file": "EFTA02221307.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221596",
+            "file": "EFTA02221596.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221608",
+            "file": "EFTA02221608.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -34811,7 +35159,7 @@
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 27,
-        "evidence_count": 52,
+        "evidence_count": 53,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -34927,8 +35275,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 43,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+38 more)",
+        "source_count": 44,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+39 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -35756,6 +36104,13 @@
                 "excerpt": "leave early 28th for palm beach",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219565.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221596.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he is on the island now and says he will go to PB on 28th and NY on 30th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221596.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -36134,6 +36489,11 @@
           {
             "doc_id": "EFTA02219565",
             "file": "EFTA02219565.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221596",
+            "file": "EFTA02221596.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -41764,7 +42124,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
         "event_count": 12,
-        "evidence_count": 25,
+        "evidence_count": 27,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -41806,10 +42166,14 @@
           {
             "name": "Valdson Vieira Cotrin",
             "role": "associate"
+          },
+          {
+            "name": "Unidentified Russian national (Epstein associate)",
+            "role": "associate"
           }
         ],
-        "source_count": 24,
-        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+19 more)",
+        "source_count": 26,
+        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+21 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
@@ -42163,6 +42527,13 @@
                 "excerpt": "round trip Paris/NY/Paris returning Sept. 28 for Valdson Vieira Cotrin, Maria Gomes De Melo",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221036.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221598.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "2 DY 7020 28SEP JFK CDG 1005P 1105A...returning Sept. 28",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221598.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -42236,7 +42607,12 @@
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
-            "people": [],
+            "people": [
+              {
+                "name": "Unidentified Russian national (Epstein associate)",
+                "role": "associate"
+              }
+            ],
             "epstein_nexus": "contextual",
             "nexus_reasoning": "Flight to St. Thomas USVI (near Epstein's Little St. James Island) booked through Epstein organization's travel account but no named Epstein associate identified in document.",
             "evidence": [
@@ -42252,6 +42628,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Airline American Airlines Origin New York. John F Kennedy International Destination Charlotte Amalie, Cyril E King Airport Departing 09:20 AM Arriving 01:14 PM Estimated Time 3 Hrs 54 Mins Equipment Boeing 757-200/300 Number of Stops Non-stop",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221525.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221682.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight AA 936 ... Origin New York, John F Kennedy International ... Destination Charlotte Amalie, Cyril E King Airport ... Departing 09:20 AM ... Arriving 01:14 PM ... CITIZENS OF RUSSIAN FEDERATION MUST CARRY A VALID PASSPORT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221682.pdf",
                 "confidence": 0.7
               }
             ]
@@ -42354,6 +42737,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221598",
+            "file": "EFTA02221598.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221046",
             "file": "EFTA02221046.pdf",
             "source_type": "doj_efta"
@@ -42376,6 +42764,11 @@
           {
             "doc_id": "EFTA02221525",
             "file": "EFTA02221525.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221682",
+            "file": "EFTA02221682.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -44045,13 +44438,13 @@
         "property_type": "event",
         "display_name": "Paris Charles de Gaulle Airport",
         "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
-        "event_count": 8,
-        "evidence_count": 12,
+        "event_count": 9,
+        "evidence_count": 15,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2017-07-04",
-        "date_end": "2017-09-10",
+        "date_end": "2017-09-19",
         "people": [
           {
             "name": "Jeffrey Epstein",
@@ -44078,8 +44471,8 @@
             "role": "other"
           }
         ],
-        "source_count": 12,
-        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf, ... (+7 more)",
+        "source_count": 14,
+        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf, ... (+9 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
@@ -44332,6 +44725,42 @@
                 "excerpt": "Change to arrive Paris on Friday Sept 8 and leave for Milan on Sunday morning Sept.10. Jeffrey says 1:30 is good. AF 1230 10SEP CDG MXP 0130P 0300P",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221569.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221582.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "will depart Sept. 10th on AF#1630 at 9pm arrive MXP 10:25pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221582.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221582.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "will arrive Paris Sept. 10th on SU#3004 at 9:40pm and depart on Sept. 12 on SU #2463 at 3:55pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221582.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "85d29a056af8e813",
+            "event_title": "Norwegian Air DY7019: Two Passengers Paris CDG\u2192JFK \u2014 Sept 19, 2017",
+            "event_type": "presence",
+            "description": "Two unnamed passengers depart Paris CDG at 6:15pm on Norwegian Air DY7019 to JFK, arriving 8:30pm, September 19, 2017; round trip booked by Epstein organization.",
+            "date_start": "2017-09-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Round trip Paris-NY flight booked through Epstein's American Express Centurion Travel account for unnamed associates.",
+            "evidence": [
+              {
+                "file": "EFTA02221598.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1 DY 7019 19SEP CDG JFK 0615P 0830P...round trip coach tickets Paris/NY/Paris depart Sept. 19 returning Sept. 28",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221598.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -44395,6 +44824,16 @@
           {
             "doc_id": "EFTA02221569",
             "file": "EFTA02221569.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221582",
+            "file": "EFTA02221582.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221598",
+            "file": "EFTA02221598.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -51064,7 +51503,7 @@
         "display_name": "Apollo Global Management",
         "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
         "event_count": 4,
-        "evidence_count": 9,
+        "evidence_count": 10,
         "primary_event_type": "communication",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -51102,10 +51541,14 @@
           {
             "name": "Patrick (Fekkai stylist)",
             "role": "other"
+          },
+          {
+            "name": "Bella Klein",
+            "role": "staff"
           }
         ],
-        "source_count": 9,
-        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02220888.pdf, EFTA02221148.pdf, EFTA02221167.pdf, ... (+4 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02220888.pdf, EFTA02221148.pdf, EFTA02221167.pdf, ... (+5 more)",
         "epstein_nexus": "direct",
         "event_type": "communication",
         "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
@@ -51205,6 +51648,10 @@
               {
                 "name": "Patrick (Fekkai stylist)",
                 "role": "other"
+              },
+              {
+                "name": "Bella Klein",
+                "role": "staff"
               }
             ],
             "epstein_nexus": "implied",
@@ -51243,6 +51690,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "6:00pm Haircut at Fekkai for JE w/Patrick",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221642.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221673.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Haircut for JE at Fekkai w/Patrick tonight Sept. 13 at 6pm ...Kathy Ruemmler has an appt at 5:30pm but I do not know if he is paying for her....she made appt herself...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221673.pdf",
                 "confidence": 0.7
               }
             ]
@@ -51320,6 +51774,11 @@
           {
             "doc_id": "EFTA02221642",
             "file": "EFTA02221642.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221673",
+            "file": "EFTA02221673.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -51846,6 +52305,222 @@
           {
             "doc_id": "EFTA02219775",
             "file": "EFTA02219775.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00261,
+          40.71461
+        ]
+      },
+      "properties": {
+        "id": "f7294c38fe4c1df1",
+        "name": "U.S. Courthouse, SDNY",
+        "location_name": "U.S. Courthouse, SDNY",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The federal courthouse complex for the Southern District of New York in lower Manhattan, including the Thurgood Marshall and Daniel Patrick Moynihan U.S. Courthouses.",
+        "canonical_name": "Federal Court, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Courthouse, SDNY",
+        "location_descriptor": "The federal courthouse complex for the Southern District of New York in lower Manhattan, including the Thurgood Marshall and Daniel Patrick Moynihan U.S. Courthouses.",
+        "event_count": 4,
+        "evidence_count": 4,
+        "primary_event_type": "legal",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2011",
+        "date_end": "2019-07-08",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Geoffrey Berman",
+            "role": "legal"
+          },
+          {
+            "name": "Colleen McMahon",
+            "role": "other"
+          },
+          {
+            "name": "Cyrus Vance Jr.",
+            "role": "other"
+          },
+          {
+            "name": "Alan Dershowitz",
+            "role": "legal"
+          },
+          {
+            "name": "Justice Ruth Pickholz",
+            "role": "legal"
+          },
+          {
+            "name": "Jennifer Gaffney",
+            "role": "legal"
+          }
+        ],
+        "source_count": 4,
+        "sources_preview": "EFTA00015571.pdf, EFTA00072627.pdf, EFTA00076604.pdf, EFTA00077515.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "legal",
+        "event_description": "The federal courthouse complex for the Southern District of New York in lower Manhattan, including the Thurgood Marshall and Daniel Patrick Moynihan U.S. Courthouses.",
+        "events": [
+          {
+            "event_id": "f89c0f340421f26f",
+            "event_title": "Epstein Pleads Not Guilty to Sex Trafficking Charges in Court",
+            "event_type": "legal",
+            "description": "Jeffrey Epstein appeared in federal court and entered a plea of not guilty to sex trafficking charges",
+            "date_start": "2019-07-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present in court entering his plea to criminal charges.",
+            "evidence": [
+              {
+                "file": "EFTA00015571.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey Epstein pleads not guilty to sex trafficking charges",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015571.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d0162814adeda51f",
+            "event_title": "Grand Jury Subpoena Conference in Epstein-Related Proceeding, SDNY (April 9, 2019)",
+            "event_type": "presence",
+            "description": "Sealed grand jury subpoena conference held at SDNY before Chief District Judge Colleen McMahon on April 9, 2019 at 11:45am, related to the Epstein investigation.",
+            "date_start": "2019-04-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Geoffrey Berman",
+                "role": "legal"
+              },
+              {
+                "name": "Colleen McMahon",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Grand jury proceeding was part of the broader Epstein/Maxwell investigation at SDNY, related to Epstein network.",
+            "evidence": [
+              {
+                "file": "EFTA00072627.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK In Re Grand Jury Subpoena, Before: 19 Misc. 149 (CM) Conference New York, N.Y. April 9, 2019 11:45 a.m. HON. COLLEEN MCMAHON, Chief District Judge",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00072627.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "984ec6ca71642d15",
+            "event_title": "Vance's Sex Crimes Chief Appears in Manhattan Court to Downgrade Epstein to Level 1 Sex Offender (2011)",
+            "event_type": "legal",
+            "description": "Manhattan DA Cyrus Vance ordered his sex crimes unit chief to appear in court to advocate for downgrading Jeffrey Epstein to a Level 1 sex offender in New York SORA proceedings.",
+            "date_start": "2011",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Cyrus Vance Jr.",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Alan Dershowitz",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "The court action directly concerned Epstein's sex offender classification in New York, involving his attorney Dershowitz and the Manhattan DA's office advocacy on his behalf.",
+            "evidence": [
+              {
+                "file": "EFTA00076604.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the infamous \" Alan Dershowitz' client Jeffrey Epstein court hearing in 2011, when our DA Cyrus Vance ordered his Sex crimes unit chief show up to court to implore the Epstein's Judge to to downgrade Epstein to Level 1 sex offender.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076604.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3f6d61bc3374fbfa",
+            "event_title": "Gaffney Defends Manhattan DA's Decision to Downgrade Epstein's Sex Offender Level, Jan 2011",
+            "event_type": "legal",
+            "description": "ADA Jennifer Gaffney appeared before Justice Ruth Pickholz at NY Supreme Court to defend the Manhattan DA's unusual decision to downgrade Epstein's sex offender risk level to low despite board recommendation of highest risk.",
+            "date_start": "2011-01",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Justice Ruth Pickholz",
+                "role": "legal"
+              },
+              {
+                "name": "Jennifer Gaffney",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The hearing directly concerned Epstein's sex offender classification but Epstein was likely not physically present \u2014 it was his lawyers and prosecutors arguing before the court.",
+            "evidence": [
+              {
+                "file": "EFTA00077515.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ms. Gaffney had to defend her decision at a January 2011 hearing in New York Supreme Court. \"I am a little overwhelmed because I have never seen the prosecutor's office do anything like this,\" Justice Ruth Pickholz told Ms. Gaffney, according to a transcript of the hearing.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077515.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00015571",
+            "file": "EFTA00015571.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00072627",
+            "file": "EFTA00072627.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076604",
+            "file": "EFTA00076604.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077515",
+            "file": "EFTA00077515.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -52811,7 +53486,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
         "event_count": 4,
-        "evidence_count": 20,
+        "evidence_count": 21,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -52847,8 +53522,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 20,
-        "sources_preview": "EFTA02220490.pdf, EFTA02220720.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, ... (+15 more)",
+        "source_count": 21,
+        "sources_preview": "EFTA02220490.pdf, EFTA02220720.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, ... (+16 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
@@ -53085,6 +53760,13 @@
                 "excerpt": "Destination Charlotte Amalie, Cyril E King Airport Arriving 01:14 PM CITIZENS OF RUSSIAN FEDERATION MUST CARRY A VALID PASSPORT",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221525.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221592.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "27 Apr 17 American Airlines AA 936 Charlotte Amalie, Cyril E King Airport New York. John F Kennedy International 02:15 PM 06:32 PM Terminal 8 Q Economy Class CITIZENS OF RUSSIAN FEDERATION MUST CARRY A VALID PASSPORT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221592.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -53188,6 +53870,11 @@
           {
             "doc_id": "EFTA02221525",
             "file": "EFTA02221525.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221592",
+            "file": "EFTA02221592.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -54963,174 +55650,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.00261,
-          40.71461
-        ]
-      },
-      "properties": {
-        "id": "f7294c38fe4c1df1",
-        "name": "U.S. Courthouse, SDNY",
-        "location_name": "U.S. Courthouse, SDNY",
-        "location_address": "New York City, New York, United States",
-        "location_description": "The federal courthouse complex for the Southern District of New York in lower Manhattan, including the Thurgood Marshall and Daniel Patrick Moynihan U.S. Courthouses.",
-        "canonical_name": "Federal Court, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "U.S. Courthouse, SDNY",
-        "location_descriptor": "The federal courthouse complex for the Southern District of New York in lower Manhattan, including the Thurgood Marshall and Daniel Patrick Moynihan U.S. Courthouses.",
-        "event_count": 3,
-        "evidence_count": 3,
-        "primary_event_type": "legal",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2011",
-        "date_end": "2019-07-08",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Geoffrey Berman",
-            "role": "legal"
-          },
-          {
-            "name": "Colleen McMahon",
-            "role": "other"
-          },
-          {
-            "name": "Cyrus Vance Jr.",
-            "role": "other"
-          },
-          {
-            "name": "Alan Dershowitz",
-            "role": "legal"
-          }
-        ],
-        "source_count": 3,
-        "sources_preview": "EFTA00015571.pdf, EFTA00072627.pdf, EFTA00076604.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "legal",
-        "event_description": "The federal courthouse complex for the Southern District of New York in lower Manhattan, including the Thurgood Marshall and Daniel Patrick Moynihan U.S. Courthouses.",
-        "events": [
-          {
-            "event_id": "f89c0f340421f26f",
-            "event_title": "Epstein Pleads Not Guilty to Sex Trafficking Charges in Court",
-            "event_type": "legal",
-            "description": "Jeffrey Epstein appeared in federal court and entered a plea of not guilty to sex trafficking charges",
-            "date_start": "2019-07-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present in court entering his plea to criminal charges.",
-            "evidence": [
-              {
-                "file": "EFTA00015571.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey Epstein pleads not guilty to sex trafficking charges",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00015571.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d0162814adeda51f",
-            "event_title": "Grand Jury Subpoena Conference in Epstein-Related Proceeding, SDNY (April 9, 2019)",
-            "event_type": "presence",
-            "description": "Sealed grand jury subpoena conference held at SDNY before Chief District Judge Colleen McMahon on April 9, 2019 at 11:45am, related to the Epstein investigation.",
-            "date_start": "2019-04-09",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Geoffrey Berman",
-                "role": "legal"
-              },
-              {
-                "name": "Colleen McMahon",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Grand jury proceeding was part of the broader Epstein/Maxwell investigation at SDNY, related to Epstein network.",
-            "evidence": [
-              {
-                "file": "EFTA00072627.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK In Re Grand Jury Subpoena, Before: 19 Misc. 149 (CM) Conference New York, N.Y. April 9, 2019 11:45 a.m. HON. COLLEEN MCMAHON, Chief District Judge",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00072627.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "984ec6ca71642d15",
-            "event_title": "Vance's Sex Crimes Chief Appears in Manhattan Court to Downgrade Epstein to Level 1 Sex Offender (2011)",
-            "event_type": "legal",
-            "description": "Manhattan DA Cyrus Vance ordered his sex crimes unit chief to appear in court to advocate for downgrading Jeffrey Epstein to a Level 1 sex offender in New York SORA proceedings.",
-            "date_start": "2011",
-            "date_end": null,
-            "date_precision": "year",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Cyrus Vance Jr.",
-                "role": "other"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Alan Dershowitz",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "The court action directly concerned Epstein's sex offender classification in New York, involving his attorney Dershowitz and the Manhattan DA's office advocacy on his behalf.",
-            "evidence": [
-              {
-                "file": "EFTA00076604.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "the infamous \" Alan Dershowitz' client Jeffrey Epstein court hearing in 2011, when our DA Cyrus Vance ordered his Sex crimes unit chief show up to court to implore the Epstein's Judge to to downgrade Epstein to Level 1 sex offender.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076604.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00015571",
-            "file": "EFTA00015571.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00072627",
-            "file": "EFTA00072627.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00076604",
-            "file": "EFTA00076604.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -62.845723,
           17.912695
         ]
@@ -56010,6 +56529,257 @@
           {
             "doc_id": "EFTA02220416",
             "file": "EFTA02220416.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.736576,
+          54.982844
+        ]
+      },
+      "properties": {
+        "id": "f8e4662559b0a7ef",
+        "name": "Tolmachevo Airport",
+        "location_name": "Tolmachevo Airport",
+        "location_address": "Tolmachevo, Ob, Novosibirsk, Russia",
+        "location_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
+        "canonical_name": "Tolmachevo Airport, Novosibirsk, Russia, Ob",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Tolmachevo Airport",
+        "location_descriptor": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
+        "event_count": 3,
+        "evidence_count": 12,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-07",
+        "date_end": "2017-09-11",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 12,
+        "sources_preview": "EFTA02220241.pdf, EFTA02220282.pdf, EFTA02220615.pdf, EFTA02220655.pdf, EFTA02220943.pdf, ... (+7 more)",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
+        "events": [
+          {
+            "event_id": "4d2e0bb9801c8798",
+            "event_title": "Epstein Associate Flies Novosibirsk\u2192Moscow\u2192Paris on Aeroflot, Sep 7 2017",
+            "event_type": "travel",
+            "description": "Epstein associate flew Aeroflot SU 1307 from Novosibirsk (OVB) to Moscow Sheremetyevo at 9:25 AM, then SU 2462 Moscow to Paris CDG arriving 2:40 PM, on September 7, 2017.",
+            "date_start": "2017-09-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel arranged via AmEx Centurion Relationship Manager Natalia Molotkova for an Epstein associate traveling from Siberia to Paris for an Epstein-related meeting.",
+            "evidence": [
+              {
+                "file": "EFTA02220241.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 07SEP OVB SVO 0925A 0940A\nSU 2462 07SEP SVO CDG 1145A 0240P\nTOTAL FARE - USD 995.90",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220241.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220282.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 07SEP OVB SVO 0925A 0940A / SU 2462 07SEP SVO CDG 1145A 0240P / connecting return departing at 3:05pm on to Milan arriving 9:55pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220282.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220615.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "is traveling from Novosibirsk (Russia), Coming to Paris on the 7th around 230pm, leaving on the 9th back to Novosibirsk",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220615.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220655.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "is traveling from Novosibirsk (Russia), Coming to Paris on the 7th around 230pm, leaving on the 9th back to Novosibirsk",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220655.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220943.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 B Economy Class\nNovosibirsk, Tolmachevo\nMoscow, Sheremetyevo\n09:25 AM\n09:40 AM\n07 Sep 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220943.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220952.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 B Economy Class\nNovosibirsk, Tolmachevo\nMoscow, Sheremetyevo\n09:25 AM\n09:40 AM\n07 Sep 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220952.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221098.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 B Economy Class Novosibirsk Aeroflot Sept 7 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221098.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221266.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WE need a coach ticket for from Novosibirsk (Russia), to Paris on Sept. 7th around 2:30pm...She will then go from Paris to Milan on Sept. 9th.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221266.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221299.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 B Economy Class Novosibirsk, Tolmachevo Moscow, Sheremetyevo 09:25 AM 09:40 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221299.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221554.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "WE need a coach ticket for [name] from Novosibirsk (Russia), to Paris on Sept. 7th...She will then go from Paris to Milan on Sept. 9th. NOTE: we have another candidate for interview",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221554.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "e447cd3783f61362",
+            "event_title": "Epstein Staff Changes Russian Travel: Novosibirsk\u2192Moscow\u2192Paris \u2014 Sept 8, 2017 (Revised)",
+            "event_type": "travel",
+            "description": "Lesley Groff changes Russian associate travel: Novosibirsk to Paris via Moscow rescheduled to September 8, 2017 (was Sept 7); Jeffrey personally decided timing for the Paris-Milan leg.",
+            "date_start": "2017-09-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Jeffrey Epstein personally directed ticket changes; Lesley Groff managed the booking for Russian associate traveling to Paris.",
+            "evidence": [
+              {
+                "file": "EFTA02221569.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU1549 08SEP OVB SVO 600A 610A SU2450 08SEP SVO CDG 750A 1045A...she needs a ticket to go to Paris on Fri. Sept. 8",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221569.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "1f58e5d3b5b2858c",
+            "event_title": "Epstein Associate Returns from Paris to Novosibirsk via Moscow \u2014 Sept 10-11, 2017",
+            "event_type": "presence",
+            "description": "Unnamed Russian associate departs Paris on Aeroflot SU2453 at 11:30pm Sept 10, arrives Moscow SVO 4am, then departs SVO 6:40am arriving Novosibirsk (SVX) 11am September 11, 2017.",
+            "date_start": "2017-09-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Return flight to Novosibirsk Russia from Paris arranged by Epstein's organization alongside other coordinated travel.",
+            "evidence": [
+              {
+                "file": "EFTA02221582.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "depart Sept. 10th on SU#2453 at 11:30pm arrive SVO 4am, Sept 11 depart SVO 6:40am arrive SVX 11am",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221582.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02220241",
+            "file": "EFTA02220241.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220282",
+            "file": "EFTA02220282.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220615",
+            "file": "EFTA02220615.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220655",
+            "file": "EFTA02220655.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220943",
+            "file": "EFTA02220943.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220952",
+            "file": "EFTA02220952.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221098",
+            "file": "EFTA02221098.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221266",
+            "file": "EFTA02221266.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221299",
+            "file": "EFTA02221299.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221554",
+            "file": "EFTA02221554.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221569",
+            "file": "EFTA02221569.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221582",
+            "file": "EFTA02221582.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -61945,230 +62715,6 @@
           {
             "doc_id": "EFTA02220064",
             "file": "EFTA02220064.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          82.736576,
-          54.982844
-        ]
-      },
-      "properties": {
-        "id": "f8e4662559b0a7ef",
-        "name": "Tolmachevo Airport",
-        "location_name": "Tolmachevo Airport",
-        "location_address": "Tolmachevo, Ob, Novosibirsk, Russia",
-        "location_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
-        "canonical_name": "Tolmachevo Airport, Novosibirsk, Russia, Ob",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Tolmachevo Airport",
-        "location_descriptor": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
-        "event_count": 2,
-        "evidence_count": 11,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-09-07",
-        "date_end": "2017-09-08",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          }
-        ],
-        "source_count": 11,
-        "sources_preview": "EFTA02220241.pdf, EFTA02220282.pdf, EFTA02220615.pdf, EFTA02220655.pdf, EFTA02220943.pdf, ... (+6 more)",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
-        "events": [
-          {
-            "event_id": "4d2e0bb9801c8798",
-            "event_title": "Epstein Associate Flies Novosibirsk\u2192Moscow\u2192Paris on Aeroflot, Sep 7 2017",
-            "event_type": "travel",
-            "description": "Epstein associate flew Aeroflot SU 1307 from Novosibirsk (OVB) to Moscow Sheremetyevo at 9:25 AM, then SU 2462 Moscow to Paris CDG arriving 2:40 PM, on September 7, 2017.",
-            "date_start": "2017-09-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Travel arranged via AmEx Centurion Relationship Manager Natalia Molotkova for an Epstein associate traveling from Siberia to Paris for an Epstein-related meeting.",
-            "evidence": [
-              {
-                "file": "EFTA02220241.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 07SEP OVB SVO 0925A 0940A\nSU 2462 07SEP SVO CDG 1145A 0240P\nTOTAL FARE - USD 995.90",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220241.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220282.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 07SEP OVB SVO 0925A 0940A / SU 2462 07SEP SVO CDG 1145A 0240P / connecting return departing at 3:05pm on to Milan arriving 9:55pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220282.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220615.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "is traveling from Novosibirsk (Russia), Coming to Paris on the 7th around 230pm, leaving on the 9th back to Novosibirsk",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220615.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220655.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "is traveling from Novosibirsk (Russia), Coming to Paris on the 7th around 230pm, leaving on the 9th back to Novosibirsk",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220655.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220943.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 B Economy Class\nNovosibirsk, Tolmachevo\nMoscow, Sheremetyevo\n09:25 AM\n09:40 AM\n07 Sep 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220943.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220952.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 B Economy Class\nNovosibirsk, Tolmachevo\nMoscow, Sheremetyevo\n09:25 AM\n09:40 AM\n07 Sep 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220952.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221098.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 B Economy Class Novosibirsk Aeroflot Sept 7 2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221098.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221266.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "WE need a coach ticket for from Novosibirsk (Russia), to Paris on Sept. 7th around 2:30pm...She will then go from Paris to Milan on Sept. 9th.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221266.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221299.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU 1307 B Economy Class Novosibirsk, Tolmachevo Moscow, Sheremetyevo 09:25 AM 09:40 AM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221299.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221554.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "WE need a coach ticket for [name] from Novosibirsk (Russia), to Paris on Sept. 7th...She will then go from Paris to Milan on Sept. 9th. NOTE: we have another candidate for interview",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221554.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "e447cd3783f61362",
-            "event_title": "Epstein Staff Changes Russian Travel: Novosibirsk\u2192Moscow\u2192Paris \u2014 Sept 8, 2017 (Revised)",
-            "event_type": "travel",
-            "description": "Lesley Groff changes Russian associate travel: Novosibirsk to Paris via Moscow rescheduled to September 8, 2017 (was Sept 7); Jeffrey personally decided timing for the Paris-Milan leg.",
-            "date_start": "2017-09-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Jeffrey Epstein personally directed ticket changes; Lesley Groff managed the booking for Russian associate traveling to Paris.",
-            "evidence": [
-              {
-                "file": "EFTA02221569.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "SU1549 08SEP OVB SVO 600A 610A SU2450 08SEP SVO CDG 750A 1045A...she needs a ticket to go to Paris on Fri. Sept. 8",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221569.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02220241",
-            "file": "EFTA02220241.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220282",
-            "file": "EFTA02220282.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220615",
-            "file": "EFTA02220615.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220655",
-            "file": "EFTA02220655.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220943",
-            "file": "EFTA02220943.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220952",
-            "file": "EFTA02220952.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221098",
-            "file": "EFTA02221098.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221266",
-            "file": "EFTA02221266.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221299",
-            "file": "EFTA02221299.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221554",
-            "file": "EFTA02221554.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221569",
-            "file": "EFTA02221569.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -72317,7 +72863,7 @@
         "display_name": "New Canaan, Connecticut",
         "location_descriptor": "An affluent town in Fairfield County, Connecticut, located approximately 40 miles northeast of New York City.",
         "event_count": 1,
-        "evidence_count": 4,
+        "evidence_count": 5,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -72339,10 +72885,14 @@
           {
             "name": "james I personal genius",
             "role": "staff"
+          },
+          {
+            "name": "James Ce (Personal Genius tech support)",
+            "role": "other"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA02220460.pdf, EFTA02220567.pdf, EFTA02220633.pdf, EFTA02221215.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA02220460.pdf, EFTA02220567.pdf, EFTA02220633.pdf, EFTA02221215.pdf, EFTA02221652.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
         "event_description": "An affluent town in Fairfield County, Connecticut, located approximately 40 miles northeast of New York City.",
@@ -72372,6 +72922,10 @@
               {
                 "name": "james I personal genius",
                 "role": "staff"
+              },
+              {
+                "name": "James Ce (Personal Genius tech support)",
+                "role": "other"
               }
             ],
             "epstein_nexus": "contextual",
@@ -72404,6 +72958,13 @@
                 "excerpt": "We need to find a day for you to come out and see me in CT....might Thursday Sept. 21 be ok for you?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221215.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221652.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We need to find a day for you to come out and see me in CT....might Thursday Sept. 21 be ok for you? ... I see there is a train from GC to New Canaan (you must switch trains in Stamford) departing 9:04am arrives 10:19 or a train departing 10:04am arriving 11:15am",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221652.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -72427,6 +72988,11 @@
           {
             "doc_id": "EFTA02221215",
             "file": "EFTA02221215.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221652",
+            "file": "EFTA02221652.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -72537,7 +73103,7 @@
         "display_name": "9 East 79th Street",
         "location_descriptor": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 2,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -72545,12 +73111,24 @@
         "date_end": "2017-08-30",
         "people": [
           {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
             "name": "Dr. Stuart Orsher",
+            "role": "other"
+          },
+          {
+            "name": "Stuart Orsher",
+            "role": "other"
+          },
+          {
+            "name": "Harry Fisch",
             "role": "other"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA02220479.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA02220479.pdf, EFTA02221585.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
@@ -72566,7 +73144,19 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "Dr. Stuart Orsher",
+                "role": "other"
+              },
+              {
+                "name": "Stuart Orsher",
+                "role": "other"
+              },
+              {
+                "name": "Harry Fisch",
                 "role": "other"
               }
             ],
@@ -72579,6 +73169,13 @@
                 "excerpt": "August 30, 2017 10:30 AM 10:30am Appt w/Dr. Stuart Orsher, MD 9 East 79th Strcct",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220479.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221585.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You have an appointment with Stuart Orsher MD, Wednesday August 30th at 10:30. Address is 9 East 79th street. im in next wed and thurs 30 and 31",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221585.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -72587,6 +73184,11 @@
           {
             "doc_id": "EFTA02220479",
             "file": "EFTA02220479.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221585",
+            "file": "EFTA02221585.pdf",
             "source_type": "doj_efta"
           }
         ]
