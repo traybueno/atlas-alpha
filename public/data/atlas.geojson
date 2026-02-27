@@ -7506,8 +7506,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 101,
-        "evidence_count": 305,
+        "event_count": 102,
+        "evidence_count": 308,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -7529,6 +7529,10 @@
           {
             "name": "Victim-1",
             "role": "victim"
+          },
+          {
+            "name": "Bill Clinton",
+            "role": "associate"
           },
           {
             "name": "unnamed minor victim",
@@ -8019,6 +8023,10 @@
             "role": "associate"
           },
           {
+            "name": "Karen (Zorro Ranch Manager)",
+            "role": "associate"
+          },
+          {
             "name": "Stuart Orsher",
             "role": "other"
           },
@@ -8077,10 +8085,14 @@
           {
             "name": "Yoni",
             "role": "associate"
+          },
+          {
+            "name": "R. Couri Hay",
+            "role": "other"
           }
         ],
-        "source_count": 280,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+275 more)",
+        "source_count": 282,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+277 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -8110,6 +8122,10 @@
               {
                 "name": "Victim-1",
                 "role": "victim"
+              },
+              {
+                "name": "Bill Clinton",
+                "role": "associate"
               },
               {
                 "name": "unnamed minor victim",
@@ -8219,6 +8235,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "From at least 2002 through at least 2005, JEFFREY EPSTEIN enticed and recruited...dozens of minor girls to visit his mansion in New York, New York",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076023.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076625.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Urefta emphasized that Mr. Clinton was accompanied by staff members...when he made \"one brief visit\" to Mr. Epstein's home. That was around the same time as a meeting in Mt Clinton's office in Harlem in 2002, Mt Lire& said.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076625.pdf",
                 "confidence": 0.7
               }
             ]
@@ -12530,6 +12553,10 @@
               {
                 "name": "James D. Watson",
                 "role": "associate"
+              },
+              {
+                "name": "Karen (Zorro Ranch Manager)",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -12554,6 +12581,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "August 25, 2017 4:00 PM : Can Andrew Farkas come see JE next week T-Th?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221026.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221092.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "start working at 71st on the 29th leaving AM Sept 5th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221092.pdf",
                 "confidence": 0.7
               }
             ]
@@ -13155,6 +13189,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "3a463de847f52cfc",
+            "event_title": "PR Consultant R. Couri Hay Visits Epstein at NYC Townhouse to Discuss Damage Control, April 2019",
+            "event_type": "presence",
+            "description": "Epstein invited PR consultant R. Couri Hay to NYC townhouse in April 2019 for damage control meeting.",
+            "date_start": "2019-04",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "R. Couri Hay",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his Manhattan townhouse hosting R. Couri Hay.",
+            "evidence": [
+              {
+                "file": "EFTA00076625.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Three months ago, Mr. Epstein called and invited him over to discuss damage control, Mr. Hay said. \"He hates every story starting with `billionaire pervert,'\" Mr. Hay said.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076625.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -13201,6 +13266,11 @@
           {
             "doc_id": "EFTA00076023",
             "file": "EFTA00076023.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076625",
+            "file": "EFTA00076625.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -14439,6 +14509,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221092",
+            "file": "EFTA02221092.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220290",
             "file": "EFTA02220290.pdf",
             "source_type": "doj_efta"
@@ -14582,7 +14657,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 99,
-        "evidence_count": 216,
+        "evidence_count": 217,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -14930,6 +15005,10 @@
             "role": "other"
           },
           {
+            "name": "James Ce",
+            "role": "other"
+          },
+          {
             "name": "Andrew",
             "role": "associate"
           },
@@ -14978,8 +15057,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 203,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+198 more)",
+        "source_count": 204,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+199 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -18332,6 +18411,14 @@
               {
                 "name": "James",
                 "role": "other"
+              },
+              {
+                "name": "Yoni",
+                "role": "other"
+              },
+              {
+                "name": "James Ce",
+                "role": "other"
               }
             ],
             "epstein_nexus": "contextual",
@@ -18342,6 +18429,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I am thinking the day you go see Nili (Fri. Sept. 9th at 10am) you go see Yoni afterwards to give him a little lesson...or help him locate channels he may want. Do you think I could tell him 11:30am you could go to him?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220567.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221215.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I am thinking the day you go see Nili (Fri. Sept. 9th at 10am) you go see Yoni afterwards to give him a little lesson...or help him locate channels he may want. Do you think I could tell him 11:30am you could go to him?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221215.pdf",
                 "confidence": 0.7
               }
             ]
@@ -19863,6 +19957,11 @@
           {
             "doc_id": "EFTA02220567",
             "file": "EFTA02220567.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221215",
+            "file": "EFTA02221215.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -27642,7 +27741,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 42,
-        "evidence_count": 98,
+        "evidence_count": 99,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27766,6 +27865,10 @@
             "role": "associate"
           },
           {
+            "name": "Chris Lawler",
+            "role": "associate"
+          },
+          {
             "name": "Richard Kahn",
             "role": "associate"
           },
@@ -27778,8 +27881,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 89,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+84 more)",
+        "source_count": 90,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+85 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -29224,6 +29327,10 @@
                 "role": "subject"
               },
               {
+                "name": "Chris Lawler",
+                "role": "associate"
+              },
+              {
                 "name": "Richard Kahn",
                 "role": "associate"
               }
@@ -29236,6 +29343,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey's 2017 Days to Date Aug. 24. 2017\nLSJ: 85 Days\nUS: 126 Days\nAbroad: 25 Days\nNY: 94 Days",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220342.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221104.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tues. Aug. 22, 2017 LSJ\nReminder: back on the island today\n12:30pm Conf. Call w/Rich Kahn, Neale Elnenborough and Chris Lawler",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221104.pdf",
                 "confidence": 0.7
               }
             ]
@@ -29823,6 +29937,11 @@
           {
             "doc_id": "EFTA02220342",
             "file": "EFTA02220342.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221104",
+            "file": "EFTA02221104.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -31441,8 +31560,8 @@
         "property_type": "event",
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 34,
-        "evidence_count": 77,
+        "event_count": 35,
+        "evidence_count": 79,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -31510,8 +31629,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 72,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+67 more)",
+        "source_count": 73,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+68 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -31717,6 +31836,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Mr. Epstein was arrested on July 6 at Teterboro Airport in New Jersey after his private plane landed on a flight from Paris.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040076.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076625.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein's first court appearance will come less than 48 hours after he was taken into custody by federal agents at Teterboro Airport. It all happened just before 5pm on Saturday, when Epstein reentered the country for the first time since June 16, when he took off from the same airport bound for Paris.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076625.pdf",
                 "confidence": 0.7
               }
             ]
@@ -32775,6 +32901,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "e1ae2cbdc2e5db83",
+            "event_title": "Epstein Departs Teterboro Airport Bound for Paris, June 16, 2019",
+            "event_type": "travel",
+            "description": "Epstein departed Teterboro Airport bound for Paris on June 16, 2019.",
+            "date_start": "2019-06-16",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Teterboro Airport when departing for Paris.",
+            "evidence": [
+              {
+                "file": "EFTA00076625.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "when he took off from the same airport bound for Paris. Prior to that trip, Epstein had been crisscrossing the US as he moved between his properties in New York City, Palm Beach, New Mexico and the US Virgin Islands.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076625.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -32816,6 +32969,11 @@
           {
             "doc_id": "EFTA00040076",
             "file": "EFTA00040076.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076625",
+            "file": "EFTA00076625.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -35612,7 +35770,7 @@
         "display_name": "Epstein East 66th Street Apartment Building",
         "location_descriptor": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
         "event_count": 21,
-        "evidence_count": 37,
+        "evidence_count": 38,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -35752,8 +35910,8 @@
             "role": "other"
           }
         ],
-        "source_count": 34,
-        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+29 more)",
+        "source_count": 35,
+        "sources_preview": "EFTA02213817.pdf, EFTA02213853.pdf, EFTA02212852.pdf, EFTA00040385.pdf, EFTA02213518.pdf, ... (+30 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A residential apartment building at 301 East 66th Street on the Upper East Side of Manhattan, where Jeffrey Epstein maintained multiple units for his staff and associates.",
@@ -36422,6 +36580,10 @@
                 "role": "associate"
               },
               {
+                "name": "Karen (Zorro Ranch Manager)",
+                "role": "associate"
+              },
+              {
                 "name": "Yoni Korent",
                 "role": "other"
               }
@@ -36448,6 +36610,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Hi Yoni. I wanted to confirm you will stay in apt 10B. 301 East 66th Street, corner of 66th and 2nd Ave. Sept. 4-Oct 19.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221034.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221092.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "stay in 3ML code is 7002 Arrive 28th Sept 5th",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221092.pdf",
                 "confidence": 0.7
               }
             ]
@@ -36722,6 +36891,11 @@
           {
             "doc_id": "EFTA02221034",
             "file": "EFTA02221034.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221092",
+            "file": "EFTA02221092.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -45327,6 +45501,261 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.092441,
+          26.671414
+        ]
+      },
+      "properties": {
+        "id": "814325cb3bae1055",
+        "name": "Palm Beach County Sheriff's Office",
+        "location_name": "Palm Beach County Sheriff's Office",
+        "location_address": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
+        "location_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "canonical_name": "Palm Beach County Sheriffs Office, 3228 Gun Club Road, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Palm Beach County Sheriff's Office",
+        "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "event_count": 5,
+        "evidence_count": 9,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2006-08-09",
+        "date_end": "2017-07-03",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jack Goldberger",
+            "role": "legal"
+          }
+        ],
+        "source_count": 9,
+        "sources_preview": "EFTA00003868.pdf, EFTA00013890.pdf, EFTA00013975.pdf, EFTA00014007.pdf, EFTA00040076.pdf, ... (+4 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "events": [
+          {
+            "event_id": "410fa17a7fb8cb53",
+            "event_title": "PBSO Books Epstein for Photo Lineup (Booking ID 20060723017, August 9, 2006)",
+            "event_type": "presence",
+            "description": "Palm Beach County Sheriff's Office booked Jeffrey Epstein (Booking ID 20060723017) for a photo lineup on August 9, 2006, recording his physical description: 6 ft, 180 lbs, age 53.",
+            "date_start": "2006-08-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein was physically present at the Palm Beach Sheriff's Office for a photo lineup booking on this date.",
+            "evidence": [
+              {
+                "file": "EFTA00003868.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PALM BEACH SHERIFFS OFFICE  Date: 08/09/2006\nTime: 2:26 PM\nCase Number:\n    Line Up Information\nPage: 2 of 2\n\nJacket II: 0338617  Birth Date: 0120/1953  Hair Color: CRY\nFull Name: EPSTEIN JEFFREY  Age: 53  Facial Hair: N\nFirst Name: JEFFREY  Race: W  Eye Color: BRU\nLast Name: EPSTEIN  Marital Status SINGLE  Build: M\nBooking Id: 20060723017  Height: 6 ft. 0 in.  Weight: 180 lbs.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00003868.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "33059e4a143ec38c",
+            "event_title": "Epstein Sentenced to 13 Months in Palm Beach County Jail with Work Release",
+            "event_type": "presence",
+            "description": "Epstein sentenced to 12 months at Palm Beach County Detention Facility (Case 06CF009454AMB) plus 6 months as condition of 18 months community control (Case 08CF009381AMB), with 1 day credit for time served; designated a Sexual Offender under Florida law.",
+            "date_start": "2008-06-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jack Goldberger",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically incarcerated at the Palm Beach County Detention Facility pursuant to his guilty plea sentence.",
+            "evidence": [
+              {
+                "file": "EFTA00013890.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Name: Jeffrey E. Epstein\nPlea: Guilty X\nCase No. 06CF009454AMB Felony Solicitation of Prostitution 1 No 3 FEL\n08CF009381AMB Procuring Person Under 18 for Prostitution 1 No 2 FEL\nOn 06CF009454AMB, the Defendant is sentenced to 12 months in the Palm Beach County Detention Facility, with credit for 1 (one) day time served.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013890.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00013975.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein is out at the stockade, not the jail. Goldberger and some psychiatrist have already met with him and have told him that, if he receives any less favorable treatment than others, Ken Starr and the whole crew will sue.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013975.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00014007.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein is out at the stockade, not the jail. Goldberger and some psychiatrist have already met with him and have told him that, if he receives any less favorable treatment than others, Ken Starr and the whole crew will sue.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014007.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00040076.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Even while in custody, Mr. Epstein was allowed to leave the jail for 12 hours a day, six days a week, to work at his office in Florida.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040076.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00067290.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "PLEA IN THE CIRCUIT COURT. Name: Jeffrey E. Epstein. Plea: Guilty. Case No. 06CF009454AMB Felony Solicitation of Prostitution... On 06CF009454AMB, the Defendant is sentenced to 12 months in the Palm Beach County Detention Facility, with credit for 1 (one) day time served.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00067290.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b4ed09df15311a28",
+            "event_title": "Reminder: Epstein Must Re-Register as Sex Offender at Palm Beach Stockade in July 2017",
+            "event_type": "presence",
+            "description": "Epstein's staff had a calendar alert set for July 3, 2017 reminding them that Epstein must re-register as a sex offender at the Palm Beach County Stockade (jail) during July 2017, in compliance with his sex offender reporting requirements.",
+            "date_start": "2017-07-03",
+            "date_end": null,
+            "date_precision": "month_range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Calendar alert in Epstein's email system documenting his mandatory sex offender registration compliance deadline at the Palm Beach County Jail.",
+            "evidence": [
+              {
+                "file": "EFTA02217456.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject Alert - JE must re register in the month of July in FL at the Stockade\nJuly 3, 2017 5:30 AM : JE must re register in the month of July in FL at the Stockade",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217456.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bf7cf38ad92a4df4",
+            "event_title": "Jeffrey Epstein Arrested and Booked at Palm Beach County Jail (2006-07-23)",
+            "event_type": "presence",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00013772.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein, 53, was booked at the Palm Beach County jail at 1:45 a.m. Sunday. He was released on $3,000 bond.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013772.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "56b2d41dd668946b",
+            "event_title": "Epstein Serves 13 Months at Palm Beach Stockade with Work-Release to West Palm Beach Office (2008-2009)",
+            "event_type": "presence",
+            "description": "Epstein served 13 months at Palm Beach County Stockade on work-release.",
+            "date_start": "2008",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at the Palm Beach Stockade during 2008-2009 incarceration.",
+            "evidence": [
+              {
+                "file": "EFTA00076625.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "That time was served not in a prison, but rather the Palm Beach Stockade, which is a local detention center. Epstein was also allowed to leave six days a week to go work out of his West Palm Beach office during his time behind bars.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076625.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00003868",
+            "file": "EFTA00003868.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013890",
+            "file": "EFTA00013890.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013975",
+            "file": "EFTA00013975.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014007",
+            "file": "EFTA00014007.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00040076",
+            "file": "EFTA00040076.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00067290",
+            "file": "EFTA00067290.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217456",
+            "file": "EFTA02217456.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013772",
+            "file": "EFTA00013772.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076625",
+            "file": "EFTA00076625.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.197694,
           32.938232
         ]
@@ -47049,175 +47478,175 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.092441,
-          26.671414
+          -71.056804,
+          42.35888
         ]
       },
       "properties": {
-        "id": "814325cb3bae1055",
-        "name": "Palm Beach County Sheriff's Office",
-        "location_name": "Palm Beach County Sheriff's Office",
-        "location_address": "3228 Gun Club Road, West Palm Beach, Florida 33406, United States",
-        "location_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
-        "canonical_name": "Palm Beach County Sheriffs Office, 3228 Gun Club Road, West Palm Beach, FL, Florida",
+        "id": "7dc37344cf41d155",
+        "name": "Boston",
+        "location_name": "Boston",
+        "location_address": "Boston, Massachusetts, United States",
+        "location_description": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
+        "canonical_name": "Boston, MA, Massachusetts",
         "region": "",
         "property_type": "event",
-        "display_name": "Palm Beach County Sheriff's Office",
-        "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "display_name": "Boston",
+        "location_descriptor": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
         "event_count": 4,
-        "evidence_count": 8,
-        "primary_event_type": "presence",
+        "evidence_count": 5,
+        "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2006-08-09",
-        "date_end": "2017-07-03",
+        "date_start": "2004-06",
+        "date_end": "2020-02-29",
         "people": [
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
           },
           {
-            "name": "Jack Goldberger",
-            "role": "legal"
+            "name": "Kevin Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Ian Maxwell",
+            "role": "associate"
+          },
+          {
+            "name": "Charlie Albright",
+            "role": "other"
+          },
+          {
+            "name": "Dr. Watson",
+            "role": "associate"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA00003868.pdf, EFTA00013890.pdf, EFTA00013975.pdf, EFTA00014007.pdf, EFTA00040076.pdf, ... (+3 more)",
+        "source_count": 3,
+        "sources_preview": "EFTA00004250.pdf, EFTA00017736.pdf, EFTA02221093.pdf",
         "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
+        "event_type": "travel",
+        "event_description": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
         "events": [
           {
-            "event_id": "410fa17a7fb8cb53",
-            "event_title": "PBSO Books Epstein for Photo Lineup (Booking ID 20060723017, August 9, 2006)",
+            "event_id": "0b9e328a0b3f1207",
+            "event_title": "Epstein Group in Boston, Massachusetts (June 2004)",
             "event_type": "presence",
-            "description": "Palm Beach County Sheriff's Office booked Jeffrey Epstein (Booking ID 20060723017) for a photo lineup on August 9, 2006, recording his physical description: 6 ft, 180 lbs, age 53.",
-            "date_start": "2006-08-09",
+            "description": "Epstein and associates visited Boston, Massachusetts in June 2004, documented in 16 photos in seized evidence.",
+            "date_start": "2004-06",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Boston trip photos from June 2004 were found in Epstein's seized miscellaneous pictures collection.",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mics pics 6/04\n\nBoston 16.JPG  Boston 17.JPG  Boston 18.JPG  Boston 19.JPG\n...\nBoston 31.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mics pics 6/04 Boston 16.JPG Boston 17.JPG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "70c7344c8797a896",
+            "event_title": "Kevin Maxwell Arrival in Boston from London (Feb 29, 2020)",
+            "event_type": "travel",
+            "description": "Kevin Maxwell arrived on an inbound flight to Boston from London on February 29, 2020.",
+            "date_start": "2020-02-29",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
               {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
+                "name": "Kevin Maxwell",
+                "role": "associate"
               }
             ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Jeffrey Epstein was physically present at the Palm Beach Sheriff's Office for a photo lineup booking on this date.",
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This involves Ghislaine Maxwell's brother's travel activities, which are contextually related to the Maxwell family network but not directly involving Epstein.",
             "evidence": [
               {
-                "file": "EFTA00003868.pdf",
+                "file": "EFTA00017736.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "PALM BEACH SHERIFFS OFFICE  Date: 08/09/2006\nTime: 2:26 PM\nCase Number:\n    Line Up Information\nPage: 2 of 2\n\nJacket II: 0338617  Birth Date: 0120/1953  Hair Color: CRY\nFull Name: EPSTEIN JEFFREY  Age: 53  Facial Hair: N\nFirst Name: JEFFREY  Race: W  Eye Color: BRU\nLast Name: EPSTEIN  Marital Status SINGLE  Build: M\nBooking Id: 20060723017  Height: 6 ft. 0 in.  Weight: 180 lbs.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00003868.pdf",
+                "excerpt": "INBOUND flight on 2/29/2020 to Boston from London",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017736.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "33059e4a143ec38c",
-            "event_title": "Epstein Sentenced to 13 Months in Palm Beach County Jail with Work Release",
-            "event_type": "presence",
-            "description": "Epstein sentenced to 12 months at Palm Beach County Detention Facility (Case 06CF009454AMB) plus 6 months as condition of 18 months community control (Case 08CF009381AMB), with 1 day credit for time served; designated a Sexual Offender under Florida law.",
-            "date_start": "2008-06-30",
+            "event_id": "81e72e2412c317b0",
+            "event_title": "Ian Maxwell Flight Departure Boston to London (Dec 27, 2017)",
+            "event_type": "travel",
+            "description": "Ian Maxwell departed on an outbound flight from Boston to London on December 27, 2017.",
+            "date_start": "2017-12-27",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
               {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jack Goldberger",
-                "role": "legal"
+                "name": "Ian Maxwell",
+                "role": "associate"
               }
             ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically incarcerated at the Palm Beach County Detention Facility pursuant to his guilty plea sentence.",
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This involves Ghislaine Maxwell's brother's travel activities, which are contextually related to the Maxwell family network but not directly involving Epstein.",
             "evidence": [
               {
-                "file": "EFTA00013890.pdf",
+                "file": "EFTA00017736.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Name: Jeffrey E. Epstein\nPlea: Guilty X\nCase No. 06CF009454AMB Felony Solicitation of Prostitution 1 No 3 FEL\n08CF009381AMB Procuring Person Under 18 for Prostitution 1 No 2 FEL\nOn 06CF009454AMB, the Defendant is sentenced to 12 months in the Palm Beach County Detention Facility, with credit for 1 (one) day time served.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013890.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00013975.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Epstein is out at the stockade, not the jail. Goldberger and some psychiatrist have already met with him and have told him that, if he receives any less favorable treatment than others, Ken Starr and the whole crew will sue.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013975.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00014007.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Epstein is out at the stockade, not the jail. Goldberger and some psychiatrist have already met with him and have told him that, if he receives any less favorable treatment than others, Ken Starr and the whole crew will sue.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014007.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00040076.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Even while in custody, Mr. Epstein was allowed to leave the jail for 12 hours a day, six days a week, to work at his office in Florida.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040076.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00067290.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "PLEA IN THE CIRCUIT COURT. Name: Jeffrey E. Epstein. Plea: Guilty. Case No. 06CF009454AMB Felony Solicitation of Prostitution... On 06CF009454AMB, the Defendant is sentenced to 12 months in the Palm Beach County Detention Facility, with credit for 1 (one) day time served.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00067290.pdf",
+                "excerpt": "OUTBOUND flight on 12/27/2017 to London from Boston",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017736.pdf",
                 "confidence": 0.7
               }
             ]
           },
           {
-            "event_id": "b4ed09df15311a28",
-            "event_title": "Reminder: Epstein Must Re-Register as Sex Offender at Palm Beach Stockade in July 2017",
-            "event_type": "presence",
-            "description": "Epstein's staff had a calendar alert set for July 3, 2017 reminding them that Epstein must re-register as a sex offender at the Palm Beach County Stockade (jail) during July 2017, in compliance with his sex offender reporting requirements.",
-            "date_start": "2017-07-03",
+            "event_id": "82c856f86977b013",
+            "event_title": "Epstein Plans Trip to Boston to See Charlie Albright Concert, ~Sept 12, 2017",
+            "event_type": "travel",
+            "description": "Epstein planned to travel to Boston to see pianist Charlie Albright in concert; internal reminder dated September 12, 2017 asked whether Dr. Watson should be invited along.",
+            "date_start": "2017-09-12",
             "date_end": null,
-            "date_precision": "month_range",
+            "date_precision": "approximate",
             "confidence": 0.75,
             "people": [
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Charlie Albright",
+                "role": "other"
+              },
+              {
+                "name": "Dr. Watson",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
-            "nexus_reasoning": "Calendar alert in Epstein's email system documenting his mandatory sex offender registration compliance deadline at the Palm Beach County Jail.",
+            "nexus_reasoning": "Epstein personally traveling to Boston to see Charlie Albright concert, with possible invitation to Dr. Watson.",
             "evidence": [
               {
-                "file": "EFTA02217456.pdf",
+                "file": "EFTA02221093.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "Subject Alert - JE must re register in the month of July in FL at the Stockade\nJuly 3, 2017 5:30 AM : JE must re register in the month of July in FL at the Stockade",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217456.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bf7cf38ad92a4df4",
-            "event_title": "Jeffrey Epstein Arrested and Booked at Palm Beach County Jail (2006-07-23)",
-            "event_type": "presence",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA00013772.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Epstein, 53, was booked at the Palm Beach County jail at 1:45 a.m. Sunday. He was released on $3,000 bond.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013772.pdf",
+                "excerpt": "do we invite Watson to go to Boston with JE to see Charlie Albright concert?\nSeptember 12, 2017 7:00 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221093.pdf",
                 "confidence": 0.7
               }
             ]
@@ -47225,43 +47654,18 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA00003868",
-            "file": "EFTA00003868.pdf",
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA00013890",
-            "file": "EFTA00013890.pdf",
+            "doc_id": "EFTA00017736",
+            "file": "EFTA00017736.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA00013975",
-            "file": "EFTA00013975.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00014007",
-            "file": "EFTA00014007.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00040076",
-            "file": "EFTA00040076.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00067290",
-            "file": "EFTA00067290.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217456",
-            "file": "EFTA02217456.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00013772",
-            "file": "EFTA00013772.pdf",
+            "doc_id": "EFTA02221093",
+            "file": "EFTA02221093.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -50147,156 +50551,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.056804,
-          42.35888
-        ]
-      },
-      "properties": {
-        "id": "7dc37344cf41d155",
-        "name": "Boston",
-        "location_name": "Boston",
-        "location_address": "Boston, Massachusetts, United States",
-        "location_description": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
-        "canonical_name": "Boston, MA, Massachusetts",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Boston",
-        "location_descriptor": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
-        "event_count": 3,
-        "evidence_count": 4,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2004-06",
-        "date_end": "2020-02-29",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Kevin Maxwell",
-            "role": "associate"
-          },
-          {
-            "name": "Ian Maxwell",
-            "role": "associate"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA00004250.pdf, EFTA00017736.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "The capital and most populous city of Massachusetts, USA, located on Massachusetts Bay and one of the oldest cities in the United States.",
-        "events": [
-          {
-            "event_id": "0b9e328a0b3f1207",
-            "event_title": "Epstein Group in Boston, Massachusetts (June 2004)",
-            "event_type": "presence",
-            "description": "Epstein and associates visited Boston, Massachusetts in June 2004, documented in 16 photos in seized evidence.",
-            "date_start": "2004-06",
-            "date_end": null,
-            "date_precision": "month",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Boston trip photos from June 2004 were found in Epstein's seized miscellaneous pictures collection.",
-            "evidence": [
-              {
-                "file": "EFTA00004250.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mics pics 6/04\n\nBoston 16.JPG  Boston 17.JPG  Boston 18.JPG  Boston 19.JPG\n...\nBoston 31.JPG",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA00004250.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Mics pics 6/04 Boston 16.JPG Boston 17.JPG",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "70c7344c8797a896",
-            "event_title": "Kevin Maxwell Arrival in Boston from London (Feb 29, 2020)",
-            "event_type": "travel",
-            "description": "Kevin Maxwell arrived on an inbound flight to Boston from London on February 29, 2020.",
-            "date_start": "2020-02-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kevin Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This involves Ghislaine Maxwell's brother's travel activities, which are contextually related to the Maxwell family network but not directly involving Epstein.",
-            "evidence": [
-              {
-                "file": "EFTA00017736.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "INBOUND flight on 2/29/2020 to Boston from London",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017736.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "81e72e2412c317b0",
-            "event_title": "Ian Maxwell Flight Departure Boston to London (Dec 27, 2017)",
-            "event_type": "travel",
-            "description": "Ian Maxwell departed on an outbound flight from Boston to London on December 27, 2017.",
-            "date_start": "2017-12-27",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ian Maxwell",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This involves Ghislaine Maxwell's brother's travel activities, which are contextually related to the Maxwell family network but not directly involving Epstein.",
-            "evidence": [
-              {
-                "file": "EFTA00017736.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "OUTBOUND flight on 12/27/2017 to London from Boston",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017736.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004250",
-            "file": "EFTA00004250.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00017736",
-            "file": "EFTA00017736.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.984409,
           40.77367
         ]
@@ -50940,7 +51194,7 @@
         "display_name": "Harvard University",
         "location_descriptor": "A prestigious private research university established in 1636, located in Cambridge, Massachusetts, and consistently ranked among the world's leading academic institutions.",
         "event_count": 3,
-        "evidence_count": 9,
+        "evidence_count": 10,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -50972,8 +51226,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 8,
-        "sources_preview": "EFTA02213406.pdf, EFTA00018441.pdf, EFTA00018466.pdf, EFTA02220590.pdf, EFTA02220941.pdf, ... (+3 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02213406.pdf, EFTA00018441.pdf, EFTA00018466.pdf, EFTA02220590.pdf, EFTA02220941.pdf, ... (+4 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A prestigious private research university established in 1636, located in Cambridge, Massachusetts, and consistently ranked among the world's leading academic institutions.",
@@ -51118,6 +51372,13 @@
                 "excerpt": "Jeffrey is considering a trip to Boston/Harvard this Sunday Sept. 17th...might you be around and available?\nUnfortunately, he's traveling now, not returning to Boston until the 22nd.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221064.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221095.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is considering a trip to Boston/Harvard this Sunday Sept. 17th...might you be around and available?\nDanny's on a plane at the moment...not returning to Boston until the 22nd.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221095.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -51161,6 +51422,11 @@
           {
             "doc_id": "EFTA02221064",
             "file": "EFTA02221064.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221095",
+            "file": "EFTA02221095.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -68904,7 +69170,7 @@
         "display_name": "Tolmachevo Airport",
         "location_descriptor": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
         "event_count": 1,
-        "evidence_count": 6,
+        "evidence_count": 7,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -68920,8 +69186,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 6,
-        "sources_preview": "EFTA02220241.pdf, EFTA02220282.pdf, EFTA02220615.pdf, EFTA02220655.pdf, EFTA02220943.pdf, ... (+1 more)",
+        "source_count": 7,
+        "sources_preview": "EFTA02220241.pdf, EFTA02220282.pdf, EFTA02220615.pdf, EFTA02220655.pdf, EFTA02220943.pdf, ... (+2 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
@@ -68989,6 +69255,13 @@
                 "excerpt": "SU 1307 B Economy Class\nNovosibirsk, Tolmachevo\nMoscow, Sheremetyevo\n09:25 AM\n09:40 AM\n07 Sep 2017",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220952.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221098.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1307 B Economy Class Novosibirsk Aeroflot Sept 7 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221098.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -69022,6 +69295,11 @@
           {
             "doc_id": "EFTA02220952",
             "file": "EFTA02220952.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221098",
+            "file": "EFTA02221098.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -69124,13 +69402,17 @@
         "display_name": "New Canaan, Connecticut",
         "location_descriptor": "An affluent town in Fairfield County, Connecticut, located approximately 40 miles northeast of New York City.",
         "event_count": 1,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2017-09-21",
         "date_end": "2017-09-21",
         "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
           {
             "name": "James",
             "role": "other"
@@ -69144,8 +69426,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA02220460.pdf, EFTA02220567.pdf, EFTA02220633.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA02220460.pdf, EFTA02220567.pdf, EFTA02220633.pdf, EFTA02221215.pdf",
         "epstein_nexus": "contextual",
         "event_type": "presence",
         "event_description": "An affluent town in Fairfield County, Connecticut, located approximately 40 miles northeast of New York City.",
@@ -69160,6 +69442,10 @@
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
               {
                 "name": "James",
                 "role": "other"
@@ -69196,6 +69482,13 @@
                 "excerpt": "We need to find a day for you to come out and see me in CT....might Thursday Sept. 21 be ok for you?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220633.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221215.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We need to find a day for you to come out and see me in CT....might Thursday Sept. 21 be ok for you?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221215.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -69214,6 +69507,11 @@
           {
             "doc_id": "EFTA02220633",
             "file": "EFTA02220633.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221215",
+            "file": "EFTA02221215.pdf",
             "source_type": "doj_efta"
           }
         ]
