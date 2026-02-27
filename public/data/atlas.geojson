@@ -22,7 +22,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 127,
-        "evidence_count": 396,
+        "evidence_count": 397,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -676,10 +676,14 @@
           {
             "name": "Bobby",
             "role": "associate"
+          },
+          {
+            "name": "Peter Roth",
+            "role": "associate"
           }
         ],
-        "source_count": 365,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+360 more)",
+        "source_count": 366,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+361 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -7041,6 +7045,14 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Kathryn Ruemmler",
+                "role": "associate"
+              },
+              {
+                "name": "Peter Roth",
+                "role": "associate"
+              },
+              {
                 "name": "Paul Barrett",
                 "role": "associate"
               },
@@ -7057,6 +7069,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "2pm at the house, 9 East 71st street..ok?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222456.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222846.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Kathy will come see you around 3:30pm on Sunday...she will be on the 2pm shuttle from DC...\nSun. Sept 17. 2017 NY\nReminder: Charlie illbrighi in Boston\n1:00pm Appt w/Peter Roth\n2:00pm Appt w/Patd Barrett (\n3:30pm Appt w/Kathy Ruemmler",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222846.pdf",
                 "confidence": 0.7
               }
             ]
@@ -8912,6 +8931,11 @@
           {
             "doc_id": "EFTA02222456",
             "file": "EFTA02222456.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222846",
+            "file": "EFTA02222846.pdf",
             "source_type": "doj_efta"
           },
           {
