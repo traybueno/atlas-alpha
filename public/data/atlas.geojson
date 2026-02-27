@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 99,
-        "evidence_count": 359,
+        "evidence_count": 362,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -470,8 +470,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 298,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+293 more)",
+        "source_count": 300,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+295 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -2369,6 +2369,13 @@
                 "excerpt": "For a time, including on July 23, 2019, Tartaglione was housed in the same SHU cell as Jeffrey Epstein.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039895.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00075340.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Note that Officer responded to the 7/23 suicide attempt and transported Epstein to the suicide watch unit; Lt. was supervising that night and responded to the incident as well.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075340.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -2878,6 +2885,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "was working an overtime shift in the Special Housing Unit (SHU), 10 South, on a 12am-8am shift at the time that JEFFREY EPSTEIN was found unresponsive in his cell.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075281.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00075337.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "any videos of the 9th floor area in the proximity of his cell during the evening of August 9 through the time Mr. Epstein was taken out of his cell for the last time on August 10, 2019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075337.pdf",
                 "confidence": 0.7
               }
             ]
@@ -4183,6 +4197,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "7.11.19- Saw him in Attorney Conference area",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00058857.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00075337.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Epstein's family has asked me to send to you and at the MCC a request for the preservation of any and all documents...that relate to Jeffrey Epstein's imprisonment/detention since July 6, 2019 and that relate particularly but not exclusively to the July 23, 2019 occurrence which was investigated as an attempted suicide by the MCC and the events relating to his death on August 10, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075337.pdf",
                 "confidence": 0.7
               }
             ]
@@ -6025,6 +6046,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00075340",
+            "file": "EFTA00075340.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00016765",
             "file": "EFTA00016765.pdf",
             "source_type": "doj_efta"
@@ -6287,6 +6313,11 @@
           {
             "doc_id": "EFTA00075281",
             "file": "EFTA00075281.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00075337",
+            "file": "EFTA00075337.pdf",
             "source_type": "doj_efta"
           },
           {
