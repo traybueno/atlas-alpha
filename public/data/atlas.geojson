@@ -8224,7 +8224,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 113,
-        "evidence_count": 357,
+        "evidence_count": 359,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8884,8 +8884,8 @@
             "role": "other"
           }
         ],
-        "source_count": 326,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+321 more)",
+        "source_count": 328,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+323 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -13638,6 +13638,10 @@
                 "role": "staff"
               },
               {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
                 "name": "Melanie Spinella",
                 "role": "other"
               },
@@ -13719,6 +13723,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey says he and Leon discussed another meeting tomorrow morning-would 9:30am work? (Jeffrey will be out of the house for an 8:30am appt, but back for sure by 9:30am...)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222049.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222069.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Leon Black is confirmed to come see you tomorrow at 9:30am for breakfast.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222069.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222155.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "wanted to confirm you and Woody will come see Jeffrey tomorrow night, Friday, Sept. 15th for dinner! Will 7pm be good for you?\n\nI think 7 PM should be fine. Thank you\nSoon-Yi iPhone",
+                "document_url": "",
                 "confidence": 0.7
               }
             ]
@@ -16189,6 +16207,16 @@
           {
             "doc_id": "EFTA02222049",
             "file": "EFTA02222049.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222069",
+            "file": "EFTA02222069.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222155",
+            "file": "EFTA02222155.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -78837,6 +78865,90 @@
           {
             "doc_id": "EFTA00078395",
             "file": "EFTA00078395.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963975,
+          40.774353
+        ]
+      },
+      "properties": {
+        "id": "442611895d1debf5",
+        "name": "The Surrey",
+        "location_name": "The Surrey",
+        "location_address": "20 East 76th Street, New York City, New York 10021, United States",
+        "location_description": "A luxury boutique hotel on the Upper East Side of Manhattan, New York City, located at 20 East 76th Street.",
+        "canonical_name": "The Surrey Hotel, 20 East 76th Street, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "The Surrey",
+        "location_descriptor": "A luxury boutique hotel on the Upper East Side of Manhattan, New York City, located at 20 East 76th Street.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2000-08",
+        "date_end": "2000-08",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00078523.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A luxury boutique hotel on the Upper East Side of Manhattan, New York City, located at 20 East 76th Street.",
+        "events": [
+          {
+            "event_id": "9c65b1ca6fae785c",
+            "event_title": "Epstein Stays at Surrey Hotel, NYC; Maxwell Visits During Nurse's 24-Hour Care (Aug/Sep 2000)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein stayed at the Surrey Hotel in Manhattan while a nurse practitioner provided at least 24-hour care; Ghislaine Maxwell visited Epstein at the hotel during this period in August or September 2000",
+            "date_start": "2000-08",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at the Surrey Hotel in Manhattan in August or September 2000, with Maxwell also visiting him there during his nursing care.",
+            "evidence": [
+              {
+                "file": "EFTA00078523.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In August or September 2000, Epstein was staying at the Surrey Hotel in Manhatten, NY when [REDACTED] cared from him on one occasion for at least a 24-hour time period. During this time, [REDACTED] \"experienced\" what the victims went through. While [REDACTED] cared for Epstein, Ghislaine Maxwell visited him.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078523.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00078523",
+            "file": "EFTA00078523.pdf",
             "source_type": "doj_efta"
           }
         ]
