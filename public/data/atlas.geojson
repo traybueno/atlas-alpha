@@ -16150,7 +16150,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 103,
-        "evidence_count": 233,
+        "evidence_count": 234,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -16450,6 +16450,10 @@
             "role": "associate"
           },
           {
+            "name": "Vincenzo Izzo",
+            "role": "associate"
+          },
+          {
             "name": "maria",
             "role": "associate"
           },
@@ -16566,8 +16570,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 217,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+212 more)",
+        "source_count": 218,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+213 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -19448,6 +19452,10 @@
                 "role": "associate"
               },
               {
+                "name": "Vincenzo Izzo",
+                "role": "associate"
+              },
+              {
                 "name": "Dr. Watson",
                 "role": "other"
               }
@@ -19502,6 +19510,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey says it is just too nice to sit inside today...he would like you to meet him at 59th and 5th at noon instead of coming here",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221291.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221923.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Would you like to see Vincenzo on sat before you leave for Paris?\n\nFrom: Vincenzo lozzo\nSubject: Meeting in NYC\nHow are you? Is jeffrey in NYC this weekend or next week?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221923.pdf",
                 "confidence": 0.7
               }
             ]
@@ -21617,6 +21632,11 @@
           {
             "doc_id": "EFTA02221291",
             "file": "EFTA02221291.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221923",
+            "file": "EFTA02221923.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -64821,6 +64841,130 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.289773,
+          48.873854
+        ]
+      },
+      "properties": {
+        "id": "ae28cedc37627b7f",
+        "name": "22 Avenue Foch, Paris",
+        "location_name": "22 Avenue Foch, Paris",
+        "location_address": "22 Avenue Foch, 75016 Paris, France",
+        "location_description": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
+        "canonical_name": "22 Avenue Foch, 75116 Paris, France, \u00cele-de-France",
+        "region": "",
+        "property_type": "event",
+        "display_name": "22 Avenue Foch, Paris",
+        "location_descriptor": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-06",
+        "date_end": "2017-09-08",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Jean Huguen",
+            "role": "other"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02217500.pdf, EFTA02221920.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
+        "events": [
+          {
+            "event_id": "ea71fe9a3ddcc490",
+            "event_title": "Epstein's Paris Apartment Confirmed at 22 Avenue Foch \u2014 July 6 2017",
+            "event_type": "presence",
+            "description": "Epstein's staff directed an associate to take a taxi to Epstein's Paris apartment at 22 Avenue Foch, confirming the address of his Paris residence; Epstein would reimburse the taxi fare.",
+            "date_start": "2017-07-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally instructed a taxi ride to his Paris apartment at 22 Avenue Foch (one of Paris's most exclusive addresses, synonymous with foreign royalty and oligarchs), identifying his July 2017 Paris base of operations.",
+            "evidence": [
+              {
+                "file": "EFTA02217500.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: Paris\nHi [name]. Jeffrey actually asks you take a taxi to the apartment. He will reimburse you. The apartment address is 22 Avenue Foch, Apt [number], Paris",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217500.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7aeced4a3f0c4c09",
+            "event_title": "Lesley Groff Directs Jean Huguen to Call Epstein at Paris Home",
+            "event_type": "communication",
+            "description": "Lesley Groff (Epstein's assistant) instructs Jean Huguen to call Jeffrey Epstein at his Paris residence on September 8, 2017",
+            "date_start": "2017-09-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jean Huguen",
+                "role": "other"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Lesley Groff explicitly states Jeffrey is at his Paris home and provides the number, strongly implying his physical presence there on that date.",
+            "evidence": [
+              {
+                "file": "EFTA02221920.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey would like to speak with you. Could you please call him at his Paris home:",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221920.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02217500",
+            "file": "EFTA02217500.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221920",
+            "file": "EFTA02221920.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.949554,
           40.68039
         ]
@@ -72677,82 +72821,6 @@
           {
             "doc_id": "EFTA02217649",
             "file": "EFTA02217649.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.289773,
-          48.873854
-        ]
-      },
-      "properties": {
-        "id": "ae28cedc37627b7f",
-        "name": "22 Avenue Foch, Paris",
-        "location_name": "22 Avenue Foch, Paris",
-        "location_address": "22 Avenue Foch, 75016 Paris, France",
-        "location_description": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
-        "canonical_name": "22 Avenue Foch, 75116 Paris, France, \u00cele-de-France",
-        "region": "",
-        "property_type": "event",
-        "display_name": "22 Avenue Foch, Paris",
-        "location_descriptor": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-07-06",
-        "date_end": "2017-07-06",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02217500.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A prestigious residential address on the Avenue Foch in the 16th arrondissement of Paris, France, one of the most exclusive and expensive boulevards in the city.",
-        "events": [
-          {
-            "event_id": "ea71fe9a3ddcc490",
-            "event_title": "Epstein's Paris Apartment Confirmed at 22 Avenue Foch \u2014 July 6 2017",
-            "event_type": "presence",
-            "description": "Epstein's staff directed an associate to take a taxi to Epstein's Paris apartment at 22 Avenue Foch, confirming the address of his Paris residence; Epstein would reimburse the taxi fare.",
-            "date_start": "2017-07-06",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally instructed a taxi ride to his Paris apartment at 22 Avenue Foch (one of Paris's most exclusive addresses, synonymous with foreign royalty and oligarchs), identifying his July 2017 Paris base of operations.",
-            "evidence": [
-              {
-                "file": "EFTA02217500.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Subject: Paris\nHi [name]. Jeffrey actually asks you take a taxi to the apartment. He will reimburse you. The apartment address is 22 Avenue Foch, Apt [number], Paris",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217500.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02217500",
-            "file": "EFTA02217500.pdf",
             "source_type": "doj_efta"
           }
         ]
