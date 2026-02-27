@@ -8073,7 +8073,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 110,
-        "evidence_count": 342,
+        "evidence_count": 343,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8717,8 +8717,8 @@
             "role": "other"
           }
         ],
-        "source_count": 312,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+307 more)",
+        "source_count": 313,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+308 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -14265,6 +14265,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "Richard Kahn",
                 "role": "staff"
               },
@@ -14285,6 +14289,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I understand I am to purchase tickets for Carluz and Arline Toylo to come to NY and train at 71st...assume you are aware? Rich says they are to start Oct. 1 (which is a Sunday)...so I could fly them here Sunday Oct. 1 and they start training Oct. 2?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221545.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221784.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "should they fly to NYC Oct 1st and begin Oct 2nd?\nalso my understanding is that they will live at 71st\n[JE:] they should have an apt first. have train them then moves to florida if it is still there.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221784.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15929,6 +15940,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221784",
+            "file": "EFTA02221784.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221547",
             "file": "EFTA02221547.pdf",
             "source_type": "doj_efta"
@@ -15967,7 +15983,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 103,
-        "evidence_count": 231,
+        "evidence_count": 232,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -16383,8 +16399,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 215,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+210 more)",
+        "source_count": 216,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+211 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -19005,6 +19021,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "Lesley Groff",
                 "role": "staff"
               }
@@ -19024,6 +19044,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "We'll go to NY tomorrow with",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220421.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221783.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "make reservations forte and from new york to st thomas on sunday.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221783.pdf",
                 "confidence": 0.7
               }
             ]
@@ -21316,6 +21343,11 @@
           {
             "doc_id": "EFTA02220421",
             "file": "EFTA02220421.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221783",
+            "file": "EFTA02221783.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -31348,7 +31380,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 42,
-        "evidence_count": 107,
+        "evidence_count": 108,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -31448,6 +31480,14 @@
             "role": "associate"
           },
           {
+            "name": "Carlos",
+            "role": "staff"
+          },
+          {
+            "name": "Anna",
+            "role": "staff"
+          },
+          {
             "name": "Nastia",
             "role": "associate"
           },
@@ -31465,10 +31505,6 @@
           },
           {
             "name": "Ann Rodriquez",
-            "role": "staff"
-          },
-          {
-            "name": "Carlos",
             "role": "staff"
           },
           {
@@ -31500,8 +31536,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 98,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+93 more)",
+        "source_count": 99,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+94 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -32541,6 +32577,14 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Carlos",
+                "role": "staff"
+              },
+              {
+                "name": "Anna",
+                "role": "staff"
               }
             ],
             "epstein_nexus": "direct",
@@ -32614,6 +32658,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "wheels up at 11 am direct to isj. please have car pick me up at 10 am. I lam to LSJ confirmed",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221608.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221839.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jefffrey plans to go there tomorrow I know Anna is off island. I know Carlos and his wife are staying there",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221839.pdf",
                 "confidence": 0.7
               }
             ]
@@ -33576,6 +33627,11 @@
           {
             "doc_id": "EFTA02221608",
             "file": "EFTA02221608.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221839",
+            "file": "EFTA02221839.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -35638,7 +35694,7 @@
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 32,
-        "evidence_count": 59,
+        "evidence_count": 60,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -35758,8 +35814,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 47,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+42 more)",
+        "source_count": 48,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+43 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -36766,6 +36822,13 @@
                 "excerpt": "On Sep 7, 2017, at 2:52 PM, Karluz wrote: Hi there Mr Khan, We will be home in Fla that weekend of 30th of Sept want to know where we going , coz Oct 1st is Sunday , should we proceed to Palm Beach house Monday the 2nd ?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221617.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221784.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We will be home in Fla that weekend\nOn Sep 7, at 2:52 PM, Karluz wrote: of 30th of Sept want to know where we going, coz Oct 1st is Sunday, should we proceed to Palm Beach house Monday the 2nd?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221784.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -37167,6 +37230,11 @@
           {
             "doc_id": "EFTA02221617",
             "file": "EFTA02221617.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221784",
+            "file": "EFTA02221784.pdf",
             "source_type": "doj_efta"
           },
           {
