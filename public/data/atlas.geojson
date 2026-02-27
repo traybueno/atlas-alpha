@@ -25916,8 +25916,8 @@
         "property_type": "event",
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
-        "event_count": 74,
-        "evidence_count": 179,
+        "event_count": 75,
+        "evidence_count": 181,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -26085,6 +26085,10 @@
             "role": "associate"
           },
           {
+            "name": "girls they believed were minors",
+            "role": "victim"
+          },
+          {
             "name": "Ion Nicola",
             "role": "staff"
           },
@@ -26117,8 +26121,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 157,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00082688.pdf, EFTA02212885.pdf, EFTA02221589.pdf, ... (+152 more)",
+        "source_count": 159,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA00082688.pdf, EFTA02212885.pdf, EFTA02221589.pdf, ... (+154 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -28765,6 +28769,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "girls they believed were minors",
+                "role": "victim"
               }
             ],
             "epstein_nexus": "direct",
@@ -28782,6 +28790,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Multiple workers at the airstrip on St. Thomas have been quotes in two recent articles saying they repeatedly saw Epstein fly in with girls they believed were minors",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083968.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00083748.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Multiple workers at the airstrip on St. Thomas have been quotes...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00083748.pdf",
                 "confidence": 0.7
               }
             ]
@@ -29034,6 +29049,33 @@
                 "file": "EFTA02223708.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "Tickets for Kevin and Philippe to visit the island this Wed. march 22.",
+                "document_url": "",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "048fa1f3b2d5ab83",
+            "event_title": "Epstein Staff Member Flies JFK to St. Thomas to Visit Little St. James Island, March 8, 2017",
+            "event_type": "presence",
+            "description": "AA 936 from JFK to St. Thomas on March 8, 2017.",
+            "date_start": "2017-03-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Ticket arranged by Lesley Groff for island visit.",
+            "evidence": [
+              {
+                "file": "EFTA02223728.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ticket to go to the island",
                 "document_url": "",
                 "confidence": 0.7
               }
@@ -29772,6 +29814,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00083748",
+            "file": "EFTA00083748.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02213258",
             "file": "EFTA02213258.pdf",
             "source_type": "doj_efta"
@@ -29824,6 +29871,11 @@
           {
             "doc_id": "EFTA02223708",
             "file": "EFTA02223708.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223728",
+            "file": "EFTA02223728.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -55064,13 +55116,13 @@
         "property_type": "event",
         "display_name": "LaGuardia Airport",
         "location_descriptor": "A major commercial airport in Queens, New York City, primarily serving domestic flights in the northeastern United States.",
-        "event_count": 8,
-        "evidence_count": 17,
+        "event_count": 9,
+        "evidence_count": 18,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2016-08-19",
-        "date_end": "2017-09-11",
+        "date_end": "2017-09-26",
         "people": [
           {
             "name": "Lesley Groff",
@@ -55097,9 +55149,9 @@
             "role": "associate"
           }
         ],
-        "source_count": 16,
-        "sources_preview": "EFTA02212929.pdf, EFTA02212857.pdf, EFTA02214583.pdf, EFTA02213790.pdf, EFTA02219722.pdf, ... (+11 more)",
-        "epstein_nexus": "implied",
+        "source_count": 17,
+        "sources_preview": "EFTA02212929.pdf, EFTA02212857.pdf, EFTA02214583.pdf, EFTA02213790.pdf, EFTA02219722.pdf, ... (+12 more)",
+        "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A major commercial airport in Queens, New York City, primarily serving domestic flights in the northeastern United States.",
         "events": [
@@ -55396,6 +55448,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "8de3ef10f6ca66e7",
+            "event_title": "Epstein Flies Delta 2395 (Palm Beach to LaGuardia), Arrives NY September 26, 2017",
+            "event_type": "travel",
+            "description": "Epstein flew Delta flight 2395 from Palm Beach International to LaGuardia, arriving in New York City at approximately 10:30am on September 26, 2017.",
+            "date_start": "2017-09-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal schedule confirms his Delta 2395 arrival in NY on September 26, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02223735.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tues. Sept. 26, 2017 NY\nI0:30am to arrive NY via Delta #2395 (Rec.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223735.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -55477,6 +55556,11 @@
           {
             "doc_id": "EFTA02223152",
             "file": "EFTA02223152.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223735",
+            "file": "EFTA02223735.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -59878,6 +59962,266 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.8283,
+          40.7135
+        ]
+      },
+      "properties": {
+        "id": "b728fdeb7416ed1c",
+        "name": "John F. Kennedy International Airport",
+        "location_name": "John F. Kennedy International Airport",
+        "location_address": "Queens, New York, United States",
+        "location_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
+        "canonical_name": "John F. Kennedy International Airport, Queens, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "John F. Kennedy International Airport",
+        "location_descriptor": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
+        "event_count": 6,
+        "evidence_count": 7,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2005-04-05",
+        "date_end": "2017-10-17",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Ion",
+            "role": "associate"
+          },
+          {
+            "name": "Citizens of Lithuania",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 7,
+        "sources_preview": "EFTA02222329.pdf, EFTA02223102.pdf, EFTA02223113.pdf, EFTA02223118.pdf, EFTA02223685.pdf, ... (+2 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
+        "events": [
+          {
+            "event_id": "644936278618c353",
+            "event_title": "Return Flight from St. Thomas to JFK on Delta DL676, August 28, 2017",
+            "event_type": "travel",
+            "description": "Unnamed traveler returned from Cyril E. King Airport, St. Thomas to JFK on Delta DL676 on August 28, 2017, travel arranged through Epstein's assistant Lesley Groff.",
+            "date_start": "2017-08-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return flight from St. Thomas (near Little St. James) arranged by Lesley Groff (Epstein's PA), contextually connected to Epstein's network.",
+            "evidence": [
+              {
+                "file": "EFTA02222329.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Monday 28 Aug 17... Flight/Class DL 676 H Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 01:37 PM\nArriving 05:39 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222329.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "74c2133e389fc712",
+            "event_title": "Epstein Associate Ion Travels Bucharest to New York via Paris on Air France",
+            "event_type": "travel",
+            "description": "Epstein associate Ion traveled from Bucharest Henri Coanda Airport to JFK New York via Paris Charles de Gaulle on Air France flights AF1889 and AF8 on October 17, 2017, booked through Epstein Amex Centurion account.",
+            "date_start": "2017-10-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ion",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel for Epstein associate from Romania to New York booked through his Amex Centurion account, but Epstein not personally traveling.",
+            "evidence": [
+              {
+                "file": "EFTA02223102.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 1889 L Economy Class Bucharest, Henri Coanda / Paris, Charles De Gaulle... AF 8 V Economy Class Paris, Charles De Gaulle / New York, John F Kennedy International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223102.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8980fca71f8c143e",
+            "event_title": "Epstein Associate Flies Vilnius to New York via Helsinki on Finnair",
+            "event_type": "travel",
+            "description": "An Epstein associate with Lithuanian citizenship flew from Vilnius to JFK New York via Helsinki on Finnair flights AY132 and AY5 on March 30, 2017, travel arranged by Lesley Groff through Amex Centurion.",
+            "date_start": "2017-03-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Citizens of Lithuania",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Epstein staff (Lesley Groff) for a Lithuanian associate traveling to New York, booked through Epstein Amex account.",
+            "evidence": [
+              {
+                "file": "EFTA02223113.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AY 132 O Economy Class / Vilnius, Vilnius / Vantaa, Helsinki-vantaa... AY 5 Q Economy Class / Vantaa, Helsinki-vantaa / New York, John F Kennedy International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223113.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223118.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AY 5 / Vantaa, Helsinki-vantaa / New York, John F Kennedy International / 02:10 PM / 03:50 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223118.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7672d58bc917e819",
+            "event_title": "Epstein Staff Member Flies St. Thomas to JFK, March 8, 2017",
+            "event_type": "presence",
+            "description": "Lesley Groff (Epstein's assistant) arranged a ticket for an unnamed staff member to fly American Airlines AA 1195 from Charlotte Amalie (St. Thomas) to JFK on March 8, 2017.",
+            "date_start": "2017-03-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The ticket was arranged by Lesley Groff (Epstein's assistant) for a staff member returning from what is likely Little St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA02223685.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi ! Here is your ticket to go back to NY on Wed. March 8th!\n\nDate: 08 Mar 2017\nAmerican Airlines AA 1195 V Economy Class\nOrigin: Charlotte Amalie, Cyril E King Airport\nDestination: New York, John F Kennedy International\nDeparting: 03:36 PM\nArriving: 07:00 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223685.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "72b1bfbc03be78f4",
+            "event_title": "Epstein Flies from Palm Beach to New York City on N908JE (April 5, 2005)",
+            "event_type": "travel",
+            "description": "Epstein flew from Palm Beach (Jet Aviation) to New York City on April 5, 2005 at 4:00 PM, arriving 6:15 PM, call sign N908JE.",
+            "date_start": "2005-04-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally flew on N908JE to New York, documented in trash pull from 358 El Brillo.",
+            "evidence": [
+              {
+                "file": "EFTA00084614.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jet Aviation 800-538-0724 itinerary, indicating a departure date of 04/05/2005 at 4:00 PM with An Arrival in New York city of 6:15PM. Flight crew captain, co-captain. Call sign N908JE",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084614.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "23a1496b4cff69f6",
+            "event_title": "Epstein Departs New York on Norwegian Air 117020, September 30, 2017",
+            "event_type": "travel",
+            "description": "Epstein departed New York on Norwegian Air flight 117020 at 10:25pm on September 30, 2017, presumably heading to Paris or Europe.",
+            "date_start": "2017-09-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal schedule confirms his 10:25pm departure from New York on Norwegian Air 117020 on September 30, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02223735.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Sat Sept 30.2017 NY\nTBD Ariane De Rothschild\n10:25pm to depart .11.1( via Norwegian Air 117020 (Rec.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223735.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02222329",
+            "file": "EFTA02222329.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223102",
+            "file": "EFTA02223102.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223113",
+            "file": "EFTA02223113.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223118",
+            "file": "EFTA02223118.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223685",
+            "file": "EFTA02223685.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084614",
+            "file": "EFTA00084614.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223735",
+            "file": "EFTA02223735.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.03363,
           28.944465
         ]
@@ -61379,234 +61723,6 @@
           {
             "doc_id": "EFTA00083681",
             "file": "EFTA00083681.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8283,
-          40.7135
-        ]
-      },
-      "properties": {
-        "id": "b728fdeb7416ed1c",
-        "name": "John F. Kennedy International Airport",
-        "location_name": "John F. Kennedy International Airport",
-        "location_address": "Queens, New York, United States",
-        "location_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
-        "canonical_name": "John F. Kennedy International Airport, Queens, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
-        "event_count": 5,
-        "evidence_count": 6,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2005-04-05",
-        "date_end": "2017-10-17",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Ion",
-            "role": "associate"
-          },
-          {
-            "name": "Citizens of Lithuania",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 6,
-        "sources_preview": "EFTA02222329.pdf, EFTA02223102.pdf, EFTA02223113.pdf, EFTA02223118.pdf, EFTA02223685.pdf, ... (+1 more)",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
-        "events": [
-          {
-            "event_id": "644936278618c353",
-            "event_title": "Return Flight from St. Thomas to JFK on Delta DL676, August 28, 2017",
-            "event_type": "travel",
-            "description": "Unnamed traveler returned from Cyril E. King Airport, St. Thomas to JFK on Delta DL676 on August 28, 2017, travel arranged through Epstein's assistant Lesley Groff.",
-            "date_start": "2017-08-28",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Return flight from St. Thomas (near Little St. James) arranged by Lesley Groff (Epstein's PA), contextually connected to Epstein's network.",
-            "evidence": [
-              {
-                "file": "EFTA02222329.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Monday 28 Aug 17... Flight/Class DL 676 H Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 01:37 PM\nArriving 05:39 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222329.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "74c2133e389fc712",
-            "event_title": "Epstein Associate Ion Travels Bucharest to New York via Paris on Air France",
-            "event_type": "travel",
-            "description": "Epstein associate Ion traveled from Bucharest Henri Coanda Airport to JFK New York via Paris Charles de Gaulle on Air France flights AF1889 and AF8 on October 17, 2017, booked through Epstein Amex Centurion account.",
-            "date_start": "2017-10-17",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ion",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel for Epstein associate from Romania to New York booked through his Amex Centurion account, but Epstein not personally traveling.",
-            "evidence": [
-              {
-                "file": "EFTA02223102.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AF 1889 L Economy Class Bucharest, Henri Coanda / Paris, Charles De Gaulle... AF 8 V Economy Class Paris, Charles De Gaulle / New York, John F Kennedy International",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223102.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8980fca71f8c143e",
-            "event_title": "Epstein Associate Flies Vilnius to New York via Helsinki on Finnair",
-            "event_type": "travel",
-            "description": "An Epstein associate with Lithuanian citizenship flew from Vilnius to JFK New York via Helsinki on Finnair flights AY132 and AY5 on March 30, 2017, travel arranged by Lesley Groff through Amex Centurion.",
-            "date_start": "2017-03-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Citizens of Lithuania",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel arranged by Epstein staff (Lesley Groff) for a Lithuanian associate traveling to New York, booked through Epstein Amex account.",
-            "evidence": [
-              {
-                "file": "EFTA02223113.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AY 132 O Economy Class / Vilnius, Vilnius / Vantaa, Helsinki-vantaa... AY 5 Q Economy Class / Vantaa, Helsinki-vantaa / New York, John F Kennedy International",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223113.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223118.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AY 5 / Vantaa, Helsinki-vantaa / New York, John F Kennedy International / 02:10 PM / 03:50 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223118.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "7672d58bc917e819",
-            "event_title": "Epstein Staff Member Flies St. Thomas to JFK, March 8, 2017",
-            "event_type": "presence",
-            "description": "Lesley Groff (Epstein's assistant) arranged a ticket for an unnamed staff member to fly American Airlines AA 1195 from Charlotte Amalie (St. Thomas) to JFK on March 8, 2017.",
-            "date_start": "2017-03-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The ticket was arranged by Lesley Groff (Epstein's assistant) for a staff member returning from what is likely Little St. James Island.",
-            "evidence": [
-              {
-                "file": "EFTA02223685.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hi ! Here is your ticket to go back to NY on Wed. March 8th!\n\nDate: 08 Mar 2017\nAmerican Airlines AA 1195 V Economy Class\nOrigin: Charlotte Amalie, Cyril E King Airport\nDestination: New York, John F Kennedy International\nDeparting: 03:36 PM\nArriving: 07:00 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223685.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "72b1bfbc03be78f4",
-            "event_title": "Epstein Flies from Palm Beach to New York City on N908JE (April 5, 2005)",
-            "event_type": "travel",
-            "description": "Epstein flew from Palm Beach (Jet Aviation) to New York City on April 5, 2005 at 4:00 PM, arriving 6:15 PM, call sign N908JE.",
-            "date_start": "2005-04-05",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally flew on N908JE to New York, documented in trash pull from 358 El Brillo.",
-            "evidence": [
-              {
-                "file": "EFTA00084614.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jet Aviation 800-538-0724 itinerary, indicating a departure date of 04/05/2005 at 4:00 PM with An Arrival in New York city of 6:15PM. Flight crew captain, co-captain. Call sign N908JE",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084614.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02222329",
-            "file": "EFTA02222329.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223102",
-            "file": "EFTA02223102.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223113",
-            "file": "EFTA02223113.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223118",
-            "file": "EFTA02223118.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223685",
-            "file": "EFTA02223685.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00084614",
-            "file": "EFTA00084614.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -85375,7 +85491,7 @@
         "display_name": "YouTube Space NY",
         "location_descriptor": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
         "event_count": 1,
-        "evidence_count": 12,
+        "evidence_count": 13,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -85407,8 +85523,8 @@
             "role": "other"
           }
         ],
-        "source_count": 12,
-        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+7 more)",
+        "source_count": 13,
+        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+8 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
@@ -85534,6 +85650,13 @@
                 "excerpt": "Jeffrey will be attending Deepak Chopra's event on Wed. Sept. 27th from 5-7pm at the YouTube Space NY, 75 9th Avenue, Level 6. Jeffrey is asking if you might like to attend with him as his guest.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223485.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223735.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "5-7:00pm Invite to Deepak Chopra...",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           }
@@ -85597,6 +85720,11 @@
           {
             "doc_id": "EFTA02223485",
             "file": "EFTA02223485.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223735",
+            "file": "EFTA02223735.pdf",
             "source_type": "doj_efta"
           }
         ]
