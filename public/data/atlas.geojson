@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 127,
-        "evidence_count": 397,
+        "event_count": 129,
+        "evidence_count": 405,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -554,6 +554,14 @@
             "role": "other"
           },
           {
+            "name": "Nili Barak",
+            "role": "associate"
+          },
+          {
+            "name": "Julie Taymor",
+            "role": "associate"
+          },
+          {
             "name": "Jo'o Fontanilla",
             "role": "staff"
           },
@@ -680,10 +688,14 @@
           {
             "name": "Peter Roth",
             "role": "associate"
+          },
+          {
+            "name": "Dylan Love",
+            "role": "other"
           }
         ],
-        "source_count": 366,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+361 more)",
+        "source_count": 374,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+369 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -5221,6 +5233,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Ehud Barak",
+                "role": "associate"
+              },
+              {
                 "name": "Soon-Yi Previn",
                 "role": "associate"
               },
@@ -5229,8 +5245,16 @@
                 "role": "associate"
               },
               {
+                "name": "Nili Barak",
+                "role": "associate"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Julie Taymor",
+                "role": "associate"
               },
               {
                 "name": "Jo'o Fontanilla",
@@ -5294,6 +5318,34 @@
                 "source_type": "doj_efta",
                 "excerpt": "Fri. Sept 15. 2017 NY\n8:30am Fasting Blood Test w/Dr. Orsher\n9 East 70Street\nJOJO TO DRIVE YOU IF ITS RAINING!!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220599.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222859.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey and Julie bumped into each other this morning on the sidewalk! Jeffrey invited Julie to come to his home for dinner tonight at 7:30pm..Woody Allen will be coming as well....it would just be them, small and private... Jeffrey is hoping Julie can make it!\nJeffrey's home address is 9 East 71st Street between 5th and Madison.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222859.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222781.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "than but better friday\n\nNili Priell Barak:\nDoes jeffrey have plans to be in ny during our stay?\nIf positive, ehud would like to meet with him.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222781.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222880.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:00pm DINNER w/Woody and Soon Yi",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222880.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223070.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:30pm DINNER w/Woody, Soon Yi and Julie Taymor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223070.pdf",
                 "confidence": 0.7
               }
             ]
@@ -6360,6 +6412,20 @@
                 "excerpt": "Leon Black will come see Jeffrey for breakfast on Thursday Sept 14th at 9am",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222745.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222780.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi. I had a typo earlier. Please come see Jeffrey at 1pm today. Thanks",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222780.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222785.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "ok\nRichard Kahn\nHBRK Associates Inc.\n575 Lexington Avenue 4th Floor\nNew York, NY 10022\nPlease come see jeffrey at 1pm today.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222785.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -7107,6 +7173,64 @@
                 "source_type": "doj_efta",
                 "excerpt": "We arrived at the apartment yesterday and I want to thank you and Jeffrey again for everything.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222705.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c67f4eb31903ea37",
+            "event_title": "Dylan Love Interviews Epstein at 9 East 71st Street, September 28",
+            "event_type": "presence",
+            "description": "Journalist Dylan Love conducted an in-person interview with Jeffrey Epstein at his Manhattan home at 9 East 71st Street on September 28, 2017 at 10:30am for TNW and Business Insider.",
+            "date_start": "2017-09-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Dylan Love",
+                "role": "other"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his Manhattan home for a scheduled in-person interview with journalist Dylan Love.",
+            "evidence": [
+              {
+                "file": "EFTA02223064.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey has an 8:30am out of the house and I want to make sure he is back in time. Jeffreys home address is 9 East 71st street between 5th and Madison.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223064.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "688c88e69ed642d3",
+            "event_title": "Epstein Sexually Abuses Victim at Manhattan Mansion After Flying Her from Palm Beach",
+            "event_type": "travel",
+            "description": "Epstein flew an underage victim from Palm Beach to New York on his private jet and sexually abused her at his Manhattan mansion.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his Manhattan mansion and directly sexually abused the victim there.",
+            "evidence": [
+              {
+                "file": "EFTA00081226.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He took me to New York on his big, private jet. We went to his mansion in New York City.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081226.pdf",
                 "confidence": 0.7
               }
             ]
@@ -8469,6 +8593,26 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222859",
+            "file": "EFTA02222859.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222781",
+            "file": "EFTA02222781.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222880",
+            "file": "EFTA02222880.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223070",
+            "file": "EFTA02223070.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220405",
             "file": "EFTA02220405.pdf",
             "source_type": "doj_efta"
@@ -8754,6 +8898,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222780",
+            "file": "EFTA02222780.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222785",
+            "file": "EFTA02222785.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02221834",
             "file": "EFTA02221834.pdf",
             "source_type": "doj_efta"
@@ -8941,6 +9095,16 @@
           {
             "doc_id": "EFTA02222705",
             "file": "EFTA02222705.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223064",
+            "file": "EFTA02223064.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00081226",
+            "file": "EFTA00081226.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -17702,8 +17866,8 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 123,
-        "evidence_count": 259,
+        "event_count": 124,
+        "evidence_count": 261,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -18139,8 +18303,8 @@
             "role": "other"
           }
         ],
-        "source_count": 238,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+233 more)",
+        "source_count": 240,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+235 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -18235,6 +18399,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey will be in NY this Tuesday-Friday-he is asking if it might work for him to have a tour of the museum sometime Wed, Thurs or Fri",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220488.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00081226.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein took me on a ferry boat on one of the trips to New York City and there he took the picture above. I was approximately 15 or 16 years old at the time.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00081226.pdf",
                 "confidence": 0.7
               }
             ]
@@ -22961,6 +23132,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "c696246ddcc0288e",
+            "event_title": "Epstein in New York City Weekend of March 11-12, 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein was in New York City on Saturday March 11 and Sunday March 12, 2017, and was interested in meeting with Ronald Lauder.",
+            "date_start": "2017-03-11",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ronald Lauder",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's assistant confirmed his physical presence in New York City over the weekend of March 11-12, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02222824.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is wondering if Ronald is around this weekend? Jeffrey will be in town Saturday afternoon and all day Sunday",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222824.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -22992,6 +23194,11 @@
           {
             "doc_id": "EFTA02220488",
             "file": "EFTA02220488.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00081226",
+            "file": "EFTA00081226.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -24152,6 +24359,11 @@
           {
             "doc_id": "EFTA02222746",
             "file": "EFTA02222746.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222824",
+            "file": "EFTA02222824.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -33968,8 +34180,8 @@
         "property_type": "event",
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "event_count": 47,
-        "evidence_count": 119,
+        "event_count": 48,
+        "evidence_count": 120,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -34141,8 +34353,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 110,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+105 more)",
+        "source_count": 111,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+106 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -36115,6 +36327,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "d99befa4f47505f5",
+            "event_title": "Epstein Visits Little St. James to Inspect Hurricane Damage",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein traveling to Little St. James Island over the weekend of September 23-24, 2017 to assess hurricane damage to his private island property.",
+            "date_start": "2017-09-23",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at his private island to inspect hurricane damage personally.",
+            "evidence": [
+              {
+                "file": "EFTA02223053.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He is leaving for PB on Tuesday and then the island to check damage over weekend.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223053.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -36666,6 +36905,11 @@
           {
             "doc_id": "EFTA00080330",
             "file": "EFTA00080330.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223053",
+            "file": "EFTA02223053.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -38176,8 +38420,8 @@
         "property_type": "event",
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
-        "event_count": 35,
-        "evidence_count": 63,
+        "event_count": 36,
+        "evidence_count": 64,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -38305,8 +38549,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 49,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+44 more)",
+        "source_count": 50,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+45 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -39597,6 +39841,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "407ebf2d47ef2161",
+            "event_title": "Epstein Travels to Palm Beach Before Island to Assess Hurricane Damage",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein departing for Palm Beach on Tuesday September 19, 2017 before traveling to his private island to assess hurricane damage over the weekend.",
+            "date_start": "2017-09-19",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically traveling to Palm Beach en route to inspect hurricane damage at his island property.",
+            "evidence": [
+              {
+                "file": "EFTA02223053.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He is leaving for PB on Tuesday and then the island to check damage over weekend.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223053.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -39843,6 +40114,11 @@
           {
             "doc_id": "EFTA00079370",
             "file": "EFTA00079370.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223053",
+            "file": "EFTA02223053.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -53094,7 +53370,7 @@
         "display_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
         "location_descriptor": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
         "event_count": 7,
-        "evidence_count": 11,
+        "evidence_count": 12,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -53126,8 +53402,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 11,
-        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+6 more)",
+        "source_count": 12,
+        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+7 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
@@ -53289,6 +53565,13 @@
                 "excerpt": "I think i will meet ruemmelrr tomorw at fekkai around 4",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221088.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222764.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "4:00pm TENTATIVE MEET Kathy Ruemmler at Fekkai (Kathy .a) OR Kathy come to 71st?\nFakkai Salon, 714 5th Ave. (bin 55th & 56th), 4i/1.1100r",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222764.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -53399,6 +53682,11 @@
           {
             "doc_id": "EFTA02221088",
             "file": "EFTA02221088.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222764",
+            "file": "EFTA02222764.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -63209,6 +63497,142 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.799759,
+          32.781339
+        ]
+      },
+      "properties": {
+        "id": "af4a49fc0d866968",
+        "name": "FlightSafety International (Dallas)",
+        "location_name": "FlightSafety International (Dallas)",
+        "location_address": "Dallas, Texas, United States",
+        "location_description": "A flight training facility operated by FlightSafety International in the Dallas, Texas area, offering type-rating and recurrent training for business aircraft.",
+        "canonical_name": "FlightSafety International, Dallas, TX, Texas",
+        "region": "",
+        "property_type": "event",
+        "display_name": "FlightSafety International (Dallas)",
+        "location_descriptor": "A flight training facility operated by FlightSafety International in the Dallas, Texas area, offering type-rating and recurrent training for business aircraft.",
+        "event_count": 2,
+        "evidence_count": 3,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-12",
+        "date_end": "2017-09-25",
+        "people": [
+          {
+            "name": "Bill Hammond",
+            "role": "staff"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          },
+          {
+            "name": "Dave",
+            "role": "staff"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02215855.pdf, EFTA02215926.pdf, EFTA02223067.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "A flight training facility operated by FlightSafety International in the Dallas, Texas area, offering type-rating and recurrent training for business aircraft.",
+        "events": [
+          {
+            "event_id": "b7eb37371ee573fb",
+            "event_title": "Pilot Bill Hammond Attends FlightSafety GIV Training in Dallas",
+            "event_type": "travel",
+            "description": "Epstein pilot Bill Hammond attended FlightSafety GIV recurrent training at the Dallas, Texas facility June 12-16, 2017, arranged by Epstein's chief pilot Larry Visoski.",
+            "date_start": "2017-06-12",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Bill Hammond",
+                "role": "staff"
+              },
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Training for Epstein's aircraft crew at FlightSafety is directly related to maintaining his private aviation operations but Epstein was not personally present.",
+            "evidence": [
+              {
+                "file": "EFTA02215855.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "June 12th - 16th Bill Hammond in GIV recurrent\nDallas Texas facility",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215855.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215926.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "G550 training scheduler for JE Calendar\nJune 12th - 16th Bill Hammond in GIV recurrent\nDallas Texas facility",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215926.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2564b9c2aa6ceb42",
+            "event_title": "Epstein Pilot Dave Receives GIV Training at FlightSafety in Dallas",
+            "event_type": "travel",
+            "description": "Epstein pilot Dave underwent Gulfstream GIV training at FlightSafety International in Dallas September 25-29, 2017, with Bill Hammond serving as backup pilot for the week.",
+            "date_start": "2017-09-25",
+            "date_end": null,
+            "date_precision": "range",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Bill Hammond",
+                "role": "staff"
+              },
+              {
+                "name": "Dave",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein pilot training in Dallas - related to Epstein network operations but Epstein not personally present.",
+            "evidence": [
+              {
+                "file": "EFTA02223067.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Dave in Dallas for GIV training at Flight Safety Sept. 25-29\n(Larry says will use Bill Hammond to fly with him for the week)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223067.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02215855",
+            "file": "EFTA02215855.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215926",
+            "file": "EFTA02215926.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223067",
+            "file": "EFTA02223067.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.060615,
           26.807839
         ]
@@ -69850,7 +70274,7 @@
         "display_name": "Lenox Hill Radiology",
         "location_descriptor": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
         "event_count": 2,
-        "evidence_count": 7,
+        "evidence_count": 8,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -69864,6 +70288,10 @@
           {
             "name": "Dr. Orsher MD",
             "role": "associate"
+          },
+          {
+            "name": "Jordan Josephson",
+            "role": "other"
           },
           {
             "name": "Jo'o Fontanilla",
@@ -69882,8 +70310,8 @@
             "role": "other"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA02220360.pdf, EFTA02222415.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf, ... (+2 more)",
+        "source_count": 8,
+        "sources_preview": "EFTA02220360.pdf, EFTA02222415.pdf, EFTA02220441.pdf, EFTA02220470.pdf, EFTA02220599.pdf, ... (+3 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A medical imaging facility located on East 77th Street on Manhattan's Upper East Side.",
@@ -69941,6 +70369,10 @@
                 "role": "subject"
               },
               {
+                "name": "Jordan Josephson",
+                "role": "other"
+              },
+              {
                 "name": "Jo'o Fontanilla",
                 "role": "staff"
               },
@@ -69994,6 +70426,13 @@
                 "excerpt": "1:00pm ARRIVE for 1:30-3:00pm CT Scans & Ultrasound (Dr. Josephson) CT Scans of Sinus &Neck/Ultrasound of Thyroid Lenox Hill Radiology",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221642.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222880.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1:00pm ARRIVE for 1:30-3:OOpm CT Scans & Ultrasound (Dr. Josephson)\nCT Scans of Sinus &Neck/Ultrasound of Thyroid\nLenox Hill Radiology\n61 E. 771\" Street (between Park and Madison)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222880.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -70032,6 +70471,251 @@
           {
             "doc_id": "EFTA02221642",
             "file": "EFTA02221642.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222880",
+            "file": "EFTA02222880.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96295,
+          40.77684
+        ]
+      },
+      "properties": {
+        "id": "1c35bf166e1438a1",
+        "name": "9 East 79th Street",
+        "location_name": "9 East 79th Street",
+        "location_address": "9 East 79th Street, New York City, New York 10075, United States",
+        "location_description": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
+        "canonical_name": "9 East 79th Street, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "9 East 79th Street",
+        "location_descriptor": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
+        "event_count": 2,
+        "evidence_count": 9,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-08-30",
+        "date_end": "2017-09-15",
+        "people": [
+          {
+            "name": "Jojo Fontanilla",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Dr. Stuart Orsher",
+            "role": "other"
+          },
+          {
+            "name": "Stuart Orsher",
+            "role": "other"
+          },
+          {
+            "name": "Harry Fisch",
+            "role": "other"
+          },
+          {
+            "name": "Dr Orsher",
+            "role": "other"
+          },
+          {
+            "name": "Dr. Orsher",
+            "role": "other"
+          }
+        ],
+        "source_count": 9,
+        "sources_preview": "EFTA02220445.pdf, EFTA02220479.pdf, EFTA02220519.pdf, EFTA02220770.pdf, EFTA02221015.pdf, ... (+4 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
+        "events": [
+          {
+            "event_id": "b359ec17d6184a73",
+            "event_title": "Epstein Appointment with Dr. Stuart Orsher",
+            "event_type": "presence",
+            "description": "Scheduled appointment with Dr. Stuart Orsher, MD at 9 East 79th Street on August 30, 2017 at 10:30 AM. The document is an alert or calendar reminder for this medical appointment.",
+            "date_start": "2017-08-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jojo Fontanilla",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dr. Stuart Orsher",
+                "role": "other"
+              },
+              {
+                "name": "Stuart Orsher",
+                "role": "other"
+              },
+              {
+                "name": "Harry Fisch",
+                "role": "other"
+              },
+              {
+                "name": "Dr Orsher",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "This is a calendar alert found in case files suggesting an appointment scheduled for someone in Epstein's network, but does not explicitly confirm physical presence occurred.",
+            "evidence": [
+              {
+                "file": "EFTA02220445.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "are there any records you want sent to Dr. Orsher for your Wed. Aug. 30 appt?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220445.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220479.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "August 30, 2017 10:30 AM 10:30am Appt w/Dr. Stuart Orsher, MD 9 East 79th Strcct",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220479.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220519.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You have an appointment with Dr. Stuart Orsher on Wed. at I 0:30am...did you need to have any of your doctors send him any certain records?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220519.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220770.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "August 30, 2017 4:00 PM : 4:00pm Appt w/Michael Wolff",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220770.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221015.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey has a doctor appt tomorrow at 10:30am...it is within walking distance but please note he may want you to drive him.\n10:30am Appt iv/Dr. Stuart Orsher, MD\n9 East 70' Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221015.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221585.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You have an appointment with Stuart Orsher MD, Wednesday August 30th at 10:30. Address is 9 East 79th street. im in next wed and thurs 30 and 31",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221585.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221774.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Do your prefer to have Jojo drive you or walk to your 10:30am doctor appt. today?\nDr Orsher\n9 East 79th street\n[Epstein's reply:] walk",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221774.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Do your prefer to have Jojo drive you or walk to your 10:30am doctor appt. today?\nDr Orsher\n9 East 79th street\n...walk\nJeffrey will walk to his 10:30 doctor appt.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221870.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2af3d216b7b1c0d8",
+            "event_title": "Epstein Gets Fasting Blood Test at Dr. Orsher's Office, 9 East 79th Street",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein had a fasting blood test with Dr. Orsher at 8:30am at 9 East 79th Street, New York on September 15, 2017, with driver Jojo available if raining.",
+            "date_start": "2017-09-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dr. Orsher",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at this medical office for a blood test on this date.",
+            "evidence": [
+              {
+                "file": "EFTA02222880.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:30am Fasting Blood Test w/Dr. Orsher (==)\n9 East 79th Street ( E)\nJOJO TO DRIVE YOU IF ITS RAINING!!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222880.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02220445",
+            "file": "EFTA02220445.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220479",
+            "file": "EFTA02220479.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220519",
+            "file": "EFTA02220519.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220770",
+            "file": "EFTA02220770.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221015",
+            "file": "EFTA02221015.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221585",
+            "file": "EFTA02221585.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221774",
+            "file": "EFTA02221774.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221870",
+            "file": "EFTA02221870.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222880",
+            "file": "EFTA02222880.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -70588,78 +71272,94 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.799759,
-          32.781339
+          -80.090477,
+          26.688241
         ]
       },
       "properties": {
-        "id": "af4a49fc0d866968",
-        "name": "FlightSafety International (Dallas)",
-        "location_name": "FlightSafety International (Dallas)",
-        "location_address": "Dallas, Texas, United States",
-        "location_description": "A flight training facility operated by FlightSafety International in the Dallas, Texas area, offering type-rating and recurrent training for business aircraft.",
-        "canonical_name": "FlightSafety International, Dallas, TX, Texas",
+        "id": "fcdade6e73d1523e",
+        "name": "Palm Beach International Airport",
+        "location_name": "Palm Beach International Airport",
+        "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
+        "location_description": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
+        "canonical_name": "Palm Beach International Airport, 1000 James L Turnage Blvd, West Palm Beach, FL, Florida",
         "region": "",
         "property_type": "event",
-        "display_name": "FlightSafety International (Dallas)",
-        "location_descriptor": "A flight training facility operated by FlightSafety International in the Dallas, Texas area, offering type-rating and recurrent training for business aircraft.",
-        "event_count": 1,
+        "display_name": "Palm Beach International Airport",
+        "location_descriptor": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
+        "event_count": 2,
         "evidence_count": 2,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-06-12",
-        "date_end": "2017-06-12",
+        "date_start": "2017-09-12",
+        "date_end": "2017-09-20",
         "people": [
           {
-            "name": "Bill Hammond",
+            "name": "Lesley Groff",
             "role": "staff"
           },
           {
-            "name": "Larry Visoski",
+            "name": "Marilyn Flores",
             "role": "staff"
           }
         ],
         "source_count": 2,
-        "sources_preview": "EFTA02215855.pdf, EFTA02215926.pdf",
+        "sources_preview": "EFTA02222430.pdf, EFTA02223054.pdf",
         "epstein_nexus": "contextual",
         "event_type": "travel",
-        "event_description": "A flight training facility operated by FlightSafety International in the Dallas, Texas area, offering type-rating and recurrent training for business aircraft.",
+        "event_description": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
         "events": [
           {
-            "event_id": "b7eb37371ee573fb",
-            "event_title": "Pilot Bill Hammond Attends FlightSafety GIV Training in Dallas",
+            "event_id": "c09dde819638676a",
+            "event_title": "Epstein Associate Flies Palm Beach to NYC on Delta, September 12, 2017",
             "event_type": "travel",
-            "description": "Epstein pilot Bill Hammond attended FlightSafety GIV recurrent training at the Dallas, Texas facility June 12-16, 2017, arranged by Epstein's chief pilot Larry Visoski.",
-            "date_start": "2017-06-12",
+            "description": "Unnamed person rebooked by Delta from Palm Beach International Airport to New York City, departing September 12, 2017 at 7:35am, travel arranged by Epstein's assistant Lesley Groff.",
+            "date_start": "2017-09-12",
             "date_end": null,
-            "date_precision": "range",
+            "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
               {
-                "name": "Bill Hammond",
-                "role": "staff"
-              },
-              {
-                "name": "Larry Visoski",
+                "name": "Lesley Groff",
                 "role": "staff"
               }
             ],
             "epstein_nexus": "contextual",
-            "nexus_reasoning": "Training for Epstein's aircraft crew at FlightSafety is directly related to maintaining his private aviation operations but Epstein was not personally present.",
+            "nexus_reasoning": "Travel booked through Lesley Groff (Epstein's PA) from Palm Beach (Epstein's primary Florida residence location) to NYC.",
             "evidence": [
               {
-                "file": "EFTA02215855.pdf",
+                "file": "EFTA02222430.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "June 12th - 16th Bill Hammond in GIV recurrent\nDallas Texas facility",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215855.pdf",
+                "excerpt": "was rebooked by Delta to fly from PBI to NYC tomorrow, September 12, at 735am.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222430.pdf",
                 "confidence": 0.7
-              },
+              }
+            ]
+          },
+          {
+            "event_id": "c9a56622b30f8b2b",
+            "event_title": "Marilyn Flores Flies New York to Palm Beach on JetBlue 461",
+            "event_type": "travel",
+            "description": "Epstein staff member Marilyn Flores traveled from LaGuardia Airport to Palm Beach International Airport on JetBlue flight 461, departing 7:30am and arriving 10:25am on September 20, 2017.",
+            "date_start": "2017-09-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
               {
-                "file": "EFTA02215926.pdf",
+                "name": "Marilyn Flores",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein staff member traveling to Palm Beach, arranged by his Amex Centurion travel account, but Epstein not personally present.",
+            "evidence": [
+              {
+                "file": "EFTA02223054.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "G550 training scheduler for JE Calendar\nJune 12th - 16th Bill Hammond in GIV recurrent\nDallas Texas facility",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215926.pdf",
+                "excerpt": "jet blue#461 flight departs tomorrow at 7:30am arrives PBI at 10:25am",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223054.pdf",
                 "confidence": 0.7
               }
             ]
@@ -70667,13 +71367,13 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA02215855",
-            "file": "EFTA02215855.pdf",
+            "doc_id": "EFTA02222430",
+            "file": "EFTA02222430.pdf",
             "source_type": "doj_efta"
           },
           {
-            "doc_id": "EFTA02215926",
-            "file": "EFTA02215926.pdf",
+            "doc_id": "EFTA02223054",
+            "file": "EFTA02223054.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -78638,206 +79338,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.96295,
-          40.77684
-        ]
-      },
-      "properties": {
-        "id": "1c35bf166e1438a1",
-        "name": "9 East 79th Street",
-        "location_name": "9 East 79th Street",
-        "location_address": "9 East 79th Street, New York City, New York 10075, United States",
-        "location_description": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
-        "canonical_name": "9 East 79th Street, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "9 East 79th Street",
-        "location_descriptor": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
-        "event_count": 1,
-        "evidence_count": 8,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-08-30",
-        "date_end": "2017-08-30",
-        "people": [
-          {
-            "name": "Jojo Fontanilla",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Dr. Stuart Orsher",
-            "role": "other"
-          },
-          {
-            "name": "Stuart Orsher",
-            "role": "other"
-          },
-          {
-            "name": "Harry Fisch",
-            "role": "other"
-          },
-          {
-            "name": "Dr Orsher",
-            "role": "other"
-          }
-        ],
-        "source_count": 8,
-        "sources_preview": "EFTA02220445.pdf, EFTA02220479.pdf, EFTA02220519.pdf, EFTA02220770.pdf, EFTA02221015.pdf, ... (+3 more)",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
-        "events": [
-          {
-            "event_id": "b359ec17d6184a73",
-            "event_title": "Epstein Appointment with Dr. Stuart Orsher",
-            "event_type": "presence",
-            "description": "Scheduled appointment with Dr. Stuart Orsher, MD at 9 East 79th Street on August 30, 2017 at 10:30 AM. The document is an alert or calendar reminder for this medical appointment.",
-            "date_start": "2017-08-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jojo Fontanilla",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Dr. Stuart Orsher",
-                "role": "other"
-              },
-              {
-                "name": "Stuart Orsher",
-                "role": "other"
-              },
-              {
-                "name": "Harry Fisch",
-                "role": "other"
-              },
-              {
-                "name": "Dr Orsher",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "This is a calendar alert found in case files suggesting an appointment scheduled for someone in Epstein's network, but does not explicitly confirm physical presence occurred.",
-            "evidence": [
-              {
-                "file": "EFTA02220445.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "are there any records you want sent to Dr. Orsher for your Wed. Aug. 30 appt?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220445.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220479.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "August 30, 2017 10:30 AM 10:30am Appt w/Dr. Stuart Orsher, MD 9 East 79th Strcct",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220479.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220519.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "You have an appointment with Dr. Stuart Orsher on Wed. at I 0:30am...did you need to have any of your doctors send him any certain records?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220519.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220770.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "August 30, 2017 4:00 PM : 4:00pm Appt w/Michael Wolff",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220770.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221015.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey has a doctor appt tomorrow at 10:30am...it is within walking distance but please note he may want you to drive him.\n10:30am Appt iv/Dr. Stuart Orsher, MD\n9 East 70' Street",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221015.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221585.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "You have an appointment with Stuart Orsher MD, Wednesday August 30th at 10:30. Address is 9 East 79th street. im in next wed and thurs 30 and 31",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221585.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221774.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Do your prefer to have Jojo drive you or walk to your 10:30am doctor appt. today?\nDr Orsher\n9 East 79th street\n[Epstein's reply:] walk",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221774.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221870.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Do your prefer to have Jojo drive you or walk to your 10:30am doctor appt. today?\nDr Orsher\n9 East 79th street\n...walk\nJeffrey will walk to his 10:30 doctor appt.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221870.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02220445",
-            "file": "EFTA02220445.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220479",
-            "file": "EFTA02220479.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220519",
-            "file": "EFTA02220519.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220770",
-            "file": "EFTA02220770.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221015",
-            "file": "EFTA02221015.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221585",
-            "file": "EFTA02221585.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221774",
-            "file": "EFTA02221774.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221870",
-            "file": "EFTA02221870.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           60.59517,
           56.835423
         ]
@@ -79418,7 +79918,7 @@
         "display_name": "Quad Cinema",
         "location_descriptor": "An independent arthouse cinema at 34 West 13th Street in New York City's Greenwich Village, screening foreign, independent, and documentary films since 1972.",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 2,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -79434,8 +79934,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA02220997.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA02220997.pdf, EFTA02222764.pdf",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "An independent arthouse cinema at 34 West 13th Street in New York City's Greenwich Village, screening foreign, independent, and documentary films since 1972.",
@@ -79468,6 +79968,13 @@
                 "excerpt": "Patrick can see you at 6pm for a cut! OK for you?\n8:00pm Screening of Red Trees (DO YOU WANT TO GO?)\nQuad Cinema\n34 West nth Street (btwn 0 and 9\" Ave)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220997.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222764.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:00pm Screening of Red Trees- DO YOU WANT TO GO?\nQuad Cinema\n34 West 13th Street (btwn 5r\u00b0and 0 Ave)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222764.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -79476,6 +79983,11 @@
           {
             "doc_id": "EFTA02220997",
             "file": "EFTA02220997.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222764",
+            "file": "EFTA02222764.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -79798,7 +80310,7 @@
         "display_name": "Directors Guild of America Theater",
         "location_descriptor": "A premier screening venue operated by the Directors Guild of America, located in Midtown Manhattan at 110 West 57th Street, hosting film premieres, screenings, and industry events.",
         "event_count": 1,
-        "evidence_count": 5,
+        "evidence_count": 8,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -79808,10 +80320,18 @@
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
+          },
+          {
+            "name": "JOJO",
+            "role": "staff"
+          },
+          {
+            "name": "Andres Fernandez",
+            "role": "associate"
           }
         ],
-        "source_count": 5,
-        "sources_preview": "EFTA02221520.pdf, EFTA02222308.pdf, EFTA02222401.pdf, EFTA02222724.pdf, EFTA02222736.pdf",
+        "source_count": 8,
+        "sources_preview": "EFTA02221520.pdf, EFTA02222308.pdf, EFTA02222401.pdf, EFTA02222724.pdf, EFTA02222736.pdf, ... (+3 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A premier screening venue operated by the Directors Guild of America, located in Midtown Manhattan at 110 West 57th Street, hosting film premieres, screenings, and industry events.",
@@ -79829,6 +80349,14 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "JOJO",
+                "role": "staff"
+              },
+              {
+                "name": "Andres Fernandez",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "implied",
@@ -79868,6 +80396,27 @@
                 "excerpt": "7:30pm Premier of Angelina Jolie's film: First They Killed My Father (JE + 1)\nDirectors Guild of America Theater\n110 W. 57th Street",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222736.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222857.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:30pm Premier of Angelina Jolie's film: First They Killed My Father (JE + I)\nDirectors Guild of America Theater",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222857.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222858.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:30pm Premier of Angelina Jolie's film: First They Killed My Father (JE + 1)\nDirectors Guild of America Theater\n110 W. Sri Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222858.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222862.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:30pm Premier of Angelina folk is film: First They Killed My Father (JE + 1)\nDirectors Guild of America Theater\n110 W. 57\" Street\nJOJO TO DRIVE YOU!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222862.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -79896,6 +80445,21 @@
           {
             "doc_id": "EFTA02222736",
             "file": "EFTA02222736.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222857",
+            "file": "EFTA02222857.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222858",
+            "file": "EFTA02222858.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222862",
+            "file": "EFTA02222862.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -81503,63 +82067,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.090477,
-          26.688241
+          -73.982582,
+          40.773629
         ]
       },
       "properties": {
-        "id": "fcdade6e73d1523e",
-        "name": "Palm Beach International Airport",
-        "location_name": "Palm Beach International Airport",
-        "location_address": "1000 James L Turnage Blvd, West Palm Beach, Florida 33406, United States",
-        "location_description": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
-        "canonical_name": "Palm Beach International Airport, 1000 James L Turnage Blvd, West Palm Beach, FL, Florida",
+        "id": "2e49265825030a14",
+        "name": "Alice Tully Hall, Lincoln Center",
+        "location_name": "Alice Tully Hall, Lincoln Center",
+        "location_address": "1941 Broadway, New York City, New York 10023, United States",
+        "location_description": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
+        "canonical_name": "Alice Tully Hall, Lincoln Center, 1941 Broadway, New York, NY, New York City",
         "region": "",
         "property_type": "event",
-        "display_name": "Palm Beach International Airport",
-        "location_descriptor": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
+        "display_name": "Alice Tully Hall, Lincoln Center",
+        "location_descriptor": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
         "event_count": 1,
         "evidence_count": 1,
-        "primary_event_type": "travel",
+        "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-09-12",
-        "date_end": "2017-09-12",
+        "date_start": "2017-09-28",
+        "date_end": "2017-09-28",
         "people": [
           {
-            "name": "Lesley Groff",
-            "role": "staff"
+            "name": "Jeffrey Epstein",
+            "role": "subject"
           }
         ],
         "source_count": 1,
-        "sources_preview": "EFTA02222430.pdf",
-        "epstein_nexus": "contextual",
-        "event_type": "travel",
-        "event_description": "A commercial airport in West Palm Beach, Florida, serving Palm Beach County, located approximately 3 miles west of downtown West Palm Beach.",
+        "sources_preview": "EFTA02223062.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A major concert and performance hall at Lincoln Center for the Performing Arts on the Upper West Side of Manhattan, New York City.",
         "events": [
           {
-            "event_id": "c09dde819638676a",
-            "event_title": "Epstein Associate Flies Palm Beach to NYC on Delta, September 12, 2017",
-            "event_type": "travel",
-            "description": "Unnamed person rebooked by Delta from Palm Beach International Airport to New York City, departing September 12, 2017 at 7:35am, travel arranged by Epstein's assistant Lesley Groff.",
-            "date_start": "2017-09-12",
+            "event_id": "42ab928299c1b734",
+            "event_title": "Epstein Plans to Attend NY Film Festival Opening \"Last Flag Flying\" Sept 28",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein planned to attend the New York Film Festival opening film \"Last Flag Flying\" with a companion on September 28, 2017.",
+            "date_start": "2017-09-28",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
             "people": [
               {
-                "name": "Lesley Groff",
-                "role": "staff"
+                "name": "Jeffrey Epstein",
+                "role": "subject"
               }
             ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel booked through Lesley Groff (Epstein's PA) from Palm Beach (Epstein's primary Florida residence location) to NYC.",
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally planned to attend the NY Film Festival opening night event on September 28, 2017.",
             "evidence": [
               {
-                "file": "EFTA02222430.pdf",
+                "file": "EFTA02223062.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "was rebooked by Delta to fly from PBI to NYC tomorrow, September 12, at 735am.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222430.pdf",
+                "excerpt": "Jeffrey mentioned he would attend with her...so I assume this is the film he wil\nOn Sep 19, 2017, at 12:13 PM, Rebecca Drescher wrote:\nThe opening film is \"Last Flag Flying\" starting at 6pm.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223062.pdf",
                 "confidence": 0.7
               }
             ]
@@ -81567,8 +82131,104 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA02222430",
-            "file": "EFTA02222430.pdf",
+            "doc_id": "EFTA02223062",
+            "file": "EFTA02223062.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.932094,
+          18.341129
+        ]
+      },
+      "properties": {
+        "id": "95327c017b2b14e0",
+        "name": "Cyril E. King Airport",
+        "location_name": "Cyril E. King Airport",
+        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
+        "location_description": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
+        "canonical_name": "Cyril E. King Airport, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Cyril E. King Airport",
+        "location_descriptor": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-03-19",
+        "date_end": "2017-03-19",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "John Christensen",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02222818.pdf, EFTA02222821.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "The primary commercial airport serving St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
+        "events": [
+          {
+            "event_id": "01a2ca2c889bf957",
+            "event_title": "John Christensen Flies Fort Lauderdale to St. Thomas (NK201), March 19, 2017",
+            "event_type": "travel",
+            "description": "John Christensen flew Spirit Airlines flight NK201 from Fort Lauderdale/Hollywood International Airport to Cyril E. King Airport in St. Thomas, USVI on March 19, 2017, en route to Epstein's Little St. James Island.",
+            "date_start": "2017-03-19",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "John Christensen",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Lesley Groff (Epstein's assistant) to 'the island' (Little St. James) for John Christensen, confirming this is an Epstein-organized visit to his USVI property.",
+            "evidence": [
+              {
+                "file": "EFTA02222818.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight Information\nDate 19 Mar 2017\nAirline Spirit Airlines\nFlight/Class NK 201 T Economy Class\nOrigin Fort Lauderdale, Fort Lauderdale/hollywood International\nDestination Charlotte Amalie, Cyril E King Airport\nDeparting 12:58 PM\nArriving 03:29 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222818.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222821.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "HI John...here is your ticket to go to the island on Sunday...we arc purhchasing a scat, carry on and one checked baggage for you as well...\n\nFlight NK 201 T Economy Class\nOrigin Fort Lauderdale\nDestination Charlotte Amalie, Cyril E King Airport\nDeparting 12:58 PM\nArriving 03:29 PM\n19 Mar 2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222821.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02222818",
+            "file": "EFTA02222818.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222821",
+            "file": "EFTA02222821.pdf",
             "source_type": "doj_efta"
           }
         ]
