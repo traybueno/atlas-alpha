@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 116,
-        "evidence_count": 427,
+        "event_count": 117,
+        "evidence_count": 434,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -150,6 +150,14 @@
             "role": "legal"
           },
           {
+            "name": "Officer Noel",
+            "role": "other"
+          },
+          {
+            "name": "Officer Thomas",
+            "role": "other"
+          },
+          {
             "name": "Richard Berman",
             "role": "other"
           },
@@ -252,6 +260,10 @@
           {
             "name": "Loretta A. Preska",
             "role": "legal"
+          },
+          {
+            "name": "BOP after action team",
+            "role": "other"
           },
           {
             "name": "[redacted MCC employee]",
@@ -546,8 +558,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 354,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+349 more)",
+        "source_count": 360,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+355 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -960,6 +972,20 @@
                 "source_type": "doj_efta",
                 "excerpt": "Accused child sex trafficker Jeffrey Epstein was found semi-conscious inside his cell at the Metropolitan Correctional Center in Manhattan with marks on his neck that may have been self-inflicted, NBC News reported late Wednesday.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00074027.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078416.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Type of Incident: Possible Suicide Attempt, Date and Time of Incident: 07/23/19 \u2014 1:27 AM, Inmate Name/Register Number: Epstein, Jeffrey #76318-054, Location of Incident: Special Housing Unit",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078416.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078432.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On July 23, 2019 at approx. 1:27 a.m., a call for assistance on the Special Housing Unit was announced by the Control Center. Upon my arrival I was informed that an inmate had attempted suicide and proceeded to cell, Z05-124LAD. I observed inmate Epstein, Jeffrey #76318-054 lying in the fetal position on the floor of his cell wearing a t-shirt and boxers. He was breathing heavily and was snoring.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078432.pdf",
                 "confidence": 0.7
               }
             ]
@@ -1436,6 +1462,13 @@
                 "excerpt": "The Government has charged Tova Noel in a six-count indictment...conduct from August 9, 2019 through August 10, 2019.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077325.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078412.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "For employees currently on shift at MCC, we are working on having them come to [USAO] so they can be interviewed on the 9th floor interview rooms (to avoid press camped out at MCC).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078412.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -1589,6 +1622,14 @@
               {
                 "name": "David Schoen",
                 "role": "legal"
+              },
+              {
+                "name": "Officer Noel",
+                "role": "other"
+              },
+              {
+                "name": "Officer Thomas",
+                "role": "other"
               },
               {
                 "name": "Richard Berman",
@@ -1811,6 +1852,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey Edward Epstein (hereafter \"JE\"), born January 20, 1953 in Brooklyn, New York, and deceased August 10, 2019 in the federal Metropolitan Correctional Center New York.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078127.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078410.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "At 6:33 a.m., U. heard a radio call for medical staff at the SHU. U. responded to the SHU, where he saw Officer Noel, who said that Epstein had hung himself. U. went into Epstein's cell, and Epstein was on the ground, on top of two mattresses, and Officer Thomas was performing CPR.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078410.pdf",
                 "confidence": 0.7
               }
             ]
@@ -3655,6 +3703,10 @@
               {
                 "name": "Nicholas Tartaglione",
                 "role": "other"
+              },
+              {
+                "name": "BOP after action team",
+                "role": "other"
               }
             ],
             "epstein_nexus": "contextual",
@@ -3665,6 +3717,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "back on August 21st there was a conference where we discussed, among other things, issues related to Mr. Tartaglione's housing in the MCC",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017109.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078396.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "members of the BOP after action team that were investigating what happened with the Epstein suicide were shredding boxes of paperwork. He stated, \"they are shredding everything\". He stated that he even was told to help them shred paperwork too.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078396.pdf",
                 "confidence": 0.7
               }
             ]
@@ -3964,6 +4023,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "took Epstein to the SHU showers to make the phone call. Epstein told he was calling his mother.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00070037.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078392.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "In addition to BOP policies, did SDNY have requirements to memorialize Epstein's phone calls related to the underlying case? If so, were they followed?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078392.pdf",
                 "confidence": 0.7
               }
             ]
@@ -6304,6 +6370,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "19c6c4dd145df000",
+            "event_title": "Epstein Makes Unrecorded Phone Call from MCC SHU Showers Before Death",
+            "event_type": "communication",
+            "description": "MCC officer took Epstein to SHU showers to make an unrecorded phone call; Epstein said he was calling his mother but was overheard making small talk with an unidentified male",
+            "date_start": "2019-08",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present in MCC SHU showers making an unrecorded phone call days before his death",
+            "evidence": [
+              {
+                "file": "EFTA00078410.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "took Epstein to the SHU showers to make the phone call. Epstein told he was calling his mother. dialed a number provided by Epstein, and overhead Epstein making small talk with a male individual.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078410.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -6543,6 +6636,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00078416",
+            "file": "EFTA00078416.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078432",
+            "file": "EFTA00078432.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00008744",
             "file": "EFTA00008744.pdf",
             "source_type": "doj_efta"
@@ -6723,6 +6826,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00078412",
+            "file": "EFTA00078412.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00009791",
             "file": "EFTA00009791.pdf",
             "source_type": "doj_efta"
@@ -6870,6 +6978,11 @@
           {
             "doc_id": "EFTA00078127",
             "file": "EFTA00078127.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078410",
+            "file": "EFTA00078410.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -7558,6 +7671,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00078396",
+            "file": "EFTA00078396.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00017123",
             "file": "EFTA00017123.pdf",
             "source_type": "doj_efta"
@@ -7635,6 +7753,11 @@
           {
             "doc_id": "EFTA00070037",
             "file": "EFTA00070037.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078392",
+            "file": "EFTA00078392.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -8100,8 +8223,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 112,
-        "evidence_count": 354,
+        "event_count": 113,
+        "evidence_count": 357,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8755,10 +8878,14 @@
           {
             "name": "Yoni Koren",
             "role": "other"
+          },
+          {
+            "name": "David",
+            "role": "other"
           }
         ],
-        "source_count": 323,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+318 more)",
+        "source_count": 326,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+321 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -13421,6 +13548,13 @@
                 "excerpt": "reconfirming Dr. Watson will come see Jeffrey tonight at 7pm\n9 East 71st Street between 5th and Madison",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221868.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222147.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "YES! that will be fantastic! Jeffrey would love to host him for dinner at his home, 9 East 71st Street between 5th and Madison. What time is good for Dr. Watson?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222147.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -13504,6 +13638,10 @@
                 "role": "staff"
               },
               {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
                 "name": "JOJO",
                 "role": "staff"
               },
@@ -13513,6 +13651,10 @@
               },
               {
                 "name": "Dr. Orsher",
+                "role": "associate"
+              },
+              {
+                "name": "Leon Black",
                 "role": "associate"
               },
               {
@@ -13570,6 +13712,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "7:00pm DINNER w/Woody and Soon Yi",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220599.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222049.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey says he and Leon discussed another meeting tomorrow morning-would 9:30am work? (Jeffrey will be out of the house for an 8:30am appt, but back for sure by 9:30am...)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222049.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14581,6 +14730,41 @@
                 "source_type": "doj_efta",
                 "excerpt": "Hi Melanie...Jeffrey says he and Leon discussed another meeting tomorrow morning\u2014would 9:30am work? (Jeffrey will be out of the house for an 8:30am appt, but back for sure by 9:30am_)",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221971.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "2b97745330063bab",
+            "event_title": "Epstein at NY Residence, Invites Prince Andrew to Stop By at 2pm (Sep 21, 2017)",
+            "event_type": "communication",
+            "description": "Epstein's assistant contacts David on September 21, 2017 to relay that Jeffrey Epstein is available at his NYC residence at 2pm and inviting 'Andrew' (likely Prince Andrew) to call or visit the house.",
+            "date_start": "2017-09-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "David",
+                "role": "other"
+              },
+              {
+                "name": "Prince Andrew, Duke of York",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein is explicitly described as being at his NYC residence at 2pm on September 21, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02222052.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi David-Jeffrey says Andrew was to give him a call...Jeffrey is available on his cell (212 533 3739)\u2014or if Andrew would like to stop by, Jeffrey will be back at the house at 2pm...he could come over then...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222052.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15963,6 +16147,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222147",
+            "file": "EFTA02222147.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220290",
             "file": "EFTA02220290.pdf",
             "source_type": "doj_efta"
@@ -15995,6 +16184,11 @@
           {
             "doc_id": "EFTA02220599",
             "file": "EFTA02220599.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222049",
+            "file": "EFTA02222049.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -16200,6 +16394,11 @@
           {
             "doc_id": "EFTA02221971",
             "file": "EFTA02221971.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222052",
+            "file": "EFTA02222052.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -27411,7 +27610,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 49,
-        "evidence_count": 118,
+        "evidence_count": 123,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27587,8 +27786,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 114,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+109 more)",
+        "source_count": 117,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+112 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -29004,6 +29203,20 @@
                 "excerpt": "Here are the tickets for you and to go from Milan to Paris on Sept. 2nd. Please double check and make sure all is correct! Your tickets from Paris to Vilnius will come later today.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221633.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222030.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is due to arrive the same day...the girls may have to take a cab...I will ask JE what he wants to do the day before (Sept. 1)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222030.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222030.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Your tickets from Paris to Vilnius will comp later today...can you confirm he knows and will arrive Paris on sept. 2 and depart on Sept. 4?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222030.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -29528,6 +29741,27 @@
                 "excerpt": "Jeffrey is asking if there is a flight that departs Paris on Sunday for Milan around 11 am..?\n...-Change t n Friday Sept 8 and leave for Milan on Sunday morning Sept.10. (Rec.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222018.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222060.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "She will then go from Paris to Milan on Sept. 9th.\nNOTE: we have another candidate for interview (M, who's info that will need to fly in on the 9th to Paris...it would be good for to be departing on the 9th around the same time will be arriving)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222060.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222060.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 1730 09SEP CDG MXP 0315P 0440P\nTOTAL FARE - USD 883.30",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222060.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222063.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Coach, non refundable:\nAF 1230 10SEP CDG MXP 0130P 0300P\nTOTAL FARE - USD 699.60\n...Jeffrey's request is for morning on Sunday...AF 1730 10SEP CDG MXP 0315P 0440P",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222063.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -29970,6 +30204,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222030",
+            "file": "EFTA02222030.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220476",
             "file": "EFTA02220476.pdf",
             "source_type": "doj_efta"
@@ -30155,6 +30394,16 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222060",
+            "file": "EFTA02222060.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222063",
+            "file": "EFTA02222063.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00077200",
             "file": "EFTA00077200.pdf",
             "source_type": "doj_efta"
@@ -30188,7 +30437,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 45,
-        "evidence_count": 116,
+        "evidence_count": 117,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -30348,8 +30597,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 106,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+101 more)",
+        "source_count": 107,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+102 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -30436,6 +30685,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "27 electronic devices seized on August 12, 2019 from Little Saint James in the Virgin Islands... The Subject Devices were all recovered from a search of a private island in the U.S. Virgin Islands known as Little Saint James, which is an approximately 75 acre island located approximately four miles off the southeast coast of St. Thomas Island",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01263089.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078409.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A reporter is working a story about what appears to be an unregistered ambulance operating out of the Epstein compound, shown in the link. They inquired with the local USVI gov't who said they're \"conducting their own investigation into it.\" ... Some of the drone footage in the linked video(s) actually shows the raids taking place yesterday.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078409.pdf",
                 "confidence": 0.7
               }
             ]
@@ -32293,6 +32549,11 @@
           {
             "doc_id": "EFTA01263089",
             "file": "EFTA01263089.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078409",
+            "file": "EFTA00078409.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -45008,7 +45269,7 @@
         "display_name": "Long Island MacArthur Airport",
         "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
         "event_count": 9,
-        "evidence_count": 26,
+        "evidence_count": 27,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -45040,8 +45301,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 26,
-        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+21 more)",
+        "source_count": 27,
+        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+22 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
@@ -45364,6 +45625,13 @@
                 "excerpt": "10:00am \u25a0 and Jojo to meet JE at Islip",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221882.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222141.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "wheels up 730 am wednesday . landing 930 islip. . should meet us at 10 . with jojo.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222141.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -45526,6 +45794,11 @@
           {
             "doc_id": "EFTA02221882",
             "file": "EFTA02221882.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222141",
+            "file": "EFTA02222141.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -48695,7 +48968,7 @@
         "display_name": "Palm Beach County Sheriff's Office",
         "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
         "event_count": 6,
-        "evidence_count": 11,
+        "evidence_count": 12,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -48709,10 +48982,14 @@
           {
             "name": "Jack Goldberger",
             "role": "legal"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
           }
         ],
-        "source_count": 11,
-        "sources_preview": "EFTA00003868.pdf, EFTA00013890.pdf, EFTA00013975.pdf, EFTA00014007.pdf, EFTA00040076.pdf, ... (+6 more)",
+        "source_count": 12,
+        "sources_preview": "EFTA00003868.pdf, EFTA00013890.pdf, EFTA00013975.pdf, EFTA00014007.pdf, EFTA00040076.pdf, ... (+7 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
@@ -48865,6 +49142,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -48882,6 +49163,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "he served 13 months in a private wing of the Palm Beach county jail, where liberal work-release privileges allowed him to spend 12 hours a day, six days a week in his private office.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076657.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078520.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein knew both [redacted] from his time incarcerated in \"The Stockade\" a minimum-security prison. [redacted] said he did favors \"bend rules\" for Epstein, who he described as a nice guy \"if a bit perverted.\" [redacted] had talked to Epstein during the same period and did unspecified favors for Ghislaine Maxwell.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078520.pdf",
                 "confidence": 0.7
               }
             ]
@@ -48967,6 +49255,11 @@
           {
             "doc_id": "EFTA00076657",
             "file": "EFTA00076657.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078520",
+            "file": "EFTA00078520.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -50157,7 +50450,7 @@
         "display_name": "U.S. District Court, District of New Hampshire",
         "location_descriptor": "The federal courthouse of the U.S. District Court for the District of New Hampshire, located at 55 Pleasant Street in Concord, NH, handling federal criminal and civil cases in the state.",
         "event_count": 6,
-        "evidence_count": 9,
+        "evidence_count": 10,
         "primary_event_type": "legal",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -50181,8 +50474,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 9,
-        "sources_preview": "EFTA00017716.pdf, EFTA00017722.pdf, EFTA00017726.pdf, EFTA00017729.pdf, EFTA00040584.pdf, ... (+4 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA00017716.pdf, EFTA00017722.pdf, EFTA00017726.pdf, EFTA00078497.pdf, EFTA00017729.pdf, ... (+5 more)",
         "epstein_nexus": "direct",
         "event_type": "legal",
         "event_description": "The federal courthouse of the U.S. District Court for the District of New Hampshire, located at 55 Pleasant Street in Concord, NH, handling federal criminal and civil cases in the state.",
@@ -50224,6 +50517,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "MAXWELL is expected to be presented this afternoon in the in federal court in New Hampshire",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00017726.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00078497.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Maxwell, who has intentionally evading detection since Epstein's arrest in July 2019, was located by the FBI at a residence in Bradford, New Hampshire, which she appears to have purchased through an LLC in December 2019. She was arrested at approximately 8:30am this morning and will be presented later this afternoon at the United States District Court for the District of New Hampshire.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078497.pdf",
                 "confidence": 0.7
               }
             ]
@@ -50392,6 +50692,11 @@
           {
             "doc_id": "EFTA00017726",
             "file": "EFTA00017726.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00078497",
+            "file": "EFTA00078497.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -55124,7 +55429,7 @@
         "display_name": "Tolmachevo Airport",
         "location_descriptor": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
         "event_count": 4,
-        "evidence_count": 14,
+        "evidence_count": 15,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -55140,8 +55445,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 14,
-        "sources_preview": "EFTA02220241.pdf, EFTA02220282.pdf, EFTA02220615.pdf, EFTA02220655.pdf, EFTA02220943.pdf, ... (+9 more)",
+        "source_count": 15,
+        "sources_preview": "EFTA02220241.pdf, EFTA02220282.pdf, EFTA02220615.pdf, EFTA02220655.pdf, EFTA02220943.pdf, ... (+10 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main international airport serving Novosibirsk, Russia, located in the town of Ob in Novosibirsk Oblast.",
@@ -55271,6 +55576,13 @@
                 "excerpt": "SU 1307 D 08SEP F OVB SVO 0925A 0940A\nSU 2462 D 08SEP F SVO CDG 1145A 0240P\nWe Need to CHANGE some tickets-Make sure they are sent to NO ONE but ME!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221792.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222060.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1549 07SEP OVB SVO 0600A 0610A\nSU 3002 07SEP SVO CDG 0845A 1145A\nOPERATED BY AIR FRANCE\nTOTAL FARE - USD 439.38",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222060.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -55383,6 +55695,11 @@
           {
             "doc_id": "EFTA02221792",
             "file": "EFTA02221792.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222060",
+            "file": "EFTA02222060.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -58895,7 +59212,7 @@
         "display_name": "Milan Linate Airport",
         "location_descriptor": "A city airport located in Linate, near Milan, Italy, primarily serving domestic and short-haul European flights.",
         "event_count": 3,
-        "evidence_count": 10,
+        "evidence_count": 11,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -58919,8 +59236,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 9,
-        "sources_preview": "EFTA02220105.pdf, EFTA02220206.pdf, EFTA02220422.pdf, EFTA02221056.pdf, EFTA02221534.pdf, ... (+4 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA02220105.pdf, EFTA02220206.pdf, EFTA02220422.pdf, EFTA02221056.pdf, EFTA02221534.pdf, ... (+5 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A city airport located in Linate, near Milan, Italy, primarily serving domestic and short-haul European flights.",
@@ -59010,6 +59327,13 @@
                 "excerpt": "We live 2 hours from aeroport , it's impossible for tonight.. i could leave tomorrow morning, even early, how Jeffrey prefers\nAlitalia #352 departs 5:20pm arrives orly at 6:45pm.\nKopija: Jeffrey Epstein",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221764.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222030.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EasyJet\nFlight 3932\nNonstop | Econ\nSat, Sep 02, 2017\nMilan Linate. Italy\nLIN - 01:25 pm\nParis. France\nCDG - 03:00 pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222030.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -59097,6 +59421,11 @@
           {
             "doc_id": "EFTA02221764",
             "file": "EFTA02221764.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222030",
+            "file": "EFTA02222030.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -66182,6 +66511,118 @@
           {
             "doc_id": "EFTA02221121",
             "file": "EFTA02221121.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.59517,
+          56.835423
+        ]
+      },
+      "properties": {
+        "id": "b22f9e45f2d12138",
+        "name": "Koltsovo International Airport",
+        "location_name": "Koltsovo International Airport",
+        "location_address": "Yekaterinburg, Sverdlovsk, Russia",
+        "location_description": "An international airport serving Yekaterinburg, Russia's fourth-largest city and capital of Sverdlovsk Oblast, located approximately 16 kilometers southeast of the city center.",
+        "canonical_name": "Koltsovo Airport, Yekaterinburg, Russia, Sverdlovsk",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Koltsovo International Airport",
+        "location_descriptor": "An international airport serving Yekaterinburg, Russia's fourth-largest city and capital of Sverdlovsk Oblast, located approximately 16 kilometers southeast of the city center.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-05",
+        "date_end": "2017-09-09",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02221886.pdf, EFTA02222042.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "An international airport serving Yekaterinburg, Russia's fourth-largest city and capital of Sverdlovsk Oblast, located approximately 16 kilometers southeast of the city center.",
+        "events": [
+          {
+            "event_id": "73908b9e6eccd210",
+            "event_title": "Epstein Extends Female Associate's Paris Stay, CDG\u2192Moscow\u2192Koltsovo Sept 9 2017 (Rec OUXS71)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein directed female associate to stay in Paris until Saturday September 9, 2017; ticket changed to Aeroflot SU2463 CDG\u2192SVO then SU1408 SVO\u2192Koltsovo Yekaterinburg at Epstein's personal instruction.",
+            "date_start": "2017-09-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally directed this travel extension and route change, demonstrating direct control over this associate's schedule.",
+            "evidence": [
+              {
+                "file": "EFTA02221886.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey wants her to stay until Saturday the ninth!! Can we do this?\n...SU2463 09SEP CDG SVO 355P 830P\nSU1408 09SEP SVO SVX 1150P 410A\nRec. Loc#OUXS71.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221886.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "dcc8f7d41be768be",
+            "event_title": "Epstein Associates Fly Ekaterinburg to Paris via Moscow (Aeroflot SU1407/SU2454, Sep 5, 2017)",
+            "event_type": "presence",
+            "description": "Unnamed female associates in Epstein's network fly Aeroflot SU 1407 from Yekaterinburg (SVX) to Moscow (SVO) at 8:20am and SU 2454 from Moscow to Paris CDG on September 5, 2017, arranged by Lesley Groff.",
+            "date_start": "2017-09-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel is arranged by Lesley Groff, Epstein's personal assistant.",
+            "evidence": [
+              {
+                "file": "EFTA02222042.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "SU 1407 SVX SVO 820A 850A\nSU 2454 SVO CDG 1010A 105P\n...\nwill be traveling from Ekaterinburg (Russia), going through Moscow to Paris.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222042.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221886",
+            "file": "EFTA02221886.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222042",
+            "file": "EFTA02222042.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -78172,82 +78613,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          60.59517,
-          56.835423
-        ]
-      },
-      "properties": {
-        "id": "b22f9e45f2d12138",
-        "name": "Koltsovo International Airport",
-        "location_name": "Koltsovo International Airport",
-        "location_address": "Yekaterinburg, Sverdlovsk, Russia",
-        "location_description": "An international airport serving Yekaterinburg, Russia's fourth-largest city and capital of Sverdlovsk Oblast, located approximately 16 kilometers southeast of the city center.",
-        "canonical_name": "Koltsovo Airport, Yekaterinburg, Russia, Sverdlovsk",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Koltsovo International Airport",
-        "location_descriptor": "An international airport serving Yekaterinburg, Russia's fourth-largest city and capital of Sverdlovsk Oblast, located approximately 16 kilometers southeast of the city center.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-09-09",
-        "date_end": "2017-09-09",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA02221886.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "An international airport serving Yekaterinburg, Russia's fourth-largest city and capital of Sverdlovsk Oblast, located approximately 16 kilometers southeast of the city center.",
-        "events": [
-          {
-            "event_id": "73908b9e6eccd210",
-            "event_title": "Epstein Extends Female Associate's Paris Stay, CDG\u2192Moscow\u2192Koltsovo Sept 9 2017 (Rec OUXS71)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein directed female associate to stay in Paris until Saturday September 9, 2017; ticket changed to Aeroflot SU2463 CDG\u2192SVO then SU1408 SVO\u2192Koltsovo Yekaterinburg at Epstein's personal instruction.",
-            "date_start": "2017-09-09",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally directed this travel extension and route change, demonstrating direct control over this associate's schedule.",
-            "evidence": [
-              {
-                "file": "EFTA02221886.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey wants her to stay until Saturday the ninth!! Can we do this?\n...SU2463 09SEP CDG SVO 355P 830P\nSU1408 09SEP SVO SVX 1150P 410A\nRec. Loc#OUXS71.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221886.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02221886",
-            "file": "EFTA02221886.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.005994,
           40.712749
         ]
@@ -78396,6 +78761,82 @@
           {
             "doc_id": "EFTA02222022",
             "file": "EFTA02222022.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97617,
+          40.738511
+        ]
+      },
+      "properties": {
+        "id": "236c79d1c33110a3",
+        "name": "NYC Office of Chief Medical Examiner",
+        "location_name": "NYC Office of Chief Medical Examiner",
+        "location_address": "421 East 26th Street, New York City, New York 10016, United States",
+        "location_description": "The New York City Office of Chief Medical Examiner, located at 421 East 26th Street in Manhattan, is the city agency responsible for investigating deaths occurring under unusual or suspicious circumstances and conducting forensic autopsies.",
+        "canonical_name": "NYC Office of Chief Medical Examiner, 421 East 26th Street, New York, NY 10016, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "NYC Office of Chief Medical Examiner",
+        "location_descriptor": "The New York City Office of Chief Medical Examiner, located at 421 East 26th Street in Manhattan, is the city agency responsible for investigating deaths occurring under unusual or suspicious circumstances and conducting forensic autopsies.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-08-10",
+        "date_end": "2019-08-10",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00078395.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "The New York City Office of Chief Medical Examiner, located at 421 East 26th Street in Manhattan, is the city agency responsible for investigating deaths occurring under unusual or suspicious circumstances and conducting forensic autopsies.",
+        "events": [
+          {
+            "event_id": "792d72dd2053ffeb",
+            "event_title": "Epstein Autopsy Requested from NYC Office of Chief Medical Examiner (Aug 2019)",
+            "event_type": "presence",
+            "description": "USAO SDNY requested autopsy report, complete medical examiner case file, and all photographs from NYC OCME for Jeffrey Epstein who died August 10, 2019",
+            "date_start": "2019-08-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at NYC OCME for his autopsy following his death at MCC on August 10, 2019",
+            "evidence": [
+              {
+                "file": "EFTA00078395.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NYC Office of Chief Medical Examiner, 421 East 261\" Street, New York, New York 10016... Date of Death: 8 /10 / 19, Name of Decedent: Jeffrey Epstein",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00078395.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00078395",
+            "file": "EFTA00078395.pdf",
             "source_type": "doj_efta"
           }
         ]
