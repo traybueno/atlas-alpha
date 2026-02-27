@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 108,
-        "evidence_count": 384,
+        "evidence_count": 385,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -170,6 +170,10 @@
             "role": "other"
           },
           {
+            "name": "Richard M. Berman",
+            "role": "legal"
+          },
+          {
             "name": "Reid Weingarten",
             "role": "legal"
           },
@@ -187,10 +191,6 @@
           },
           {
             "name": "Judge Alison Nathan",
-            "role": "legal"
-          },
-          {
-            "name": "Richard M. Berman",
             "role": "legal"
           },
           {
@@ -506,8 +506,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 318,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+313 more)",
+        "source_count": 319,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+314 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -1880,6 +1880,10 @@
                 "role": "subject"
               },
               {
+                "name": "Richard M. Berman",
+                "role": "legal"
+              },
+              {
                 "name": "Reid Weingarten",
                 "role": "legal"
               }
@@ -1892,6 +1896,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "So just leaving the jail...tomorrow morn has gotten really jammed....give me a second after the hearing and we can talk about whether or not a visit makes sense... Sunday, July 14, 2019",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014330.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076068.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Case 1:19-cr-00490-RMB Document 6 Filed 07/11/19...Dear Judge Berman: We write to outline the grounds entitling Jeffrey Epstein to pretrial release",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076068.pdf",
                 "confidence": 0.7
               }
             ]
@@ -6316,6 +6327,11 @@
           {
             "doc_id": "EFTA00014330",
             "file": "EFTA00014330.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076068",
+            "file": "EFTA00076068.pdf",
             "source_type": "doj_efta"
           },
           {
