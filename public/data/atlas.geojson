@@ -17679,7 +17679,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 123,
-        "evidence_count": 258,
+        "evidence_count": 259,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -18115,8 +18115,8 @@
             "role": "other"
           }
         ],
-        "source_count": 237,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+232 more)",
+        "source_count": 238,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+233 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -22928,6 +22928,13 @@
                 "excerpt": "Alert - NIII and Ehud arrive back to NY Sept 7\nSeptember 7, 2017 5:30 AM : Nili and Ehud arrive back to NY Sept 7",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222739.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222746.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: NW and Ehud back to NY early this morning\n-I had their apt exterminated\n-A little food and flowers were put in apt",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222746.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -24116,6 +24123,11 @@
           {
             "doc_id": "EFTA02222739",
             "file": "EFTA02222739.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222746",
+            "file": "EFTA02222746.pdf",
             "source_type": "doj_efta"
           }
         ]
