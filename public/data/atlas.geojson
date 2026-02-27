@@ -53198,257 +53198,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.984409,
-          40.77367
-        ]
-      },
-      "properties": {
-        "id": "ff18528f5635e113",
-        "name": "Vivian Beaumont Theater",
-        "location_name": "Vivian Beaumont Theater",
-        "location_address": "150 West 65th Street, New York City, New York 10023, United States",
-        "location_description": "A regional theater at Lincoln Center for the Performing Arts at 150 West 65th Street in Manhattan, New York City, home to Lincoln Center Theater productions.",
-        "canonical_name": "Vivian Beaumont Theater, 150 West 65th Street, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Vivian Beaumont Theater",
-        "location_descriptor": "A regional theater at Lincoln Center for the Performing Arts at 150 West 65th Street in Manhattan, New York City, home to Lincoln Center Theater productions.",
-        "event_count": 4,
-        "evidence_count": 7,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-05",
-        "date_end": "2017-09-14",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lila Walker",
-            "role": "other"
-          },
-          {
-            "name": "the girls",
-            "role": "other"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Eva Andersson",
-            "role": "associate"
-          },
-          {
-            "name": "Eva",
-            "role": "associate"
-          },
-          {
-            "name": "Eva Dubin",
-            "role": "associate"
-          },
-          {
-            "name": "Peggy Siegal",
-            "role": "associate"
-          }
-        ],
-        "source_count": 6,
-        "sources_preview": "EFTA02212893.pdf, EFTA02212859.pdf, EFTA02213959.pdf, EFTA02215878.pdf, EFTA02215790.pdf, ... (+1 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A regional theater at Lincoln Center for the Performing Arts at 150 West 65th Street in Manhattan, New York City, home to Lincoln Center Theater productions.",
-        "events": [
-          {
-            "event_id": "26f5248946195fe8",
-            "event_title": "Epstein Attends Opening Night of \"Oslo\" at Vivian Beaumont Theater (May 5, 2017)",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein attended the opening night of the Broadway play \"Oslo\" (Lincoln Center Theater production) at the Vivian Beaumont Theater on May 5, 2017 at 7:00pm, with 4 seats reserved and driver Jojo.",
-            "date_start": "2017-05-05",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The calendar entry confirms Epstein personally attended the Oslo play at Lincoln Center with reserved seats on May 5, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02212893.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "6:30pm Doors Open for Terje's Opening of: Oslo\n\n7:00pm Performance of Oslo\n\nLincoln Center Theater's Broadway Production\n\nAt the Vivian Beaumont Theater at Lincoln Center\n\n150 West 6, Street (between Broadway & Amsterdam)\n\nYOU HAVE 4 SEATS\n\nJojo to drive you!!!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212893.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "78e2de60265b53ae",
-            "event_title": "Epstein's Staff Secures Tickets for Two at Chaplin Award Gala, May 8, 2017",
-            "event_type": "presence",
-            "description": "Lesley Groff arranged two tickets to the Chaplin Award Gala for unnamed 'girls' on May 8, 2017.",
-            "date_start": "2017-05-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lila Walker",
-                "role": "other"
-              },
-              {
-                "name": "the girls",
-                "role": "other"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Arranged by Epstein's assistant.",
-            "evidence": [
-              {
-                "file": "EFTA02212859.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I am working on securing two tickets for the Chaplin Award Gala tomorrow evening.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212859.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bfb8a7ca3d3b228b",
-            "event_title": "Eva Dubin Attends OSLO at Vivian Beaumont Theater on JE's Black Amex (June 20, 2017)",
-            "event_type": "presence",
-            "description": "Eva Dubin received 4 house seats to OSLO at the Vivian Beaumont Theater on June 20, 2017 at 7pm; $588 charged to Jeffrey Epstein's Black Amex card.",
-            "date_start": "2017-06-20",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Eva Andersson",
-                "role": "associate"
-              },
-              {
-                "name": "Eva",
-                "role": "associate"
-              },
-              {
-                "name": "Eva Dubin",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "The theater tickets were charged to Jeffrey Epstein's Black Amex card for his associate Eva Dubin.",
-            "evidence": [
-              {
-                "file": "EFTA02213959.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "This message will confirm House Seats for OSLO at the Vivian Beaumont Theater (150 West 65th Street): Date: Tuesday, June 20 Time: 7pm Held Under: Eva Dubin Tickets: 4 (four) Total: $588.00 will be charged to the credit card provided",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213959.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02215878.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "This message will confirm House Seats for OSLO at the Vivian Beaumont Theater (150 West 65th Street):\nDate: Tuesday, June 20",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215878.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02215790.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "This message will confirm House Seats for OSLO at the Vivian Beaumont Theater (150 West 651\u00b0 Street):\nDate: Tuesday, June 20\nTime: 7pm 'Please note early curtain time'",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215790.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "a1d5f7478b250591",
-            "event_title": "Epstein Calendar: \"Stronger\" Film Premiere at Walter Reade Theater (Peggy Siegal Invite)",
-            "event_type": "presence",
-            "description": "Epstein calendar entry for \"Stronger\" film premiere at Walter Reade Theater at Lincoln Center, 7:30pm, invited by Peggy Siegal, September 14, 2017.",
-            "date_start": "2017-09-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Peggy Siegal",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "This is a calendar appointment in Epstein's personal schedule, showing his planned attendance at the event.",
-            "evidence": [
-              {
-                "file": "EFTA02221520.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "7:30pm \"Stronger\" Premier (Peggy Siegal Invite) Walter Reade Theater 165 West 6, Street",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221520.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221520.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "9:30pm Lincoln Ristorante After Party 142 West 65th Street",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221520.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02212893",
-            "file": "EFTA02212893.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02212859",
-            "file": "EFTA02212859.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213959",
-            "file": "EFTA02213959.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215878",
-            "file": "EFTA02215878.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215790",
-            "file": "EFTA02215790.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221520",
-            "file": "EFTA02221520.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.00978,
           42.36555
         ]
@@ -57148,6 +56897,210 @@
           {
             "doc_id": "EFTA02217065",
             "file": "EFTA02217065.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984409,
+          40.77367
+        ]
+      },
+      "properties": {
+        "id": "ff18528f5635e113",
+        "name": "Vivian Beaumont Theater",
+        "location_name": "Vivian Beaumont Theater",
+        "location_address": "150 West 65th Street, New York City, New York 10023, United States",
+        "location_description": "A regional theater at Lincoln Center for the Performing Arts at 150 West 65th Street in Manhattan, New York City, home to Lincoln Center Theater productions.",
+        "canonical_name": "Vivian Beaumont Theater, 150 West 65th Street, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Vivian Beaumont Theater",
+        "location_descriptor": "A regional theater at Lincoln Center for the Performing Arts at 150 West 65th Street in Manhattan, New York City, home to Lincoln Center Theater productions.",
+        "event_count": 3,
+        "evidence_count": 5,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-05",
+        "date_end": "2017-06-20",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lila Walker",
+            "role": "other"
+          },
+          {
+            "name": "the girls",
+            "role": "other"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Eva Andersson",
+            "role": "associate"
+          },
+          {
+            "name": "Eva",
+            "role": "associate"
+          },
+          {
+            "name": "Eva Dubin",
+            "role": "associate"
+          }
+        ],
+        "source_count": 5,
+        "sources_preview": "EFTA02212893.pdf, EFTA02212859.pdf, EFTA02213959.pdf, EFTA02215878.pdf, EFTA02215790.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A regional theater at Lincoln Center for the Performing Arts at 150 West 65th Street in Manhattan, New York City, home to Lincoln Center Theater productions.",
+        "events": [
+          {
+            "event_id": "26f5248946195fe8",
+            "event_title": "Epstein Attends Opening Night of \"Oslo\" at Vivian Beaumont Theater (May 5, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein attended the opening night of the Broadway play \"Oslo\" (Lincoln Center Theater production) at the Vivian Beaumont Theater on May 5, 2017 at 7:00pm, with 4 seats reserved and driver Jojo.",
+            "date_start": "2017-05-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The calendar entry confirms Epstein personally attended the Oslo play at Lincoln Center with reserved seats on May 5, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02212893.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "6:30pm Doors Open for Terje's Opening of: Oslo\n\n7:00pm Performance of Oslo\n\nLincoln Center Theater's Broadway Production\n\nAt the Vivian Beaumont Theater at Lincoln Center\n\n150 West 6, Street (between Broadway & Amsterdam)\n\nYOU HAVE 4 SEATS\n\nJojo to drive you!!!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212893.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "78e2de60265b53ae",
+            "event_title": "Epstein's Staff Secures Tickets for Two at Chaplin Award Gala, May 8, 2017",
+            "event_type": "presence",
+            "description": "Lesley Groff arranged two tickets to the Chaplin Award Gala for unnamed 'girls' on May 8, 2017.",
+            "date_start": "2017-05-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lila Walker",
+                "role": "other"
+              },
+              {
+                "name": "the girls",
+                "role": "other"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Arranged by Epstein's assistant.",
+            "evidence": [
+              {
+                "file": "EFTA02212859.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I am working on securing two tickets for the Chaplin Award Gala tomorrow evening.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02212859.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bfb8a7ca3d3b228b",
+            "event_title": "Eva Dubin Attends OSLO at Vivian Beaumont Theater on JE's Black Amex (June 20, 2017)",
+            "event_type": "presence",
+            "description": "Eva Dubin received 4 house seats to OSLO at the Vivian Beaumont Theater on June 20, 2017 at 7pm; $588 charged to Jeffrey Epstein's Black Amex card.",
+            "date_start": "2017-06-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Eva Andersson",
+                "role": "associate"
+              },
+              {
+                "name": "Eva",
+                "role": "associate"
+              },
+              {
+                "name": "Eva Dubin",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "The theater tickets were charged to Jeffrey Epstein's Black Amex card for his associate Eva Dubin.",
+            "evidence": [
+              {
+                "file": "EFTA02213959.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "This message will confirm House Seats for OSLO at the Vivian Beaumont Theater (150 West 65th Street): Date: Tuesday, June 20 Time: 7pm Held Under: Eva Dubin Tickets: 4 (four) Total: $588.00 will be charged to the credit card provided",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213959.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215878.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "This message will confirm House Seats for OSLO at the Vivian Beaumont Theater (150 West 65th Street):\nDate: Tuesday, June 20",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215878.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02215790.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "This message will confirm House Seats for OSLO at the Vivian Beaumont Theater (150 West 651\u00b0 Street):\nDate: Tuesday, June 20\nTime: 7pm 'Please note early curtain time'",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215790.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02212893",
+            "file": "EFTA02212893.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02212859",
+            "file": "EFTA02212859.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213959",
+            "file": "EFTA02213959.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215878",
+            "file": "EFTA02215878.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215790",
+            "file": "EFTA02215790.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -66408,7 +66361,7 @@
         "events": [
           {
             "event_id": "9f25998734e98f24",
-            "event_title": "Epstein Returns to NY for Medical Appointments at Lenox Hill and Dr. Orsher, Sep 1 2017",
+            "event_title": "Epstein Medical Day: Sonogram at Lenox Hill Radiology + Appt w/Dr. Orsher, Sep 1, 2017",
             "event_type": "presence",
             "description": "Epstein returned to New York for medical appointments on September 1, 2017: 8:00 AM sonogram at Lenox Hill Radiology (61 E 77th St), followed by 10:30 AM appointment with Dr. Orsher MD at 9 East 70th St.",
             "date_start": "2017-09-01",
@@ -79332,6 +79285,97 @@
           {
             "doc_id": "EFTA02222093",
             "file": "EFTA02222093.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9838,
+          40.77378
+        ]
+      },
+      "properties": {
+        "id": "a9d933fa7e9e3acb",
+        "name": "Walter Reade Theater",
+        "location_name": "Walter Reade Theater",
+        "location_address": "165 West 65th Street, New York City, New York 10023, United States",
+        "location_description": "",
+        "canonical_name": "165 West 65th Street, New York, NY 10023",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Walter Reade Theater",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-14",
+        "date_end": "2017-09-14",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Peggy Siegal",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02221520.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "a1d5f7478b250591",
+            "event_title": "Epstein Calendar: \"Stronger\" Film Premiere at Walter Reade Theater (Peggy Siegal Invite)",
+            "event_type": "presence",
+            "description": "Epstein calendar entry for \"Stronger\" film premiere at Walter Reade Theater at Lincoln Center, 7:30pm, invited by Peggy Siegal, September 14, 2017.",
+            "date_start": "2017-09-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Peggy Siegal",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "This is a calendar appointment in Epstein's personal schedule, showing his planned attendance at the event.",
+            "evidence": [
+              {
+                "file": "EFTA02221520.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:30pm \"Stronger\" Premier (Peggy Siegal Invite) Walter Reade Theater 165 West 6, Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221520.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221520.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "9:30pm Lincoln Ristorante After Party 142 West 65th Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221520.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221520",
+            "file": "EFTA02221520.pdf",
             "source_type": "doj_efta"
           }
         ]
