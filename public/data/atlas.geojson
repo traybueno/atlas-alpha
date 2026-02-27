@@ -75489,6 +75489,82 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.417743,
+          48.846386
+        ]
+      },
+      "properties": {
+        "id": "357ce9a5370a0901",
+        "name": "Paris Charles de Gaulle Airport",
+        "location_name": "Paris Charles de Gaulle Airport",
+        "location_address": "Charles de Gaulle, Saint-Mand\u00e9, Val-de-Marne, France",
+        "location_description": "The largest international airport in France, located 25 km northeast of Paris in the commune of Roissy-en-France, serving as a major hub for Air France and international travel.",
+        "canonical_name": "Paris Charles de Gaulle Airport, Paris, France, Saint-Mand\u00e9, Val-de-Marne",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris Charles de Gaulle Airport",
+        "location_descriptor": "The largest international airport in France, located 25 km northeast of Paris in the commune of Roissy-en-France, serving as a major hub for Air France and international travel.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-10",
+        "date_end": "2017-09-12",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02221723.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "The largest international airport in France, located 25 km northeast of Paris in the commune of Roissy-en-France, serving as a major hub for Air France and international travel.",
+        "events": [
+          {
+            "event_id": "18d09bdec8fdc016",
+            "event_title": "Lesley Groff Books Moscow-Paris Round Trip for Epstein Associate, Sep 10-12 2017",
+            "event_type": "travel",
+            "description": "Lesley Groff, Epstein's executive assistant, booked a round-trip Aeroflot/Air France ticket for an unidentified woman traveling Moscow SVO to Paris CDG on September 10-12, 2017.",
+            "date_start": "2017-09-10",
+            "date_end": "2017-09-12",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Lesley Groff (Epstein's executive assistant) arranged the travel through Epstein's Amex Centurion account, indicating organizational connection to Epstein's operations.",
+            "evidence": [
+              {
+                "file": "EFTA02221723.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "should now arrive Paris Sunday Sept. 10 evening and return on Tuesday Sept. 12 around\nNew ticket will be:\n1 SU 3004 10SEP SVO CDG 0645P 0940P\nOPERATED BY AIR FRANCE\n2 SU 2463 N 12SEP T CDG SVO 0355P 0830P",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221723.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02221723",
+            "file": "EFTA02221723.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
     }
   ]
 }
