@@ -13675,7 +13675,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 89,
-        "evidence_count": 193,
+        "evidence_count": 194,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -14031,8 +14031,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 184,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+179 more)",
+        "source_count": 185,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+180 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -17578,6 +17578,13 @@
                 "excerpt": "Jeffrey will be in NY toward end of the week...would Friday Sept 15th work? Perhaps lunch?...",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220640.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220657.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be in NY toward end of the week-would Friday Sept 15th work? Perhaps lunch?...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220657.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -18501,6 +18508,11 @@
           {
             "doc_id": "EFTA02220640",
             "file": "EFTA02220640.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220657",
+            "file": "EFTA02220657.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -27083,7 +27095,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 41,
-        "evidence_count": 81,
+        "evidence_count": 82,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27183,6 +27195,10 @@
             "role": "other"
           },
           {
+            "name": "Valdson Cotrin",
+            "role": "associate"
+          },
+          {
             "name": "Andrew Farkas",
             "role": "associate"
           },
@@ -27231,16 +27247,12 @@
             "role": "staff"
           },
           {
-            "name": "Valdson Cotrin",
-            "role": "staff"
-          },
-          {
             "name": "Anas Al Rasheed",
             "role": "other"
           }
         ],
-        "source_count": 79,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+74 more)",
+        "source_count": 80,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+75 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -28243,6 +28255,10 @@
                 "role": "subject"
               },
               {
+                "name": "Valdson Cotrin",
+                "role": "associate"
+              },
+              {
                 "name": "Andrew Farkas",
                 "role": "associate"
               },
@@ -28294,6 +28310,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "I'm pretty Bummed that JE kept me in Paris\u201e nobody's home to take care of my house,.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220477.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220672.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: Re: Appointment for JE in Paris\nDate:\nPouvez vous me confirm\u00e9 se vous arrive demain et \u00e0 quelle heure svp.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220672.pdf",
                 "confidence": 0.7
               }
             ]
@@ -29066,6 +29089,11 @@
           {
             "doc_id": "EFTA02220477",
             "file": "EFTA02220477.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220672",
+            "file": "EFTA02220672.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -45467,7 +45495,7 @@
         "display_name": "John F. Kennedy International Airport",
         "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
         "event_count": 4,
-        "evidence_count": 6,
+        "evidence_count": 7,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -45487,8 +45515,8 @@
             "role": "other"
           }
         ],
-        "source_count": 6,
-        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+1 more)",
+        "source_count": 7,
+        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+2 more)",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
@@ -45584,6 +45612,13 @@
                 "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nClass T Economy Class\nSeats 42C",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220620.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220665.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeals 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220665.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -45639,6 +45674,11 @@
           {
             "doc_id": "EFTA02220620",
             "file": "EFTA02220620.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220665",
+            "file": "EFTA02220665.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -54446,7 +54486,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
         "event_count": 2,
-        "evidence_count": 7,
+        "evidence_count": 9,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -54462,16 +54502,24 @@
             "role": "other"
           },
           {
+            "name": "Larry Visoski",
+            "role": "associate"
+          },
+          {
             "name": "Lesley Groff",
             "role": "associate"
           },
           {
             "name": "Elina",
             "role": "other"
+          },
+          {
+            "name": "Bella Klein",
+            "role": "other"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA02220490.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, EFTA02220584.pdf, ... (+2 more)",
+        "source_count": 9,
+        "sources_preview": "EFTA02220490.pdf, EFTA02220523.pdf, EFTA02220526.pdf, EFTA02220581.pdf, EFTA02220584.pdf, ... (+4 more)",
         "epstein_nexus": "contextual",
         "event_type": "travel",
         "event_description": "The primary commercial airport on St. Thomas in the U.S. Virgin Islands, located on the western end of the island near Charlotte Amalie.",
@@ -54518,11 +54566,19 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Larry Visoski",
+                "role": "associate"
+              },
+              {
                 "name": "Lesley Groff",
                 "role": "associate"
               },
               {
                 "name": "Elina",
+                "role": "other"
+              },
+              {
+                "name": "Bella Klein",
                 "role": "other"
               }
             ],
@@ -54570,6 +54626,20 @@
                 "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nClass T Economy Class\nSeats 42C",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220620.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220662.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight Information\nDate\nAirline\nAirline Record Locator\nFlight/Class\nOrigin\nDestination\nDeparting\nArriving\nArrival Terminal\nEstimated Time\nStops\nSeats\nConfirmed\n10 Apr 2017\nDelta Air Lines\nHGYBXV\nDL 676 T Economy Class\nCharlotte Amalie, Cyril E King Airport\nNew York, .John F Kennedy International\n02:04 PM\n06:29 PM\nTerminal 4\n4 Hrs 25 Mins\nNon-stop\n42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220662.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220665.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeals 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220665.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -54608,6 +54678,16 @@
           {
             "doc_id": "EFTA02220620",
             "file": "EFTA02220620.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220662",
+            "file": "EFTA02220662.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220665",
+            "file": "EFTA02220665.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -65358,6 +65438,82 @@
           {
             "doc_id": "EFTA02220654",
             "file": "EFTA02220654.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.932094,
+          18.341129
+        ]
+      },
+      "properties": {
+        "id": "2ffda2dc701ccae8",
+        "name": "Cyril E King Airport",
+        "location_name": "Cyril E King Airport",
+        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
+        "location_description": "",
+        "canonical_name": "Cyril E King Airport, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Cyril E King Airport",
+        "location_descriptor": "",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-08-26",
+        "date_end": "2017-08-26",
+        "people": [
+          {
+            "name": "ARina",
+            "role": "other"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02220669.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "travel",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "a6d3c0aaa3a1b60f",
+            "event_title": "ARina's Flight DL 676 from St. Thomas to JFK (Changed Departure to Aug 26)",
+            "event_type": "travel",
+            "description": "ARina traveled on Delta Air Lines flight 676 from Cyril E King Airport in St. Thomas to John F Kennedy International Airport in New York, departing at 1:37 PM and arriving at 5:37 PM. The ticket was changed from an earlier date and issued through American Express Centurion Travel.",
+            "date_start": "2017-08-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "ARina",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged through Epstein's American Express Centurion account but no evidence Epstein was physically present on this flight.",
+            "evidence": [
+              {
+                "file": "EFTA02220669.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DL 676 26AUG STT JFK 0137P 0537P...Flight Information Date 27 Aug 2017 Airline Delta Air Lines...Flight/Class DL 676 Y Economy Class Origin Charlotte Amalie, Cyril E King Airport Destination New York, John F Kennedy International Departing 01:37 PM Arriving 05:39 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220669.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02220669",
+            "file": "EFTA02220669.pdf",
             "source_type": "doj_efta"
           }
         ]
