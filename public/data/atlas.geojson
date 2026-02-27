@@ -22,7 +22,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 123,
-        "evidence_count": 364,
+        "evidence_count": 365,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -674,8 +674,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 333,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+328 more)",
+        "source_count": 334,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+329 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -6044,6 +6044,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Soon-Yi Previn",
+                "role": "associate"
+              },
+              {
                 "name": "Darren Indyke",
                 "role": "legal"
               },
@@ -6130,6 +6134,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Morning. Reconfirming Leon will come see Jeffrey today at 9am for breakfast!\n\nHe is!!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221970.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222217.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Morning Soon Yi...wanted to confirm you and Woody will come see Jeffrey tomorrow night, Friday, Sept. 15th for dinner! Will 7pm be good for you?\n\nI think 7 PM should be fine. Thank you\nSoon-Yi iPhone",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222217.pdf",
                 "confidence": 0.7
               }
             ]
@@ -8233,6 +8244,11 @@
           {
             "doc_id": "EFTA02221970",
             "file": "EFTA02221970.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222217",
+            "file": "EFTA02222217.pdf",
             "source_type": "doj_efta"
           },
           {
