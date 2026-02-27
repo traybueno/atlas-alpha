@@ -22,7 +22,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 110,
-        "evidence_count": 393,
+        "evidence_count": 394,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -510,8 +510,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 326,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+321 more)",
+        "source_count": 327,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+322 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -2506,6 +2506,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Associate Warden (AW) at MCC New York advised that Jeffrey EPSTEIN was found in his cell this morning at 0127 hours in a fetal position with a noose around his neck.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076615.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076619.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Associate Warden (AW) at MCC New York advised that Jeffrey EPSTEIN was found in his cell this morning at 0127 hours in a fetal position with a noose around his neck.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076619.pdf",
                 "confidence": 0.7
               }
             ]
@@ -6624,6 +6631,11 @@
           {
             "doc_id": "EFTA00076615",
             "file": "EFTA00076615.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076619",
+            "file": "EFTA00076619.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -31429,8 +31441,8 @@
         "property_type": "event",
         "display_name": "Teterboro Airport",
         "location_descriptor": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
-        "event_count": 33,
-        "evidence_count": 76,
+        "event_count": 34,
+        "evidence_count": 77,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -31498,8 +31510,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 71,
-        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+66 more)",
+        "source_count": 72,
+        "sources_preview": "EFTA00005994.pdf, EFTA01263197.pdf, EFTA01263093.pdf, EFTA00039367.pdf, EFTA01262900.pdf, ... (+67 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A general aviation reliever airport in Bergen County, New Jersey, serving private and charter aircraft for the New York metropolitan area.",
@@ -32732,6 +32744,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "32ae93c49fad45b4",
+            "event_title": "N415LM (G550, Plan D LLC) Departs Teterboro Meridian for Paris Le Bourget, Sep 2, 2017",
+            "event_type": "presence",
+            "description": "Epstein pilot Larry Visoski confirmed N415LM (G550 Plan D LLC) departing Teterboro Meridian at 7:30 AM September 2 2017 arriving Paris Le Bourget at 7 PM.",
+            "date_start": "2017-09-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "N415LM (Plan D LLC) is Epstein aircraft; pilot Larry Visoski coordinated with Epstein PA Lesley Groff.",
+            "evidence": [
+              {
+                "file": "EFTA02221193.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We depart Saturday/tomorrow at 7:30 AM from Meridian in Teterboro\nArrival Paris Le Bourget Universal aviation at 7 PM Saturday night\nAircraft is G550\nTail number N415LM\nPlan D, LLC",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221193.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -33088,6 +33131,11 @@
           {
             "doc_id": "EFTA02221160",
             "file": "EFTA02221160.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221193",
+            "file": "EFTA02221193.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -44992,6 +45040,293 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.994421,
+          40.660716
+        ]
+      },
+      "properties": {
+        "id": "d7d20cebb33612c0",
+        "name": "Fr\u00e9d\u00e9ric Fekkai Salon",
+        "location_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
+        "location_address": "712 5th Avenue, Brooklyn, New York 11215, United States",
+        "location_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
+        "canonical_name": "Frederic Fekkai Salon, 712 Fifth Avenue, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
+        "location_descriptor": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
+        "event_count": 6,
+        "evidence_count": 8,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-30",
+        "date_end": "2017-09-13",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          },
+          {
+            "name": "Karyna",
+            "role": "associate"
+          },
+          {
+            "name": "Jojo",
+            "role": "staff"
+          },
+          {
+            "name": "Kathryn Ruemmler",
+            "role": "associate"
+          }
+        ],
+        "source_count": 8,
+        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+3 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
+        "events": [
+          {
+            "event_id": "4795c3367231de6c",
+            "event_title": "Jeffrey Epstein and Karyna visit Fr\u00e9d\u00e9ric Fekkai salon",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein visited the Fr\u00e9d\u00e9ric Fekkai salon in Manhattan on May 30, 2017 for a haircut, accompanied by an unidentified associate.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              },
+              {
+                "name": "Karyna",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Document confirms Jeffrey Epstein's personal visit to the Fekkai salon charged to his account on May 30.",
+            "evidence": [
+              {
+                "file": "EFTA02215243.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Did you go with Jeffrey to Fekkai salon on May 30th and have a cut? Someone went with him...charge from Fekkai on May 30.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215243.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216454.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "on Saturday 3 June and on Monday 5 June (dyeing hair)\nKaryna who went with Jeffrey [on May 30 to Fekkai]",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216454.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216761.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "never mind on the charge from Fekkai on May 30. It was Karyna who went with Jeffrey.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216761.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c7f2a7a038f8c44b",
+            "event_title": "Epstein at Frederic Fekkai NYC for Haircut with Patrick, 2:30pm May 30, 2017",
+            "event_type": "presence",
+            "description": "Epstein confirmed for haircut with stylist Patrick at Frederic Fekkai NYC at 2:30pm May 30, 2017; driven by Jojo.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jojo",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein is the subject of this confirmed appointment at Frederic Fekkai salon, driven by personal driver Jojo.",
+            "evidence": [
+              {
+                "file": "EFTA02214835.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You are confirmed to see Patrick for a cut today at 2:30pm\nJOJO, be outside ready to go now please!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214835.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "836058f719005628",
+            "event_title": "Epstein Charged $590.43 at Frederic Fekkai New York, June 3, 2017",
+            "event_type": "presence",
+            "description": "Epstein charged $590.43 at Frederic Fekkai salon in New York on June 3, 2017.",
+            "date_start": "2017-06-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's account charged at Fekkai.",
+            "evidence": [
+              {
+                "file": "EFTA02214841.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "06/03/2017 FREDERIC FEKKAI - NEW YORK, NY 590.43",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214841.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3422855347bb48fe",
+            "event_title": "Epstein Associate Hair Appointment at Fr\u00e9d\u00e9ric Fekkai Salon, June 13, 2017",
+            "event_type": "presence",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02215920.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Confirmation from Frederic Fekkai - 5th Avenue\nDear We are writing to inform you that you have an appointment for Tuesday, June 13 at 12:00 PM.\nWomen's Hair Cut with PATRICK, Color - Highlights with REYAD and Pedicure with NORM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215920.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0e7ac8b1d8043a6a",
+            "event_title": "Epstein Meets Ruemmler at Frederic Fekkai Salon NYC, Sept 13, 2017 at ~4pm",
+            "event_type": "presence",
+            "description": "Epstein planned to meet Ruemmler at Fekkai salon Sept 13 2017 at 4pm.",
+            "date_start": "2017-09-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kathryn Ruemmler",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally meeting Ruemmler.",
+            "evidence": [
+              {
+                "file": "EFTA02221088.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I think i will meet ruemmelrr tomorw at fekkai around 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221088.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "27291f3e84e17a41",
+            "event_title": "Epstein Network Associate Purchases Black Prada Tote Bag at NYC Store for Epstein, Aug 26, 2017",
+            "event_type": "transaction",
+            "description": "An Epstein associate purchased a black Prada tote at Prada NYC store August 26 2017 per Epstein approval.",
+            "date_start": "2017-08-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein personally approved the purchase but was not physically present.",
+            "evidence": [
+              {
+                "file": "EFTA02221203.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the address i gave you is for the Prada store...tomorrow will be fine to purchase! Jeffrey just emailed me back re the Tote I chose...he said it is PERFECT!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221203.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02215243",
+            "file": "EFTA02215243.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216454",
+            "file": "EFTA02216454.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216761",
+            "file": "EFTA02216761.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214835",
+            "file": "EFTA02214835.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214841",
+            "file": "EFTA02214841.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215920",
+            "file": "EFTA02215920.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221088",
+            "file": "EFTA02221088.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221203",
+            "file": "EFTA02221203.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.197694,
           32.938232
         ]
@@ -46486,6 +46821,224 @@
           {
             "doc_id": "EFTA02219390",
             "file": "EFTA02219390.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.517709,
+          49.00382
+        ]
+      },
+      "properties": {
+        "id": "c732c80a3f45b74d",
+        "name": "Paris Charles de Gaulle Airport",
+        "location_name": "Paris Charles de Gaulle Airport",
+        "location_address": "Roissy-en-France, Val-d'Oise, France",
+        "location_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "canonical_name": "Paris Charles de Gaulle Airport, Roissy-en-France, France, Val-d'Oise",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris Charles de Gaulle Airport",
+        "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "event_count": 5,
+        "evidence_count": 6,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-04",
+        "date_end": "2017-09-04",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lasma",
+            "role": "associate"
+          },
+          {
+            "name": "Fettah Tamince",
+            "role": "associate"
+          }
+        ],
+        "source_count": 6,
+        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf, ... (+1 more)",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
+        "events": [
+          {
+            "event_id": "6c25338ea4f4ca28",
+            "event_title": "Lasma Departs Paris for Riga on Air France #7982 \u2014 July 11, 2017",
+            "event_type": "travel",
+            "description": "An Epstein associate named Lasma departed Paris at 10:10am on July 11, 2017, on Air France flight 7982 to Riga, Latvia (reservation VQAQYTY).",
+            "date_start": "2017-07-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lasma",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Lasma's travel was arranged by Epstein's staff and tracked in his schedule, suggesting she was an associate.",
+            "evidence": [
+              {
+                "file": "EFTA02216282.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: 10:10am Lasma to depart Paris for Riga via AirFrance#7982 (Rec. Loc#VQAQYTY)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216282.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217578.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 7982 Z Business Class Paris, Charles De Gaulle Riga, Riga International 10:10 AM 01:55 PM Terminal 2 D",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217578.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ebf9a29b9e3a28d2",
+            "event_title": "Epstein Arranges Travel for Paris Contact: CDG to JFK, July 14 2017 (Norwegian Air)",
+            "event_type": "travel",
+            "description": "Epstein arranged travel for an unidentified contact from Paris Charles de Gaulle to JFK on July 14, 2017 via Norwegian Air Shuttle economy class.",
+            "date_start": "2017-07-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Epstein arranged and paid for this flight ticket to bring an unidentified person from Paris to New York to visit him.",
+            "evidence": [
+              {
+                "file": "EFTA02217695.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight Information Date 14 Jul 2017 Airline Norwegian Air Shuttle Flight/Class E Economy Class Origin Paris, Charles De Gaulle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217695.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fb4755715c821531",
+            "event_title": "Russian Traveler Returns Istanbul\u2192Paris CDG Turkish Airlines Jul 4 2017",
+            "event_type": "travel",
+            "description": "TK1827 Istanbul\u2192Paris CDG July 4 2017 for Russian citizen in Epstein network.",
+            "date_start": "2017-07-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Fettah Tamince",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return leg of Epstein network itinerary to Paris.",
+            "evidence": [
+              {
+                "file": "EFTA02219548.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TK1827 Istanbul Paris CDG Jul 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219548.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "20390feedc48ed8c",
+            "event_title": "Epstein Network Associates Arrive Paris CDG from Milan Linate, Sept 2, 2017",
+            "event_type": "travel",
+            "description": "Two women arrived at Paris Charles de Gaulle Airport Terminal 2D on September 2, 2017 on easyJet booking ESQFJJL, with car pickup arranged for the same day.",
+            "date_start": "2017-09-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel to Paris arranged via Epstein network; Epstein was known to be in Paris during this period based on other documents.",
+            "evidence": [
+              {
+                "file": "EFTA02221056.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Milan Linate to Paris Charles de Gaulle (Terminal 2D)\nPick-up Drop-off 02/09/2017 03/09/2017",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221056.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "38d203372104bfbf",
+            "event_title": "Epstein Network Associate Departs Paris CDG to Vilnius via Copenhagen, Sept 4, 2017",
+            "event_type": "travel",
+            "description": "Departure from Paris CDG to Vilnius via Copenhagen Sept 4 2017.",
+            "date_start": "2017-09-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return to Vilnius from Paris via Copenhagen.",
+            "evidence": [
+              {
+                "file": "EFTA02221089.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Paris CDG to Copenhagen to Vilnius Sept 4 2017 SK 1560 SK 0742",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221089.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02216282",
+            "file": "EFTA02216282.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217578",
+            "file": "EFTA02217578.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217695",
+            "file": "EFTA02217695.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219548",
+            "file": "EFTA02219548.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221056",
+            "file": "EFTA02221056.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221089",
+            "file": "EFTA02221089.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -48809,221 +49362,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.994421,
-          40.660716
-        ]
-      },
-      "properties": {
-        "id": "d7d20cebb33612c0",
-        "name": "Fr\u00e9d\u00e9ric Fekkai Salon",
-        "location_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
-        "location_address": "712 5th Avenue, Brooklyn, New York 11215, United States",
-        "location_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
-        "canonical_name": "Frederic Fekkai Salon, 712 Fifth Avenue, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
-        "location_descriptor": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
-        "event_count": 4,
-        "evidence_count": 6,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-30",
-        "date_end": "2017-06-03",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Karyna Shuliak",
-            "role": "associate"
-          },
-          {
-            "name": "Karyna",
-            "role": "associate"
-          },
-          {
-            "name": "Jojo",
-            "role": "staff"
-          }
-        ],
-        "source_count": 6,
-        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+1 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
-        "events": [
-          {
-            "event_id": "4795c3367231de6c",
-            "event_title": "Jeffrey Epstein and Karyna visit Fr\u00e9d\u00e9ric Fekkai salon",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein visited the Fr\u00e9d\u00e9ric Fekkai salon in Manhattan on May 30, 2017 for a haircut, accompanied by an unidentified associate.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Karyna Shuliak",
-                "role": "associate"
-              },
-              {
-                "name": "Karyna",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Document confirms Jeffrey Epstein's personal visit to the Fekkai salon charged to his account on May 30.",
-            "evidence": [
-              {
-                "file": "EFTA02215243.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Did you go with Jeffrey to Fekkai salon on May 30th and have a cut? Someone went with him...charge from Fekkai on May 30.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215243.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216454.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "on Saturday 3 June and on Monday 5 June (dyeing hair)\nKaryna who went with Jeffrey [on May 30 to Fekkai]",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216454.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216761.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "never mind on the charge from Fekkai on May 30. It was Karyna who went with Jeffrey.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216761.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c7f2a7a038f8c44b",
-            "event_title": "Epstein at Frederic Fekkai NYC for Haircut with Patrick, 2:30pm May 30, 2017",
-            "event_type": "presence",
-            "description": "Epstein confirmed for haircut with stylist Patrick at Frederic Fekkai NYC at 2:30pm May 30, 2017; driven by Jojo.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jojo",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein is the subject of this confirmed appointment at Frederic Fekkai salon, driven by personal driver Jojo.",
-            "evidence": [
-              {
-                "file": "EFTA02214835.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "You are confirmed to see Patrick for a cut today at 2:30pm\nJOJO, be outside ready to go now please!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214835.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "836058f719005628",
-            "event_title": "Epstein Charged $590.43 at Frederic Fekkai New York, June 3, 2017",
-            "event_type": "presence",
-            "description": "Epstein charged $590.43 at Frederic Fekkai salon in New York on June 3, 2017.",
-            "date_start": "2017-06-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's account charged at Fekkai.",
-            "evidence": [
-              {
-                "file": "EFTA02214841.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "06/03/2017 FREDERIC FEKKAI - NEW YORK, NY 590.43",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214841.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "3422855347bb48fe",
-            "event_title": "Epstein Associate Hair Appointment at Fr\u00e9d\u00e9ric Fekkai Salon, June 13, 2017",
-            "event_type": "presence",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02215920.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Confirmation from Frederic Fekkai - 5th Avenue\nDear We are writing to inform you that you have an appointment for Tuesday, June 13 at 12:00 PM.\nWomen's Hair Cut with PATRICK, Color - Highlights with REYAD and Pedicure with NORM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215920.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02215243",
-            "file": "EFTA02215243.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216454",
-            "file": "EFTA02216454.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216761",
-            "file": "EFTA02216761.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214835",
-            "file": "EFTA02214835.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214841",
-            "file": "EFTA02214841.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215920",
-            "file": "EFTA02215920.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -64.932094,
           18.341129
         ]
@@ -49282,197 +49620,6 @@
           {
             "doc_id": "EFTA00068996",
             "file": "EFTA00068996.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.517709,
-          49.00382
-        ]
-      },
-      "properties": {
-        "id": "c732c80a3f45b74d",
-        "name": "Paris Charles de Gaulle Airport",
-        "location_name": "Paris Charles de Gaulle Airport",
-        "location_address": "Roissy-en-France, Val-d'Oise, France",
-        "location_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
-        "canonical_name": "Paris Charles de Gaulle Airport, Roissy-en-France, France, Val-d'Oise",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Paris Charles de Gaulle Airport",
-        "location_descriptor": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
-        "event_count": 4,
-        "evidence_count": 5,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-07-04",
-        "date_end": "2017-09-02",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Lasma",
-            "role": "associate"
-          },
-          {
-            "name": "Fettah Tamince",
-            "role": "associate"
-          }
-        ],
-        "source_count": 5,
-        "sources_preview": "EFTA02216282.pdf, EFTA02217578.pdf, EFTA02217695.pdf, EFTA02219548.pdf, EFTA02221056.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "The largest international airport in France, located in Roissy-en-France approximately 25 kilometers northeast of central Paris.",
-        "events": [
-          {
-            "event_id": "6c25338ea4f4ca28",
-            "event_title": "Lasma Departs Paris for Riga on Air France #7982 \u2014 July 11, 2017",
-            "event_type": "travel",
-            "description": "An Epstein associate named Lasma departed Paris at 10:10am on July 11, 2017, on Air France flight 7982 to Riga, Latvia (reservation VQAQYTY).",
-            "date_start": "2017-07-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Lasma",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Lasma's travel was arranged by Epstein's staff and tracked in his schedule, suggesting she was an associate.",
-            "evidence": [
-              {
-                "file": "EFTA02216282.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Reminder: 10:10am Lasma to depart Paris for Riga via AirFrance#7982 (Rec. Loc#VQAQYTY)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216282.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217578.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AF 7982 Z Business Class Paris, Charles De Gaulle Riga, Riga International 10:10 AM 01:55 PM Terminal 2 D",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217578.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ebf9a29b9e3a28d2",
-            "event_title": "Epstein Arranges Travel for Paris Contact: CDG to JFK, July 14 2017 (Norwegian Air)",
-            "event_type": "travel",
-            "description": "Epstein arranged travel for an unidentified contact from Paris Charles de Gaulle to JFK on July 14, 2017 via Norwegian Air Shuttle economy class.",
-            "date_start": "2017-07-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Epstein arranged and paid for this flight ticket to bring an unidentified person from Paris to New York to visit him.",
-            "evidence": [
-              {
-                "file": "EFTA02217695.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight Information Date 14 Jul 2017 Airline Norwegian Air Shuttle Flight/Class E Economy Class Origin Paris, Charles De Gaulle Destination New York, John F Kennedy International Departing 06:15 PM Arriving 08:30 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217695.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "fb4755715c821531",
-            "event_title": "Russian Traveler Returns Istanbul\u2192Paris CDG Turkish Airlines Jul 4 2017",
-            "event_type": "travel",
-            "description": "TK1827 Istanbul\u2192Paris CDG July 4 2017 for Russian citizen in Epstein network.",
-            "date_start": "2017-07-04",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Fettah Tamince",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Return leg of Epstein network itinerary to Paris.",
-            "evidence": [
-              {
-                "file": "EFTA02219548.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "TK1827 Istanbul Paris CDG Jul 4",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219548.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "20390feedc48ed8c",
-            "event_title": "Epstein Network Associates Arrive Paris CDG from Milan Linate, Sept 2, 2017",
-            "event_type": "travel",
-            "description": "Two women arrived at Paris Charles de Gaulle Airport Terminal 2D on September 2, 2017 on easyJet booking ESQFJJL, with car pickup arranged for the same day.",
-            "date_start": "2017-09-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel to Paris arranged via Epstein network; Epstein was known to be in Paris during this period based on other documents.",
-            "evidence": [
-              {
-                "file": "EFTA02221056.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Milan Linate to Paris Charles de Gaulle (Terminal 2D)\nPick-up Drop-off 02/09/2017 03/09/2017",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221056.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02216282",
-            "file": "EFTA02216282.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217578",
-            "file": "EFTA02217578.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217695",
-            "file": "EFTA02217695.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219548",
-            "file": "EFTA02219548.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221056",
-            "file": "EFTA02221056.pdf",
             "source_type": "doj_efta"
           }
         ]
