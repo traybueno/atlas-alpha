@@ -27411,7 +27411,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 49,
-        "evidence_count": 117,
+        "evidence_count": 118,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27587,8 +27587,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 113,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+108 more)",
+        "source_count": 114,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+109 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -29521,6 +29521,13 @@
                 "excerpt": "the ticket to Milan on Sunday 10th...Jeffreauest is for morning on Sunday...can you check availability for us on both tickets we need ... AZ 305 10SEP CDG LIN 0935A 1105A",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221713.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222018.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey is asking if there is a flight that departs Paris on Sunday for Milan around 11 am..?\n...-Change t n Friday Sept 8 and leave for Milan on Sunday morning Sept.10. (Rec.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222018.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -30140,6 +30147,11 @@
           {
             "doc_id": "EFTA02221713",
             "file": "EFTA02221713.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222018",
+            "file": "EFTA02222018.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -36288,7 +36300,7 @@
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 33,
-        "evidence_count": 62,
+        "evidence_count": 63,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -36412,8 +36424,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 50,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+45 more)",
+        "source_count": 51,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+46 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -37473,6 +37485,13 @@
                 "excerpt": "Janusz will drive you to Jeffrey's home in PB where you are welcome to stay the evening...Janusz can drive you back to Miami on Sunday...what ever is best for you. Below is Jeffrey's home address and Janusz's cell number. Could you please pass along a cell number for yourself?\n\nJanusz cell\n\nJeffrey's home address:\n358 El Brillo Way\nPalm Beach, FL 33480",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220778.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222022.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Janusz will drive you to Jeffrey's home in PB where you are welcome to stay the evening...Jeffrey's home address:\n358 El Brillo Way\nPalm Beach, FL 33480",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222022.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -37881,6 +37900,11 @@
           {
             "doc_id": "EFTA02220778",
             "file": "EFTA02220778.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222022",
+            "file": "EFTA02222022.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -76906,7 +76930,7 @@
         "display_name": "YouTube Space NY",
         "location_descriptor": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 2,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -76926,8 +76950,8 @@
             "role": "other"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA02221328.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
@@ -76964,6 +76988,13 @@
                 "excerpt": "When: Wednesday, September 27th\nTime: 5-7:00 pm\nWhere: YouTube Space NY, 75 9th Avenue, NYC\nJEffrey plus 5 guests! I will get you their names prior to sept 22!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221328.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222022.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JEffrcy plus 5 guests! I will get you their names prior to scpt 22!\n...When: Wednesday, September 27th\nTime: 5-7:00 pm\nWhere: YouTube Space NY, 75 9th Avenue, NYC\nCheck in on the guest list and come up to level Level 6.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222022.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -76972,6 +77003,11 @@
           {
             "doc_id": "EFTA02221328",
             "file": "EFTA02221328.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222022",
+            "file": "EFTA02222022.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -78268,6 +78304,98 @@
           {
             "doc_id": "EFTA00078227",
             "file": "EFTA00078227.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.191618,
+          25.758799
+        ]
+      },
+      "properties": {
+        "id": "bb063a7e39c04ffe",
+        "name": "Four Seasons Hotel Miami",
+        "location_name": "Four Seasons Hotel Miami",
+        "location_address": "1435 Brickell Avenue, Miami, Florida 33131, United States",
+        "location_description": "A luxury 70-story hotel and residential tower located at 1435 Brickell Avenue in Miami, Florida, overlooking Biscayne Bay.",
+        "canonical_name": "Four Seasons Hotel Miami, 1435 Brickell Ave, Miami, FL 33131, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Four Seasons Hotel Miami",
+        "location_descriptor": "A luxury 70-story hotel and residential tower located at 1435 Brickell Avenue in Miami, Florida, overlooking Biscayne Bay.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-02-11",
+        "date_end": "2017-02-11",
+        "people": [
+          {
+            "name": "Janusz",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Deepak Chopra",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA02222022.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "A luxury 70-story hotel and residential tower located at 1435 Brickell Avenue in Miami, Florida, overlooking Biscayne Bay.",
+        "events": [
+          {
+            "event_id": "3834f7d94668f852",
+            "event_title": "Deepak Chopra Picked Up from Miami Four Seasons, Driven to Epstein's Palm Beach Home (Feb 2017)",
+            "event_type": "presence",
+            "description": "Epstein's driver Janusz picks up Deepak Chopra from Four Seasons Hotel Miami at 3:45pm on February 11, 2017, to drive him to Jeffrey Epstein's Palm Beach residence at 358 El Brillo Way.",
+            "date_start": "2017-02-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Janusz",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Deepak Chopra",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This fragment describes Epstein's driver and staff logistics at the Four Seasons, not Epstein personally being at this location.",
+            "evidence": [
+              {
+                "file": "EFTA02222022.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I wanted to confirm Jeffrey's driver, Janusz, will come pick you up on Sat. Feb. 11th from the Four Seasons Hotel in Miami. He will be at the hotel as early as 3:45pm just in case you are able to depart earlier than expected. Janusz will drive you to Jeffrey's home in PB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222022.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02222022",
+            "file": "EFTA02222022.pdf",
             "source_type": "doj_efta"
           }
         ]
