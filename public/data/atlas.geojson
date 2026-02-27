@@ -21,8 +21,8 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 106,
-        "evidence_count": 377,
+        "event_count": 107,
+        "evidence_count": 379,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -502,8 +502,8 @@
             "role": "other"
           }
         ],
-        "source_count": 312,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+307 more)",
+        "source_count": 313,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+308 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -4046,6 +4046,13 @@
                 "excerpt": "he has attended a proceeding in this matter and spoken on Ms. Maxwell's behalf to the press afterwards while identified as Ms. Maxwell's attorney",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00018028.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00075970.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Stephen Rex Brown, Ghislaine Maxwell Makes First In-Person NYC Court Appearance, N.Y. Daily News (Apr. 23, 2021)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075970.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -5606,6 +5613,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "0caa589ba23020a8",
+            "event_title": "David Markus Attends Maxwell Proceeding at SDNY, Speaks to Press on Her Behalf",
+            "event_type": "legal",
+            "description": "David Markus, acting as Maxwell appellate counsel, attended a pretrial proceeding at SDNY and spoke to press on Maxwell's behalf afterward.",
+            "date_start": "2021-07-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              },
+              {
+                "name": "David Markus",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Event involves Ghislaine Maxwell's criminal trial, which is part of the Epstein network prosecution, but Epstein was not present.",
+            "evidence": [
+              {
+                "file": "EFTA00075970.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Mr. Markus has attended a proceeding in this Court, after which he spoke to the press on Ms. Maxwell's behalf.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00075970.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -6882,6 +6920,11 @@
           {
             "doc_id": "EFTA00018028",
             "file": "EFTA00018028.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00075970",
+            "file": "EFTA00075970.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -12437,8 +12480,8 @@
         "property_type": "event",
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
-        "event_count": 95,
-        "evidence_count": 286,
+        "event_count": 96,
+        "evidence_count": 287,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -12982,8 +13025,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 261,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+256 more)",
+        "source_count": 262,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+257 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -17761,6 +17804,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "500bf056e79f56a4",
+            "event_title": "Epstein Announces Move to 9 E. 71st St After Hurricane Damages Island Properties (Sept 2017)",
+            "event_type": "communication",
+            "description": "Jeffrey Epstein emails staff that with island and Palm Beach properties damaged by Hurricane Irma, he will be staying at 9 E 71st Street starting Thursday September 14, 2017, with new household rules for quiet.",
+            "date_start": "2017-09-14",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Jeffrey Epstein himself wrote this email stating he would be physically present at 9 East 71st Street starting Thursday, with specific operational rules for his stay.",
+            "evidence": [
+              {
+                "file": "EFTA02220850.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Unfortunately this leaves me no place to get peace and quiet except 71 st and the Ranch. . so starting thurs. 71 street will need to be under new rules. I do not want any construction repairs done while I am there.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220850.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -19067,6 +19137,11 @@
           {
             "doc_id": "EFTA02220788",
             "file": "EFTA02220788.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220850",
+            "file": "EFTA02220850.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -23953,8 +24028,8 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 43,
-        "evidence_count": 90,
+        "event_count": 44,
+        "evidence_count": 91,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -24114,8 +24189,8 @@
             "role": "other"
           }
         ],
-        "source_count": 88,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+83 more)",
+        "source_count": 89,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+84 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -25782,6 +25857,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "681b5270bea9af66",
+            "event_title": "Epstein Stays in Paris After Avignon Trip Canceled (Sept 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein remained in Paris after planned trip to Avignon, France was canceled due to wind, confirmed by pilot Larry Visoski.",
+            "date_start": "2017-09-11",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Pilot Larry Visoski confirmed Epstein (JE) was physically present in Paris during this period, staying the whole time when Avignon trip was canceled.",
+            "evidence": [
+              {
+                "file": "EFTA02220843.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi,,, no problem,.,, He did NOT go,,, it was windy and canceled the trip,,, we stayed in paris the whole time,,,",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220843.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -26224,6 +26330,11 @@
             "doc_id": "EFTA02220801",
             "file": "EFTA02220801.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220843",
+            "file": "EFTA02220843.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -26249,7 +26360,7 @@
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
         "event_count": 42,
-        "evidence_count": 96,
+        "evidence_count": 97,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -26381,8 +26492,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 87,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+82 more)",
+        "source_count": 88,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+83 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -27557,6 +27668,13 @@
                 "excerpt": "return 15 new york 22 lsj 30 new york",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219565.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220887.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "new york tues -sat paris till 14 then new york till 19 th. then Isj.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220887.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -28348,6 +28466,11 @@
           {
             "doc_id": "EFTA02220148",
             "file": "EFTA02220148.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220887",
+            "file": "EFTA02220887.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -48239,6 +48362,174 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.975093,
+          40.763751
+        ]
+      },
+      "properties": {
+        "id": "0a30f1c9b5351f03",
+        "name": "Apollo Global Management",
+        "location_name": "Apollo Global Management",
+        "location_address": "9 West 57th Street, New York City, New York 10019, United States",
+        "location_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
+        "canonical_name": "9 West 57th Street, New York, NY 10019, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Apollo Global Management",
+        "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
+        "event_count": 3,
+        "evidence_count": 3,
+        "primary_event_type": "communication",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-10",
+        "date_end": "2017-09-13",
+        "people": [
+          {
+            "name": "Melanie Spinella",
+            "role": "other"
+          },
+          {
+            "name": "Leon",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Leon Black",
+            "role": "associate"
+          },
+          {
+            "name": "Kathryn Ruemmler",
+            "role": "legal"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf, EFTA02220888.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "communication",
+        "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
+        "events": [
+          {
+            "event_id": "d75c084ea1d1f9b6",
+            "event_title": "Leon Meets at Apollo Management Offices, 9 W 57th St NY (May 19 2017)",
+            "event_type": "communication",
+            "description": "Confirmed that Leon would arrive at Apollo Management offices at 9 West 57th Street, New York at 8:30am on May 19, 2017, per Melanie Spinella's email from the firm.",
+            "date_start": "2017-05-19",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
+                "name": "Leon",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The email confirming Leon's meeting at Apollo Management appears in Epstein's files, suggesting Leon is connected to Epstein's network, though Epstein's presence is not confirmed.",
+            "evidence": [
+              {
+                "file": "EFTA02213051.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "just confirming Leon is coming at 8:30am tomorrow!\nMelanie Spinella I Apollo Management\n9West 57th Street, New York, New York 10019",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213051.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "39adc39263e84972",
+            "event_title": "Jeffrey Epstein Meets Leon Black at Apollo Management, 1:30pm May 10 2017",
+            "event_type": "communication",
+            "description": "Jeffrey Epstein invited to meet Leon Black at Apollo Management 9W57St NY at 1:30pm May 10, 2017.",
+            "date_start": "2017-05-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Melanie Spinella",
+                "role": "other"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02213177.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he said he could see you at 1:30 today",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213177.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ac1f7f7cd86f4a93",
+            "event_title": "Tentative Meeting: Epstein and Kathy Ruemmler at Fekkai Salon, 714 5th Ave NYC (Sept 13, 2017)",
+            "event_type": "presence",
+            "description": "Tentative meeting between Jeffrey Epstein and attorney Kathy Ruemmler at Frederic Fekkai Salon, 714 5th Avenue, New York, on September 13, 2017 at 4:00 PM.",
+            "date_start": "2017-09-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kathryn Ruemmler",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Calendar entry shows a tentative meeting at Fekkai salon between Epstein and his attorney Kathy Ruemmler, placing both at this location.",
+            "evidence": [
+              {
+                "file": "EFTA02220888.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "4:00pm TENTATIVE MEET Kathy Ruemmler at Fekkai (Kathy Fakkai Salon, 714 5th Ave. (btn 55th & 56th), 4th floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220888.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213051",
+            "file": "EFTA02213051.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213177",
+            "file": "EFTA02213177.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220888",
+            "file": "EFTA02220888.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.067859,
           42.361109
         ]
@@ -51568,138 +51859,6 @@
           {
             "doc_id": "EFTA02220024",
             "file": "EFTA02220024.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.975093,
-          40.763751
-        ]
-      },
-      "properties": {
-        "id": "0a30f1c9b5351f03",
-        "name": "Apollo Global Management",
-        "location_name": "Apollo Global Management",
-        "location_address": "9 West 57th Street, New York City, New York 10019, United States",
-        "location_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
-        "canonical_name": "9 West 57th Street, New York, NY 10019, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Apollo Global Management",
-        "location_descriptor": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
-        "event_count": 2,
-        "evidence_count": 2,
-        "primary_event_type": "communication",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-10",
-        "date_end": "2017-05-19",
-        "people": [
-          {
-            "name": "Melanie Spinella",
-            "role": "other"
-          },
-          {
-            "name": "Leon",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Leon Black",
-            "role": "associate"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02213051.pdf, EFTA02213177.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "communication",
-        "event_description": "A global alternative investment management firm headquartered at 9 West 57th Street in Midtown Manhattan, founded by Leon Black.",
-        "events": [
-          {
-            "event_id": "d75c084ea1d1f9b6",
-            "event_title": "Leon Meets at Apollo Management Offices, 9 W 57th St NY (May 19 2017)",
-            "event_type": "communication",
-            "description": "Confirmed that Leon would arrive at Apollo Management offices at 9 West 57th Street, New York at 8:30am on May 19, 2017, per Melanie Spinella's email from the firm.",
-            "date_start": "2017-05-19",
-            "date_end": null,
-            "date_precision": "approximate",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Melanie Spinella",
-                "role": "other"
-              },
-              {
-                "name": "Leon",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The email confirming Leon's meeting at Apollo Management appears in Epstein's files, suggesting Leon is connected to Epstein's network, though Epstein's presence is not confirmed.",
-            "evidence": [
-              {
-                "file": "EFTA02213051.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "just confirming Leon is coming at 8:30am tomorrow!\nMelanie Spinella I Apollo Management\n9West 57th Street, New York, New York 10019",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213051.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "39adc39263e84972",
-            "event_title": "Jeffrey Epstein Meets Leon Black at Apollo Management, 1:30pm May 10 2017",
-            "event_type": "communication",
-            "description": "Jeffrey Epstein invited to meet Leon Black at Apollo Management 9W57St NY at 1:30pm May 10, 2017.",
-            "date_start": "2017-05-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Melanie Spinella",
-                "role": "other"
-              },
-              {
-                "name": "Leon Black",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02213177.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "he said he could see you at 1:30 today",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213177.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213051",
-            "file": "EFTA02213051.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213177",
-            "file": "EFTA02213177.pdf",
             "source_type": "doj_efta"
           }
         ]
