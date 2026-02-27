@@ -47992,7 +47992,7 @@
         "display_name": "HBRK Associates Inc.",
         "location_descriptor": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
         "event_count": 5,
-        "evidence_count": 5,
+        "evidence_count": 6,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -48032,8 +48032,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 5,
-        "sources_preview": "EFTA02214145.pdf, EFTA02215951.pdf, EFTA02220623.pdf, EFTA02221223.pdf, EFTA02221367.pdf",
+        "source_count": 6,
+        "sources_preview": "EFTA02214145.pdf, EFTA02215951.pdf, EFTA02220623.pdf, EFTA02221223.pdf, EFTA02221253.pdf, ... (+1 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
@@ -48150,6 +48150,10 @@
                 "role": "subject"
               },
               {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
                 "name": "Bebe Avdiu",
                 "role": "legal"
               },
@@ -48166,6 +48170,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221223.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221253.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks\nJust Darren, right?\nyes, Rich is out from Wed Aug. 30-Sept. 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221253.pdf",
                 "confidence": 0.7
               }
             ]
@@ -48221,6 +48232,11 @@
           {
             "doc_id": "EFTA02221223",
             "file": "EFTA02221223.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221253",
+            "file": "EFTA02221253.pdf",
             "source_type": "doj_efta"
           },
           {
