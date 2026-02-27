@@ -13674,8 +13674,8 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 89,
-        "evidence_count": 194,
+        "event_count": 90,
+        "evidence_count": 195,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -14031,8 +14031,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 185,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+180 more)",
+        "source_count": 186,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+181 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -17587,6 +17587,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "a6aaadbaa5cdd871",
+            "event_title": "Jeffrey Epstein Planned Visit to New York (Sept 15, 2017)",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein was scheduled to be in New York toward the end of the week, with a proposed lunch meeting on Friday September 15, 2017.",
+            "date_start": "2017-09-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Nili Priell Barak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Document states Jeffrey Epstein would be physically present in New York on the specified date for a planned meeting.",
+            "evidence": [
+              {
+                "file": "EFTA02220689.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be in NY toward end of the week...would Friday Sept 15th work? Perhaps lunch?...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220689.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -18513,6 +18544,11 @@
           {
             "doc_id": "EFTA02220657",
             "file": "EFTA02220657.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220689",
+            "file": "EFTA02220689.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -27095,7 +27131,7 @@
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
         "event_count": 41,
-        "evidence_count": 82,
+        "evidence_count": 83,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -27251,8 +27287,8 @@
             "role": "other"
           }
         ],
-        "source_count": 80,
-        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+75 more)",
+        "source_count": 81,
+        "sources_preview": "EFTA02215836.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02212901.pdf, EFTA02213079.pdf, ... (+76 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -28265,6 +28301,10 @@
               {
                 "name": "lauder watson",
                 "role": "associate"
+              },
+              {
+                "name": "Valdson",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -28317,6 +28357,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Subject: Re: Appointment for JE in Paris\nDate:\nPouvez vous me confirm\u00e9 se vous arrive demain et \u00e0 quelle heure svp.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220672.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220682.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Valdson is asking what time Jeffrey is to arrive Paris tomorrow...have you heard from Jeffrey on this yet? i have heard nothing! ... Pouvez vous me confirm\u00e9 se vous arrive demain \u00e9t \u00e0 quelle heure svp.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220682.pdf",
                 "confidence": 0.7
               }
             ]
@@ -29094,6 +29141,11 @@
           {
             "doc_id": "EFTA02220672",
             "file": "EFTA02220672.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220682",
+            "file": "EFTA02220682.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -37393,6 +37445,408 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.213952,
+          40.729142
+        ]
+      },
+      "properties": {
+        "id": "dc76d53726921714",
+        "name": "Long Island MacArthur Airport",
+        "location_name": "Long Island MacArthur Airport",
+        "location_address": "Islip, New York, United States",
+        "location_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
+        "canonical_name": "Long Island MacArthur Airport, Islip, NY, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Long Island MacArthur Airport",
+        "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
+        "event_count": 9,
+        "evidence_count": 13,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-17",
+        "date_end": "2017-09-13",
+        "people": [
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Eric",
+            "role": "associate"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Eric Roth",
+            "role": "associate"
+          }
+        ],
+        "source_count": 13,
+        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+8 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
+        "events": [
+          {
+            "event_id": "c7f9d486aff36bc7",
+            "event_title": "Epstein Meets Eric at Islip MacArthur Airport, Departs for Palm Beach May 20, 2017",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein arrived at Long Island MacArthur Airport (Islip, NY) at 8:30am on May 20, 2017 for a meeting with Eric, then departed by plane at approximately 9:00-9:30am, per email to pilot Larry Visoski.",
+            "date_start": "2017-05-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Eric",
+                "role": "associate"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at Islip airport on May 20, 2017, confirmed by explicit message to chief pilot Larry Visoski about his schedule.",
+            "evidence": [
+              {
+                "file": "EFTA02213251.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey wanted me to tell you he will be at Islip tomorrow at 8:30am, meet with Eric then wheels up will be after his meeting with Eric (so around 9/9:30am wheels up)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213251.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02213481.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey wanted me to tell you he will be at Islip tomorrow at 8:30am, meet with Eric then wheels up will be after his meeting with Eric (so around 9/9:30am wheels up)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213481.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "bc5873045da71926",
+            "event_title": "Epstein Departs Islip June 2",
+            "event_type": "travel",
+            "description": "Epstein departs Islip June 2",
+            "date_start": "2017-06-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Departure from Islip.",
+            "evidence": [
+              {
+                "file": "EFTA02213845.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey says he will now depart for PB tomorrow...I believe he still wants to go see Eric's team in Islip at 8:30am and then fly out at 9:30am.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213845.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b482526fa2726188",
+            "event_title": "Epstein Plane Arrives Islip MacArthur Airport at 5:35pm, May 17, 2017",
+            "event_type": "presence",
+            "description": "Larry Visoski (Epstein's pilot) started engines and notified staff that the plane would arrive at Islip MacArthur Airport at 5:35pm on May 17, 2017.",
+            "date_start": "2017-05-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Larry Visoski is Epstein's personal pilot notifying Epstein's staff of the aircraft's arrival at Islip, suggesting Epstein or associates were the passengers.",
+            "evidence": [
+              {
+                "file": "EFTA02213509.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Starting engines now\nArrival Islip Hawthorne\n5:35pm\nTonight",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213509.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4178bb71a7527795",
+            "event_title": "Epstein Wants to Meet Eric Roth at Islip (Long Island MacArthur Airport) \u2014 June 2, 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein wanted to meet with Eric Roth at Islip (Long Island MacArthur Airport area) on Friday June 2, 2017, though the meeting was uncertain if Eric was not present.",
+            "date_start": "2017-06-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Eric Roth",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally requested to meet with a named associate at a specific location.",
+            "evidence": [
+              {
+                "file": "EFTA02216021.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey says he wants to meet with Eric Roth this Friday at Islip",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216021.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "58f221db4cb2f1a2",
+            "event_title": "Flight N212JE Arrives at Long Island MacArthur Airport from Teterboro \u2014 June 3, 2017",
+            "event_type": "travel",
+            "description": "Epstein's plane N212JE arrived at Long Island MacArthur Airport at 7:50 AM EDT from Teterboro, confirming the June 3, 2017 flight to the Islip/Long Island area.",
+            "date_start": "2017-06-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "N212JE is Epstein's registered aircraft; arrival confirms his travel to Islip area on June 3.",
+            "evidence": [
+              {
+                "file": "EFTA02216140.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Long Island MacArthur (KISP) at 07:50AM EDT from Teterboro (KTEB)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216140.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216252.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Long Island MacArthur (KISP) at 09:47AM EDT enroute to Palm Beach Intl (KPBI) for an estimated arrival at 12:08PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216252.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ad520fe5b85e48b9",
+            "event_title": "Epstein Stops at Islip (Long Island MacArthur Airport) En Route to Palm Beach, July 13, 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein's plane stopped at Long Island MacArthur Airport (Islip, NY) at 5:30 PM on July 13, 2017 before continuing to Palm Beach.",
+            "date_start": "2017-07-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's own itinerary confirms a stop at Islip airport en route from New York to Palm Beach on July 13, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02218411.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "5:30pm Arrive Islip\nTBD Depart Islip\nTBD Arrive PB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218411.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218524.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "no i leave for palm beach thurs at 5 go to islip?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218524.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d98ef147d0f36f25",
+            "event_title": "Epstein's N120JE Departs Teterboro for Long Island MacArthur Airport, Aug 29 2017",
+            "event_type": "travel",
+            "description": "Epstein's Gulfstream IV N120JE departed Teterboro at 2:31 PM EDT on August 29, 2017 for Long Island MacArthur Airport (KISP), arriving approximately 2:58 PM EDT.",
+            "date_start": "2017-08-29",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "N120JE is Epstein's aircraft; this short hop to Long Island could be related to the Jim Watson dinner or another social engagement.",
+            "evidence": [
+              {
+                "file": "EFTA02220203.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N120JE (GLF4) departed Teterboro (KTEB) at 02:31PM EDT enroute to Long Island MacArthur (KISP)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220203.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220450.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NI2OJE arrived at Long Island MacArthur (KISP) at 02:56PM EDT from Teterboro (KTEB)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220450.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d30e50471a807274",
+            "event_title": "Flight N415LM Expected Arrival at Long Island MacArthur Airport",
+            "event_type": "travel",
+            "description": "Aircraft N415LM was expected to arrive at Long Island MacArthur Airport at 08:50 AM EDT on September 13, 2017, according to FlightAware automated alert notification.",
+            "date_start": "2017-09-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is an automated flight tracking alert for aircraft N415LM found in Epstein case files, but no evidence of Epstein's physical presence on this specific flight is provided in the document.",
+            "evidence": [
+              {
+                "file": "EFTA02220636.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM is expected to arrive at Long Island MacArthur (KISP) in 45 minutes at 08:50AM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220636.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "922c43c1a8652a7f",
+            "event_title": "Flight N415LM Departed Long Island MacArthur for Stewart Intl",
+            "event_type": "travel",
+            "description": "Aircraft N415LM, a Gulfstream GLF5, filed a flight plan and departed from Long Island MacArthur Airport heading to Stewart International Airport on August 31, 2017 at 4:42 PM EDT.",
+            "date_start": "2017-08-31",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is a flight alert for aircraft N415LM with no indication of passengers or connection to Epstein beyond being in case files.",
+            "evidence": [
+              {
+                "file": "EFTA02220678.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N415LM (GLF5) has just filed a flight plan. It is scheduled to depart from Long Island MacArthur (KISP) at 04:42PM EDT Thursday (31 Aug) heading for Stewart Intl (KSWF) for an estimated arrival at 04:57PM EDT Thursday (31 Aug).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220678.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02213251",
+            "file": "EFTA02213251.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213481",
+            "file": "EFTA02213481.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213845",
+            "file": "EFTA02213845.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02213509",
+            "file": "EFTA02213509.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216021",
+            "file": "EFTA02216021.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216140",
+            "file": "EFTA02216140.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216252",
+            "file": "EFTA02216252.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218411",
+            "file": "EFTA02218411.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218524",
+            "file": "EFTA02218524.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220203",
+            "file": "EFTA02220203.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220450",
+            "file": "EFTA02220450.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220636",
+            "file": "EFTA02220636.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220678",
+            "file": "EFTA02220678.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.898101,
           18.344444
         ]
@@ -38368,381 +38822,6 @@
           {
             "doc_id": "EFTA02220655",
             "file": "EFTA02220655.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.213952,
-          40.729142
-        ]
-      },
-      "properties": {
-        "id": "dc76d53726921714",
-        "name": "Long Island MacArthur Airport",
-        "location_name": "Long Island MacArthur Airport",
-        "location_address": "Islip, New York, United States",
-        "location_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
-        "canonical_name": "Long Island MacArthur Airport, Islip, NY, New York",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Long Island MacArthur Airport",
-        "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
-        "event_count": 8,
-        "evidence_count": 12,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-17",
-        "date_end": "2017-09-13",
-        "people": [
-          {
-            "name": "Larry Visoski",
-            "role": "staff"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Eric",
-            "role": "associate"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Eric Roth",
-            "role": "associate"
-          }
-        ],
-        "source_count": 12,
-        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+7 more)",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
-        "events": [
-          {
-            "event_id": "c7f9d486aff36bc7",
-            "event_title": "Epstein Meets Eric at Islip MacArthur Airport, Departs for Palm Beach May 20, 2017",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein arrived at Long Island MacArthur Airport (Islip, NY) at 8:30am on May 20, 2017 for a meeting with Eric, then departed by plane at approximately 9:00-9:30am, per email to pilot Larry Visoski.",
-            "date_start": "2017-05-20",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Eric",
-                "role": "associate"
-              },
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein was physically present at Islip airport on May 20, 2017, confirmed by explicit message to chief pilot Larry Visoski about his schedule.",
-            "evidence": [
-              {
-                "file": "EFTA02213251.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey wanted me to tell you he will be at Islip tomorrow at 8:30am, meet with Eric then wheels up will be after his meeting with Eric (so around 9/9:30am wheels up)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213251.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02213481.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey wanted me to tell you he will be at Islip tomorrow at 8:30am, meet with Eric then wheels up will be after his meeting with Eric (so around 9/9:30am wheels up)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213481.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "bc5873045da71926",
-            "event_title": "Epstein Departs Islip June 2",
-            "event_type": "travel",
-            "description": "Epstein departs Islip June 2",
-            "date_start": "2017-06-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Departure from Islip.",
-            "evidence": [
-              {
-                "file": "EFTA02213845.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey says he will now depart for PB tomorrow...I believe he still wants to go see Eric's team in Islip at 8:30am and then fly out at 9:30am.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213845.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b482526fa2726188",
-            "event_title": "Epstein Plane Arrives Islip MacArthur Airport at 5:35pm, May 17, 2017",
-            "event_type": "presence",
-            "description": "Larry Visoski (Epstein's pilot) started engines and notified staff that the plane would arrive at Islip MacArthur Airport at 5:35pm on May 17, 2017.",
-            "date_start": "2017-05-17",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Larry Visoski is Epstein's personal pilot notifying Epstein's staff of the aircraft's arrival at Islip, suggesting Epstein or associates were the passengers.",
-            "evidence": [
-              {
-                "file": "EFTA02213509.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Starting engines now\nArrival Islip Hawthorne\n5:35pm\nTonight",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02213509.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "4178bb71a7527795",
-            "event_title": "Epstein Wants to Meet Eric Roth at Islip (Long Island MacArthur Airport) \u2014 June 2, 2017",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein wanted to meet with Eric Roth at Islip (Long Island MacArthur Airport area) on Friday June 2, 2017, though the meeting was uncertain if Eric was not present.",
-            "date_start": "2017-06-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Eric Roth",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally requested to meet with a named associate at a specific location.",
-            "evidence": [
-              {
-                "file": "EFTA02216021.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey says he wants to meet with Eric Roth this Friday at Islip",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216021.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "58f221db4cb2f1a2",
-            "event_title": "Flight N212JE Arrives at Long Island MacArthur Airport from Teterboro \u2014 June 3, 2017",
-            "event_type": "travel",
-            "description": "Epstein's plane N212JE arrived at Long Island MacArthur Airport at 7:50 AM EDT from Teterboro, confirming the June 3, 2017 flight to the Islip/Long Island area.",
-            "date_start": "2017-06-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "N212JE is Epstein's registered aircraft; arrival confirms his travel to Islip area on June 3.",
-            "evidence": [
-              {
-                "file": "EFTA02216140.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE arrived at Long Island MacArthur (KISP) at 07:50AM EDT from Teterboro (KTEB)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216140.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216252.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE (GLF4) departed Long Island MacArthur (KISP) at 09:47AM EDT enroute to Palm Beach Intl (KPBI) for an estimated arrival at 12:08PM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216252.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "ad520fe5b85e48b9",
-            "event_title": "Epstein Stops at Islip (Long Island MacArthur Airport) En Route to Palm Beach, July 13, 2017",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein's plane stopped at Long Island MacArthur Airport (Islip, NY) at 5:30 PM on July 13, 2017 before continuing to Palm Beach.",
-            "date_start": "2017-07-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's own itinerary confirms a stop at Islip airport en route from New York to Palm Beach on July 13, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02218411.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "5:30pm Arrive Islip\nTBD Depart Islip\nTBD Arrive PB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218411.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02218524.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "no i leave for palm beach thurs at 5 go to islip?",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218524.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d98ef147d0f36f25",
-            "event_title": "Epstein's N120JE Departs Teterboro for Long Island MacArthur Airport, Aug 29 2017",
-            "event_type": "travel",
-            "description": "Epstein's Gulfstream IV N120JE departed Teterboro at 2:31 PM EDT on August 29, 2017 for Long Island MacArthur Airport (KISP), arriving approximately 2:58 PM EDT.",
-            "date_start": "2017-08-29",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "N120JE is Epstein's aircraft; this short hop to Long Island could be related to the Jim Watson dinner or another social engagement.",
-            "evidence": [
-              {
-                "file": "EFTA02220203.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N120JE (GLF4) departed Teterboro (KTEB) at 02:31PM EDT enroute to Long Island MacArthur (KISP)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220203.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220450.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NI2OJE arrived at Long Island MacArthur (KISP) at 02:56PM EDT from Teterboro (KTEB)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220450.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d30e50471a807274",
-            "event_title": "Flight N415LM Expected Arrival at Long Island MacArthur Airport",
-            "event_type": "travel",
-            "description": "Aircraft N415LM was expected to arrive at Long Island MacArthur Airport at 08:50 AM EDT on September 13, 2017, according to FlightAware automated alert notification.",
-            "date_start": "2017-09-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This is an automated flight tracking alert for aircraft N415LM found in Epstein case files, but no evidence of Epstein's physical presence on this specific flight is provided in the document.",
-            "evidence": [
-              {
-                "file": "EFTA02220636.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N415LM is expected to arrive at Long Island MacArthur (KISP) in 45 minutes at 08:50AM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220636.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02213251",
-            "file": "EFTA02213251.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213481",
-            "file": "EFTA02213481.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213845",
-            "file": "EFTA02213845.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02213509",
-            "file": "EFTA02213509.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216021",
-            "file": "EFTA02216021.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216140",
-            "file": "EFTA02216140.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216252",
-            "file": "EFTA02216252.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218411",
-            "file": "EFTA02218411.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218524",
-            "file": "EFTA02218524.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220203",
-            "file": "EFTA02220203.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220450",
-            "file": "EFTA02220450.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220636",
-            "file": "EFTA02220636.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -43146,6 +43225,261 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.8283,
+          40.7135
+        ]
+      },
+      "properties": {
+        "id": "20bcf2196270c06c",
+        "name": "John F. Kennedy International Airport",
+        "location_name": "John F. Kennedy International Airport",
+        "location_address": "Queens, New York, United States",
+        "location_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
+        "canonical_name": "John F. Kennedy International Airport, Queens, NY, New York City, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "John F. Kennedy International Airport",
+        "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
+        "event_count": 5,
+        "evidence_count": 8,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-04-10",
+        "date_end": "2017-08-27",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "associate"
+          },
+          {
+            "name": "Bella Klein",
+            "role": "associate"
+          },
+          {
+            "name": "Maria Gomes de Melo",
+            "role": "other"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          }
+        ],
+        "source_count": 8,
+        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+3 more)",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
+        "events": [
+          {
+            "event_id": "8217b14a66e63949",
+            "event_title": "Flight DL 465 Booked JFK to STT for Aug 27, 2017 via Lesley Groff",
+            "event_type": "travel",
+            "description": "Lesley Groff coordinated booking of Delta flight 465 from JFK to St. Thomas for August 27, 2017, departing 8:35 AM, arriving 12:42 PM, through American Express Centurion travel services, fare $586.20.",
+            "date_start": "2017-08-27",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "associate"
+              },
+              {
+                "name": "Bella Klein",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Lesley Groff, Epstein's assistant, arranged travel to St. Thomas (location of Epstein's island property) but passenger identity not explicitly confirmed in document.",
+            "evidence": [
+              {
+                "file": "EFTA02220455.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DL 465 27AUG JFK STT 0835A 1242P 1ADT 293.10 TOTAL FARE - USD 586.20 Non refundabele coach with 200 change fee.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220455.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220535.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Sat, 26AUG DEPART DELTA 465 NYC-KENNEDY Main Cabin (U) 8:35am ARRIVE ST THOMAS VIRGIN ISLANDS, U.S. 12:40pm",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220535.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "196c9af5d92c4c86",
+            "event_title": "Maria Gomes de Melo: Return Delta Flight DL 404 JFK to Paris CDG",
+            "event_type": "travel",
+            "description": "Maria Gomes de Melo traveled on Delta Air Lines flight DL 404 in economy class from New York JFK International Airport to Paris Charles de Gaulle Airport, departing at 5:29 PM on May 7 and arriving at 7:00 AM on May 8, 2017.",
+            "date_start": "2017-05-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Maria Gomes de Melo",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return flight for Maria Gomes de Melo coordinated through correspondence with individuals potentially in Epstein's network, but no evidence of Epstein's direct involvement in this specific travel.",
+            "evidence": [
+              {
+                "file": "EFTA02220498.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "07 May 2017\nDelta Air Lines\nHPGMBE\nDL 404 K Economy Class\nNew York, John F Kennedy International\nParis, Charles De Gaulle\n05:29 PM\n07:00 AM / 08 May 2017\nTerminal 4\nTerminal 2 E",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220498.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "05883c215cdb5caf",
+            "event_title": "Flight DL 676: Passenger Arrives JFK from St. Thomas (10 Apr 2017)",
+            "event_type": "travel",
+            "description": "Passenger arrived at John F. Kennedy International Airport Terminal 4 in New York on Delta Air Lines flight DL 676 from St. Thomas at 6:29 PM on April 10, 2017, seat 42C.",
+            "date_start": "2017-04-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "This is an American Express travel itinerary found in Epstein case files, but the document does not identify the passenger or establish Epstein's physical presence on this flight.",
+            "evidence": [
+              {
+                "file": "EFTA02220526.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeats 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220526.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220620.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nClass T Economy Class\nSeats 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220620.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220665.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeals 42C",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220665.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "16763a383559d11e",
+            "event_title": "Redacted passenger return flight DL 458: JFK to LAX (seats 26A, 26B)",
+            "event_type": "travel",
+            "description": "Redacted passenger traveled on Delta Air Lines flight DL 458 from John F. Kennedy International Airport to Los Angeles International Airport, occupying seats 26A and 26B, with tickets arranged by Lesley Groff through American Express Centurion Travel Service.",
+            "date_start": "2017-08-02",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Lesley Groff, who was Epstein's assistant, but the redacted passenger's identity and relationship to Epstein is not established from this document alone.",
+            "evidence": [
+              {
+                "file": "EFTA02220641.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "02 Aug 2017\nDelta Air Lines\nH467T4\nDL 458 U Economy Class\nNew York, John F Kennedy International\nLos Angeles, Los Angeles International\n01:45 PM\n04:45 PM\nTerminal 4\nTerminal 2\n6 Hrs\nNon-stop\n26A, 26B",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220641.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "4dcd17bc91cf14dd",
+            "event_title": "Flight DL 465: Passenger Departs JFK for St. Thomas, USVI (Aug 26, 2017)",
+            "event_type": "travel",
+            "description": "Lesley Groff arranged Delta Airlines flight DL 465 for an unidentified passenger departing JFK Terminal 4 at 8:35 AM on August 26, 2017, arriving at Cyril E King Airport in St. Thomas at 12:40 PM, with ticket number DL 0068648380927, seat 29A, record locator UQPZCC.",
+            "date_start": "2017-08-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel arrangements were made by Epstein's assistant Lesley Groff and approved by Jeffrey Epstein via email, but it is unclear if Epstein himself was the passenger on this flight.",
+            "evidence": [
+              {
+                "file": "EFTA02220683.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "26 Aug 2017\nDelta Air Lines\nGN9CBZ\nDL 465 U Economy Class\nNew York, John F Kennedy International\nCharlotte Amalie, Cyril E King Airport\n08:35 AM\n12:40 PM\nTerminal 4\n4 Hrs 5 Mins\nNon-stop\n29A",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220683.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02220455",
+            "file": "EFTA02220455.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220535",
+            "file": "EFTA02220535.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220498",
+            "file": "EFTA02220498.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220526",
+            "file": "EFTA02220526.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220620",
+            "file": "EFTA02220620.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220665",
+            "file": "EFTA02220665.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220641",
+            "file": "EFTA02220641.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220683",
+            "file": "EFTA02220683.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.092441,
           26.671414
         ]
@@ -45469,221 +45803,6 @@
           {
             "doc_id": "EFTA00068996",
             "file": "EFTA00068996.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8283,
-          40.7135
-        ]
-      },
-      "properties": {
-        "id": "20bcf2196270c06c",
-        "name": "John F. Kennedy International Airport",
-        "location_name": "John F. Kennedy International Airport",
-        "location_address": "Queens, New York, United States",
-        "location_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
-        "canonical_name": "John F. Kennedy International Airport, Queens, NY, New York City, New York",
-        "region": "",
-        "property_type": "event",
-        "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
-        "event_count": 4,
-        "evidence_count": 7,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-04-10",
-        "date_end": "2017-08-27",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "associate"
-          },
-          {
-            "name": "Bella Klein",
-            "role": "associate"
-          },
-          {
-            "name": "Maria Gomes de Melo",
-            "role": "other"
-          }
-        ],
-        "source_count": 7,
-        "sources_preview": "EFTA02220455.pdf, EFTA02220535.pdf, EFTA02220498.pdf, EFTA02220526.pdf, EFTA02220620.pdf, ... (+2 more)",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "A major international airport located in the Jamaica neighborhood of Queens, New York City, serving as one of the busiest airports in the world.",
-        "events": [
-          {
-            "event_id": "8217b14a66e63949",
-            "event_title": "Flight DL 465 Booked JFK to STT for Aug 27, 2017 via Lesley Groff",
-            "event_type": "travel",
-            "description": "Lesley Groff coordinated booking of Delta flight 465 from JFK to St. Thomas for August 27, 2017, departing 8:35 AM, arriving 12:42 PM, through American Express Centurion travel services, fare $586.20.",
-            "date_start": "2017-08-27",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "associate"
-              },
-              {
-                "name": "Bella Klein",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Lesley Groff, Epstein's assistant, arranged travel to St. Thomas (location of Epstein's island property) but passenger identity not explicitly confirmed in document.",
-            "evidence": [
-              {
-                "file": "EFTA02220455.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "DL 465 27AUG JFK STT 0835A 1242P 1ADT 293.10 TOTAL FARE - USD 586.20 Non refundabele coach with 200 change fee.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220455.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220535.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Sat, 26AUG DEPART DELTA 465 NYC-KENNEDY Main Cabin (U) 8:35am ARRIVE ST THOMAS VIRGIN ISLANDS, U.S. 12:40pm",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220535.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "196c9af5d92c4c86",
-            "event_title": "Maria Gomes de Melo: Return Delta Flight DL 404 JFK to Paris CDG",
-            "event_type": "travel",
-            "description": "Maria Gomes de Melo traveled on Delta Air Lines flight DL 404 in economy class from New York JFK International Airport to Paris Charles de Gaulle Airport, departing at 5:29 PM on May 7 and arriving at 7:00 AM on May 8, 2017.",
-            "date_start": "2017-05-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Maria Gomes de Melo",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Return flight for Maria Gomes de Melo coordinated through correspondence with individuals potentially in Epstein's network, but no evidence of Epstein's direct involvement in this specific travel.",
-            "evidence": [
-              {
-                "file": "EFTA02220498.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "07 May 2017\nDelta Air Lines\nHPGMBE\nDL 404 K Economy Class\nNew York, John F Kennedy International\nParis, Charles De Gaulle\n05:29 PM\n07:00 AM / 08 May 2017\nTerminal 4\nTerminal 2 E",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220498.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "05883c215cdb5caf",
-            "event_title": "Flight DL 676: Passenger Arrives JFK from St. Thomas (10 Apr 2017)",
-            "event_type": "travel",
-            "description": "Passenger arrived at John F. Kennedy International Airport Terminal 4 in New York on Delta Air Lines flight DL 676 from St. Thomas at 6:29 PM on April 10, 2017, seat 42C.",
-            "date_start": "2017-04-10",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "This is an American Express travel itinerary found in Epstein case files, but the document does not identify the passenger or establish Epstein's physical presence on this flight.",
-            "evidence": [
-              {
-                "file": "EFTA02220526.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeats 42C",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220526.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220620.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nClass T Economy Class\nSeats 42C",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220620.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02220665.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Flight DL 676\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 02:04 PM\nArriving 06:29 PM\nArrival Terminal Terminal 4\nClass T Economy Class\nSeals 42C",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220665.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "16763a383559d11e",
-            "event_title": "Redacted passenger return flight DL 458: JFK to LAX (seats 26A, 26B)",
-            "event_type": "travel",
-            "description": "Redacted passenger traveled on Delta Air Lines flight DL 458 from John F. Kennedy International Airport to Los Angeles International Airport, occupying seats 26A and 26B, with tickets arranged by Lesley Groff through American Express Centurion Travel Service.",
-            "date_start": "2017-08-02",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel arranged by Lesley Groff, who was Epstein's assistant, but the redacted passenger's identity and relationship to Epstein is not established from this document alone.",
-            "evidence": [
-              {
-                "file": "EFTA02220641.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "02 Aug 2017\nDelta Air Lines\nH467T4\nDL 458 U Economy Class\nNew York, John F Kennedy International\nLos Angeles, Los Angeles International\n01:45 PM\n04:45 PM\nTerminal 4\nTerminal 2\n6 Hrs\nNon-stop\n26A, 26B",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220641.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02220455",
-            "file": "EFTA02220455.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220535",
-            "file": "EFTA02220535.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220498",
-            "file": "EFTA02220498.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220526",
-            "file": "EFTA02220526.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220620",
-            "file": "EFTA02220620.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220665",
-            "file": "EFTA02220665.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220641",
-            "file": "EFTA02220641.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -49418,6 +49537,118 @@
           {
             "doc_id": "EFTA02213287",
             "file": "EFTA02213287.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.819217,
+          39.190681
+        ]
+      },
+      "properties": {
+        "id": "95d00e1559130406",
+        "name": "Aspen",
+        "location_name": "Aspen",
+        "location_address": "Aspen, Colorado, United States",
+        "location_description": "An upscale mountain city in Pitkin County, Colorado, located in the Rocky Mountains and renowned as a luxury ski and resort destination.",
+        "canonical_name": "Aspen, CO, Colorado",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Aspen",
+        "location_descriptor": "An upscale mountain city in Pitkin County, Colorado, located in the Rocky Mountains and renowned as a luxury ski and resort destination.",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-09-14",
+        "date_end": "2017-09-17",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Nili Priell Barak",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA00004250.pdf, EFTA02220689.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "An upscale mountain city in Pitkin County, Colorado, located in the Rocky Mountains and renowned as a luxury ski and resort destination.",
+        "events": [
+          {
+            "event_id": "7ad644bf9924b827",
+            "event_title": "Epstein Group Visits Aspen, Colorado (Photo Disc)",
+            "event_type": "presence",
+            "description": "Epstein and associates visited Aspen, Colorado, documented in photo disc labeled Zorro/Vegas/Aspen.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Aspen visit is documented in photos seized from Epstein's property as part of the Zorro/Vegas/Aspen disc.",
+            "evidence": [
+              {
+                "file": "EFTA00004250.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Zorro/Vegas/Aspen",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "cdd18fc50d9d4772",
+            "event_title": "Nili Priell Barak Weekend Trip to Aspen (Sept 14-17, 2017)",
+            "event_type": "travel",
+            "description": "Nili Priell Barak traveled to Aspen for a weekend trip from Thursday September 14 to Sunday September 17, 2017, returning in the evening.",
+            "date_start": "2017-09-14",
+            "date_end": "2017-09-17",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Nili Priell Barak",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Email exchange regarding scheduling a meeting with Epstein, but this fragment describes Nili's separate travel plans, not Epstein's presence.",
+            "evidence": [
+              {
+                "file": "EFTA02220689.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thursday 14 we go for the weekend to aspen and come back on Sunday 17th in the evening.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220689.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00004250",
+            "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220689",
+            "file": "EFTA02220689.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -54838,6 +55069,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.932094,
+          18.341129
+        ]
+      },
+      "properties": {
+        "id": "2ffda2dc701ccae8",
+        "name": "Cyril E King Airport",
+        "location_name": "Cyril E King Airport",
+        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
+        "location_description": "",
+        "canonical_name": "Cyril E King Airport, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Cyril E King Airport",
+        "location_descriptor": "",
+        "event_count": 2,
+        "evidence_count": 2,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-08-26",
+        "date_end": "2017-08-28",
+        "people": [
+          {
+            "name": "ARina",
+            "role": "other"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "associate"
+          }
+        ],
+        "source_count": 2,
+        "sources_preview": "EFTA02220669.pdf, EFTA02220683.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "",
+        "events": [
+          {
+            "event_id": "a6d3c0aaa3a1b60f",
+            "event_title": "ARina's Flight DL 676 from St. Thomas to JFK (Changed Departure to Aug 26)",
+            "event_type": "travel",
+            "description": "ARina traveled on Delta Air Lines flight 676 from Cyril E King Airport in St. Thomas to John F Kennedy International Airport in New York, departing at 1:37 PM and arriving at 5:37 PM. The ticket was changed from an earlier date and issued through American Express Centurion Travel.",
+            "date_start": "2017-08-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "ARina",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged through Epstein's American Express Centurion account but no evidence Epstein was physically present on this flight.",
+            "evidence": [
+              {
+                "file": "EFTA02220669.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "DL 676 26AUG STT JFK 0137P 0537P...Flight Information Date 27 Aug 2017 Airline Delta Air Lines...Flight/Class DL 676 Y Economy Class Origin Charlotte Amalie, Cyril E King Airport Destination New York, John F Kennedy International Departing 01:37 PM Arriving 05:39 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220669.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "36b6dc7104bd27da",
+            "event_title": "Flight DL 676: Passenger Departs St. Thomas for JFK (Aug 28, 2017)",
+            "event_type": "travel",
+            "description": "Return flight DL 676 scheduled for unidentified passenger departing Cyril E King Airport in St. Thomas at 1:37 PM on August 28, 2017, arriving at JFK Terminal 4 at 5:39 PM, seat 22E, arranged by Lesley Groff with Epstein's approval.",
+            "date_start": "2017-08-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Lesley Groff",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Travel arrangements were coordinated by Epstein's assistant with his approval, but it is unclear if Epstein was the passenger on this return flight.",
+            "evidence": [
+              {
+                "file": "EFTA02220683.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "28 Aug 2017\nDelta Air Lines\nGN9CBZ\nDL 676 H Economy Class\nCharlotte Amalie, Cyril E King Airport\nNew York, John F Kennedy International\n01:37 PM\n05:39 PM\nTerminal 4\n4 Hrs 2 Mins\nNon-stop\n22E",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220683.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02220669",
+            "file": "EFTA02220669.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220683",
+            "file": "EFTA02220683.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.753462,
           42.120246
         ]
@@ -55889,82 +56240,6 @@
                 "file": "EFTA00004250.pdf",
                 "source_type": "doj_efta",
                 "excerpt": "Prague/Clouds Prague01.JPG",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00004250",
-            "file": "EFTA00004250.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.819217,
-          39.190681
-        ]
-      },
-      "properties": {
-        "id": "95d00e1559130406",
-        "name": "Aspen",
-        "location_name": "Aspen",
-        "location_address": "Aspen, Colorado, United States",
-        "location_description": "An upscale mountain city in Pitkin County, Colorado, located in the Rocky Mountains and renowned as a luxury ski and resort destination.",
-        "canonical_name": "Aspen, CO, Colorado",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Aspen",
-        "location_descriptor": "An upscale mountain city in Pitkin County, Colorado, located in the Rocky Mountains and renowned as a luxury ski and resort destination.",
-        "event_count": 1,
-        "evidence_count": 1,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": null,
-        "date_end": null,
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 1,
-        "sources_preview": "EFTA00004250.pdf",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "An upscale mountain city in Pitkin County, Colorado, located in the Rocky Mountains and renowned as a luxury ski and resort destination.",
-        "events": [
-          {
-            "event_id": "7ad644bf9924b827",
-            "event_title": "Epstein Group Visits Aspen, Colorado (Photo Disc)",
-            "event_type": "presence",
-            "description": "Epstein and associates visited Aspen, Colorado, documented in photo disc labeled Zorro/Vegas/Aspen.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Aspen visit is documented in photos seized from Epstein's property as part of the Zorro/Vegas/Aspen disc.",
-            "evidence": [
-              {
-                "file": "EFTA00004250.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Zorro/Vegas/Aspen",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
                 "confidence": 0.7
               }
@@ -64936,7 +65211,7 @@
         "display_name": "Milan Malpensa Airport",
         "location_descriptor": "The main international airport serving Milan and the Lombardy region of northern Italy, located approximately 30 miles northwest of Milan city center.",
         "event_count": 1,
-        "evidence_count": 1,
+        "evidence_count": 2,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -64948,12 +65223,16 @@
             "role": "other"
           },
           {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
             "name": "Lesley Groff",
             "role": "associate"
           }
         ],
-        "source_count": 1,
-        "sources_preview": "EFTA02220514.pdf",
+        "source_count": 2,
+        "sources_preview": "EFTA02220514.pdf, EFTA02220690.pdf",
         "epstein_nexus": "implied",
         "event_type": "travel",
         "event_description": "The main international airport serving Milan and the Lombardy region of northern Italy, located approximately 30 miles northwest of Milan city center.",
@@ -64973,6 +65252,10 @@
                 "role": "other"
               },
               {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
                 "name": "Lesley Groff",
                 "role": "associate"
               }
@@ -64986,6 +65269,13 @@
                 "excerpt": "from Milan to Paris on Sept. 2nd...then Paris to Vilnius Lithuania Sept. 4",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220514.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02220690.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffreys reply: they should arrive paris around 4 if possible easy jet ok, is there a later paris vilnius on the 4 arround 5. ?",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220690.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -64994,6 +65284,11 @@
           {
             "doc_id": "EFTA02220514",
             "file": "EFTA02220514.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220690",
+            "file": "EFTA02220690.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -65448,63 +65743,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.932094,
-          18.341129
+          -74.023451,
+          41.47666
         ]
       },
       "properties": {
-        "id": "2ffda2dc701ccae8",
-        "name": "Cyril E King Airport",
-        "location_name": "Cyril E King Airport",
-        "location_address": "Charlotte Amalie, Saint Thomas, US Virgin Islands",
+        "id": "89c8d7821bc05b34",
+        "name": "Stewart International Airport",
+        "location_name": "Stewart International Airport",
+        "location_address": "New Windsor, New York, United States",
         "location_description": "",
-        "canonical_name": "Cyril E King Airport, Charlotte Amalie, St. Thomas, U.S. Virgin Islands, US Virgin Islands",
+        "canonical_name": "Stewart International Airport, New Windsor, NY, New York",
         "region": "",
         "property_type": "event",
-        "display_name": "Cyril E King Airport",
+        "display_name": "Stewart International Airport",
         "location_descriptor": "",
         "event_count": 1,
         "evidence_count": 1,
-        "primary_event_type": "travel",
+        "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
-        "date_start": "2017-08-26",
-        "date_end": "2017-08-26",
-        "people": [
-          {
-            "name": "ARina",
-            "role": "other"
-          }
-        ],
+        "date_start": "2017-08-31",
+        "date_end": "2017-08-31",
+        "people": [],
         "source_count": 1,
-        "sources_preview": "EFTA02220669.pdf",
+        "sources_preview": "EFTA02220678.pdf",
         "epstein_nexus": "contextual",
-        "event_type": "travel",
+        "event_type": "presence",
         "event_description": "",
         "events": [
           {
-            "event_id": "a6d3c0aaa3a1b60f",
-            "event_title": "ARina's Flight DL 676 from St. Thomas to JFK (Changed Departure to Aug 26)",
-            "event_type": "travel",
-            "description": "ARina traveled on Delta Air Lines flight 676 from Cyril E King Airport in St. Thomas to John F Kennedy International Airport in New York, departing at 1:37 PM and arriving at 5:37 PM. The ticket was changed from an earlier date and issued through American Express Centurion Travel.",
-            "date_start": "2017-08-26",
+            "event_id": "697ec0a8c144f9f8",
+            "event_title": "Flight N415LM Arrived at Stewart International Airport from Long Island",
+            "event_type": "presence",
+            "description": "Aircraft N415LM, a Gulfstream GLF5, was scheduled to arrive at Stewart International Airport from Long Island MacArthur Airport on August 31, 2017 at 4:57 PM EDT.",
+            "date_start": "2017-08-31",
             "date_end": null,
             "date_precision": "exact_day",
             "confidence": 0.75,
-            "people": [
-              {
-                "name": "ARina",
-                "role": "other"
-              }
-            ],
+            "people": [],
             "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel arranged through Epstein's American Express Centurion account but no evidence Epstein was physically present on this flight.",
+            "nexus_reasoning": "This is a flight alert for aircraft N415LM with no indication of passengers or direct connection to Epstein beyond being in case files.",
             "evidence": [
               {
-                "file": "EFTA02220669.pdf",
+                "file": "EFTA02220678.pdf",
                 "source_type": "doj_efta",
-                "excerpt": "DL 676 26AUG STT JFK 0137P 0537P...Flight Information Date 27 Aug 2017 Airline Delta Air Lines...Flight/Class DL 676 Y Economy Class Origin Charlotte Amalie, Cyril E King Airport Destination New York, John F Kennedy International Departing 01:37 PM Arriving 05:39 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220669.pdf",
+                "excerpt": "N415LM (GLF5) has just filed a flight plan. It is scheduled to depart from Long Island MacArthur (KISP) at 04:42PM EDT Thursday (31 Aug) heading for Stewart Intl (KSWF) for an estimated arrival at 04:57PM EDT Thursday (31 Aug).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220678.pdf",
                 "confidence": 0.7
               }
             ]
@@ -65512,8 +65797,8 @@
         ],
         "sources": [
           {
-            "doc_id": "EFTA02220669",
-            "file": "EFTA02220669.pdf",
+            "doc_id": "EFTA02220678",
+            "file": "EFTA02220678.pdf",
             "source_type": "doj_efta"
           }
         ]
