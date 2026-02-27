@@ -7507,7 +7507,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 102,
-        "evidence_count": 309,
+        "evidence_count": 310,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8095,8 +8095,8 @@
             "role": "other"
           }
         ],
-        "source_count": 283,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+278 more)",
+        "source_count": 284,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+279 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -13053,6 +13053,10 @@
               {
                 "name": "Ronald Lauder",
                 "role": "associate"
+              },
+              {
+                "name": "Ronald S. Lauder",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -13063,6 +13067,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Monday March 13th at Jeffreys home 12:30pm works!\nRonald is available at 12:30pm on Tues 3/21",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220956.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221321.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Monday March 13th at Jeffreys home 12:30pm works!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221321.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14621,6 +14632,11 @@
           {
             "doc_id": "EFTA02220956",
             "file": "EFTA02220956.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221321",
+            "file": "EFTA02221321.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -49874,6 +49890,226 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.938472,
+          40.689307
+        ]
+      },
+      "properties": {
+        "id": "eb1a088f52ac3bb8",
+        "name": "HBRK Associates Inc.",
+        "location_name": "HBRK Associates Inc.",
+        "location_address": "575 Lexington Avenue, Brooklyn, New York 11221, United States",
+        "location_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
+        "canonical_name": "HBRK Associates Inc., 575 Lexington Avenue, 4th Floor, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "HBRK Associates Inc.",
+        "location_descriptor": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
+        "event_count": 4,
+        "evidence_count": 4,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-30",
+        "date_end": "2017-10-01",
+        "people": [
+          {
+            "name": "Richard Kahn",
+            "role": "associate"
+          },
+          {
+            "name": "the Ross's",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Bebe Avdiu",
+            "role": "legal"
+          },
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Carluz Toylo",
+            "role": "staff"
+          },
+          {
+            "name": "Darren K. Indyke",
+            "role": "legal"
+          }
+        ],
+        "source_count": 4,
+        "sources_preview": "EFTA02214145.pdf, EFTA02215951.pdf, EFTA02220623.pdf, EFTA02221223.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
+        "events": [
+          {
+            "event_id": "279523f73a15fa9c",
+            "event_title": "Richard Kahn Meets Michael and Kimberly Ross at HBRK Office (May 30, 2017)",
+            "event_type": "presence",
+            "description": "Richard Kahn of HBRK Associates met Michael and Kimberly Ross at his office at 575 Lexington Avenue at 11:15am on May 30, 2017, regarding their upcoming visit to Epstein's island.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
+                "name": "the Ross's",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Richard Kahn works closely with Epstein; the Ross's were coordinating their visit to Epstein's island through Epstein's associates.",
+            "evidence": [
+              {
+                "file": "EFTA02214145.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "i am meeting them today 11:15am at my office",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214145.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "b3da1aa4444ace49",
+            "event_title": "Visitor on Epstein's Schedule Contacted by Darren Indyke Office \u2014 June 30, 2017",
+            "event_type": "presence",
+            "description": "A legal assistant at Darren K. Indyke PLLC contacted someone on Epstein's schedule for June 30, 2017 asking for their address, indicating a scheduled meeting or appointment.",
+            "date_start": "2017-06-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bebe Avdiu",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "The person is on Epstein's official schedule and contacted by his legal counsel's office.",
+            "evidence": [
+              {
+                "file": "EFTA02215951.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "My name is Bebe and I am covering for Mr. Epstein's assistant as she is out this week. I see you are on Jeffrey's schedule for today. May you please forward me your address?\nBebe Avdiu\nLegal Assistant\nDARREN K INDYKE, PLLC\n575 Lexington Avenue, 4th Floor",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215951.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8a17d695e0c09a6f",
+            "event_title": "Carluz Toylo to Begin Employment at NYC Office (575 Lexington Ave)",
+            "event_type": "travel",
+            "description": "Carluz Toylo scheduled to begin employment at HBRK Associates Inc. office in New York on October 1, 2017, with Richard Kahn instructing coordination with Lesley for flight arrangements from Hawaii.",
+            "date_start": "2017-10-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
+                "name": "Richard Kahn",
+                "role": "associate"
+              },
+              {
+                "name": "Carluz Toylo",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Employment coordination at Richard Kahn's office (Epstein's financial manager) but no evidence Epstein was physically present at this specific location on this date.",
+            "evidence": [
+              {
+                "file": "EFTA02220623.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NYC is where you will begin please coordinate with Lesley and she will help you arrange flights... Richard Kahn HBRK Associates Inc. 575 Lexington Avenue, 4th Floor New York, NY 10022",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220623.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "ccaea5b9904a7d7f",
+            "event_title": "Darren Indyke Invited to Meet Jeffrey Epstein in New York, Aug 30, 2017",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein's staff summoned attorney Darren Indyke to a 12:30pm meeting with Epstein in New York on August 30, 2017, with only Indyke confirmed as attendee.",
+            "date_start": "2017-08-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Bebe Avdiu",
+                "role": "legal"
+              },
+              {
+                "name": "Darren K. Indyke",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally requested the meeting ('come see Jeffrey'), confirming his physical presence at the meeting location.",
+            "evidence": [
+              {
+                "file": "EFTA02221223.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Please come see Jeffrey tomorrow at 12:30pm...thanks",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221223.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02214145",
+            "file": "EFTA02214145.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215951",
+            "file": "EFTA02215951.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02220623",
+            "file": "EFTA02220623.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221223",
+            "file": "EFTA02221223.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.932094,
           18.341129
         ]
@@ -52709,182 +52945,6 @@
           {
             "doc_id": "EFTA00072569",
             "file": "EFTA00072569.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.938472,
-          40.689307
-        ]
-      },
-      "properties": {
-        "id": "eb1a088f52ac3bb8",
-        "name": "HBRK Associates Inc.",
-        "location_name": "HBRK Associates Inc.",
-        "location_address": "575 Lexington Avenue, Brooklyn, New York 11221, United States",
-        "location_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
-        "canonical_name": "HBRK Associates Inc., 575 Lexington Avenue, 4th Floor, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "HBRK Associates Inc.",
-        "location_descriptor": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
-        "event_count": 3,
-        "evidence_count": 3,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-30",
-        "date_end": "2017-10-01",
-        "people": [
-          {
-            "name": "Richard Kahn",
-            "role": "associate"
-          },
-          {
-            "name": "the Ross's",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Bebe Avdiu",
-            "role": "legal"
-          },
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Carluz Toylo",
-            "role": "staff"
-          }
-        ],
-        "source_count": 3,
-        "sources_preview": "EFTA02214145.pdf, EFTA02215951.pdf, EFTA02220623.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "A financial services firm located at 575 Lexington Avenue in Midtown Manhattan, associated with Richard Kahn who was a close financial associate of Jeffrey Epstein.",
-        "events": [
-          {
-            "event_id": "279523f73a15fa9c",
-            "event_title": "Richard Kahn Meets Michael and Kimberly Ross at HBRK Office (May 30, 2017)",
-            "event_type": "presence",
-            "description": "Richard Kahn of HBRK Associates met Michael and Kimberly Ross at his office at 575 Lexington Avenue at 11:15am on May 30, 2017, regarding their upcoming visit to Epstein's island.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Richard Kahn",
-                "role": "associate"
-              },
-              {
-                "name": "the Ross's",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Richard Kahn works closely with Epstein; the Ross's were coordinating their visit to Epstein's island through Epstein's associates.",
-            "evidence": [
-              {
-                "file": "EFTA02214145.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "i am meeting them today 11:15am at my office",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214145.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "b3da1aa4444ace49",
-            "event_title": "Visitor on Epstein's Schedule Contacted by Darren Indyke Office \u2014 June 30, 2017",
-            "event_type": "presence",
-            "description": "A legal assistant at Darren K. Indyke PLLC contacted someone on Epstein's schedule for June 30, 2017 asking for their address, indicating a scheduled meeting or appointment.",
-            "date_start": "2017-06-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Bebe Avdiu",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "The person is on Epstein's official schedule and contacted by his legal counsel's office.",
-            "evidence": [
-              {
-                "file": "EFTA02215951.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "My name is Bebe and I am covering for Mr. Epstein's assistant as she is out this week. I see you are on Jeffrey's schedule for today. May you please forward me your address?\nBebe Avdiu\nLegal Assistant\nDARREN K INDYKE, PLLC\n575 Lexington Avenue, 4th Floor",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215951.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8a17d695e0c09a6f",
-            "event_title": "Carluz Toylo to Begin Employment at NYC Office (575 Lexington Ave)",
-            "event_type": "travel",
-            "description": "Carluz Toylo scheduled to begin employment at HBRK Associates Inc. office in New York on October 1, 2017, with Richard Kahn instructing coordination with Lesley for flight arrangements from Hawaii.",
-            "date_start": "2017-10-01",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              },
-              {
-                "name": "Richard Kahn",
-                "role": "associate"
-              },
-              {
-                "name": "Carluz Toylo",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Employment coordination at Richard Kahn's office (Epstein's financial manager) but no evidence Epstein was physically present at this specific location on this date.",
-            "evidence": [
-              {
-                "file": "EFTA02220623.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "NYC is where you will begin please coordinate with Lesley and she will help you arrange flights... Richard Kahn HBRK Associates Inc. 575 Lexington Avenue, 4th Floor New York, NY 10022",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220623.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02214145",
-            "file": "EFTA02214145.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215951",
-            "file": "EFTA02215951.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02220623",
-            "file": "EFTA02220623.pdf",
             "source_type": "doj_efta"
           }
         ]
