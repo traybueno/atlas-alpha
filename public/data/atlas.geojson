@@ -7613,7 +7613,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 106,
-        "evidence_count": 319,
+        "evidence_count": 320,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8217,8 +8217,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 292,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+287 more)",
+        "source_count": 293,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+288 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -9879,6 +9879,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Between in or about 1994 and in or about 1997, MAXWELL participated in multiple group sexual encounters with Epstein and Minor Victim-1 in New York and Florida.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077180.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077157.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Victims were groomed and/or abused at multiple locations, including the following: a. A multi-story private residence on the Upper East Side of Manhattan, New York owned by Epstein (the \"New York Residence\")",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077157.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14045,6 +14052,11 @@
           {
             "doc_id": "EFTA00077180",
             "file": "EFTA00077180.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077157",
+            "file": "EFTA00077157.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -34118,7 +34130,7 @@
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
         "event_count": 27,
-        "evidence_count": 50,
+        "evidence_count": 51,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -34234,8 +34246,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 41,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+36 more)",
+        "source_count": 42,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA01263156.pdf, ... (+37 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -34817,6 +34829,13 @@
                 "excerpt": "was sexually abused and raped by Epstein more than 200 times in Palm Beach, New York, New Mexico and Los Angeles. Maxwell also played a major role in this abuse.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00068552.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00077157.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "b. An estate in Palm Beach, Florida owned by Epstein (the \"Palm Beach Residence\")",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077157.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -35377,6 +35396,11 @@
           {
             "doc_id": "EFTA00068552",
             "file": "EFTA00068552.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00077157",
+            "file": "EFTA00077157.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -44326,6 +44350,332 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.994421,
+          40.660716
+        ]
+      },
+      "properties": {
+        "id": "d7d20cebb33612c0",
+        "name": "Fr\u00e9d\u00e9ric Fekkai Salon",
+        "location_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
+        "location_address": "712 5th Avenue, Brooklyn, New York 11215, United States",
+        "location_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
+        "canonical_name": "Frederic Fekkai Salon, 712 Fifth Avenue, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
+        "location_descriptor": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
+        "event_count": 7,
+        "evidence_count": 10,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-05-30",
+        "date_end": "2017-09-13",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          },
+          {
+            "name": "Karyna",
+            "role": "associate"
+          },
+          {
+            "name": "Jojo",
+            "role": "staff"
+          },
+          {
+            "name": "Kathryn Ruemmler",
+            "role": "associate"
+          }
+        ],
+        "source_count": 10,
+        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+5 more)",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
+        "events": [
+          {
+            "event_id": "4795c3367231de6c",
+            "event_title": "Jeffrey Epstein and Karyna visit Fr\u00e9d\u00e9ric Fekkai salon",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein visited the Fr\u00e9d\u00e9ric Fekkai salon in Manhattan on May 30, 2017 for a haircut, accompanied by an unidentified associate.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              },
+              {
+                "name": "Karyna",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Document confirms Jeffrey Epstein's personal visit to the Fekkai salon charged to his account on May 30.",
+            "evidence": [
+              {
+                "file": "EFTA02215243.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Did you go with Jeffrey to Fekkai salon on May 30th and have a cut? Someone went with him...charge from Fekkai on May 30.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215243.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216454.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "on Saturday 3 June and on Monday 5 June (dyeing hair)\nKaryna who went with Jeffrey [on May 30 to Fekkai]",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216454.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216761.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "never mind on the charge from Fekkai on May 30. It was Karyna who went with Jeffrey.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216761.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "c7f2a7a038f8c44b",
+            "event_title": "Epstein at Frederic Fekkai NYC for Haircut with Patrick, 2:30pm May 30, 2017",
+            "event_type": "presence",
+            "description": "Epstein confirmed for haircut with stylist Patrick at Frederic Fekkai NYC at 2:30pm May 30, 2017; driven by Jojo.",
+            "date_start": "2017-05-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Jojo",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein is the subject of this confirmed appointment at Frederic Fekkai salon, driven by personal driver Jojo.",
+            "evidence": [
+              {
+                "file": "EFTA02214835.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "You are confirmed to see Patrick for a cut today at 2:30pm\nJOJO, be outside ready to go now please!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214835.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "836058f719005628",
+            "event_title": "Epstein Charged $590.43 at Frederic Fekkai New York, June 3, 2017",
+            "event_type": "presence",
+            "description": "Epstein charged $590.43 at Frederic Fekkai salon in New York on June 3, 2017.",
+            "date_start": "2017-06-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's account charged at Fekkai.",
+            "evidence": [
+              {
+                "file": "EFTA02214841.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "06/03/2017 FREDERIC FEKKAI - NEW YORK, NY 590.43",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214841.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "3422855347bb48fe",
+            "event_title": "Epstein Associate Hair Appointment at Fr\u00e9d\u00e9ric Fekkai Salon, June 13, 2017",
+            "event_type": "presence",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02215920.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Confirmation from Frederic Fekkai - 5th Avenue\nDear We are writing to inform you that you have an appointment for Tuesday, June 13 at 12:00 PM.\nWomen's Hair Cut with PATRICK, Color - Highlights with REYAD and Pedicure with NORM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215920.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0e7ac8b1d8043a6a",
+            "event_title": "Epstein Meets Ruemmler at Frederic Fekkai Salon NYC, Sept 13, 2017 at ~4pm",
+            "event_type": "presence",
+            "description": "Epstein planned to meet Ruemmler at Fekkai salon Sept 13 2017 at 4pm.",
+            "date_start": "2017-09-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Kathryn Ruemmler",
+                "role": "associate"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally meeting Ruemmler.",
+            "evidence": [
+              {
+                "file": "EFTA02221088.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I think i will meet ruemmelrr tomorw at fekkai around 4",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221088.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "27291f3e84e17a41",
+            "event_title": "Epstein Network Associate Purchases Black Prada Tote Bag at NYC Store for Epstein, Aug 26, 2017",
+            "event_type": "transaction",
+            "description": "An Epstein associate purchased a black Prada tote at Prada NYC store August 26 2017 per Epstein approval.",
+            "date_start": "2017-08-26",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Epstein personally approved the purchase but was not physically present.",
+            "evidence": [
+              {
+                "file": "EFTA02221203.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "the address i gave you is for the Prada store...tomorrow will be fine to purchase! Jeffrey just emailed me back re the Tote I chose...he said it is PERFECT!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221203.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221234.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "is requesting a hair cut and color correction at Fekkai. OK to make her appointments?\n...Yes\nJeffrey E.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221234.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "90c43a50362683a4",
+            "event_title": "Epstein Associate Fekkai Salon Appointment \u2014 Cut and Color (Sept 7, 2017, 1:30pm)",
+            "event_type": "presence",
+            "description": "Salon appointment Sept 7, 2017 at 1:30pm.",
+            "date_start": "2017-09-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA02221298.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "1:30pm Fekkai appt for cut and color!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221298.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02215243",
+            "file": "EFTA02215243.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216454",
+            "file": "EFTA02216454.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216761",
+            "file": "EFTA02216761.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214835",
+            "file": "EFTA02214835.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02214841",
+            "file": "EFTA02214841.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02215920",
+            "file": "EFTA02215920.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221088",
+            "file": "EFTA02221088.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221203",
+            "file": "EFTA02221203.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221234",
+            "file": "EFTA02221234.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221298",
+            "file": "EFTA02221298.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.03363,
           28.944465
         ]
@@ -46066,305 +46416,6 @@
           {
             "doc_id": "EFTA02218825",
             "file": "EFTA02218825.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.994421,
-          40.660716
-        ]
-      },
-      "properties": {
-        "id": "d7d20cebb33612c0",
-        "name": "Fr\u00e9d\u00e9ric Fekkai Salon",
-        "location_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
-        "location_address": "712 5th Avenue, Brooklyn, New York 11215, United States",
-        "location_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
-        "canonical_name": "Frederic Fekkai Salon, 712 Fifth Avenue, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Fr\u00e9d\u00e9ric Fekkai Salon",
-        "location_descriptor": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
-        "event_count": 6,
-        "evidence_count": 9,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-05-30",
-        "date_end": "2017-09-13",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Karyna Shuliak",
-            "role": "associate"
-          },
-          {
-            "name": "Karyna",
-            "role": "associate"
-          },
-          {
-            "name": "Jojo",
-            "role": "staff"
-          },
-          {
-            "name": "Kathryn Ruemmler",
-            "role": "associate"
-          }
-        ],
-        "source_count": 9,
-        "sources_preview": "EFTA02215243.pdf, EFTA02216454.pdf, EFTA02216761.pdf, EFTA02214835.pdf, EFTA02214841.pdf, ... (+4 more)",
-        "epstein_nexus": "direct",
-        "event_type": "presence",
-        "event_description": "A luxury hair salon on Fifth Avenue in Midtown Manhattan, founded by celebrity hairdresser Fr\u00e9d\u00e9ric Fekkai.",
-        "events": [
-          {
-            "event_id": "4795c3367231de6c",
-            "event_title": "Jeffrey Epstein and Karyna visit Fr\u00e9d\u00e9ric Fekkai salon",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein visited the Fr\u00e9d\u00e9ric Fekkai salon in Manhattan on May 30, 2017 for a haircut, accompanied by an unidentified associate.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Karyna Shuliak",
-                "role": "associate"
-              },
-              {
-                "name": "Karyna",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Document confirms Jeffrey Epstein's personal visit to the Fekkai salon charged to his account on May 30.",
-            "evidence": [
-              {
-                "file": "EFTA02215243.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Did you go with Jeffrey to Fekkai salon on May 30th and have a cut? Someone went with him...charge from Fekkai on May 30.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215243.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216454.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "on Saturday 3 June and on Monday 5 June (dyeing hair)\nKaryna who went with Jeffrey [on May 30 to Fekkai]",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216454.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216761.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "never mind on the charge from Fekkai on May 30. It was Karyna who went with Jeffrey.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216761.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "c7f2a7a038f8c44b",
-            "event_title": "Epstein at Frederic Fekkai NYC for Haircut with Patrick, 2:30pm May 30, 2017",
-            "event_type": "presence",
-            "description": "Epstein confirmed for haircut with stylist Patrick at Frederic Fekkai NYC at 2:30pm May 30, 2017; driven by Jojo.",
-            "date_start": "2017-05-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Jojo",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein is the subject of this confirmed appointment at Frederic Fekkai salon, driven by personal driver Jojo.",
-            "evidence": [
-              {
-                "file": "EFTA02214835.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "You are confirmed to see Patrick for a cut today at 2:30pm\nJOJO, be outside ready to go now please!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214835.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "836058f719005628",
-            "event_title": "Epstein Charged $590.43 at Frederic Fekkai New York, June 3, 2017",
-            "event_type": "presence",
-            "description": "Epstein charged $590.43 at Frederic Fekkai salon in New York on June 3, 2017.",
-            "date_start": "2017-06-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's account charged at Fekkai.",
-            "evidence": [
-              {
-                "file": "EFTA02214841.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "06/03/2017 FREDERIC FEKKAI - NEW YORK, NY 590.43",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02214841.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "3422855347bb48fe",
-            "event_title": "Epstein Associate Hair Appointment at Fr\u00e9d\u00e9ric Fekkai Salon, June 13, 2017",
-            "event_type": "presence",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA02215920.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Confirmation from Frederic Fekkai - 5th Avenue\nDear We are writing to inform you that you have an appointment for Tuesday, June 13 at 12:00 PM.\nWomen's Hair Cut with PATRICK, Color - Highlights with REYAD and Pedicure with NORM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215920.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "0e7ac8b1d8043a6a",
-            "event_title": "Epstein Meets Ruemmler at Frederic Fekkai Salon NYC, Sept 13, 2017 at ~4pm",
-            "event_type": "presence",
-            "description": "Epstein planned to meet Ruemmler at Fekkai salon Sept 13 2017 at 4pm.",
-            "date_start": "2017-09-13",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Kathryn Ruemmler",
-                "role": "associate"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally meeting Ruemmler.",
-            "evidence": [
-              {
-                "file": "EFTA02221088.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "I think i will meet ruemmelrr tomorw at fekkai around 4",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221088.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "27291f3e84e17a41",
-            "event_title": "Epstein Network Associate Purchases Black Prada Tote Bag at NYC Store for Epstein, Aug 26, 2017",
-            "event_type": "transaction",
-            "description": "An Epstein associate purchased a black Prada tote at Prada NYC store August 26 2017 per Epstein approval.",
-            "date_start": "2017-08-26",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Epstein personally approved the purchase but was not physically present.",
-            "evidence": [
-              {
-                "file": "EFTA02221203.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "the address i gave you is for the Prada store...tomorrow will be fine to purchase! Jeffrey just emailed me back re the Tote I chose...he said it is PERFECT!",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221203.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02221234.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "is requesting a hair cut and color correction at Fekkai. OK to make her appointments?\n...Yes\nJeffrey E.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221234.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02215243",
-            "file": "EFTA02215243.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216454",
-            "file": "EFTA02216454.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216761",
-            "file": "EFTA02216761.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214835",
-            "file": "EFTA02214835.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02214841",
-            "file": "EFTA02214841.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02215920",
-            "file": "EFTA02215920.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221088",
-            "file": "EFTA02221088.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221203",
-            "file": "EFTA02221203.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02221234",
-            "file": "EFTA02221234.pdf",
             "source_type": "doj_efta"
           }
         ]
