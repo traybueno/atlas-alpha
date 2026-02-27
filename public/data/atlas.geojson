@@ -22,7 +22,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 144,
-        "evidence_count": 459,
+        "evidence_count": 461,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -742,8 +742,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 427,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+422 more)",
+        "source_count": 429,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+424 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -5025,6 +5025,13 @@
                 "excerpt": "On Jan. 27, 2020, during a press con\u00adference held outside Epstein's Up\u00adper East Side mansion, Berman was asked about the Prince's November 20 offer to help and stated, '[t]o date, Prince Andrew has provided zero cooperation.'",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077287.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00086237.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "called out Andrew for giving \"zero co-operation\" to the investigation into Epstein at a press conference held outside Epstein's infamous front door.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00086237.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -7592,7 +7599,15 @@
                 "role": "subject"
               },
               {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
                 "name": "Masha Drokova",
+                "role": "associate"
+              },
+              {
+                "name": "Leon Black",
                 "role": "associate"
               },
               {
@@ -7615,6 +7630,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Dylan Love Jeffrey agreed to take in person interview in New York with Dylan who's writing for TNW and Business Insider. I guess Sept 24; 26-27 would be the best days for Dylan.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223434.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02224044.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Leon Black is confirmed to come see Jeffrey today at 6:15pm!",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02224044.pdf",
                 "confidence": 0.7
               }
             ]
@@ -9390,6 +9412,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00086237",
+            "file": "EFTA00086237.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02219583",
             "file": "EFTA02219583.pdf",
             "source_type": "doj_efta"
@@ -10145,6 +10172,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02224044",
+            "file": "EFTA02224044.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02223203",
             "file": "EFTA02223203.pdf",
             "source_type": "doj_efta"
@@ -10277,8 +10309,8 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 134,
-        "evidence_count": 496,
+        "event_count": 136,
+        "evidence_count": 511,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -10296,6 +10328,10 @@
           {
             "name": "Detective (NYPD)",
             "role": "legal"
+          },
+          {
+            "name": "Nicholas Tartaglione",
+            "role": "other"
           },
           {
             "name": "Geoffrey S. Berman",
@@ -10478,11 +10514,11 @@
             "role": "legal"
           },
           {
-            "name": "Nicholas Tartaglione",
+            "name": "MCC corrections officers",
             "role": "other"
           },
           {
-            "name": "MCC corrections officers",
+            "name": "Tartaglione",
             "role": "other"
           },
           {
@@ -10852,10 +10888,14 @@
           {
             "name": "Epstein's attorneys",
             "role": "legal"
+          },
+          {
+            "name": "Reyes",
+            "role": "other"
           }
         ],
-        "source_count": 420,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+415 more)",
+        "source_count": 430,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+425 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -11332,6 +11372,10 @@
                 "role": "subject"
               },
               {
+                "name": "Nicholas Tartaglione",
+                "role": "other"
+              },
+              {
                 "name": "Geoffrey S. Berman",
                 "role": "legal"
               }
@@ -11365,6 +11409,34 @@
                 "source_type": "doj_efta",
                 "excerpt": "ABC News has heard that he tried to hang himself.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082222.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085277.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing: Epstein found in MCC cell at 0127 hours in fetal position with noose around neck.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085277.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085278.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing: Follow-up on Epstein MCC noose incident - SHU Lieutenant wrote first report mentioning redness on neck; two other officers wrote supplemental reports saying Epstein had something around his neck when they responded to his cell.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085278.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085764.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I can confirm that, although an internal investigation was completed regarding the July 23, 2019 incident, the current investigations by the FBI and OIG will include this incident as well.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085764.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00086261.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NYMAQ 530.05 * INMATE ROSTER 07-24-2019\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY EPSTEIN 07-24-2019 U01-OO1L UNASSG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00086261.pdf",
                 "confidence": 0.7
               }
             ]
@@ -12231,6 +12303,13 @@
                 "excerpt": "says Epstein's body is ready",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00082120.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085767.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On August 10, 2019 at 6:33 a.m., radio call for medical staff at SHU. Lt. Jean responded and saw an officer saying Epstein had hung himself. Epstein was on the ground on two mattresses with an officer performing CPR. Officers admitted they failed the 3 AM and 5 AM counts; cameras were not working in SHU; Epstein had no cellmate overnight.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085767.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -12602,6 +12681,13 @@
                 "excerpt": "Today at Jeffrey Epstein's hearing in SDNY it was stated that there are one million documents to be turned over to the defense.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084168.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085288.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Wednesday, July 31 - Pretrial conference in Epstein \u2014 11 a.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085288.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -12672,6 +12758,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "UNITED STATES OF AMERICA v. JEFFREY EPSTEIN, Defendant. Before: New York, N.Y. 19 Cr. 490(RMB) Conference July 8, 2019 1:20 p.m. HON. HENRY B. PITMAN",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080349.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085745.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "UNITED STATES OF AMERICA v. JEFFREY EPSTEIN. Before HON. RICHARD M. BERMAN. Conference. July 8, 2019. 2:00 p.m.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085745.pdf",
                 "confidence": 0.7
               }
             ]
@@ -12942,6 +13035,10 @@
                 "role": "other"
               },
               {
+                "name": "Tartaglione",
+                "role": "other"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               },
@@ -13174,6 +13271,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Partially legible document describing: USMS email chain forwarded to US Attorney Berman reporting that Epstein was found at MCC New York at 0127 hours in a fetal position with a noose around his neck; placed on suicide watch then downgraded to suicide observation; cellmate threatened to kill him.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080829.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085276.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein was found on the floor of his cell last not unresponsive, although apparently breathing. There were red stretch marks along his neck. He said that within the last few days Tartaglione (his bunkmate) has threatened him.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085276.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15240,6 +15344,13 @@
                 "excerpt": "AO 93 (SDNY Rev. 01/17) Search and Seizure Warrant UNITED STATES DISTRICT COURT for the Southern District of New York In the Matter of the Search of 2 electronic devices seized on July 6, 2019",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084871.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085779.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7/6: Epstein arrested and housed at MCC",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085779.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -15301,6 +15412,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "8:00 am: inmate Reyes Efrain, Reg. No. 85993-054 departs for court (WAB-USMS-SDNY). Reyes is Epstein's cellmate.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00060329.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085780.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein's cellmate left for Court at 8:00 a.m. on August 9. At 6:45 p.m., Epstein returned from an attorney conference. At 7:18 p.m., he was permitted to make an unrecorded, 17-minute phone call.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085780.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15474,6 +15592,10 @@
               {
                 "name": "MCC staff, Case Managers, Unit Manager",
                 "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
               }
             ],
             "epstein_nexus": "contextual",
@@ -15484,6 +15606,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Complex SHU Meeting 2019 Scheduled Dates. Start: Tue 8/6/2019 9:00 AM. End: Tue 8/6/2019 10:00 AM. Complex SHU Meeting - Normal Locations Within Institution. Please accept this Appointment as a reminder to attend the weekly Complex SHU Meeting.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00060967.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00086261.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "NYMAQ 530.05 * INMATE ROSTER 08-06-2019\nNUM ASSIGNMENT REG NO NAME OCT DATE QTR WRK\n0001 ATTY ARAUJO 08-06-2019 I04-930U UNASSG\n0002 EPSTEIN 08-06-2019 204-206LAD UNASSG\n0003 MOORE 08-06-2019 K06-145U UNASSG\n0004 TARTAGLIONE 08-06-2019 206-215UAD UNASSG",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00086261.pdf",
                 "confidence": 0.7
               }
             ]
@@ -16778,6 +16907,13 @@
                 "excerpt": "Mr. Epstein was a 66-year-old male who arrived at MCC New York on July 6, 2019 under pretrial status after being indicted for sex trafficking of minors and conspiracy.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00077545.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085780.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "July 6: Epstein arrives at MCC. July 8: Intake and Psychological Observation. July 9: First Suicide Risk Assessment; transfer to SHU.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085780.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -17521,6 +17657,10 @@
               {
                 "name": "Epstein's attorneys",
                 "role": "legal"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
               }
             ],
             "epstein_nexus": "direct",
@@ -17531,6 +17671,75 @@
                 "source_type": "doj_efta",
                 "excerpt": "the team met with Epstein's attorneys, who, in very general terms, discussed the possibility of a resolution and/or the possibility of cooperation.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085116.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085780.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "July 29: Transfer to SHU with a cellmate. August 1: Second Suicide Risk Assessment.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085780.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "9aaed92cd140f58f",
+            "event_title": "Epstein Housed in MCC SHU with Nicholas Tartaglione, July 10, 2019",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein placed in Special Housing Unit at MCC New York with cellmate Nicholas Tartaglione on July 10, 2019.",
+            "date_start": "2019-07-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Nicholas Tartaglione",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at MCC SHU with Tartaglione on this date.",
+            "evidence": [
+              {
+                "file": "EFTA00085779.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7/10: Epstein housed in SHU with Tartaglione",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085779.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "08abcbe1a4a097a9",
+            "event_title": "Epstein Found Dead at MCC After Guard Failures, August 10, 2019",
+            "event_type": "legal",
+            "description": "Epstein housed in MCC SHU with cellmate Reyes; on August 9 Reyes left for court and Epstein was left alone, with at least 9 officers and 3 supervisors on duty who should have monitored him.",
+            "date_start": "2019-08-09",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Reyes",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically present at MCC SHU on the night before his death.",
+            "evidence": [
+              {
+                "file": "EFTA00085779.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein's return to SHU and housing with Reyes\ne. August 9\ni. Reyes leaves for court at 8; at least 9 officers and 3 supervisors on duty that day",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085779.pdf",
                 "confidence": 0.7
               }
             ]
@@ -17805,6 +18014,26 @@
           {
             "doc_id": "EFTA00082222",
             "file": "EFTA00082222.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085277",
+            "file": "EFTA00085277.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085278",
+            "file": "EFTA00085278.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085764",
+            "file": "EFTA00085764.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00086261",
+            "file": "EFTA00086261.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -18168,6 +18397,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00085767",
+            "file": "EFTA00085767.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00010818",
             "file": "EFTA00010818.pdf",
             "source_type": "doj_efta"
@@ -18313,6 +18547,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00085288",
+            "file": "EFTA00085288.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00014638",
             "file": "EFTA00014638.pdf",
             "source_type": "doj_efta"
@@ -18330,6 +18569,11 @@
           {
             "doc_id": "EFTA00080349",
             "file": "EFTA00080349.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085745",
+            "file": "EFTA00085745.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -18515,6 +18759,11 @@
           {
             "doc_id": "EFTA00080829",
             "file": "EFTA00080829.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085276",
+            "file": "EFTA00085276.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -19213,8 +19462,18 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00085779",
+            "file": "EFTA00085779.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00060281",
             "file": "EFTA00060281.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085780",
+            "file": "EFTA00085780.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -26434,7 +26693,7 @@
         "display_name": "Cyril E. King Airport",
         "location_descriptor": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
         "event_count": 77,
-        "evidence_count": 186,
+        "evidence_count": 187,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -26642,8 +26901,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 164,
-        "sources_preview": "EFTA00005994.pdf, EFTA02223795.pdf, EFTA01263197.pdf, EFTA00082688.pdf, EFTA02212885.pdf, ... (+159 more)",
+        "source_count": 165,
+        "sources_preview": "EFTA00005994.pdf, EFTA02223795.pdf, EFTA01263197.pdf, EFTA00082688.pdf, EFTA02212885.pdf, ... (+160 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The main commercial airport serving St. Thomas, U.S. Virgin Islands, located on the western tip of the island.",
@@ -27905,6 +28164,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Will her new ticket to STT be coming to me via email soon? I want to send to jeffrey.\n...AA 936 28JUL JFK STT 0930A 0139P\n...change ticket from NY to Paris to Aug. 4",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219675.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02224157.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Should we cancel the flights STT to NY for an? They fly back to NY with you instead?...wheeels up thurs 10 am / either clear north ramp or teterboro",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02224157.pdf",
                 "confidence": 0.7
               }
             ]
@@ -30020,6 +30286,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02224157",
+            "file": "EFTA02224157.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02218294",
             "file": "EFTA02218294.pdf",
             "source_type": "doj_efta"
@@ -30522,8 +30793,8 @@
         "property_type": "event",
         "display_name": "Paris",
         "location_descriptor": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
-        "event_count": 70,
-        "evidence_count": 170,
+        "event_count": 71,
+        "evidence_count": 171,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -30699,8 +30970,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 152,
-        "sources_preview": "EFTA00077200.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02209722.pdf, EFTA02212901.pdf, ... (+147 more)",
+        "source_count": 153,
+        "sources_preview": "EFTA00077200.pdf, EFTA00004070.pdf, EFTA00004250.pdf, EFTA02209722.pdf, EFTA02212901.pdf, ... (+148 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "The capital and largest city of France, situated on the Seine River in northern France, renowned as a global center of culture and diplomacy.",
@@ -33522,6 +33793,33 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "b59ae5d71f60ee17",
+            "event_title": "Epstein Departs for Paris on October 1, 2017",
+            "event_type": "travel",
+            "description": "Lesley Groff confirmed that Jeffrey Epstein planned to travel to Paris on Sunday, October 1, 2017, departing from New York.",
+            "date_start": "2017-10-01",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally stated he would be in Paris on October 1, 2017, confirming his planned physical presence there.",
+            "evidence": [
+              {
+                "file": "EFTA02224103.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Ileffrey is saying he will go to Paris on Sunday Oct. I...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02224103.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -34284,6 +34582,11 @@
             "doc_id": "EFTA02223867",
             "file": "EFTA02223867.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02224103",
+            "file": "EFTA02224103.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -34308,8 +34611,8 @@
         "property_type": "event",
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "event_count": 56,
-        "evidence_count": 143,
+        "event_count": 57,
+        "evidence_count": 145,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -34505,8 +34808,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 133,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+128 more)",
+        "source_count": 135,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+130 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -36609,6 +36912,13 @@
                 "excerpt": "Ion Nicola is asking if you have any work in NY for him...he is hoping to come to NY and then on to the island Oct. 25th... tell him this time he will fly with me and my plane",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223174.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02224035.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: Ion Nicola is requesting to possibly work in NY first if he is needed then go to island Oct. 25 but not stay too long as it was difficult leaving last time",
+                "document_url": "",
+                "confidence": 0.7
               }
             ]
           },
@@ -36888,6 +37198,33 @@
                 "source_type": "doj_efta",
                 "excerpt": "who was sexually assaulted by Epstein in Florida, New Mexico, and the Virgin Islands in approxir,W04, and when she was 16 and 17 years old.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085116.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fa1e3074b64d1928",
+            "event_title": "Epstein and Employee-3 Engaged in Sexual Encounters at Virgin Islands Property (2004-2006)",
+            "event_type": "presence",
+            "description": "Employee-3, who worked as Epstein's assistant from December 2004 to early 2006, engaged in coercive sexual encounters with Epstein at his Virgin Islands property where she provided him massages.",
+            "date_start": "2004",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00085273.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "At least some of these encounters involved [Employee-3] herself providing Epstein with his massages when they were in the Virgin Islands.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085273.pdf",
                 "confidence": 0.7
               }
             ]
@@ -37480,6 +37817,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02224035",
+            "file": "EFTA02224035.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02223255",
             "file": "EFTA02223255.pdf",
             "source_type": "doj_efta"
@@ -37557,6 +37899,11 @@
           {
             "doc_id": "EFTA00085116",
             "file": "EFTA00085116.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085273",
+            "file": "EFTA00085273.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -40104,8 +40451,8 @@
         "property_type": "event",
         "display_name": "Jeffrey Epstein Palm Beach Mansion",
         "location_descriptor": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
-        "event_count": 43,
-        "evidence_count": 77,
+        "event_count": 45,
+        "evidence_count": 79,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -40237,8 +40584,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 59,
-        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA00085116.pdf, ... (+54 more)",
+        "source_count": 61,
+        "sources_preview": "EFTA02731168.pdf, EFTA00009512.pdf, EFTA00073643.pdf, EFTA00076712.pdf, EFTA00085116.pdf, ... (+56 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private estate at 358 El Brillo Way in the exclusive town of Palm Beach, Florida, on a barrier island along the Atlantic coast.",
@@ -41803,6 +42150,60 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "68070a85266b9b27",
+            "event_title": "Underage Girls Provided Massages to Epstein at Palm Beach Residence (Late 1990s-2002)",
+            "event_type": "communication",
+            "description": "Former Palm Beach house manager recalls three young girls visiting Epstein's residence in his final years (through 2002), including at least one believed to be under 18 who gave Epstein massages.",
+            "date_start": "2000",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00085273.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He believed that [a girl] was under 18 and was giving Epstein 'massages'... three young girls came by the house.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085273.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "34290ec969de9c05",
+            "event_title": "Underage Females Paid $200-$400 for Sexual Massages at Epstein's Palm Beach Residence (2004-2005)",
+            "event_type": "presence",
+            "description": "Multiple underage girls visited Epstein's Palm Beach residence and performed sexual massages; Epstein paid them $200-$400. Palm Beach Police investigation initiated March 2005; FBI joined July 2006.",
+            "date_start": "2005-03",
+            "date_end": null,
+            "date_precision": "month",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00085291.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Multiple underage females visited Epstein's Palm Beach residence performing sexual massages, paid $200-$400.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085291.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -42099,6 +42500,16 @@
           {
             "doc_id": "EFTA00084614",
             "file": "EFTA00084614.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085273",
+            "file": "EFTA00085273.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085291",
+            "file": "EFTA00085291.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -45522,8 +45933,8 @@
         "property_type": "event",
         "display_name": "Metropolitan Detention Center Brooklyn",
         "location_descriptor": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
-        "event_count": 33,
-        "evidence_count": 72,
+        "event_count": 34,
+        "evidence_count": 73,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -45585,10 +45996,14 @@
           {
             "name": "Warden Heriberto Tellez",
             "role": "other"
+          },
+          {
+            "name": "Leah Saffian",
+            "role": "legal"
           }
         ],
-        "source_count": 67,
-        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00081877.pdf, EFTA00009831.pdf, EFTA00010199.pdf, ... (+62 more)",
+        "source_count": 68,
+        "sources_preview": "EFTA00039875.pdf, EFTA00039872.pdf, EFTA00081877.pdf, EFTA00009831.pdf, EFTA00010199.pdf, ... (+63 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A federal administrative detention facility operated by the Bureau of Prisons at 80 29th Street in the Sunset Park neighborhood of Brooklyn, New York.",
@@ -46802,6 +47217,41 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "4555a014c68a22a0",
+            "event_title": "Maxwell's Attorneys Attend Legal Conference at MDC Brooklyn; Guards Seize Legal Documents",
+            "event_type": "presence",
+            "description": "Attorneys Bobbi Sternheim and Leah Saffian held a 2.5-hour attorney-client conference with Ghislaine Maxwell at MDC Brooklyn, during which guards seized Maxwell's confidential legal documents and surveilled the meeting with a camera.",
+            "date_start": "2021-04-24",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "subject"
+              },
+              {
+                "name": "Bobbi C. Sternheim",
+                "role": "legal"
+              },
+              {
+                "name": "Leah Saffian",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Maxwell is Epstein's associate on trial but this event is about her detention conditions.",
+            "evidence": [
+              {
+                "file": "EFTA00086246.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On Saturday, April 24, 2021, Leah Saffian, Esq. and I attended a pre-scheduled in-person legal conference with Ms. Maxwell in the MDC.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00086246.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -47138,6 +47588,11 @@
           {
             "doc_id": "EFTA00084823",
             "file": "EFTA00084823.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00086246",
+            "file": "EFTA00086246.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -48782,7 +49237,7 @@
         "display_name": "Epstein's Zorro Ranch",
         "location_descriptor": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
         "event_count": 24,
-        "evidence_count": 48,
+        "evidence_count": 49,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -48858,8 +49313,8 @@
             "role": "victim"
           }
         ],
-        "source_count": 46,
-        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+41 more)",
+        "source_count": 47,
+        "sources_preview": "EFTA02731168.pdf, EFTA00017716.pdf, EFTA00018407.pdf, EFTA00016373.pdf, EFTA00065088.pdf, ... (+42 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A large private ranch property spanning thousands of acres near Stanley, New Mexico, in the Estancia Valley southeast of Santa Fe.",
@@ -48968,6 +49423,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Zorro/Vegas/Aspen IMG_6122.JPG",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004250.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085684.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Epstein hoped to seed the human race with his DNA by impregnating women at his vast New Mexico ranch.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085684.pdf",
                 "confidence": 0.7
               }
             ]
@@ -49823,6 +50285,11 @@
           {
             "doc_id": "EFTA00004250",
             "file": "EFTA00004250.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085684",
+            "file": "EFTA00085684.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -55416,7 +55883,7 @@
         "display_name": "Long Island MacArthur Airport",
         "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
         "event_count": 10,
-        "evidence_count": 25,
+        "evidence_count": 28,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -55448,8 +55915,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 23,
-        "sources_preview": "EFTA00005994.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, EFTA02216069.pdf, ... (+18 more)",
+        "source_count": 26,
+        "sources_preview": "EFTA00005994.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, EFTA02216069.pdf, ... (+21 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
@@ -55623,6 +56090,27 @@
                 "source_type": "doj_efta",
                 "excerpt": "no i leave for palm beach thurs at 5 go to islip?",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218524.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02224032.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Teterboro (KTEB) at 02:44PM EDT enroute to Long Island MacArthur (KISP) for an estimated arrival at 03:09PM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02224032.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02224049.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Long Island MacArthur (KISP) in 15 minutes at 03:16PM EDT",
+                "document_url": "",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02224058.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE arrived at Long Island MacArthur (KISP) at 03:07PM EDT from Teterboro (KTEB)",
+                "document_url": "",
                 "confidence": 0.7
               }
             ]
@@ -55886,6 +56374,21 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02224032",
+            "file": "EFTA02224032.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02224049",
+            "file": "EFTA02224049.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02224058",
+            "file": "EFTA02224058.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220203",
             "file": "EFTA02220203.pdf",
             "source_type": "doj_efta"
@@ -55963,6 +56466,432 @@
           {
             "doc_id": "EFTA02221121",
             "file": "EFTA02221121.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8283,
+          40.7135
+        ]
+      },
+      "properties": {
+        "id": "b728fdeb7416ed1c",
+        "name": "John F. Kennedy International Airport",
+        "location_name": "John F. Kennedy International Airport",
+        "location_address": "Queens, New York, United States",
+        "location_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
+        "canonical_name": "John F. Kennedy International Airport, Queens, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "John F. Kennedy International Airport",
+        "location_descriptor": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
+        "event_count": 10,
+        "evidence_count": 14,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2005-04-05",
+        "date_end": "2017-10-17",
+        "people": [
+          {
+            "name": "Lesley Groff",
+            "role": "staff"
+          },
+          {
+            "name": "Ion",
+            "role": "associate"
+          },
+          {
+            "name": "Citizens of Lithuania",
+            "role": "associate"
+          },
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Karyna Shuliak",
+            "role": "associate"
+          },
+          {
+            "name": "Bella Klein",
+            "role": "staff"
+          }
+        ],
+        "source_count": 14,
+        "sources_preview": "EFTA02222329.pdf, EFTA02223102.pdf, EFTA02223113.pdf, EFTA02223118.pdf, EFTA02223685.pdf, ... (+9 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
+        "events": [
+          {
+            "event_id": "644936278618c353",
+            "event_title": "Return Flight from St. Thomas to JFK on Delta DL676, August 28, 2017",
+            "event_type": "travel",
+            "description": "Unnamed traveler returned from Cyril E. King Airport, St. Thomas to JFK on Delta DL676 on August 28, 2017, travel arranged through Epstein's assistant Lesley Groff.",
+            "date_start": "2017-08-28",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Return flight from St. Thomas (near Little St. James) arranged by Lesley Groff (Epstein's PA), contextually connected to Epstein's network.",
+            "evidence": [
+              {
+                "file": "EFTA02222329.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Monday 28 Aug 17... Flight/Class DL 676 H Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 01:37 PM\nArriving 05:39 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222329.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "74c2133e389fc712",
+            "event_title": "Epstein Associate Ion Travels Bucharest to New York via Paris on Air France",
+            "event_type": "travel",
+            "description": "Epstein associate Ion traveled from Bucharest Henri Coanda Airport to JFK New York via Paris Charles de Gaulle on Air France flights AF1889 and AF8 on October 17, 2017, booked through Epstein Amex Centurion account.",
+            "date_start": "2017-10-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Ion",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel for Epstein associate from Romania to New York booked through his Amex Centurion account, but Epstein not personally traveling.",
+            "evidence": [
+              {
+                "file": "EFTA02223102.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AF 1889 L Economy Class Bucharest, Henri Coanda / Paris, Charles De Gaulle... AF 8 V Economy Class Paris, Charles De Gaulle / New York, John F Kennedy International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223102.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "8980fca71f8c143e",
+            "event_title": "Epstein Associate Flies Vilnius to New York via Helsinki on Finnair",
+            "event_type": "travel",
+            "description": "An Epstein associate with Lithuanian citizenship flew from Vilnius to JFK New York via Helsinki on Finnair flights AY132 and AY5 on March 30, 2017, travel arranged by Lesley Groff through Amex Centurion.",
+            "date_start": "2017-03-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Citizens of Lithuania",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Epstein staff (Lesley Groff) for a Lithuanian associate traveling to New York, booked through Epstein Amex account.",
+            "evidence": [
+              {
+                "file": "EFTA02223113.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AY 132 O Economy Class / Vilnius, Vilnius / Vantaa, Helsinki-vantaa... AY 5 Q Economy Class / Vantaa, Helsinki-vantaa / New York, John F Kennedy International",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223113.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223118.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "AY 5 / Vantaa, Helsinki-vantaa / New York, John F Kennedy International / 02:10 PM / 03:50 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223118.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "7672d58bc917e819",
+            "event_title": "Epstein Staff Member Flies St. Thomas to JFK, March 8, 2017",
+            "event_type": "presence",
+            "description": "Lesley Groff (Epstein's assistant) arranged a ticket for an unnamed staff member to fly American Airlines AA 1195 from Charlotte Amalie (St. Thomas) to JFK on March 8, 2017.",
+            "date_start": "2017-03-08",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Lesley Groff",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The ticket was arranged by Lesley Groff (Epstein's assistant) for a staff member returning from what is likely Little St. James Island.",
+            "evidence": [
+              {
+                "file": "EFTA02223685.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Hi ! Here is your ticket to go back to NY on Wed. March 8th!\n\nDate: 08 Mar 2017\nAmerican Airlines AA 1195 V Economy Class\nOrigin: Charlotte Amalie, Cyril E King Airport\nDestination: New York, John F Kennedy International\nDeparting: 03:36 PM\nArriving: 07:00 PM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223685.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "72b1bfbc03be78f4",
+            "event_title": "Epstein Flies from Palm Beach to New York City on N908JE (April 5, 2005)",
+            "event_type": "travel",
+            "description": "Epstein flew from Palm Beach (Jet Aviation) to New York City on April 5, 2005 at 4:00 PM, arriving 6:15 PM, call sign N908JE.",
+            "date_start": "2005-04-05",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally flew on N908JE to New York, documented in trash pull from 358 El Brillo.",
+            "evidence": [
+              {
+                "file": "EFTA00084614.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jet Aviation 800-538-0724 itinerary, indicating a departure date of 04/05/2005 at 4:00 PM with An Arrival in New York city of 6:15PM. Flight crew captain, co-captain. Call sign N908JE",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084614.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "23a1496b4cff69f6",
+            "event_title": "Epstein Departs New York on Norwegian Air 117020, September 30, 2017",
+            "event_type": "travel",
+            "description": "Epstein departed New York on Norwegian Air flight 117020 at 10:25pm on September 30, 2017, presumably heading to Paris or Europe.",
+            "date_start": "2017-09-30",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal schedule confirms his 10:25pm departure from New York on Norwegian Air 117020 on September 30, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02223735.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Sat Sept 30.2017 NY\nTBD Ariane De Rothschild\n10:25pm to depart .11.1( via Norwegian Air 117020 (Rec.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223735.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "715f254b03262f18",
+            "event_title": "Epstein Flies St. Thomas to JFK on Delta DL676, January 17, 2017",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein flew Delta flight DL676 Business Class from Cyril E. King Airport, St. Thomas to JFK on January 17, 2017, departing 2:42 PM and arriving 5:59 PM.",
+            "date_start": "2017-01-17",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "The ticket is booked in Jeffrey Epstein's own name (EPSTEIN/JEFFREY E), confirming his physical presence on this flight.",
+            "evidence": [
+              {
+                "file": "EFTA02223829.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN/JEFFREY E DL 676 J Business Class Charlotte Amalie, Cyril E King Airport New York, John F Kennedy International 02:42 PM 05:59 PM 17 Jan 2017 Seats 1C, 1D",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223829.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223832.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN/JEFFREY E Delta Air Lines DL 676 Charlotte Amalie, Cyril E King Airport New York, John F Kennedy International 02:42 PM 05:59 PM J Business Class Seats 1C, 1D Tuesday 17 Jan 17",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223832.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223798.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN/JEFFREY E DL 676 STT to JFK Jan 17",
+                "document_url": "",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "94130ac9b9423000",
+            "event_title": "IM Arrives JFK on Norwegian Air 7019, Sept 20, 2017, to Stay in Epstein Property",
+            "event_type": "travel",
+            "description": "An associate referred to as 'IM' arrived at JFK at 8:30pm on Norwegian Air flight 7019 on September 20, 2017, to stay in Epstein's apartment 3M.",
+            "date_start": "2017-09-20",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Person flying into JFK to stay in Epstein's property (apartment 3M).",
+            "evidence": [
+              {
+                "file": "EFTA02223902.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "8:30pm IM to arrive JFK via Norwegian Air#7019 (Rec. Loc.#MJWPTE)\nShe wil stay in 3M",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223902.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "907d391cb82bac28",
+            "event_title": "Epstein Associate's Parents Fly Moscow to JFK on Aeroflot SU102, Nov 4, 2016",
+            "event_type": "travel",
+            "description": "An Epstein associate's parents flew Aeroflot SU102 from Moscow Sheremetyevo to JFK on November 4, 2016, tickets arranged by Lesley Groff.",
+            "date_start": "2016-11-04",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Travel arranged by Epstein's assistant for an associate's parents.",
+            "evidence": [
+              {
+                "file": "EFTA02223956.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A VISA IS REQUIRED FOR ENTRY INTO USA\nAeroflot SU 102 Moscow, Sheremetyevo New York, John F Kennedy International 02:45 PM 06:25 PM Friday 04 Nov 16",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223956.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02223960.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "A VISA IS REQUIRED FOR ENTRY INTO USA\nAeroflot SU 102 Moscow, Sheremetyevo New York, John F Kennedy International 02:45 PM 06:25 PM Friday 04 Nov 16",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223960.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "193826b5349a5ebc",
+            "event_title": "Epstein Network Associate Flies Palm Beach to New York JFK on JetBlue Flight 454",
+            "event_type": "travel",
+            "description": "JetBlue flight 454 from Palm Beach International to JFK Terminal 5 on November 13, 2016, departing 4:34pm, for Epstein network associate traveling to \"the house\" in New York.",
+            "date_start": "2016-11-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Karyna Shuliak",
+                "role": "associate"
+              },
+              {
+                "name": "Bella Klein",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Associate traveling to Epstein network in New York via JetBlue, instructed to Uber to the house upon arrival, but Epstein not mentioned as present on the flight.",
+            "evidence": [
+              {
+                "file": "EFTA02224142.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Date 13 Nov 2016\nAirline Jetblue Airways\nFlight/Class 66 454 K Economy Class\nOrigin West Palm Beach, Palm Beach International\nDestination New York, John F Kennedy International\nDeparting 04:34 PM\nArriving 07:19 PM\nArrival Terminal Terminal 5",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02224142.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02222329",
+            "file": "EFTA02222329.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223102",
+            "file": "EFTA02223102.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223113",
+            "file": "EFTA02223113.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223118",
+            "file": "EFTA02223118.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223685",
+            "file": "EFTA02223685.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00084614",
+            "file": "EFTA00084614.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223735",
+            "file": "EFTA02223735.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223829",
+            "file": "EFTA02223829.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223832",
+            "file": "EFTA02223832.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223798",
+            "file": "EFTA02223798.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223902",
+            "file": "EFTA02223902.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223956",
+            "file": "EFTA02223956.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02223960",
+            "file": "EFTA02223960.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02224142",
+            "file": "EFTA02224142.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -56475,388 +57404,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8283,
-          40.7135
-        ]
-      },
-      "properties": {
-        "id": "b728fdeb7416ed1c",
-        "name": "John F. Kennedy International Airport",
-        "location_name": "John F. Kennedy International Airport",
-        "location_address": "Queens, New York, United States",
-        "location_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
-        "canonical_name": "John F. Kennedy International Airport, Queens, New York, NY, New York City",
-        "region": "",
-        "property_type": "event",
-        "display_name": "John F. Kennedy International Airport",
-        "location_descriptor": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
-        "event_count": 9,
-        "evidence_count": 13,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2005-04-05",
-        "date_end": "2017-10-17",
-        "people": [
-          {
-            "name": "Lesley Groff",
-            "role": "staff"
-          },
-          {
-            "name": "Ion",
-            "role": "associate"
-          },
-          {
-            "name": "Citizens of Lithuania",
-            "role": "associate"
-          },
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          }
-        ],
-        "source_count": 13,
-        "sources_preview": "EFTA02222329.pdf, EFTA02223102.pdf, EFTA02223113.pdf, EFTA02223118.pdf, EFTA02223685.pdf, ... (+8 more)",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "One of the primary international airports serving the New York metropolitan area, located in the Queens borough of New York City.",
-        "events": [
-          {
-            "event_id": "644936278618c353",
-            "event_title": "Return Flight from St. Thomas to JFK on Delta DL676, August 28, 2017",
-            "event_type": "travel",
-            "description": "Unnamed traveler returned from Cyril E. King Airport, St. Thomas to JFK on Delta DL676 on August 28, 2017, travel arranged through Epstein's assistant Lesley Groff.",
-            "date_start": "2017-08-28",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Return flight from St. Thomas (near Little St. James) arranged by Lesley Groff (Epstein's PA), contextually connected to Epstein's network.",
-            "evidence": [
-              {
-                "file": "EFTA02222329.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Monday 28 Aug 17... Flight/Class DL 676 H Economy Class\nOrigin Charlotte Amalie, Cyril E King Airport\nDestination New York, John F Kennedy International\nDeparting 01:37 PM\nArriving 05:39 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222329.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "74c2133e389fc712",
-            "event_title": "Epstein Associate Ion Travels Bucharest to New York via Paris on Air France",
-            "event_type": "travel",
-            "description": "Epstein associate Ion traveled from Bucharest Henri Coanda Airport to JFK New York via Paris Charles de Gaulle on Air France flights AF1889 and AF8 on October 17, 2017, booked through Epstein Amex Centurion account.",
-            "date_start": "2017-10-17",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Ion",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel for Epstein associate from Romania to New York booked through his Amex Centurion account, but Epstein not personally traveling.",
-            "evidence": [
-              {
-                "file": "EFTA02223102.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AF 1889 L Economy Class Bucharest, Henri Coanda / Paris, Charles De Gaulle... AF 8 V Economy Class Paris, Charles De Gaulle / New York, John F Kennedy International",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223102.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "8980fca71f8c143e",
-            "event_title": "Epstein Associate Flies Vilnius to New York via Helsinki on Finnair",
-            "event_type": "travel",
-            "description": "An Epstein associate with Lithuanian citizenship flew from Vilnius to JFK New York via Helsinki on Finnair flights AY132 and AY5 on March 30, 2017, travel arranged by Lesley Groff through Amex Centurion.",
-            "date_start": "2017-03-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Citizens of Lithuania",
-                "role": "associate"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel arranged by Epstein staff (Lesley Groff) for a Lithuanian associate traveling to New York, booked through Epstein Amex account.",
-            "evidence": [
-              {
-                "file": "EFTA02223113.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AY 132 O Economy Class / Vilnius, Vilnius / Vantaa, Helsinki-vantaa... AY 5 Q Economy Class / Vantaa, Helsinki-vantaa / New York, John F Kennedy International",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223113.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223118.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "AY 5 / Vantaa, Helsinki-vantaa / New York, John F Kennedy International / 02:10 PM / 03:50 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223118.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "7672d58bc917e819",
-            "event_title": "Epstein Staff Member Flies St. Thomas to JFK, March 8, 2017",
-            "event_type": "presence",
-            "description": "Lesley Groff (Epstein's assistant) arranged a ticket for an unnamed staff member to fly American Airlines AA 1195 from Charlotte Amalie (St. Thomas) to JFK on March 8, 2017.",
-            "date_start": "2017-03-08",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Lesley Groff",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The ticket was arranged by Lesley Groff (Epstein's assistant) for a staff member returning from what is likely Little St. James Island.",
-            "evidence": [
-              {
-                "file": "EFTA02223685.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Hi ! Here is your ticket to go back to NY on Wed. March 8th!\n\nDate: 08 Mar 2017\nAmerican Airlines AA 1195 V Economy Class\nOrigin: Charlotte Amalie, Cyril E King Airport\nDestination: New York, John F Kennedy International\nDeparting: 03:36 PM\nArriving: 07:00 PM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223685.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "72b1bfbc03be78f4",
-            "event_title": "Epstein Flies from Palm Beach to New York City on N908JE (April 5, 2005)",
-            "event_type": "travel",
-            "description": "Epstein flew from Palm Beach (Jet Aviation) to New York City on April 5, 2005 at 4:00 PM, arriving 6:15 PM, call sign N908JE.",
-            "date_start": "2005-04-05",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally flew on N908JE to New York, documented in trash pull from 358 El Brillo.",
-            "evidence": [
-              {
-                "file": "EFTA00084614.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jet Aviation 800-538-0724 itinerary, indicating a departure date of 04/05/2005 at 4:00 PM with An Arrival in New York city of 6:15PM. Flight crew captain, co-captain. Call sign N908JE",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00084614.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "23a1496b4cff69f6",
-            "event_title": "Epstein Departs New York on Norwegian Air 117020, September 30, 2017",
-            "event_type": "travel",
-            "description": "Epstein departed New York on Norwegian Air flight 117020 at 10:25pm on September 30, 2017, presumably heading to Paris or Europe.",
-            "date_start": "2017-09-30",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's personal schedule confirms his 10:25pm departure from New York on Norwegian Air 117020 on September 30, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02223735.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Sat Sept 30.2017 NY\nTBD Ariane De Rothschild\n10:25pm to depart .11.1( via Norwegian Air 117020 (Rec.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223735.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "715f254b03262f18",
-            "event_title": "Epstein Flies St. Thomas to JFK on Delta DL676, January 17, 2017",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein flew Delta flight DL676 Business Class from Cyril E. King Airport, St. Thomas to JFK on January 17, 2017, departing 2:42 PM and arriving 5:59 PM.",
-            "date_start": "2017-01-17",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "The ticket is booked in Jeffrey Epstein's own name (EPSTEIN/JEFFREY E), confirming his physical presence on this flight.",
-            "evidence": [
-              {
-                "file": "EFTA02223829.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN/JEFFREY E DL 676 J Business Class Charlotte Amalie, Cyril E King Airport New York, John F Kennedy International 02:42 PM 05:59 PM 17 Jan 2017 Seats 1C, 1D",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223829.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223832.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN/JEFFREY E Delta Air Lines DL 676 Charlotte Amalie, Cyril E King Airport New York, John F Kennedy International 02:42 PM 05:59 PM J Business Class Seats 1C, 1D Tuesday 17 Jan 17",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223832.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223798.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN/JEFFREY E DL 676 STT to JFK Jan 17",
-                "document_url": "",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "94130ac9b9423000",
-            "event_title": "IM Arrives JFK on Norwegian Air 7019, Sept 20, 2017, to Stay in Epstein Property",
-            "event_type": "travel",
-            "description": "An associate referred to as 'IM' arrived at JFK at 8:30pm on Norwegian Air flight 7019 on September 20, 2017, to stay in Epstein's apartment 3M.",
-            "date_start": "2017-09-20",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Person flying into JFK to stay in Epstein's property (apartment 3M).",
-            "evidence": [
-              {
-                "file": "EFTA02223902.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "8:30pm IM to arrive JFK via Norwegian Air#7019 (Rec. Loc.#MJWPTE)\nShe wil stay in 3M",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223902.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "907d391cb82bac28",
-            "event_title": "Epstein Associate's Parents Fly Moscow to JFK on Aeroflot SU102, Nov 4, 2016",
-            "event_type": "travel",
-            "description": "An Epstein associate's parents flew Aeroflot SU102 from Moscow Sheremetyevo to JFK on November 4, 2016, tickets arranged by Lesley Groff.",
-            "date_start": "2016-11-04",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Travel arranged by Epstein's assistant for an associate's parents.",
-            "evidence": [
-              {
-                "file": "EFTA02223956.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "A VISA IS REQUIRED FOR ENTRY INTO USA\nAeroflot SU 102 Moscow, Sheremetyevo New York, John F Kennedy International 02:45 PM 06:25 PM Friday 04 Nov 16",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223956.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02223960.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "A VISA IS REQUIRED FOR ENTRY INTO USA\nAeroflot SU 102 Moscow, Sheremetyevo New York, John F Kennedy International 02:45 PM 06:25 PM Friday 04 Nov 16",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223960.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02222329",
-            "file": "EFTA02222329.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223102",
-            "file": "EFTA02223102.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223113",
-            "file": "EFTA02223113.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223118",
-            "file": "EFTA02223118.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223685",
-            "file": "EFTA02223685.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00084614",
-            "file": "EFTA00084614.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223735",
-            "file": "EFTA02223735.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223829",
-            "file": "EFTA02223829.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223832",
-            "file": "EFTA02223832.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223798",
-            "file": "EFTA02223798.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223902",
-            "file": "EFTA02223902.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223956",
-            "file": "EFTA02223956.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02223960",
-            "file": "EFTA02223960.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.972539,
           40.76042
         ]
@@ -56873,7 +57420,7 @@
         "display_name": "Dangene: The Institute of Skinovation",
         "location_descriptor": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
         "event_count": 8,
-        "evidence_count": 13,
+        "evidence_count": 14,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -56917,8 +57464,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 12,
-        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213901.pdf, EFTA02213153.pdf, ... (+7 more)",
+        "source_count": 13,
+        "sources_preview": "EFTA02213534.pdf, EFTA02213539.pdf, EFTA02213554.pdf, EFTA02213901.pdf, EFTA02213153.pdf, ... (+8 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A luxury skincare and wellness clinic located on the sixth floor of a midtown Manhattan office building at 66 East 55th Street, New York City.",
@@ -57178,6 +57725,10 @@
                 "role": "subject"
               },
               {
+                "name": "Lesley Groff",
+                "role": "staff"
+              },
+              {
                 "name": "Dangene",
                 "role": "associate"
               }
@@ -57197,6 +57748,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Can he do 8:30 tomorrow?\n66 E. 55th Street, 6th Floor\nBetween Park and Madison\nNew York, NY 10022\nJeffrey is asking if Anne could see him tomorrow, Wed. Sept. 27th",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223885.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02224046.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "He's all set! Take care, Lesley\n\nBest,\nAngie\n@dangene\nDangene: The Institute of Skinovation\n66 E. 55th Street, 6th Floor",
+                "document_url": "",
                 "confidence": 0.7
               }
             ]
@@ -57261,6 +57819,11 @@
           {
             "doc_id": "EFTA02223885",
             "file": "EFTA02223885.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02224046",
+            "file": "EFTA02224046.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -59391,6 +59954,264 @@
           {
             "doc_id": "EFTA00077923",
             "file": "EFTA00077923.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.060281,
+          26.714063
+        ]
+      },
+      "properties": {
+        "id": "c53a7fe1a2108309",
+        "name": "Paul G. Rogers Federal Building and U.S. Courthouse",
+        "location_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
+        "location_address": "701 Clematis Street, West Palm Beach, Florida 33401, United States",
+        "location_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
+        "canonical_name": "Paul G. Rogers Federal Building and U.S. Courthouse, 701 Clematis Street, West Palm Beach, FL, Florida",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
+        "location_descriptor": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
+        "event_count": 6,
+        "evidence_count": 6,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2007-02-06",
+        "date_end": "2009-06-12",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Special Agent",
+            "role": "witness"
+          },
+          {
+            "name": "Judge Marra",
+            "role": "legal"
+          },
+          {
+            "name": "Brad Edwards",
+            "role": "legal"
+          },
+          {
+            "name": "Bradley J. Edwards",
+            "role": "legal"
+          },
+          {
+            "name": "Judge Kenneth A. Marra",
+            "role": "legal"
+          }
+        ],
+        "source_count": 6,
+        "sources_preview": "EFTA00009512.pdf, EFTA00013831.pdf, EFTA00014001.pdf, EFTA00014192.pdf, EFTA00085173.pdf, ... (+1 more)",
+        "epstein_nexus": "implied",
+        "event_type": "presence",
+        "event_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
+        "events": [
+          {
+            "event_id": "a6336432d08ffc3f",
+            "event_title": "FBI Agent Testifies to Grand Jury in Operation Leap Year",
+            "event_type": "legal",
+            "description": "FBI Special Agent testified to the Federal Grand Jury (Grand Jury #07-103) at West Palm Beach Division courthouse on May 15, 2007 regarding Operation Leap Year and evidence of Epstein's offenses against underage victims.",
+            "date_start": "2007-05-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Special Agent",
+                "role": "witness"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "[Sweeper reclassification] Event marked as 'direct' nexus but evidence shows FBI agent testifying about Epstein to grand jury - Epstein was not physically present at this testimony",
+            "evidence": [
+              {
+                "file": "EFTA00009512.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The sworn testimony of [redacted] before the Federal Grand Jury, West Palm Beach Division, 701 Clematis Street, West Palm Beach, Palm Beach County, state of Florida, on the 15th day of May, 2007.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009512.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "032dd5613226e38c",
+            "event_title": "AUSA Attends NPA Disclosure Hearing Before Judge Marra",
+            "event_type": "legal",
+            "description": "AUSA attended a federal court hearing before Judge Marra in West Palm Beach on August 14, 2008, regarding the court-ordered disclosure of Epstein's non-prosecution agreement to victim plaintiffs under a protective order.",
+            "date_start": "2008-08-14",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Judge Marra",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Legal proceedings directly related to Epstein's non-prosecution agreement, but Epstein was not personally present at the hearing.",
+            "evidence": [
+              {
+                "file": "EFTA00013831.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "We just finished our hearing with Judge Marra. He has ordered us to make the Agreement available to the plaintiffs in this case pursuant to a protective order limiting the disclosure to the victims and their counsel only.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013831.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "a7ab1bfa4a1b1ece",
+            "event_title": "CVRA Victims' Petition Hearing Before Judge Marra",
+            "event_type": "presence",
+            "description": "CVRA victims' petition hearing before Judge Marra in West Palm Beach on July 11, 2008, lasting 45 minutes; victim attorneys (Brad Edwards) argued for rights under the Crime Victims' Rights Act regarding Epstein's non-prosecution agreement.",
+            "date_start": "2008-07-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Judge Marra",
+                "role": "legal"
+              },
+              {
+                "name": "Brad Edwards",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Federal court hearing directly about Epstein's non-prosecution agreement and victims' rights, but Epstein was not personally present.",
+            "evidence": [
+              {
+                "file": "EFTA00014001.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The hearing this morning lasted 45 minutes. Judge Marra first heard argument from Brad Edwards",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014001.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "85e00c4059220f4e",
+            "event_title": "Motion Hearing Before Judge Marra in Jane Doe v. Epstein",
+            "event_type": "presence",
+            "description": "Motion hearing before Judge Kenneth A. Marra in the Jane Doe et al. v. Jeffrey Epstein civil case (No. 08-80119) in West Palm Beach on June 12, 2009; victim attorneys Adam Horowitz and Brad Edwards appeared.",
+            "date_start": "2009-06-12",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Bradley J. Edwards",
+                "role": "legal"
+              },
+              {
+                "name": "Judge Kenneth A. Marra",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Federal civil hearing directly related to Epstein's abuse of victims; legal proceedings about his non-prosecution agreement, but Epstein not personally present.",
+            "evidence": [
+              {
+                "file": "EFTA00014192.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "TRANSCRIPT OF MOTION HEARING BEFORE THE HONORABLE KENNETH A. MARRA, UNITED STATES DISTRICT JUDGE...JUNE 12, 2009...WEST PALM BEACH, FLORIDA...JANE DOE, et al., Plaintiffs, vs. JEFFREY EPSTEIN, Defendant.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014192.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "1d39c6498b857896",
+            "event_title": "Witness Subpoenaed to Testify Before SDFL Grand Jury on Epstein in West Palm Beach (June 3, 2008)",
+            "event_type": "presence",
+            "description": "Witness received grand jury subpoena from the Southern District of Florida commanding her to appear and testify on June 3, 2008, in an investigation related to Jeffrey Epstein.",
+            "date_start": "2008-06-03",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The grand jury proceeding in West Palm Beach was part of the Southern District of Florida investigation into Jeffrey Epstein's sex trafficking operation.",
+            "evidence": [
+              {
+                "file": "EFTA00085173.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "was provided with a copy of a Grand Jury Subpoena issued by the Southern District of Florida, United States District Court, 701 Clemantis Street, West Palm Beach, Florida 33401 to appear before the grand jury on June 3, 2008.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085173.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "07218f04a2f4cec9",
+            "event_title": "FBI Agent Testifies Before Epstein Grand Jury in West Palm Beach (Feb 6, 2007)",
+            "event_type": "presence",
+            "description": "An FBI agent specializing in crimes against children testified before Grand Jury #07-103 in West Palm Beach regarding the federal Epstein investigation, describing his multiple properties and the Palm Beach Police Department investigation that began in March 2005.",
+            "date_start": "2007-02-06",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The grand jury testimony was part of the federal investigation into Jeffrey Epstein's sex trafficking of underage girls at his Palm Beach residence.",
+            "evidence": [
+              {
+                "file": "EFTA00085291.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The sworn testimony of [FBI Agent] was taken before the Federal Grand Jury, West Palm Beach Division, 701 clematis street, west Palm Beach, Palm Beach County, State of Florida, on the 6th day of February, 2007.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085291.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00009512",
+            "file": "EFTA00009512.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00013831",
+            "file": "EFTA00013831.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014001",
+            "file": "EFTA00014001.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00014192",
+            "file": "EFTA00014192.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085173",
+            "file": "EFTA00085173.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085291",
+            "file": "EFTA00085291.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -61562,237 +62383,6 @@
           {
             "doc_id": "EFTA02219836",
             "file": "EFTA02219836.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.060281,
-          26.714063
-        ]
-      },
-      "properties": {
-        "id": "c53a7fe1a2108309",
-        "name": "Paul G. Rogers Federal Building and U.S. Courthouse",
-        "location_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
-        "location_address": "701 Clematis Street, West Palm Beach, Florida 33401, United States",
-        "location_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
-        "canonical_name": "Paul G. Rogers Federal Building and U.S. Courthouse, 701 Clematis Street, West Palm Beach, FL, Florida",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Paul G. Rogers Federal Building and U.S. Courthouse",
-        "location_descriptor": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
-        "event_count": 5,
-        "evidence_count": 5,
-        "primary_event_type": "presence",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2007-05-15",
-        "date_end": "2009-06-12",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Special Agent",
-            "role": "witness"
-          },
-          {
-            "name": "Judge Marra",
-            "role": "legal"
-          },
-          {
-            "name": "Brad Edwards",
-            "role": "legal"
-          },
-          {
-            "name": "Bradley J. Edwards",
-            "role": "legal"
-          },
-          {
-            "name": "Judge Kenneth A. Marra",
-            "role": "legal"
-          }
-        ],
-        "source_count": 5,
-        "sources_preview": "EFTA00009512.pdf, EFTA00013831.pdf, EFTA00014001.pdf, EFTA00014192.pdf, EFTA00085173.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "presence",
-        "event_description": "A federal courthouse and office building at 701 Clematis Street in West Palm Beach, Florida, serving the Southern District of Florida.",
-        "events": [
-          {
-            "event_id": "a6336432d08ffc3f",
-            "event_title": "FBI Agent Testifies to Grand Jury in Operation Leap Year",
-            "event_type": "legal",
-            "description": "FBI Special Agent testified to the Federal Grand Jury (Grand Jury #07-103) at West Palm Beach Division courthouse on May 15, 2007 regarding Operation Leap Year and evidence of Epstein's offenses against underage victims.",
-            "date_start": "2007-05-15",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Special Agent",
-                "role": "witness"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "[Sweeper reclassification] Event marked as 'direct' nexus but evidence shows FBI agent testifying about Epstein to grand jury - Epstein was not physically present at this testimony",
-            "evidence": [
-              {
-                "file": "EFTA00009512.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The sworn testimony of [redacted] before the Federal Grand Jury, West Palm Beach Division, 701 Clematis Street, West Palm Beach, Palm Beach County, state of Florida, on the 15th day of May, 2007.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009512.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "032dd5613226e38c",
-            "event_title": "AUSA Attends NPA Disclosure Hearing Before Judge Marra",
-            "event_type": "legal",
-            "description": "AUSA attended a federal court hearing before Judge Marra in West Palm Beach on August 14, 2008, regarding the court-ordered disclosure of Epstein's non-prosecution agreement to victim plaintiffs under a protective order.",
-            "date_start": "2008-08-14",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Judge Marra",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Legal proceedings directly related to Epstein's non-prosecution agreement, but Epstein was not personally present at the hearing.",
-            "evidence": [
-              {
-                "file": "EFTA00013831.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "We just finished our hearing with Judge Marra. He has ordered us to make the Agreement available to the plaintiffs in this case pursuant to a protective order limiting the disclosure to the victims and their counsel only.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00013831.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "a7ab1bfa4a1b1ece",
-            "event_title": "CVRA Victims' Petition Hearing Before Judge Marra",
-            "event_type": "presence",
-            "description": "CVRA victims' petition hearing before Judge Marra in West Palm Beach on July 11, 2008, lasting 45 minutes; victim attorneys (Brad Edwards) argued for rights under the Crime Victims' Rights Act regarding Epstein's non-prosecution agreement.",
-            "date_start": "2008-07-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Judge Marra",
-                "role": "legal"
-              },
-              {
-                "name": "Brad Edwards",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Federal court hearing directly about Epstein's non-prosecution agreement and victims' rights, but Epstein was not personally present.",
-            "evidence": [
-              {
-                "file": "EFTA00014001.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "The hearing this morning lasted 45 minutes. Judge Marra first heard argument from Brad Edwards",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014001.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "85e00c4059220f4e",
-            "event_title": "Motion Hearing Before Judge Marra in Jane Doe v. Epstein",
-            "event_type": "presence",
-            "description": "Motion hearing before Judge Kenneth A. Marra in the Jane Doe et al. v. Jeffrey Epstein civil case (No. 08-80119) in West Palm Beach on June 12, 2009; victim attorneys Adam Horowitz and Brad Edwards appeared.",
-            "date_start": "2009-06-12",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Bradley J. Edwards",
-                "role": "legal"
-              },
-              {
-                "name": "Judge Kenneth A. Marra",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "Federal civil hearing directly related to Epstein's abuse of victims; legal proceedings about his non-prosecution agreement, but Epstein not personally present.",
-            "evidence": [
-              {
-                "file": "EFTA00014192.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "TRANSCRIPT OF MOTION HEARING BEFORE THE HONORABLE KENNETH A. MARRA, UNITED STATES DISTRICT JUDGE...JUNE 12, 2009...WEST PALM BEACH, FLORIDA...JANE DOE, et al., Plaintiffs, vs. JEFFREY EPSTEIN, Defendant.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00014192.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "1d39c6498b857896",
-            "event_title": "Witness Subpoenaed to Testify Before SDFL Grand Jury on Epstein in West Palm Beach (June 3, 2008)",
-            "event_type": "presence",
-            "description": "Witness received grand jury subpoena from the Southern District of Florida commanding her to appear and testify on June 3, 2008, in an investigation related to Jeffrey Epstein.",
-            "date_start": "2008-06-03",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [],
-            "epstein_nexus": "contextual",
-            "nexus_reasoning": "The grand jury proceeding in West Palm Beach was part of the Southern District of Florida investigation into Jeffrey Epstein's sex trafficking operation.",
-            "evidence": [
-              {
-                "file": "EFTA00085173.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "was provided with a copy of a Grand Jury Subpoena issued by the Southern District of Florida, United States District Court, 701 Clemantis Street, West Palm Beach, Florida 33401 to appear before the grand jury on June 3, 2008.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085173.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00009512",
-            "file": "EFTA00009512.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00013831",
-            "file": "EFTA00013831.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00014001",
-            "file": "EFTA00014001.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00014192",
-            "file": "EFTA00014192.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00085173",
-            "file": "EFTA00085173.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -72294,7 +72884,7 @@
         "display_name": "NewYork-Presbyterian/Lower Manhattan Hospital",
         "location_descriptor": "A hospital at 170 William Street in the Financial District of Manhattan, New York City, providing comprehensive medical services to lower Manhattan residents.",
         "event_count": 2,
-        "evidence_count": 7,
+        "evidence_count": 8,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -72306,8 +72896,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 7,
-        "sources_preview": "EFTA00015297.pdf, EFTA00015298.pdf, EFTA00059403.pdf, EFTA00060283.pdf, EFTA00079259.pdf, ... (+2 more)",
+        "source_count": 8,
+        "sources_preview": "EFTA00015297.pdf, EFTA00015298.pdf, EFTA00059403.pdf, EFTA00060283.pdf, EFTA00079259.pdf, ... (+3 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A hospital at 170 William Street in the Financial District of Manhattan, New York City, providing comprehensive medical services to lower Manhattan residents.",
@@ -72371,6 +72961,13 @@
                 "excerpt": "Mr. Epstein was pronounced dead at the New York Presbyterian-Lower Manhattan Hospital in New York, New York.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00079830.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00085779.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Find Epstein at 6:33 while doing breakfast rounds (according to report)\nAttempts at resuscitation fail and Epstein is taken to hospital, declared dead at 7:26 am.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00085779.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -72431,6 +73028,11 @@
           {
             "doc_id": "EFTA00079830",
             "file": "EFTA00079830.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00085779",
+            "file": "EFTA00085779.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -86692,7 +87294,7 @@
         "display_name": "YouTube Space NY",
         "location_descriptor": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
         "event_count": 1,
-        "evidence_count": 14,
+        "evidence_count": 15,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -86724,8 +87326,8 @@
             "role": "other"
           }
         ],
-        "source_count": 14,
-        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+9 more)",
+        "source_count": 15,
+        "sources_preview": "EFTA02221328.pdf, EFTA02222022.pdf, EFTA02223084.pdf, EFTA02223079.pdf, EFTA02223138.pdf, ... (+10 more)",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A production studio and event space operated by YouTube in the Chelsea neighborhood of Manhattan, New York City, used for creator events, screenings, and corporate gatherings.",
@@ -86865,6 +87467,13 @@
                 "excerpt": "5-7:00pm Invite to Deepak Chopra & Michael Shermer on stage for Skeptic Magazines 25th Anniversary (JE +5)\nYounthe Studio (check in on the guest list & go up to level 6)\n75 9th Ave.\nChelsea Market\nNY, NY",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02223845.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02224137.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I submitted Mr. Epstein's guest list but YouTube is requiring that each guest complete the attached registration...",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02224137.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -86938,6 +87547,11 @@
           {
             "doc_id": "EFTA02223845",
             "file": "EFTA02223845.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02224137",
+            "file": "EFTA02224137.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -91142,6 +91756,182 @@
           {
             "doc_id": "EFTA00085176",
             "file": "EFTA00085176.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52524,
+          44.933746
+        ]
+      },
+      "properties": {
+        "id": "9fc12c28abbe71b8",
+        "name": "Michigan",
+        "location_name": "Michigan",
+        "location_address": "Michigan, United States",
+        "location_description": "A Midwestern U.S. state bordered by the Great Lakes, known for its forests, peninsulas, and numerous summer camps.",
+        "canonical_name": "Michigan, USA",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Michigan",
+        "location_descriptor": "A Midwestern U.S. state bordered by the Great Lakes, known for its forests, peninsulas, and numerous summer camps.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "1994",
+        "date_end": "1994",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "the woman, now 40",
+            "role": "victim"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00086280.pdf",
+        "epstein_nexus": "direct",
+        "event_type": "presence",
+        "event_description": "A Midwestern U.S. state bordered by the Great Lakes, known for its forests, peninsulas, and numerous summer camps.",
+        "events": [
+          {
+            "event_id": "4512fede571304cd",
+            "event_title": "Victim Alleges Epstein and Maxwell Approached Her at Michigan Summer Camp, 1994",
+            "event_type": "presence",
+            "description": "Victim alleges Epstein and Maxwell approached her at age 13 at a summer camp in Michigan in 1994, initiating a months-long grooming process that continued after she returned to Florida.",
+            "date_start": "1994",
+            "date_end": null,
+            "date_precision": "year",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "the woman, now 40",
+                "role": "victim"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein is alleged to have been physically present at the Michigan summer camp with Maxwell when they approached the victim.",
+            "evidence": [
+              {
+                "file": "EFTA00086280.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "The woman, now 40, alleges that she was first approached at age 13 by Epstein and Ms Maxwell in 1994 at a summer camp in Michigan and that a months-long grooming process by the pair continued after she returned home to Florida.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00086280.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00086280",
+            "file": "EFTA00086280.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005994,
+          40.712749
+        ]
+      },
+      "properties": {
+        "id": "828d964349ea2ad1",
+        "name": "U.S. Attorney's Office, Southern District of New York",
+        "location_name": "U.S. Attorney's Office, Southern District of New York",
+        "location_address": "New York City, New York, United States",
+        "location_description": "The federal prosecutor's office for the Southern District of New York, headquartered at One St. Andrew's Plaza in Lower Manhattan.",
+        "canonical_name": "U.S. Attorney's Office Southern District of New York, 1 Saint Andrews Plaza, New York, NY, New York City",
+        "region": "",
+        "property_type": "event",
+        "display_name": "U.S. Attorney's Office, Southern District of New York",
+        "location_descriptor": "The federal prosecutor's office for the Southern District of New York, headquartered at One St. Andrew's Plaza in Lower Manhattan.",
+        "event_count": 1,
+        "evidence_count": 1,
+        "primary_event_type": "presence",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2019-10-17",
+        "date_end": "2019-10-17",
+        "people": [
+          {
+            "name": "the AG",
+            "role": "other"
+          },
+          {
+            "name": "Geoffrey Berman",
+            "role": "legal"
+          }
+        ],
+        "source_count": 1,
+        "sources_preview": "EFTA00086361.pdf",
+        "epstein_nexus": "contextual",
+        "event_type": "presence",
+        "event_description": "The federal prosecutor's office for the Southern District of New York, headquartered at One St. Andrew's Plaza in Lower Manhattan.",
+        "events": [
+          {
+            "event_id": "419a371f52b944e8",
+            "event_title": "Attorney General Briefed at SDNY on Epstein Death and MCC Investigation, October 2019",
+            "event_type": "presence",
+            "description": "Attorney General visited SDNY offices for briefing on Epstein death and MCC investigation, followed by a meeting between the AG and US Attorney Berman on October 17, 2019.",
+            "date_start": "2019-10-17",
+            "date_end": null,
+            "date_precision": "approximate",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "the AG",
+                "role": "other"
+              },
+              {
+                "name": "Geoffrey Berman",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "The meeting is about the investigation into Epstein's death at MCC, relating to the Epstein case but Epstein himself is deceased.",
+            "evidence": [
+              {
+                "file": "EFTA00086361.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "9:00-10:00 am: Epstein death/MCC investigation\n10:30-11:00 am: Meeting between AG and Geoff",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00086361.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00086361",
+            "file": "EFTA00086361.pdf",
             "source_type": "doj_efta"
           }
         ]
