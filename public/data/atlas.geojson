@@ -7507,7 +7507,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 102,
-        "evidence_count": 308,
+        "evidence_count": 309,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8089,10 +8089,14 @@
           {
             "name": "R. Couri Hay",
             "role": "other"
+          },
+          {
+            "name": "R. Court Hay",
+            "role": "other"
           }
         ],
-        "source_count": 282,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+277 more)",
+        "source_count": 283,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+278 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -13207,6 +13211,10 @@
               {
                 "name": "R. Couri Hay",
                 "role": "other"
+              },
+              {
+                "name": "R. Court Hay",
+                "role": "other"
               }
             ],
             "epstein_nexus": "direct",
@@ -13217,6 +13225,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Three months ago, Mr. Epstein called and invited him over to discuss damage control, Mr. Hay said. \"He hates every story starting with `billionaire pervert,'\" Mr. Hay said.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076625.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076657.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "\"He said, `That's me, and I had this painted because there is always the possibility that could be me again,'\" said R. Court Hay, a public relations specialist invited by Mr. Epstein to a meeting at his home and to view the mural three months ago.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076657.pdf",
                 "confidence": 0.7
               }
             ]
@@ -14632,6 +14647,11 @@
             "doc_id": "EFTA02221032",
             "file": "EFTA02221032.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076657",
+            "file": "EFTA00076657.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -14657,7 +14677,7 @@
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
         "event_count": 99,
-        "evidence_count": 217,
+        "evidence_count": 219,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -15057,8 +15077,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 204,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+199 more)",
+        "source_count": 206,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+201 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -18862,6 +18882,13 @@
                 "excerpt": "I'm coming back to NYC tues evening thru Thurs. Fyi. Any feedback re Jeffrey? David",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220714.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221319.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Reminder: to depart NY for PB via Delta 840 at 6:50pm arrive PB 10:09pm (Rec. Loc#QZROUC)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221319.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -19016,6 +19043,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Jeffrey arrives NY Mon. March 20th and departs 6:30am on Tues. March 21st and will be overseas the rest of the week",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220956.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221321.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey arrives NY Mon. March 20th and departs 6:30am on Tues. March 21st and will be overseas the rest of the week",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221321.pdf",
                 "confidence": 0.7
               }
             ]
@@ -20040,6 +20074,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02221319",
+            "file": "EFTA02221319.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220717",
             "file": "EFTA02220717.pdf",
             "source_type": "doj_efta"
@@ -20062,6 +20101,11 @@
           {
             "doc_id": "EFTA02220956",
             "file": "EFTA02220956.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221321",
+            "file": "EFTA02221321.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -41291,7 +41335,7 @@
         "display_name": "Long Island MacArthur Airport",
         "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
         "event_count": 9,
-        "evidence_count": 23,
+        "evidence_count": 24,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -41319,8 +41363,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 23,
-        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+18 more)",
+        "source_count": 24,
+        "sources_preview": "EFTA02213251.pdf, EFTA02213481.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, ... (+19 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
@@ -41582,6 +41626,10 @@
               {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
+              },
+              {
+                "name": "Eric",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "contextual",
@@ -41620,6 +41668,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "depart Paris Wednesday morning at 7 AM to arrive in Islip New York Wednesday morning at 8 AM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220925.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221105.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Arrival Islip NY Customs building Wednesday Morning at 9:00am. FBO is Hawthorne Aviation\nJeffrey will meet with Eric at the interior shop at 9AM for approximately one hour after our arrival",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221105.pdf",
                 "confidence": 0.7
               }
             ]
@@ -41766,6 +41821,11 @@
           {
             "doc_id": "EFTA02220925",
             "file": "EFTA02220925.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221105",
+            "file": "EFTA02221105.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -45501,6 +45561,333 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.425996,
+          48.934868
+        ]
+      },
+      "properties": {
+        "id": "a053c4c19b47493a",
+        "name": "Paris Le Bourget Airport",
+        "location_name": "Paris Le Bourget Airport",
+        "location_address": "Le Bourget, Seine-Saint-Denis, France",
+        "location_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
+        "canonical_name": "Paris Le Bourget Airport, Rue de Paris, Le Bourget, France, Seine-Saint-Denis",
+        "region": "",
+        "property_type": "event",
+        "display_name": "Paris Le Bourget Airport",
+        "location_descriptor": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
+        "event_count": 6,
+        "evidence_count": 11,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-07-07",
+        "date_end": "2019-04-19",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "Larry Visoski",
+            "role": "staff"
+          },
+          {
+            "name": "Dave Rodgers",
+            "role": "staff"
+          },
+          {
+            "name": "Brad Karp",
+            "role": "legal"
+          },
+          {
+            "name": "Julia Santo",
+            "role": "staff"
+          }
+        ],
+        "source_count": 11,
+        "sources_preview": "EFTA00040504.pdf, EFTA02216157.pdf, EFTA02217448.pdf, EFTA02216282.pdf, EFTA02217663.pdf, ... (+6 more)",
+        "epstein_nexus": "direct",
+        "event_type": "travel",
+        "event_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
+        "events": [
+          {
+            "event_id": "cc2ae0434730bfc4",
+            "event_title": "Epstein Flies N212JE to Paris Le Bourget 3+ Times in Early 2019 Before His July Arrest",
+            "event_type": "presence",
+            "description": "Jeffrey Epstein made at least 3 round trips to Paris Le Bourget Airport on private aircraft N212JE in early 2019 (January, March, and April), just months before his July 6, 2019 arrest at Teterboro, per CBP APIS records.",
+            "date_start": "2019-01-22",
+            "date_end": "2019-04-19",
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein personally flew to Paris Le Bourget on N212JE multiple times in 2019 per official CBP records, just months before his final arrest.",
+            "evidence": [
+              {
+                "file": "EFTA00040504.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "EPSTEIN JEFFREY 01/20/1953 P 566672615 04/19/2019 00:00 *CA N212JE O APIS PASSENGER LFPB KTEB\nEPSTEIN JEFFREY 01/20/1953 P 566672615 04/02/2019 18:45 'CA N212JE I A461 APIS PASSENGER INS KTEB LFPB\nEPSTEIN JEFFREY 01/20/1953 P 566672615 03/19/2019 00:00 'CA N212JE O APIS PASSENGER LFPB KTEB\nEPSTEIN JEFFREY 01/20/1953 P 469911707 01/30/2019 12:56 \u2022GA N212JE I A10D APIS PASSENGER INS KTEB LFPB\nEPSTEIN JEFFREY 01/20/1953 P 469911707 01/22/2019 00:00 \u2022GA N212JE O APIS PASSENGER LFPB KPBI",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040504.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "0cf0c500daf3a95d",
+            "event_title": "Flight N212JE: Paris Le Bourget to Teterboro \u2014 2017",
+            "event_type": "travel",
+            "description": "Epstein's plane N212JE departed Paris Le Bourget at 6:28 AM CEST, traveling to Teterboro, NJ with estimated arrival at 8:33 AM EDT.",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Dave Rodgers",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "N212JE is Epstein's registered aircraft making a transatlantic flight from Paris to New Jersey.",
+            "evidence": [
+              {
+                "file": "EFTA02216157.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE (GLF4) departed Paris Le Bourget (LFPB/LBG) at 06:28AM CEST enroute to Teterboro (KTEB) for an estimated arrival at 08:33AM EDT",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216157.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217448.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Subject: N212JE has departed LFPB/LBG for LSGG/GVA\nN212JE (GLF4) departed Paris Le Bourget for Geneva on Fri Jul 7 2017 at 9:40 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217448.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "5752dc07865b35d2",
+            "event_title": "Epstein Flies Paris to New York, Meets Brad Karp \u2014 July 11, 2017",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein flew from Paris to New York on July 11, 2017, departing at 6:28am and arriving at 8:30am, followed by a 2:30pm appointment with Brad Karp (attorney at Paul, Weiss).",
+            "date_start": "2017-07-11",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Brad Karp",
+                "role": "legal"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein's personal schedule confirms his flight from Paris to New York on July 11, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02216282.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tues. July 11. 2017 Paris-NY\n6:28am Depart Paris\n8:30am Arrive NY\n2:30pm Appt w/Brad Karp",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216282.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02217663.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be departing Paris Le Bourget airport (LFPB/LBG) at 6:30 a.m. on Tuesday, July 11, 2017.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217663.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "23753ac4ab5b4773",
+            "event_title": "Flight N908JE: Paris Le Bourget Arrival \u2014 October 21, 2004",
+            "event_type": "travel",
+            "description": "",
+            "date_start": null,
+            "date_end": null,
+            "date_precision": "none",
+            "confidence": 0.6,
+            "people": [],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "",
+            "evidence": [
+              {
+                "file": "EFTA00066572.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "JEGE, INC. PASSENGER MANIFEST. Registration Number: N908JE. Type: B-727-31. Pilots: Dave Rodgers, Larry Visoski. Flight Engineer: Larry Morrison. DATE: 21-/OZ, 2004. FROM (me to LFPB",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00066572.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "d30a8c978036d0f8",
+            "event_title": "Epstein Departs Paris Le Bourget Airport for Geneva at 11:35 AM, July 7, 2017",
+            "event_type": "travel",
+            "description": "Jeffrey Epstein departed Paris Le Bourget Airport (LFPB/LBG) at 11:35 AM local time on July 7, 2017, heading to Geneva International Airport (LSGG/GVA), estimated arrival 12:30 PM.",
+            "date_start": "2017-07-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Julia Santo",
+                "role": "staff"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Document explicitly states Jeffrey will personally depart from Paris Le Bourget Airport on July 7, 2017.",
+            "evidence": [
+              {
+                "file": "EFTA02218431.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey will be departing Paris, France for Geneva, Switzerland on July 7, 2017 at 11:35 a.m. Local Time. We will be arriving Geneva at approximately 12:30 p.m. Local Time.\nWe will be departing the Paris Le Bourget airport (LFPB/LBG) and arriving at the Geneva, Switzerland airport (LSGG/GVA).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218431.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02218607.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Tuesday. July 11 LFPB-TEB, Depart at 1600",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218607.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219389.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "will arrive Paris Friday July 7th at 8:53pm (19:53) from London. Please pick her up! Jeffrey arrives 5:45pm (17:45).",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219389.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02219390.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "N212JE is expected to arrive at Paris Le Bourget (LFPB/LBG) in 45 minutes at 07:52PM CEST",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219390.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "fc26433a9f6c24eb",
+            "event_title": "Epstein Departs Paris Le Bourget on G550 to Islip NY, Sept 13, 2017 at 7:30am",
+            "event_type": "travel",
+            "description": "Epstein departed Paris Le Bourget on G550 N415LM Sept 13 2017.",
+            "date_start": "2017-09-13",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Larry Visoski",
+                "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Pilot Larry Visoski Paris departure.",
+            "evidence": [
+              {
+                "file": "EFTA02221105.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "depart Paris G550 N415LM Sept 13th Le Bourget 7:30am to Islip",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221105.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA00040504",
+            "file": "EFTA00040504.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216157",
+            "file": "EFTA02216157.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217448",
+            "file": "EFTA02217448.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216282",
+            "file": "EFTA02216282.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02217663",
+            "file": "EFTA02217663.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00066572",
+            "file": "EFTA00066572.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218431",
+            "file": "EFTA02218431.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02218607",
+            "file": "EFTA02218607.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219389",
+            "file": "EFTA02219389.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02219390",
+            "file": "EFTA02219390.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221105",
+            "file": "EFTA02221105.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.092441,
           26.671414
         ]
@@ -45517,7 +45904,7 @@
         "display_name": "Palm Beach County Sheriff's Office",
         "location_descriptor": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
         "event_count": 5,
-        "evidence_count": 9,
+        "evidence_count": 10,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -45533,8 +45920,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 9,
-        "sources_preview": "EFTA00003868.pdf, EFTA00013890.pdf, EFTA00013975.pdf, EFTA00014007.pdf, EFTA00040076.pdf, ... (+4 more)",
+        "source_count": 10,
+        "sources_preview": "EFTA00003868.pdf, EFTA00013890.pdf, EFTA00013975.pdf, EFTA00014007.pdf, EFTA00040076.pdf, ... (+5 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The main headquarters of the Palm Beach County Sheriff's Office, located at 3228 Gun Club Road in West Palm Beach, Florida.",
@@ -45698,6 +46085,13 @@
                 "excerpt": "That time was served not in a prison, but rather the Palm Beach Stockade, which is a local detention center. Epstein was also allowed to leave six days a week to go work out of his West Palm Beach office during his time behind bars.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076625.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00076657.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "he served 13 months in a private wing of the Palm Beach county jail, where liberal work-release privileges allowed him to spend 12 hours a day, six days a week in his private office.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00076657.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -45746,6 +46140,11 @@
           {
             "doc_id": "EFTA00076625",
             "file": "EFTA00076625.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00076657",
+            "file": "EFTA00076657.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -46959,297 +47358,6 @@
           {
             "doc_id": "EFTA02217014",
             "file": "EFTA02217014.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.425996,
-          48.934868
-        ]
-      },
-      "properties": {
-        "id": "a053c4c19b47493a",
-        "name": "Paris Le Bourget Airport",
-        "location_name": "Paris Le Bourget Airport",
-        "location_address": "Le Bourget, Seine-Saint-Denis, France",
-        "location_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
-        "canonical_name": "Paris Le Bourget Airport, Rue de Paris, Le Bourget, France, Seine-Saint-Denis",
-        "region": "",
-        "property_type": "event",
-        "display_name": "Paris Le Bourget Airport",
-        "location_descriptor": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
-        "event_count": 5,
-        "evidence_count": 10,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-07-07",
-        "date_end": "2019-04-19",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "Larry Visoski",
-            "role": "staff"
-          },
-          {
-            "name": "Dave Rodgers",
-            "role": "staff"
-          },
-          {
-            "name": "Brad Karp",
-            "role": "legal"
-          },
-          {
-            "name": "Julia Santo",
-            "role": "staff"
-          }
-        ],
-        "source_count": 10,
-        "sources_preview": "EFTA00040504.pdf, EFTA02216157.pdf, EFTA02217448.pdf, EFTA02216282.pdf, EFTA02217663.pdf, ... (+5 more)",
-        "epstein_nexus": "direct",
-        "event_type": "travel",
-        "event_description": "A historic general aviation and business aviation airport northeast of Paris, France, known as the site of the Paris Air Show and primarily serving private and charter flights.",
-        "events": [
-          {
-            "event_id": "cc2ae0434730bfc4",
-            "event_title": "Epstein Flies N212JE to Paris Le Bourget 3+ Times in Early 2019 Before His July Arrest",
-            "event_type": "presence",
-            "description": "Jeffrey Epstein made at least 3 round trips to Paris Le Bourget Airport on private aircraft N212JE in early 2019 (January, March, and April), just months before his July 6, 2019 arrest at Teterboro, per CBP APIS records.",
-            "date_start": "2019-01-22",
-            "date_end": "2019-04-19",
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein personally flew to Paris Le Bourget on N212JE multiple times in 2019 per official CBP records, just months before his final arrest.",
-            "evidence": [
-              {
-                "file": "EFTA00040504.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "EPSTEIN JEFFREY 01/20/1953 P 566672615 04/19/2019 00:00 *CA N212JE O APIS PASSENGER LFPB KTEB\nEPSTEIN JEFFREY 01/20/1953 P 566672615 04/02/2019 18:45 'CA N212JE I A461 APIS PASSENGER INS KTEB LFPB\nEPSTEIN JEFFREY 01/20/1953 P 566672615 03/19/2019 00:00 'CA N212JE O APIS PASSENGER LFPB KTEB\nEPSTEIN JEFFREY 01/20/1953 P 469911707 01/30/2019 12:56 \u2022GA N212JE I A10D APIS PASSENGER INS KTEB LFPB\nEPSTEIN JEFFREY 01/20/1953 P 469911707 01/22/2019 00:00 \u2022GA N212JE O APIS PASSENGER LFPB KPBI",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00040504.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "0cf0c500daf3a95d",
-            "event_title": "Flight N212JE: Paris Le Bourget to Teterboro \u2014 2017",
-            "event_type": "travel",
-            "description": "Epstein's plane N212JE departed Paris Le Bourget at 6:28 AM CEST, traveling to Teterboro, NJ with estimated arrival at 8:33 AM EDT.",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Larry Visoski",
-                "role": "staff"
-              },
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Dave Rodgers",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "N212JE is Epstein's registered aircraft making a transatlantic flight from Paris to New Jersey.",
-            "evidence": [
-              {
-                "file": "EFTA02216157.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE (GLF4) departed Paris Le Bourget (LFPB/LBG) at 06:28AM CEST enroute to Teterboro (KTEB) for an estimated arrival at 08:33AM EDT",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216157.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217448.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Subject: N212JE has departed LFPB/LBG for LSGG/GVA\nN212JE (GLF4) departed Paris Le Bourget for Geneva on Fri Jul 7 2017 at 9:40 AM",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217448.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "5752dc07865b35d2",
-            "event_title": "Epstein Flies Paris to New York, Meets Brad Karp \u2014 July 11, 2017",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein flew from Paris to New York on July 11, 2017, departing at 6:28am and arriving at 8:30am, followed by a 2:30pm appointment with Brad Karp (attorney at Paul, Weiss).",
-            "date_start": "2017-07-11",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Brad Karp",
-                "role": "legal"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Epstein's personal schedule confirms his flight from Paris to New York on July 11, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02216282.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Tues. July 11. 2017 Paris-NY\n6:28am Depart Paris\n8:30am Arrive NY\n2:30pm Appt w/Brad Karp",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216282.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02217663.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey will be departing Paris Le Bourget airport (LFPB/LBG) at 6:30 a.m. on Tuesday, July 11, 2017.",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02217663.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "23753ac4ab5b4773",
-            "event_title": "Flight N908JE: Paris Le Bourget Arrival \u2014 October 21, 2004",
-            "event_type": "travel",
-            "description": "",
-            "date_start": null,
-            "date_end": null,
-            "date_precision": "none",
-            "confidence": 0.6,
-            "people": [],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "",
-            "evidence": [
-              {
-                "file": "EFTA00066572.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "JEGE, INC. PASSENGER MANIFEST. Registration Number: N908JE. Type: B-727-31. Pilots: Dave Rodgers, Larry Visoski. Flight Engineer: Larry Morrison. DATE: 21-/OZ, 2004. FROM (me to LFPB",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00066572.pdf",
-                "confidence": 0.7
-              }
-            ]
-          },
-          {
-            "event_id": "d30a8c978036d0f8",
-            "event_title": "Epstein Departs Paris Le Bourget Airport for Geneva at 11:35 AM, July 7, 2017",
-            "event_type": "travel",
-            "description": "Jeffrey Epstein departed Paris Le Bourget Airport (LFPB/LBG) at 11:35 AM local time on July 7, 2017, heading to Geneva International Airport (LSGG/GVA), estimated arrival 12:30 PM.",
-            "date_start": "2017-07-07",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "Julia Santo",
-                "role": "staff"
-              }
-            ],
-            "epstein_nexus": "direct",
-            "nexus_reasoning": "Document explicitly states Jeffrey will personally depart from Paris Le Bourget Airport on July 7, 2017.",
-            "evidence": [
-              {
-                "file": "EFTA02218431.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey will be departing Paris, France for Geneva, Switzerland on July 7, 2017 at 11:35 a.m. Local Time. We will be arriving Geneva at approximately 12:30 p.m. Local Time.\nWe will be departing the Paris Le Bourget airport (LFPB/LBG) and arriving at the Geneva, Switzerland airport (LSGG/GVA).",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218431.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02218607.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Tuesday. July 11 LFPB-TEB, Depart at 1600",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02218607.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219389.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "will arrive Paris Friday July 7th at 8:53pm (19:53) from London. Please pick her up! Jeffrey arrives 5:45pm (17:45).",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219389.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02219390.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "N212JE is expected to arrive at Paris Le Bourget (LFPB/LBG) in 45 minutes at 07:52PM CEST",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02219390.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA00040504",
-            "file": "EFTA00040504.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216157",
-            "file": "EFTA02216157.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217448",
-            "file": "EFTA02217448.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216282",
-            "file": "EFTA02216282.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02217663",
-            "file": "EFTA02217663.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA00066572",
-            "file": "EFTA00066572.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218431",
-            "file": "EFTA02218431.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02218607",
-            "file": "EFTA02218607.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219389",
-            "file": "EFTA02219389.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02219390",
-            "file": "EFTA02219390.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -57562,6 +57670,158 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.3007,
+          40.9377
+        ]
+      },
+      "properties": {
+        "id": "574990593682a7b9",
+        "name": "The Hamptons",
+        "location_name": "The Hamptons",
+        "location_address": "The Hamptons, New York, United States",
+        "location_description": "A collection of villages and hamlets on the South Fork of Long Island, New York, known as an affluent summer resort destination for New York City residents.",
+        "canonical_name": "The Hamptons, Southampton, NY, New York",
+        "region": "",
+        "property_type": "event",
+        "display_name": "The Hamptons",
+        "location_descriptor": "A collection of villages and hamlets on the South Fork of Long Island, New York, known as an affluent summer resort destination for New York City residents.",
+        "event_count": 2,
+        "evidence_count": 3,
+        "primary_event_type": "travel",
+        "confidence": 0.75,
+        "confidence_tier": "medium",
+        "date_start": "2017-06-21",
+        "date_end": "2017-08-22",
+        "people": [
+          {
+            "name": "Jeffrey Epstein",
+            "role": "subject"
+          },
+          {
+            "name": "the girls",
+            "role": "associate"
+          },
+          {
+            "name": "Stephen Hanson",
+            "role": "other"
+          },
+          {
+            "name": "Melanie Sinella",
+            "role": "staff"
+          },
+          {
+            "name": "Leon",
+            "role": "associate"
+          }
+        ],
+        "source_count": 3,
+        "sources_preview": "EFTA02215828.pdf, EFTA02216808.pdf, EFTA02221220.pdf",
+        "epstein_nexus": "implied",
+        "event_type": "travel",
+        "event_description": "A collection of villages and hamlets on the South Fork of Long Island, New York, known as an affluent summer resort destination for New York City residents.",
+        "events": [
+          {
+            "event_id": "34ad6e82d034df44",
+            "event_title": "Alert: Epstein Associate Plans Visit to Hamptons at Steve Hanson House",
+            "event_type": "travel",
+            "description": "Staff alert asking when Epstein wanted to travel to the Hamptons to stay at the Steve Hanson house.",
+            "date_start": "2017-06-21",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "the girls",
+                "role": "associate"
+              },
+              {
+                "name": "Stephen Hanson",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Alert references Epstein's travel plans to a named residence in the Hamptons.",
+            "evidence": [
+              {
+                "file": "EFTA02215828.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alert - when does nt to go to hamptons (steve hanson house)",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215828.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02216808.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Jeffrey requested I ask you if the girls could use your house in the Hamptons this weekend",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216808.pdf",
+                "confidence": 0.7
+              }
+            ]
+          },
+          {
+            "event_id": "934c3510487225cd",
+            "event_title": "Epstein Associate 'Leon' Confirmed in the Hamptons, NY \u2014 Epstein Sending Emails (Aug 22, 2017)",
+            "event_type": "communication",
+            "description": "Jeffrey Epstein sent multiple emails to associate 'Leon' who was staying in the Hamptons, and Epstein's assistant reached out to Melanie Sinella on August 22, 2017 to confirm delivery.",
+            "date_start": "2017-08-22",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Melanie Sinella",
+                "role": "staff"
+              },
+              {
+                "name": "Leon",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "implied",
+            "nexus_reasoning": "Jeffrey Epstein personally sent emails to Leon and his staff were tracking Leon's presence in the Hamptons, directly implicating Epstein in this communication.",
+            "evidence": [
+              {
+                "file": "EFTA02221220.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Is it possible for you to find out if Leon is receiving Jeffrey's emails?...I believe Jeffrey has sent a few and knows Leon is in the Hamptons",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221220.pdf",
+                "confidence": 0.7
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "doc_id": "EFTA02215828",
+            "file": "EFTA02215828.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02216808",
+            "file": "EFTA02216808.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221220",
+            "file": "EFTA02221220.pdf",
+            "source_type": "doj_efta"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.057583,
           36.863438
         ]
@@ -65972,110 +66232,6 @@
           {
             "doc_id": "EFTA00064575",
             "file": "EFTA00064575.pdf",
-            "source_type": "doj_efta"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.3007,
-          40.9377
-        ]
-      },
-      "properties": {
-        "id": "574990593682a7b9",
-        "name": "The Hamptons",
-        "location_name": "The Hamptons",
-        "location_address": "The Hamptons, New York, United States",
-        "location_description": "A collection of villages and hamlets on the South Fork of Long Island, New York, known as an affluent summer resort destination for New York City residents.",
-        "canonical_name": "The Hamptons, Southampton, NY, New York",
-        "region": "",
-        "property_type": "event",
-        "display_name": "The Hamptons",
-        "location_descriptor": "A collection of villages and hamlets on the South Fork of Long Island, New York, known as an affluent summer resort destination for New York City residents.",
-        "event_count": 1,
-        "evidence_count": 2,
-        "primary_event_type": "travel",
-        "confidence": 0.75,
-        "confidence_tier": "medium",
-        "date_start": "2017-06-21",
-        "date_end": "2017-06-21",
-        "people": [
-          {
-            "name": "Jeffrey Epstein",
-            "role": "subject"
-          },
-          {
-            "name": "the girls",
-            "role": "associate"
-          },
-          {
-            "name": "Stephen Hanson",
-            "role": "other"
-          }
-        ],
-        "source_count": 2,
-        "sources_preview": "EFTA02215828.pdf, EFTA02216808.pdf",
-        "epstein_nexus": "implied",
-        "event_type": "travel",
-        "event_description": "A collection of villages and hamlets on the South Fork of Long Island, New York, known as an affluent summer resort destination for New York City residents.",
-        "events": [
-          {
-            "event_id": "34ad6e82d034df44",
-            "event_title": "Alert: Epstein Associate Plans Visit to Hamptons at Steve Hanson House",
-            "event_type": "travel",
-            "description": "Staff alert asking when Epstein wanted to travel to the Hamptons to stay at the Steve Hanson house.",
-            "date_start": "2017-06-21",
-            "date_end": null,
-            "date_precision": "exact_day",
-            "confidence": 0.75,
-            "people": [
-              {
-                "name": "Jeffrey Epstein",
-                "role": "subject"
-              },
-              {
-                "name": "the girls",
-                "role": "associate"
-              },
-              {
-                "name": "Stephen Hanson",
-                "role": "other"
-              }
-            ],
-            "epstein_nexus": "implied",
-            "nexus_reasoning": "Alert references Epstein's travel plans to a named residence in the Hamptons.",
-            "evidence": [
-              {
-                "file": "EFTA02215828.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Alert - when does nt to go to hamptons (steve hanson house)",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02215828.pdf",
-                "confidence": 0.7
-              },
-              {
-                "file": "EFTA02216808.pdf",
-                "source_type": "doj_efta",
-                "excerpt": "Jeffrey requested I ask you if the girls could use your house in the Hamptons this weekend",
-                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02216808.pdf",
-                "confidence": 0.7
-              }
-            ]
-          }
-        ],
-        "sources": [
-          {
-            "doc_id": "EFTA02215828",
-            "file": "EFTA02215828.pdf",
-            "source_type": "doj_efta"
-          },
-          {
-            "doc_id": "EFTA02216808",
-            "file": "EFTA02216808.pdf",
             "source_type": "doj_efta"
           }
         ]
