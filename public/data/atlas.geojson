@@ -8085,7 +8085,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 111,
-        "evidence_count": 347,
+        "evidence_count": 348,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -8733,8 +8733,8 @@
             "role": "other"
           }
         ],
-        "source_count": 317,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+312 more)",
+        "source_count": 318,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+313 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -13364,6 +13364,13 @@
                 "excerpt": "Jim Watson asks if he could have dinner with Jeffrey on Tuesday evening, August 29th.\n...\nJeffrey would love to host him for dinner at his home, 9 East 71st Street between 5th and Madison.\n...\nreconfirming Dr. Watson will come see Jeffrey tonight at 7pm\n9 East 71st Street between 5th and Madison",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221842.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221868.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "reconfirming Dr. Watson will come see Jeffrey tonight at 7pm\n9 East 71st Street between 5th and Madison",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221868.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -15824,6 +15831,11 @@
           {
             "doc_id": "EFTA02221842",
             "file": "EFTA02221842.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221868",
+            "file": "EFTA02221868.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -74758,13 +74770,17 @@
         "display_name": "9 East 79th Street",
         "location_descriptor": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
         "event_count": 1,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
         "date_start": "2017-08-30",
         "date_end": "2017-08-30",
         "people": [
+          {
+            "name": "Jojo Fontanilla",
+            "role": "staff"
+          },
           {
             "name": "Jeffrey Epstein",
             "role": "subject"
@@ -74780,10 +74796,14 @@
           {
             "name": "Harry Fisch",
             "role": "other"
+          },
+          {
+            "name": "Dr Orsher",
+            "role": "other"
           }
         ],
-        "source_count": 3,
-        "sources_preview": "EFTA02220479.pdf, EFTA02221585.pdf, EFTA02221774.pdf",
+        "source_count": 4,
+        "sources_preview": "EFTA02220479.pdf, EFTA02221585.pdf, EFTA02221774.pdf, EFTA02221870.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A luxury residential and professional office building on the Upper East Side of Manhattan, New York City, between Fifth and Madison Avenues.",
@@ -74799,6 +74819,10 @@
             "confidence": 0.75,
             "people": [
               {
+                "name": "Jojo Fontanilla",
+                "role": "staff"
+              },
+              {
                 "name": "Jeffrey Epstein",
                 "role": "subject"
               },
@@ -74812,6 +74836,10 @@
               },
               {
                 "name": "Harry Fisch",
+                "role": "other"
+              },
+              {
+                "name": "Dr Orsher",
                 "role": "other"
               }
             ],
@@ -74838,6 +74866,13 @@
                 "excerpt": "Do your prefer to have Jojo drive you or walk to your 10:30am doctor appt. today?\nDr Orsher\n9 East 79th street\n[Epstein's reply:] walk",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221774.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02221870.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Do your prefer to have Jojo drive you or walk to your 10:30am doctor appt. today?\nDr Orsher\n9 East 79th street\n...walk\nJeffrey will walk to his 10:30 doctor appt.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02221870.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -74856,6 +74891,11 @@
           {
             "doc_id": "EFTA02221774",
             "file": "EFTA02221774.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02221870",
+            "file": "EFTA02221870.pdf",
             "source_type": "doj_efta"
           }
         ]
