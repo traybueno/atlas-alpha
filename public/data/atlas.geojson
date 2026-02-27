@@ -8930,8 +8930,8 @@
         "property_type": "event",
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
-        "event_count": 123,
-        "evidence_count": 461,
+        "event_count": 124,
+        "evidence_count": 464,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -9473,10 +9473,14 @@
           {
             "name": "Debra C. Freeman",
             "role": "legal"
+          },
+          {
+            "name": "Mark Epstein",
+            "role": "other"
           }
         ],
-        "source_count": 386,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+381 more)",
+        "source_count": 389,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+384 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -11219,6 +11223,13 @@
                 "excerpt": "UNITED STATES OF AMERICA v. JEFFREY EPSTEIN, Defendant. Before: New York, N.Y. 19 Cr. 490(RMB) Conference July 8, 2019 1:20 p.m. HON. HENRY B. PITMAN",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00079704.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00080349.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "UNITED STATES OF AMERICA v. JEFFREY EPSTEIN, Defendant. Before: New York, N.Y. 19 Cr. 490(RMB) Conference July 8, 2019 1:20 p.m. HON. HENRY B. PITMAN",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080349.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -11713,6 +11724,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "Partially legible document describing: USMS email forwarding BOP report that Epstein was found in MCC New York cell at 0127 hours in a fetal position with a noose around his neck; he was placed on suicide watch then downgraded to suicide observation; his cellmate reportedly threatened to kill him.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080828.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00080829.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing: USMS email chain forwarded to US Attorney Berman reporting that Epstein was found at MCC New York at 0127 hours in a fetal position with a noose around his neck; placed on suicide watch then downgraded to suicide observation; cellmate threatened to kill him.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080829.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15642,6 +15660,41 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "a58e46cbb00c94f0",
+            "event_title": "FBI Reviews Epstein's MCC Inmate Records on Day of His Death; Last Call Placed to 'Deceased Mother'",
+            "event_type": "communication",
+            "description": "FBI investigator reviewed Epstein's MCC inmate records on day of death; found no recorded visitors, $566.27 in commissary, last cellmate was Efrain Reyes; next of kin Mark Epstein notified at 1100 hours; last call placed on unsecure line to person he claimed was his deceased mother.",
+            "date_start": "2019-08-10",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Efrain Reyes",
+                "role": "other"
+              },
+              {
+                "name": "Mark Epstein",
+                "role": "other"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was physically housed at MCC New York at the time of his death on August 10, 2019.",
+            "evidence": [
+              {
+                "file": "EFTA00080838.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On August 10, 2019 at approximately 1345 hours the reporting investigator met with BOP Lieutenant in an administrative office on the 9th floor opposite of the \"L\" tier. Records indicate BOP supervisor notified EPSTEIN next of kin; Mark Epstein at 1100 hours on 08/10/2019. Review of EPSTEIN's commissary yielded him to have funds in the amount of $566.27 at the time of his death. EPSTEIN has no recorded visitors to the MCC.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080838.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -16396,6 +16449,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00080349",
+            "file": "EFTA00080349.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015023",
             "file": "EFTA00015023.pdf",
             "source_type": "doj_efta"
@@ -16573,6 +16631,11 @@
           {
             "doc_id": "EFTA00080828",
             "file": "EFTA00080828.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00080829",
+            "file": "EFTA00080829.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -17574,6 +17637,11 @@
             "doc_id": "EFTA00079635",
             "file": "EFTA00079635.pdf",
             "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00080838",
+            "file": "EFTA00080838.pdf",
+            "source_type": "doj_efta"
           }
         ]
       }
@@ -17598,8 +17666,8 @@
         "property_type": "event",
         "display_name": "New York City",
         "location_descriptor": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
-        "event_count": 122,
-        "evidence_count": 256,
+        "event_count": 123,
+        "evidence_count": 258,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -18035,8 +18103,8 @@
             "role": "other"
           }
         ],
-        "source_count": 235,
-        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+230 more)",
+        "source_count": 237,
+        "sources_preview": "EFTA02731465.pdf, EFTA00017729.pdf, EFTA00015992.pdf, EFTA00069180.pdf, EFTA02220447.pdf, ... (+232 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The largest city in the United States, located at the mouth of the Hudson River in southeastern New York State, comprising five boroughs.",
@@ -21024,6 +21092,10 @@
               {
                 "name": "Richard Kahn",
                 "role": "associate"
+              },
+              {
+                "name": "Leon Black",
+                "role": "associate"
               }
             ],
             "epstein_nexus": "direct",
@@ -21034,6 +21106,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "do you want to meet with Jeffrey while he is in NY?\nSep 12, 2017",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220307.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222736.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Thurs. Sept. 14, 2017 Paris-NY\n9:00am BREAKFAST w/Leon Black",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222736.pdf",
                 "confidence": 0.7
               }
             ]
@@ -22808,6 +22887,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "d837330d3038d7f2",
+            "event_title": "Nili and Ehud Arrive Back in New York, September 7, 2017",
+            "event_type": "presence",
+            "description": "Nili and Ehud returned to New York on September 7, 2017, as noted in a calendar alert from Epstein's staff.",
+            "date_start": "2017-09-07",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Nili",
+                "role": "associate"
+              },
+              {
+                "name": "Ehud",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "contextual",
+            "nexus_reasoning": "Nili and Ehud's arrival in New York is noted in an Epstein staff calendar, indicating they are associates whose movements were tracked by Epstein's organization.",
+            "evidence": [
+              {
+                "file": "EFTA02222739.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Alert - NIII and Ehud arrive back to NY Sept 7\nSeptember 7, 2017 5:30 AM : Nili and Ehud arrive back to NY Sept 7",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222739.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -23592,6 +23702,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA02222736",
+            "file": "EFTA02222736.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA02220215",
             "file": "EFTA02220215.pdf",
             "source_type": "doj_efta"
@@ -23984,6 +24099,11 @@
           {
             "doc_id": "EFTA00080605",
             "file": "EFTA00080605.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222739",
+            "file": "EFTA02222739.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -33800,8 +33920,8 @@
         "property_type": "event",
         "display_name": "Little St. James Island",
         "location_descriptor": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
-        "event_count": 46,
-        "evidence_count": 118,
+        "event_count": 47,
+        "evidence_count": 119,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -33967,10 +34087,14 @@
           {
             "name": "Jes Staley",
             "role": "associate"
+          },
+          {
+            "name": "Ghislaine Maxwell",
+            "role": "associate"
           }
         ],
-        "source_count": 109,
-        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+104 more)",
+        "source_count": 110,
+        "sources_preview": "EFTA02731488.pdf, EFTA01263024.pdf, EFTA01263093.pdf, EFTA01262900.pdf, EFTA01262960.pdf, ... (+105 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A private island of approximately 75 acres located off the southeastern tip of St. Thomas in the U.S. Virgin Islands.",
@@ -35912,6 +36036,37 @@
                 "confidence": 0.7
               }
             ]
+          },
+          {
+            "event_id": "c178e6e81c4d1083",
+            "event_title": "Epstein Wires $7.4M to Ghislaine Maxwell from US Virgin Islands",
+            "event_type": "transaction",
+            "description": "Epstein in USVI originates $7.4M wire to Maxwell, June 15, 2007.",
+            "date_start": "2007-06-15",
+            "date_end": null,
+            "date_precision": "exact_day",
+            "confidence": 0.75,
+            "people": [
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
+              },
+              {
+                "name": "Ghislaine Maxwell",
+                "role": "associate"
+              }
+            ],
+            "epstein_nexus": "direct",
+            "nexus_reasoning": "Epstein was in USVI when originating this wire transfer.",
+            "evidence": [
+              {
+                "file": "EFTA00080330.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "On 06/15/2007, JEFFREY EPSTEIN, located in the US Virgin Islands, originated one wire transaction for $7,400,000.00...to beneficiary GHISLAINE MAXWELL",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080330.pdf",
+                "confidence": 0.7
+              }
+            ]
           }
         ],
         "sources": [
@@ -36458,6 +36613,11 @@
           {
             "doc_id": "EFTA00079569",
             "file": "EFTA00079569.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00080330",
+            "file": "EFTA00080330.pdf",
             "source_type": "doj_efta"
           }
         ]
@@ -79590,7 +79750,7 @@
         "display_name": "Directors Guild of America Theater",
         "location_descriptor": "A premier screening venue operated by the Directors Guild of America, located in Midtown Manhattan at 110 West 57th Street, hosting film premieres, screenings, and industry events.",
         "event_count": 1,
-        "evidence_count": 4,
+        "evidence_count": 5,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -79602,8 +79762,8 @@
             "role": "subject"
           }
         ],
-        "source_count": 4,
-        "sources_preview": "EFTA02221520.pdf, EFTA02222308.pdf, EFTA02222401.pdf, EFTA02222724.pdf",
+        "source_count": 5,
+        "sources_preview": "EFTA02221520.pdf, EFTA02222308.pdf, EFTA02222401.pdf, EFTA02222724.pdf, EFTA02222736.pdf",
         "epstein_nexus": "implied",
         "event_type": "presence",
         "event_description": "A premier screening venue operated by the Directors Guild of America, located in Midtown Manhattan at 110 West 57th Street, hosting film premieres, screenings, and industry events.",
@@ -79653,6 +79813,13 @@
                 "excerpt": "7:30pm Premier of Angelina Jolie's film: First They Killed My Father (JE + 1)\nDirectors Guild of America Theater\nJOJO TO DRIVE YOU!",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222724.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222736.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "7:30pm Premier of Angelina Jolie's film: First They Killed My Father (JE + 1)\nDirectors Guild of America Theater\n110 W. 57th Street",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222736.pdf",
+                "confidence": 0.7
               }
             ]
           }
@@ -79676,6 +79843,11 @@
           {
             "doc_id": "EFTA02222724",
             "file": "EFTA02222724.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222736",
+            "file": "EFTA02222736.pdf",
             "source_type": "doj_efta"
           }
         ]
