@@ -8931,7 +8931,7 @@
         "display_name": "Thurgood Marshall U.S. Courthouse",
         "location_descriptor": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
         "event_count": 123,
-        "evidence_count": 456,
+        "evidence_count": 461,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -9475,8 +9475,8 @@
             "role": "legal"
           }
         ],
-        "source_count": 381,
-        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+376 more)",
+        "source_count": 386,
+        "sources_preview": "EFTA01262805.pdf, EFTA00039025.pdf, EFTA00039660.pdf, EFTA00039367.pdf, EFTA00039383.pdf, ... (+381 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "The federal courthouse at 40 Foley Square in Lower Manhattan that houses the U.S. District Court for the Southern District of New York.",
@@ -11707,6 +11707,13 @@
                 "excerpt": "Date/Time Of Incident: 7/23/2019 1:27 AM\nLocation Level 1: SHU\nType Of Incident: Suicide Attempt\nMethod: Hanging/Asphyxiation\nLevel 2: Housing Unit, Special (SHU) Level 3: 9 SOUTH SHU\nReg #: 76318054 Name: EPSTEIN, JEFFREY\nRole: Victim\nReg #: 78514054 Name: TARTAGLIONE, NICHOLAS",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080403.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00080828.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Partially legible document describing: USMS email forwarding BOP report that Epstein was found in MCC New York cell at 0127 hours in a fetal position with a noose around his neck; he was placed on suicide watch then downgraded to suicide observation; his cellmate reportedly threatened to kill him.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080828.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -13164,6 +13171,27 @@
                 "source_type": "doj_efta",
                 "excerpt": "Ed O'Callahan \u2014 Principal Deputy Attorney General\nGeoffrey Berman \u2014 US Attorney\n...Two additional people from DOJ will join the visit...we would like to see the 2nd floor pscyh observation and suicide watch area; the 9th floor SHU, and Epstein's cell, which we understand to still be cordoned off.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00079265.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00080322.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "I just walked Mr. O'Callahan and over to meet with the Regional Director and new Warden. Thursday, August 15, 2019.",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080322.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00080340.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC Visit Thursday August 15 O'Callahan Berman",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080340.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA00080346.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "MCC Visit Thursday August 15 O'Callahan Berman",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080346.pdf",
                 "confidence": 0.7
               }
             ]
@@ -15540,6 +15568,13 @@
                 "excerpt": "Jon Bandler of Lohud was at the Tartaglione and is seeking clarification on something that came up about Epstein when Tartaglione was his cellmate.",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00079621.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA00080269.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Inmate Investigative Report Institution: New York MCC Case Number: NYM-19-0061 Investigation Type: Investigative / Threat Assessment",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00080269.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -16536,6 +16571,11 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00080828",
+            "file": "EFTA00080828.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00016765",
             "file": "EFTA00016765.pdf",
             "source_type": "doj_efta"
@@ -17086,6 +17126,21 @@
             "source_type": "doj_efta"
           },
           {
+            "doc_id": "EFTA00080322",
+            "file": "EFTA00080322.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00080340",
+            "file": "EFTA00080340.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00080346",
+            "file": "EFTA00080346.pdf",
+            "source_type": "doj_efta"
+          },
+          {
             "doc_id": "EFTA00015646",
             "file": "EFTA00015646.pdf",
             "source_type": "doj_efta"
@@ -17503,6 +17558,11 @@
           {
             "doc_id": "EFTA00079621",
             "file": "EFTA00079621.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA00080269",
+            "file": "EFTA00080269.pdf",
             "source_type": "doj_efta"
           },
           {
@@ -50081,7 +50141,7 @@
         "display_name": "Long Island MacArthur Airport",
         "location_descriptor": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
         "event_count": 10,
-        "evidence_count": 24,
+        "evidence_count": 25,
         "primary_event_type": "travel",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -50113,8 +50173,8 @@
             "role": "staff"
           }
         ],
-        "source_count": 22,
-        "sources_preview": "EFTA00005994.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, EFTA02216069.pdf, ... (+17 more)",
+        "source_count": 23,
+        "sources_preview": "EFTA00005994.pdf, EFTA02213845.pdf, EFTA02213509.pdf, EFTA02216021.pdf, EFTA02216069.pdf, ... (+18 more)",
         "epstein_nexus": "direct",
         "event_type": "travel",
         "event_description": "A commercial and general aviation airport located in Ronkonkoma (Islip), Suffolk County, New York, serving Long Island's eastern communities.",
@@ -50459,6 +50519,10 @@
               {
                 "name": "Larry Visoski",
                 "role": "staff"
+              },
+              {
+                "name": "Jeffrey Epstein",
+                "role": "subject"
               }
             ],
             "epstein_nexus": "implied",
@@ -50476,6 +50540,13 @@
                 "source_type": "doj_efta",
                 "excerpt": "current plan is to depart Paris Wednesday morning at 7 AM to arrive in Islip New York Wednesday morning at 8 AM",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02220801.pdf",
+                "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222732.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "current plan is to depart Paris Wednesday morning at 7 AM to arrive in Islip New York Wednesday morning at 8 AM",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222732.pdf",
                 "confidence": 0.7
               }
             ]
@@ -50607,6 +50678,11 @@
           {
             "doc_id": "EFTA02222718",
             "file": "EFTA02222718.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222732",
+            "file": "EFTA02222732.pdf",
             "source_type": "doj_efta"
           },
           {
