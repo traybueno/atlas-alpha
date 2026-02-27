@@ -22,7 +22,7 @@
         "display_name": "9 East 71st Street",
         "location_descriptor": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
         "event_count": 127,
-        "evidence_count": 395,
+        "evidence_count": 396,
         "primary_event_type": "presence",
         "confidence": 0.75,
         "confidence_tier": "medium",
@@ -678,8 +678,8 @@
             "role": "associate"
           }
         ],
-        "source_count": 364,
-        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+359 more)",
+        "source_count": 365,
+        "sources_preview": "EFTA01262805.pdf, EFTA02731168.pdf, EFTA01262965.pdf, EFTA01262829.pdf, EFTA01262863.pdf, ... (+360 more)",
         "epstein_nexus": "direct",
         "event_type": "presence",
         "event_description": "A seven-story mansion on Manhattan's Upper East Side in the Lenox Hill neighborhood, one of the largest private homes in New York City.",
@@ -6349,6 +6349,13 @@
                 "excerpt": "6-7:00pm Appt w/Purevsuren Lundeg",
                 "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222724.pdf",
                 "confidence": 0.7
+              },
+              {
+                "file": "EFTA02222745.pdf",
+                "source_type": "doj_efta",
+                "excerpt": "Leon Black will come see Jeffrey for breakfast on Thursday Sept 14th at 9am",
+                "document_url": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA02222745.pdf",
+                "confidence": 0.7
               }
             ]
           },
@@ -8720,6 +8727,11 @@
           {
             "doc_id": "EFTA02222724",
             "file": "EFTA02222724.pdf",
+            "source_type": "doj_efta"
+          },
+          {
+            "doc_id": "EFTA02222745",
+            "file": "EFTA02222745.pdf",
             "source_type": "doj_efta"
           },
           {
