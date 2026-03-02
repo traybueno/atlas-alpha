@@ -22,35 +22,46 @@ export default function AboutPage() {
 
         {/* Hero */}
         <section className="border-b border-gray-100 bg-gray-50">
-          <div className="max-w-4xl mx-auto px-6 py-16">
-            <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-3">Powered by Valis</p>
-            <h1 className="text-4xl font-bold text-gray-900 mb-4 leading-tight tracking-tight">
-              Large unstructured document sets →<br />interactive intelligence maps.
+          <div className="max-w-4xl mx-auto px-6 py-20">
+            <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-4">Powered by Valis</p>
+            <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6 leading-[1.1] tracking-tight">
+              Turn thousands of documents<br />into an interactive, sourced map.
             </h1>
-            <p className="text-lg text-gray-500 max-w-2xl">
-              You have thousands of documents. Valis turns them into an interactive,
-              evidence-backed intelligence map — every person, every location, every event, sourced and verifiable.
+            <p className="text-lg text-gray-500 max-w-4xl leading-relaxed">
+              You have the documents. Valis extracts every person, location, and event,
+              then maps them with source citations and confidence scores.
+              Every claim is verifiable. Nothing is invented.
             </p>
           </div>
         </section>
 
-        {/* Proof + Audience side by side */}
+        {/* Live Example: The Epstein Atlas */}
         <section className="border-b border-gray-100">
-          <div className="max-w-4xl mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="max-w-4xl mx-auto px-6 py-12">
+            <div className="bg-gray-900 rounded-2xl p-8 sm:p-10">
+              <p className="text-xs font-semibold tracking-widest text-gray-500 uppercase mb-3">Live Example</p>
+              <h2 className="text-2xl sm:text-3xl font-bold text-white mb-3 tracking-tight">The Epstein Atlas</h2>
+              <p className="text-gray-400 text-base leading-relaxed mb-8 max-w-2xl">
+                Built from public government records: FBI Vault releases, DOJ EFTA filings,
+                and federal court documents. Every pin on the map links directly to its source.
+              </p>
 
-            {/* Portfolio */}
-            <div className="bg-gray-900 rounded-xl p-7 flex flex-col justify-between gap-6">
-              <div>
-                <p className="text-xs font-semibold tracking-widest text-gray-500 uppercase mb-2">Proof of concept</p>
-                <h2 className="text-xl font-bold text-white mb-2">The Epstein Atlas</h2>
-                <p className="text-gray-400 text-sm leading-relaxed">
-                  23,000+ government documents — FBI Vault, DOJ EFTA, federal court records —
-                  extracted, geocoded, and mapped. Every pin links to its source.
-                </p>
+              <div className="grid grid-cols-3 gap-6 mb-8">
+                {[
+                  { stat: "23,000+", label: "Documents processed" },
+                  { stat: "2,500+", label: "Events extracted" },
+                  { stat: "400+", label: "Locations mapped" },
+                ].map((item) => (
+                  <div key={item.label}>
+                    <p className="text-2xl sm:text-3xl font-bold text-white">{item.stat}</p>
+                    <p className="text-xs sm:text-sm text-gray-500 mt-1">{item.label}</p>
+                  </div>
+                ))}
               </div>
+
               <Link
                 href="/map"
-                className="inline-flex items-center gap-2 bg-white text-gray-900 px-5 py-2.5 rounded-lg text-sm font-medium hover:bg-gray-100 transition-colors self-start"
+                className="inline-flex items-center gap-2 bg-white text-gray-900 px-6 py-3 rounded-lg text-sm font-semibold hover:bg-gray-100 transition-colors"
               >
                 Explore the map
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -58,41 +69,56 @@ export default function AboutPage() {
                 </svg>
               </Link>
             </div>
+          </div>
+        </section>
 
-            {/* Who it's for */}
-            <div className="flex flex-col gap-4">
-              <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase">Who it&apos;s for</p>
-              <p className="text-gray-700 text-base leading-relaxed">
-                Built for journalists, attorneys, investigators, and anyone sitting on a document corpus that contains a story.
-              </p>
-              <div className="grid grid-cols-1 gap-3 mt-1">
-                {[
-                  { title: "Journalists", desc: "Turn FOIA responses into publishable, sourced maps." },
-                  { title: "Attorneys", desc: "Surface patterns across discovery documents at scale." },
-                  { title: "Investigators", desc: "Stop reading PDFs. Valis extracts, scores, and maps." },
-                ].map((item) => (
-                  <div key={item.title} className="flex gap-3 items-start">
-                    <span className="mt-0.5 w-1.5 h-1.5 rounded-full bg-gray-300 shrink-0 mt-2" />
-                    <p className="text-sm text-gray-600"><strong className="text-gray-900">{item.title}</strong> — {item.desc}</p>
-                  </div>
-                ))}
-              </div>
+        {/* Who It's For */}
+        <section className="border-b border-gray-100">
+          <div className="max-w-4xl mx-auto px-6 py-14">
+            <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-3">Who it&apos;s for</p>
+            <h2 className="text-2xl font-bold text-gray-900 mb-8 tracking-tight">
+              Built for people who work with large document sets.
+            </h2>
+
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {[
+                {
+                  title: "Journalists",
+                  desc: "Turn FOIA responses and leaked document sets into publishable, sourced maps. Surface the connections buried in thousands of pages.",
+                },
+                {
+                  title: "Attorneys",
+                  desc: "Map discovery documents at scale. Identify patterns across depositions, filings, and exhibits that manual review would miss.",
+                },
+                {
+                  title: "Investigators",
+                  desc: "Stop reading PDFs one at a time. Valis extracts entities, scores confidence, and maps everything with full source tracing.",
+                },
+              ].map((item) => (
+                <div
+                  key={item.title}
+                  className="border border-gray-200 rounded-xl p-6 flex flex-col gap-3"
+                >
+                  <h3 className="text-base font-semibold text-gray-900">{item.title}</h3>
+                  <p className="text-sm text-gray-500 leading-relaxed">{item.desc}</p>
+                </div>
+              ))}
             </div>
           </div>
         </section>
 
         {/* Contact / Interest Form */}
         <section>
-          <div className="max-w-4xl mx-auto px-6 py-14">
-            <div className="max-w-2xl">
-              <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-3">Get in touch</p>
-              <h2 className="text-2xl font-bold text-gray-900 mb-2">Interested in this engine?</h2>
-              <p className="text-gray-500 mb-8 leading-relaxed">
-                Whether you&apos;ve got a document corpus you want mapped, want to run your own instance,
-                or just want to follow where this is going — drop us a line.
-              </p>
-              <ContactForm />
-            </div>
+          <div className="max-w-4xl mx-auto px-6 py-16">
+            <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-3">Get in touch</p>
+            <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-3 tracking-tight">
+              Have documents that need mapping?
+            </h2>
+            <p className="text-gray-500 mb-10 leading-relaxed max-w-2xl">
+              Tell us about your document set and what you&apos;re trying to find.
+              Whether you need a full build or want to explore running your own instance, we&apos;ll get back to you.
+            </p>
+            <ContactForm />
           </div>
         </section>
 
