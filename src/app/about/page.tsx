@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Disclaimer from "@/components/Disclaimer";
+import ContactForm from "@/components/ContactForm";
 
 export default function AboutPage() {
   return (
@@ -80,58 +81,18 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* Pricing */}
-        <section className="border-b border-gray-100">
-          <div className="max-w-4xl mx-auto px-6 py-12">
-            <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-8">Pricing</p>
-            <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
-              {[
-                { tier: "Free", price: "Free", sub: "30-min discovery call", cta: "Book a call", highlight: false },
-                { tier: "Starter", price: "$2,500", sub: "Up to 5,000 docs", cta: "Get started", highlight: false },
-                { tier: "Standard", price: "$7,500", sub: "Up to 50,000 docs", cta: "Get started", highlight: true },
-                { tier: "Full Corpus", price: "Custom", sub: "50,000+ docs", cta: "Request a quote", highlight: false },
-              ].map((item) => (
-                <div
-                  key={item.tier}
-                  className={`rounded-xl p-5 flex flex-col gap-4 border ${
-                    item.highlight ? "bg-gray-900 border-gray-900" : "bg-white border-gray-200"
-                  }`}
-                >
-                  <div>
-                    <p className={`text-xs font-semibold tracking-widest uppercase mb-1 ${item.highlight ? "text-gray-500" : "text-gray-400"}`}>{item.tier}</p>
-                    <p className={`text-2xl font-bold ${item.highlight ? "text-white" : "text-gray-900"}`}>{item.price}</p>
-                    <p className={`text-xs mt-1 ${item.highlight ? "text-gray-400" : "text-gray-500"}`}>{item.sub}</p>
-                  </div>
-                  <a
-                    href="mailto:hello@valis.agency"
-                    className={`mt-auto text-center px-3 py-2 rounded-lg text-xs font-medium transition-colors ${
-                      item.highlight ? "bg-white text-gray-900 hover:bg-gray-100" : "bg-gray-900 text-white hover:bg-gray-800"
-                    }`}
-                  >
-                    {item.cta}
-                  </a>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* CTA */}
+        {/* Contact / Interest Form */}
         <section>
-          <div className="max-w-4xl mx-auto px-6 py-14 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-6">
-            <div>
-              <h2 className="text-2xl font-bold text-gray-900 mb-1">Ready to map your documents?</h2>
-              <p className="text-gray-500">Start with a free 30-minute discovery call. No commitment.</p>
+          <div className="max-w-4xl mx-auto px-6 py-14">
+            <div className="max-w-2xl">
+              <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-3">Get in touch</p>
+              <h2 className="text-2xl font-bold text-gray-900 mb-2">Interested in this engine?</h2>
+              <p className="text-gray-500 mb-8 leading-relaxed">
+                Whether you&apos;ve got a document corpus you want mapped, want to run your own instance,
+                or just want to follow where this is going — drop us a line.
+              </p>
+              <ContactForm />
             </div>
-            <a
-              href="mailto:hello@valis.agency"
-              className="shrink-0 inline-flex items-center gap-2 bg-gray-900 text-white px-7 py-3.5 rounded-lg font-medium hover:bg-gray-800 transition-colors shadow"
-            >
-              Book a Discovery Call
-              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-              </svg>
-            </a>
           </div>
         </section>
 
