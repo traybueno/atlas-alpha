@@ -145,6 +145,41 @@ export default function MapPage() {
         </div>
       </header>
 
+      {/* Active filter chips */}
+      {(filters.people.length > 0 || filters.nexusLevels.length > 0 || filters.searchQuery) && (
+        <div className="bg-white border-b border-gray-100 px-4 py-1.5 flex items-center gap-1.5 flex-wrap z-10">
+          {filters.searchQuery && (
+            <button
+              onClick={() => setFilters({ ...filters, searchQuery: "" })}
+              className="inline-flex items-center gap-1 text-[11px] px-2 py-0.5 bg-gray-100 text-gray-600 rounded-full hover:bg-gray-200 transition-colors"
+            >
+              <span className="text-gray-400">×</span>
+              &ldquo;{filters.searchQuery}&rdquo;
+            </button>
+          )}
+          {filters.nexusLevels.map((level) => (
+            <button
+              key={level}
+              onClick={() => setFilters({ ...filters, nexusLevels: filters.nexusLevels.filter(l => l !== level) })}
+              className="inline-flex items-center gap-1 text-[11px] px-2 py-0.5 bg-gray-100 text-gray-600 rounded-full hover:bg-gray-200 transition-colors capitalize"
+            >
+              <span className="text-gray-400">×</span>
+              {level}
+            </button>
+          ))}
+          {filters.people.map((person) => (
+            <button
+              key={person}
+              onClick={() => setFilters({ ...filters, people: filters.people.filter(p => p !== person) })}
+              className="inline-flex items-center gap-1 text-[11px] px-2 py-0.5 bg-gray-100 text-gray-600 rounded-full hover:bg-gray-200 transition-colors"
+            >
+              <span className="text-gray-400">×</span>
+              {person}
+            </button>
+          ))}
+        </div>
+      )}
+
       {/* Map area */}
       <div className="flex-1 relative">
         <AtlasMap
@@ -152,6 +187,21 @@ export default function MapPage() {
           onFeatureClick={handleFeatureClick}
           onLocationClick={handleLocationClick}
         />
+
+        {/* Zero-results overlay */}
+        {rawData && filteredData.features.length === 0 && (filters.people.length > 0 || filters.nexusLevels.length > 0 || filters.searchQuery) && (
+          <div className="absolute inset-0 flex items-center justify-center z-10 pointer-events-none">
+            <div className="bg-white/95 backdrop-blur-sm rounded-xl shadow-lg px-8 py-6 text-center pointer-events-auto">
+              <p className="text-gray-600 font-medium mb-3">No locations match your filters</p>
+              <button
+                onClick={() => setFilters(DEFAULT_FILTERS)}
+                className="px-4 py-2 text-sm bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-colors"
+              >
+                Clear filters
+              </button>
+            </div>
+          </div>
+        )}
 
         {/* Filter panel overlay */}
         <FilterPanel
@@ -167,6 +217,7 @@ export default function MapPage() {
           onClose={() => setSelectedFeature(null)}
           searchQuery={filters.searchQuery}
           nexusLevels={filters.nexusLevels}
+          selectedPeople={filters.people}
         />
       </div>
 

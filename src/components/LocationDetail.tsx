@@ -6,6 +6,7 @@ import type { GeoJSONFeature, SignificanceTier } from "@/lib/types";
 import SignificanceSummary from "./SignificanceSummary";
 import EventCards from "./EventCards";
 import ConnectedLocations from "./ConnectedLocations";
+import { highlightText } from "@/lib/highlight";
 
 interface LocationDetailProps {
   feature: GeoJSONFeature | null;
@@ -13,6 +14,7 @@ interface LocationDetailProps {
   onClose: () => void;
   searchQuery?: string;
   nexusLevels?: string[];
+  selectedPeople?: string[];
 }
 
 /** Normalize people from mixed formats (string[] | EventPerson[] | EnrichedPerson[]) */
@@ -95,6 +97,7 @@ export default function LocationDetail({
   onClose,
   searchQuery = "",
   nexusLevels,
+  selectedPeople = [],
 }: LocationDetailProps) {
   // Show only the clicked feature's events — no merging with nearby pins
   const locationEvents = useMemo(() => {
@@ -149,6 +152,7 @@ export default function LocationDetail({
           onClose={onClose}
           searchQuery={searchQuery}
           nexusLevels={nexusLevels}
+          selectedPeople={selectedPeople}
         />
       </motion.div>
 
@@ -181,6 +185,7 @@ export default function LocationDetail({
           onClose={onClose}
           searchQuery={searchQuery}
           nexusLevels={nexusLevels}
+          selectedPeople={selectedPeople}
         />
       </motion.div>
     </AnimatePresence>
@@ -240,6 +245,7 @@ function PanelContent({
   onClose,
   searchQuery = "",
   nexusLevels,
+  selectedPeople = [],
 }: {
   feature: GeoJSONFeature;
   p: GeoJSONFeature["properties"];
@@ -251,6 +257,7 @@ function PanelContent({
   onClose: () => void;
   searchQuery?: string;
   nexusLevels?: string[];
+  selectedPeople?: string[];
 }) {
   // Always use the clicked feature's own name — never merge names from nearby pins
   const bestName = p.display_name || p.location_name || pickBestDisplayName(locationEvents);
@@ -263,7 +270,7 @@ function PanelContent({
         <div className="flex items-start justify-between gap-3">
           <div className="flex-1 min-w-0">
             <h2 className="text-2xl font-extrabold text-gray-900 leading-snug tracking-tight">
-              {bestName}
+              {searchQuery ? highlightText(bestName, searchQuery) : bestName}
             </h2>
             {p.location_description && (
               <div className="mt-2 px-3 py-2.5 bg-gray-50 rounded-lg border border-gray-100">
@@ -313,7 +320,7 @@ function PanelContent({
         )}
 
         {/* Event Timeline — reads events[] from the feature */}
-        <EventCards feature={feature} searchQuery={searchQuery} nexusLevels={nexusLevels} />
+        <EventCards feature={feature} searchQuery={searchQuery} nexusLevels={nexusLevels} selectedPeople={selectedPeople} />
 
         {/* Connected Locations */}
         <ConnectedLocations locationEvents={locationEvents} />

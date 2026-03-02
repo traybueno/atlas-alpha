@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import type { FilterState } from "@/lib/types";
 
 interface FilterPanelProps {
@@ -22,6 +22,24 @@ export default function FilterPanel({
 }: FilterPanelProps) {
   const [isOpen, setIsOpen] = useState(false);
   const [peopleSearch, setPeopleSearch] = useState("");
+  const [localSearch, setLocalSearch] = useState(filters.searchQuery);
+  const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // Debounce search input — 200ms delay
+  useEffect(() => {
+    if (debounceRef.current) clearTimeout(debounceRef.current);
+    debounceRef.current = setTimeout(() => {
+      if (localSearch !== filters.searchQuery) {
+        onFiltersChange({ ...filters, searchQuery: localSearch });
+      }
+    }, 200);
+    return () => { if (debounceRef.current) clearTimeout(debounceRef.current); };
+  }, [localSearch]);
+
+  // Sync local search when filters change externally (e.g. chip removal, reset)
+  useEffect(() => {
+    setLocalSearch(filters.searchQuery);
+  }, [filters.searchQuery]);
 
   const activeFilterCount = [
     filters.nexusLevels.length > 0 ? 1 : 0,
@@ -48,6 +66,8 @@ export default function FilterPanel({
   };
 
   const resetFilters = () => {
+    setPeopleSearch("");
+    setLocalSearch("");
     onFiltersChange({ people: [], searchQuery: "", nexusLevels: [] });
   };
 
@@ -93,13 +113,26 @@ export default function FilterPanel({
               <label className="text-xs font-semibold text-gray-400 uppercase tracking-wider">
                 Search
               </label>
-              <input
-                type="text"
-                value={filters.searchQuery}
-                onChange={(e) => update({ searchQuery: e.target.value })}
-                placeholder="Search locations, events, people..."
-                className="mt-1 w-full px-3 py-2 text-sm border border-gray-200 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-900 focus:border-transparent placeholder-gray-500 text-gray-900"
-              />
+              <div className="relative mt-1">
+                <input
+                  type="text"
+                  value={localSearch}
+                  onChange={(e) => setLocalSearch(e.target.value)}
+                  placeholder="Search locations, events, people..."
+                  className="w-full px-3 py-2 pr-8 text-sm border border-gray-200 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-900 focus:border-transparent placeholder-gray-500 text-gray-900"
+                />
+                {localSearch && (
+                  <button
+                    onClick={() => { setLocalSearch(""); update({ searchQuery: "" }); }}
+                    className="absolute right-2 top-1/2 -translate-y-1/2 p-0.5 text-gray-400 hover:text-gray-600 transition-colors"
+                    aria-label="Clear search"
+                  >
+                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                  </button>
+                )}
+              </div>
             </div>
 
             {/* Epstein Connection */}
@@ -107,6 +140,7 @@ export default function FilterPanel({
               <label className="text-xs font-semibold text-gray-400 uppercase tracking-wider">
                 Epstein Connection
               </label>
+              <p className="text-[10px] text-gray-400 mt-0.5">Matches any selected level</p>
               <div className="mt-2 space-y-1">
                 {NEXUS_OPTIONS.map(({ value, label, description }) => (
                   <label
@@ -133,6 +167,7 @@ export default function FilterPanel({
               <label className="text-xs font-semibold text-gray-400 uppercase tracking-wider">
                 People
               </label>
+              <p className="text-[10px] text-gray-400 mt-0.5">Matches any selected person</p>
               <input
                 type="text"
                 value={peopleSearch}

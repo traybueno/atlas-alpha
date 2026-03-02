@@ -9,6 +9,7 @@ import {
   getEventType,
   ConfidenceLabel,
 } from "./EvidenceModal";
+import { highlightText, highlightPerson } from "@/lib/highlight";
 
 // ---------------------------------------------------------------------------
 // Year separator
@@ -196,11 +197,15 @@ function EventCardRow({
   index,
   onClick,
   isMatch = false,
+  searchQuery = "",
+  selectedPeople = [],
 }: {
   event: AtlasEvent;
   index: number;
   onClick: () => void;
   isMatch?: boolean;
+  searchQuery?: string;
+  selectedPeople?: string[];
 }) {
   const et = getEventType(event.event_type);
   const people = event.people || [];
@@ -229,17 +234,35 @@ function EventCardRow({
 
         {/* Title */}
         <div className="text-[13px] font-semibold text-gray-900 leading-snug">
-          {event.event_title}
+          {highlightText(event.event_title, searchQuery)}
         </div>
 
         {/* Row 3: description preview */}
         {event.description && (
           <p className="text-xs text-gray-500 leading-relaxed">
-            {truncateDesc(event.description)}
+            {highlightText(truncateDesc(event.description), searchQuery)}
           </p>
         )}
 
-        {/* Row 4: meta chips */}
+        {/* Row 4: people names — shown when search or people filter active */}
+        {people.length > 0 && (searchQuery || selectedPeople.length > 0) && (
+          <div className="flex flex-wrap gap-1">
+            {people.map((p, i) => {
+              const name = typeof p === "string" ? p : p.name;
+              // people filter highlight takes priority; fall back to search highlight
+              const highlighted = selectedPeople.length > 0
+                ? highlightPerson(name, selectedPeople)
+                : highlightText(name, searchQuery);
+              return (
+                <span key={`${name}-${i}`} className="text-[11px] text-gray-500">
+                  {highlighted}{i < people.length - 1 ? ", " : ""}
+                </span>
+              );
+            })}
+          </div>
+        )}
+
+        {/* Row 5: meta chips */}
         {(people.length > 0 || evidence.length > 0) && (
           <div className="flex items-center gap-3 text-[11px] text-gray-400 pt-0.5">
             {people.length > 0 && (
@@ -263,6 +286,7 @@ interface EventCardsProps {
   feature: GeoJSONFeature;
   searchQuery?: string;
   nexusLevels?: string[];
+  selectedPeople?: string[];
 }
 
 function eventMatchesQuery(event: AtlasEvent, q: string): boolean {
@@ -276,14 +300,12 @@ function eventMatchesQuery(event: AtlasEvent, q: string): boolean {
   return searchable.includes(lower);
 }
 
-export default function EventCards({ feature, searchQuery = "", nexusLevels }: EventCardsProps) {
+export default function EventCards({ feature, searchQuery = "", nexusLevels, selectedPeople = [] }: EventCardsProps) {
   const [selectedEvent, setSelectedEvent] = useState<AtlasEvent | null>(null);
 
   const events: AtlasEvent[] = useMemo(() => {
-    const all: AtlasEvent[] = feature.properties.events || [];
-    if (!nexusLevels || nexusLevels.length === 0) return all;
-    return all.filter(e => e.epstein_nexus && nexusLevels.includes(e.epstein_nexus));
-  }, [feature, nexusLevels]);
+    return feature.properties.events || [];
+  }, [feature]);
 
   // Reset selection when feature changes
   useEffect(() => {
@@ -325,26 +347,14 @@ export default function EventCards({ feature, searchQuery = "", nexusLevels }: E
     return items;
   }, [events]);
 
-  const totalCount = feature.properties.events?.length ?? 0;
-
   if (events.length === 0) {
-    if (nexusLevels?.length) {
-      return (
-        <section>
-          <h3 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-4">
-            Events (0 of {totalCount})
-          </h3>
-          <p className="text-sm text-gray-400 italic">No {nexusLevels.join("/")} events at this location.</p>
-        </section>
-      );
-    }
     return null;
   }
 
   return (
     <section>
       <h3 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-4">
-        Events ({events.length}{nexusLevels?.length ? ` of ${totalCount}` : ""})
+        Events ({events.length})
       </h3>
 
       <div className="space-y-2">
@@ -359,6 +369,8 @@ export default function EventCards({ feature, searchQuery = "", nexusLevels }: E
               index={item.index}
               onClick={() => setSelectedEvent(item.event)}
               isMatch={eventMatchesQuery(item.event, searchQuery)}
+              searchQuery={searchQuery}
+              selectedPeople={selectedPeople}
             />
           );
         })}

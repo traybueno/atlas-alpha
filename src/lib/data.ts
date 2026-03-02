@@ -91,50 +91,88 @@ export function filterFeatures(
   features: GeoJSONFeature[],
   filters: FilterState
 ): GeoJSONFeature[] {
-  return features.filter((f) => {
+  const hasPeopleFilter = filters.people.length > 0;
+  const hasNexusFilter = filters.nexusLevels.length > 0;
+  const hasSearch = !!filters.searchQuery;
+  const q = filters.searchQuery?.toLowerCase() || "";
+
+  return features.reduce<GeoJSONFeature[]>((acc, f) => {
     const p = f.properties;
+    const events = p.events || [];
 
-    // Nexus filter
-    if (filters.nexusLevels.length > 0) {
-      if (!filters.nexusLevels.includes(p.epstein_nexus)) return false;
-    }
-
-    // People filter
-    if (filters.people.length > 0) {
-      const hasPerson = filters.people.some((person) =>
-        p.people.some((pp) => {
-          const name = typeof pp === "string" ? pp : pp.name;
-          return name.toLowerCase().includes(person.toLowerCase());
-        })
-      );
-      if (!hasPerson) return false;
-    }
-
-    // Search query
-    if (filters.searchQuery) {
-      const q = filters.searchQuery.toLowerCase();
-      const peopleNames = p.people.map((pp) =>
-        typeof pp === "string" ? pp : pp.name
-      );
-      // Also search nested event titles and descriptions
-      const events: Array<{ event_title?: string; title?: string; description?: string }> = p.events || [];
-      const eventTitles = events.map((e) => e.event_title || e.title || "");
-      const eventDescs = events.map((e) => e.description || "");
-      const searchable = [
+    // --- Location-level search match (display_name, region, location_description) ---
+    let locationLevelSearchMatch = false;
+    if (hasSearch) {
+      const locationSearchable = [
         p.display_name,
-        p.event_description,
         p.region,
-        ...peopleNames,
-        ...eventTitles,
-        ...eventDescs,
-      ]
-        .join(" ")
-        .toLowerCase();
-      if (!searchable.includes(q)) return false;
+        p.location_description || "",
+      ].join(" ").toLowerCase();
+      locationLevelSearchMatch = locationSearchable.includes(q);
     }
 
-    return true;
-  });
+    // --- Event-level filtering (people + nexus + search) ---
+    const needsEventFilter = hasPeopleFilter || hasNexusFilter || (hasSearch && !locationLevelSearchMatch);
+
+    if (needsEventFilter) {
+      const matchingEvents = events.filter((event) => {
+        // People filter: does this event mention any selected person?
+        if (hasPeopleFilter) {
+          const eventPeopleNames = (event.people || []).map((ep) =>
+            typeof ep === "string" ? ep : ep.name
+          );
+          const hasPerson = filters.people.some((person) =>
+            eventPeopleNames.some((name) =>
+              name.toLowerCase().includes(person.toLowerCase())
+            )
+          );
+          if (!hasPerson) return false;
+        }
+
+        // Nexus filter: does this event match selected nexus levels?
+        if (hasNexusFilter) {
+          if (!event.epstein_nexus || !filters.nexusLevels.includes(event.epstein_nexus)) return false;
+        }
+
+        // Search filter (event-level): search event title, description, people names
+        if (hasSearch && !locationLevelSearchMatch) {
+          const eventPeopleNames = (event.people || []).map((ep) =>
+            typeof ep === "string" ? ep : ep.name
+          );
+          const eventSearchable = [
+            event.event_title || "",
+            event.description || "",
+            p.event_description || "",
+            ...eventPeopleNames,
+          ].join(" ").toLowerCase();
+          if (!eventSearchable.includes(q)) return false;
+        }
+
+        return true;
+      });
+
+      if (matchingEvents.length === 0) return acc;
+
+      // Clone the feature with only matching events
+      const cloned: GeoJSONFeature = {
+        ...f,
+        properties: {
+          ...p,
+          events: matchingEvents,
+          event_count: matchingEvents.length,
+        },
+      };
+      acc.push(cloned);
+    } else if (hasSearch && locationLevelSearchMatch) {
+      // Location-level search match → include with ALL events
+      acc.push(f);
+    } else if (!hasSearch && !hasPeopleFilter && !hasNexusFilter) {
+      // No filters active → include everything
+      acc.push(f);
+    }
+
+    return acc;
+  }, []);
 }
 
 export function computeTimeline(features: GeoJSONFeature[]): TimelineData[] {
