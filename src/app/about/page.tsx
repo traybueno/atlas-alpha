@@ -25,7 +25,7 @@ export default function AboutPage() {
           <div className="max-w-4xl mx-auto px-6 py-16">
             <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-3">Powered by Valis</p>
             <h1 className="text-4xl font-bold text-gray-900 mb-4 leading-tight tracking-tight">
-              Large unstructured document sets →<br />interactive intelligence maps.
+              Turn thousands of documents into<br />an interactive intelligence map.
             </h1>
             <p className="text-lg text-gray-500 max-w-2xl">
               You have thousands of documents. Valis turns them into an interactive,
@@ -41,7 +41,7 @@ export default function AboutPage() {
             {/* Portfolio */}
             <div className="bg-gray-900 rounded-xl p-7 flex flex-col justify-between gap-6">
               <div>
-                <p className="text-xs font-semibold tracking-widest text-gray-500 uppercase mb-2">Proof of concept</p>
+                <p className="text-xs font-semibold tracking-widest text-gray-500 uppercase mb-2">Live example</p>
                 <h2 className="text-xl font-bold text-white mb-2">The Epstein Atlas</h2>
                 <p className="text-gray-400 text-sm leading-relaxed">
                   23,000+ government documents — FBI Vault, DOJ EFTA, federal court records —
@@ -71,9 +71,9 @@ export default function AboutPage() {
                   { title: "Attorneys", desc: "Surface patterns across discovery documents at scale." },
                   { title: "Investigators", desc: "Stop reading PDFs. Valis extracts, scores, and maps." },
                 ].map((item) => (
-                  <div key={item.title} className="flex gap-3 items-start">
-                    <span className="mt-0.5 w-1.5 h-1.5 rounded-full bg-gray-300 shrink-0 mt-2" />
-                    <p className="text-sm text-gray-600"><strong className="text-gray-900">{item.title}</strong> — {item.desc}</p>
+                  <div key={item.title} className="border border-gray-100 rounded-lg px-4 py-3">
+                    <p className="text-sm font-semibold text-gray-900 mb-0.5">{item.title}</p>
+                    <p className="text-sm text-gray-500">{item.desc}</p>
                   </div>
                 ))}
               </div>
@@ -84,9 +84,9 @@ export default function AboutPage() {
         {/* Contact / Interest Form */}
         <section>
           <div className="max-w-4xl mx-auto px-6 py-14">
-            <div className="max-w-2xl">
+            <div className="max-w-4xl">
               <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-3">Get in touch</p>
-              <h2 className="text-2xl font-bold text-gray-900 mb-2">Interested in this engine?</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-2">Have a corpus that needs mapping?</h2>
               <p className="text-gray-500 mb-8 leading-relaxed">
                 Whether you&apos;ve got a document corpus you want mapped, want to run your own instance,
                 or just want to follow where this is going — drop us a line.

@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
 
+export const dynamic = 'force-dynamic';
+
 const CONTACT_EMAIL = process.env.CONTACT_EMAIL || "splitsubjects@gmail.com";
 
 export async function POST(req: NextRequest) {
