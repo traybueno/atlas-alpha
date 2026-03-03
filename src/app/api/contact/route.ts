@@ -20,7 +20,7 @@ export async function POST(req: NextRequest) {
     }
 
     await resend.emails.send({
-      from: "Epstein Atlas Contact <onboarding@resend.dev>",
+      from: "Epstein Atlas Contact <hello@corners.world>",
       to: CONTACT_EMAIL,
       replyTo: email,
       subject: `New interest form: ${name}`,

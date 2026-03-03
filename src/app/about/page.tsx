@@ -23,12 +23,12 @@ export default function AboutPage() {
         {/* Hero */}
         <section className="border-b border-gray-100 bg-gray-50">
           <div className="max-w-4xl mx-auto px-6 py-20">
-            <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-4">Powered by Valis</p>
+            <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-4">A Corners Intelligence Map</p>
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6 leading-[1.1] tracking-tight">
               Turn thousands of documents<br />into an interactive, sourced map.
             </h1>
             <p className="text-lg text-gray-500 max-w-4xl leading-relaxed">
-              You have the documents. Valis extracts every person, location, and event,
+              You have the documents. Corners extracts every person, location, and event,
               then maps them with source citations and confidence scores.
               Every claim is verifiable. Nothing is invented.
             </p>
@@ -92,7 +92,7 @@ export default function AboutPage() {
                 },
                 {
                   title: "Investigators",
-                  desc: "Stop reading PDFs one at a time. Valis extracts entities, scores confidence, and maps everything with full source tracing.",
+                  desc: "Stop reading PDFs one at a time. Corners extracts entities, scores confidence, and maps everything with full source tracing.",
                 },
               ].map((item) => (
                 <div
