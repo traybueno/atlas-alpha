@@ -56,7 +56,7 @@ export default function SourcesPage() {
           </Link>
           <nav className="flex gap-4 text-sm text-gray-500">
             <Link href="/map" className="hover:text-gray-900">Map</Link>
-            <Link href="/about" className="hover:text-gray-900">About</Link>
+            <a href="https://corners.world" target="_blank" rel="noopener noreferrer" className="hover:text-gray-900">About</a>
             <Link href="/sources" className="text-gray-900 font-medium">Sources</Link>
           </nav>
         </div>
