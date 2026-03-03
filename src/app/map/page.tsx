@@ -131,7 +131,9 @@ export default function MapPage() {
             {filteredData.features.length.toLocaleString()} locations · {filteredData.features.reduce((sum, f) => sum + (f.properties?.event_count ?? 0), 0).toLocaleString()} events
           </span>
           <a
-            href="/about"
+            href="https://corners.world"
+            target="_blank"
+            rel="noopener noreferrer"
             className="hover:text-gray-900 transition-colors"
           >
             About

@@ -11,7 +11,7 @@ export default function PrivacyPage() {
           </Link>
           <nav className="flex gap-4 text-sm text-gray-500">
             <Link href="/map" className="hover:text-gray-900">Map</Link>
-            <Link href="/about" className="hover:text-gray-900">About</Link>
+            <a href="https://corners.world" target="_blank" rel="noopener noreferrer" className="hover:text-gray-900">About</a>
             <Link href="/sources" className="hover:text-gray-900">Sources</Link>
           </nav>
         </div>
