@@ -50,7 +50,7 @@ export default function Home() {
 
           {/* Atlas Engine */}
           <div className="mt-12 p-6 bg-gray-900 text-white rounded-xl text-left">
-            <h2 className="text-base font-semibold mb-1">Built with Atlas Engine</h2>
+            <h2 className="text-base font-semibold mb-1">Built with Corners Engine</h2>
             <p className="text-gray-400 text-sm">
               A pipeline for turning document dumps into navigable maps.
               Bring your own corpus — FOIA responses, court filings, corporate records.

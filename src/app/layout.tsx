@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "The Epstein Atlas — Interactive Location Map from Public Records",
   description:
-    "An interactive geographic map of every confirmed Jeffrey Epstein location extracted from public government archives. Every pin links to the source document. Built with Atlas Engine.",
+    "An interactive geographic map of every confirmed Jeffrey Epstein location extracted from public government archives. Every pin links to the source document. Built with Corners Engine.",
   openGraph: {
     title: "The Epstein Atlas",
     description:
