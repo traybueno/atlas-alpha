@@ -7,21 +7,19 @@ export default function Home() {
     <div className="min-h-screen flex flex-col bg-gray-950">
       {/* Hero */}
       <main className="flex-1 flex items-center justify-center">
-        <div className="max-w-2xl mx-auto px-6 py-20 sm:py-28 text-center">
+        <div className="max-w-3xl mx-auto px-6 py-12 sm:py-16 text-center">
           {/* Overline */}
-          <p className="text-xs font-semibold text-gray-500 uppercase tracking-[0.2em] mb-6">
+          <p className="text-xs font-semibold text-gray-500 uppercase tracking-[0.2em] mb-5">
             Public Records Investigation
           </p>
 
           <h1 className="text-5xl sm:text-7xl font-black text-white mb-5 tracking-tight leading-[0.95]">
-            The Epstein
-            <br />
-            Atlas
+            The Epstein Atlas
           </h1>
-          <p className="text-lg sm:text-xl text-gray-400 mb-3 max-w-md mx-auto">
+          <p className="text-lg sm:text-xl text-gray-400 mb-2">
             An interactive map of confirmed Jeffrey Epstein locations
           </p>
-          <p className="text-sm text-gray-600 mb-12 max-w-sm mx-auto">
+          <p className="text-sm text-gray-600 mb-10">
             Built from public government records. Every pin links to its source document.
           </p>
 
