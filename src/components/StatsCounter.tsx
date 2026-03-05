@@ -39,64 +39,52 @@ export default function StatsCounter() {
   if (!stats) return null;
 
   return (
-    <div className="mt-6 mb-2">
-      {/* Stat pills */}
-      <div className="flex flex-wrap items-center justify-center gap-3 text-sm">
-        <span className="inline-flex items-center gap-1.5 bg-gray-100 text-gray-700 px-3 py-1.5 rounded-full font-medium">
-          📍 <span className="font-bold text-gray-900">{formatNum(stats.locations)}</span> locations
-        </span>
-        <span className="inline-flex items-center gap-1.5 bg-gray-100 text-gray-700 px-3 py-1.5 rounded-full font-medium">
-          📅 <span className="font-bold text-gray-900">{formatNum(stats.events)}</span> events
-        </span>
-        <span className="inline-flex items-center gap-1.5 bg-gray-100 text-gray-700 px-3 py-1.5 rounded-full font-medium">
-          📄 <span className="font-bold text-gray-900">{formatNum(stats.docs_scanned)}</span> documents scanned
-        </span>
-      </div>
-
+    <div className="mt-8 mb-2">
       {/* Pipeline progress */}
       {stats.total_corpus > 0 && (
-        <div className="mt-5 mx-auto max-w-md">
-          <div className="border border-gray-200 bg-white rounded-xl px-5 py-4">
-            <div className="flex items-center gap-2 mb-3">
-              <span className="relative flex h-2.5 w-2.5">
+        <div className="mx-auto max-w-lg">
+          <div className="border border-gray-200 bg-white rounded-2xl px-7 py-6 shadow-sm">
+            <div className="flex items-center gap-2.5 mb-4">
+              <span className="relative flex h-3 w-3">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
+                <span className="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span>
               </span>
-              <span className="text-xs font-semibold text-emerald-700 uppercase tracking-wider">
+              <span className="text-sm font-semibold text-emerald-700 uppercase tracking-wider">
                 Live Investigation
               </span>
             </div>
 
             {/* Progress bar */}
-            <div className="w-full bg-gray-100 rounded-full h-2.5 mb-2.5 overflow-hidden">
+            <div className="w-full bg-gray-100 rounded-full h-3.5 mb-3 overflow-hidden">
               <div
-                className="bg-gradient-to-r from-emerald-500 to-emerald-400 h-2.5 rounded-full transition-all duration-1000"
+                className="bg-gradient-to-r from-emerald-500 to-emerald-400 h-3.5 rounded-full transition-all duration-1000"
                 style={{ width: `${Math.max(stats.scan_pct, 1.5)}%` }}
               />
             </div>
 
-            <p className="text-sm text-gray-600">
-              <span className="font-semibold text-gray-900">
+            <p className="text-base text-gray-600">
+              <span className="font-bold text-gray-900">
                 {formatNum(stats.docs_scanned)}
               </span>{" "}
               of{" "}
-              <span className="font-semibold text-gray-900">
+              <span className="font-bold text-gray-900">
                 {formatNum(stats.total_corpus)}
               </span>{" "}
-              documents processed
-              <span className="text-gray-400 ml-1">
+              government documents scanned
+              <span className="text-gray-400 ml-1.5">
                 ({stats.scan_pct}%)
               </span>
             </p>
-            <p className="text-xs text-gray-400 mt-1.5">
-              Pipeline is running — new locations added daily
+            <p className="text-sm text-gray-400 mt-2">
+              Pipeline is running — new locations surface daily.
+              Check back as the map grows.
             </p>
           </div>
         </div>
       )}
 
       {/* Last updated */}
-      <p className="text-xs text-gray-400 mt-3 text-center">
+      <p className="text-xs text-gray-400 mt-4 text-center">
         Last updated {formatDate(stats.last_updated)}
       </p>
     </div>
