@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Disclaimer from "@/components/Disclaimer";
 import StatsCounter from "@/components/StatsCounter";
-import InvestigationLog from "@/components/InvestigationLog";
 
 export default function Home() {
   return (
@@ -45,7 +44,6 @@ export default function Home() {
           </Link>
 
           <StatsCounter />
-          <InvestigationLog />
 
           {/* Features */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-12 text-left">
