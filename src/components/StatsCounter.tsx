@@ -13,11 +13,6 @@ interface Stats {
   last_updated: string;
 }
 
-interface FeedEntry {
-  date: string;
-  text: string;
-}
-
 function formatNum(n: number): string {
   return n.toLocaleString("en-US");
 }
@@ -35,16 +30,11 @@ function formatDate(iso: string): string {
 
 export default function StatsCounter() {
   const [stats, setStats] = useState<Stats | null>(null);
-  const [feed, setFeed] = useState<FeedEntry[]>([]);
 
   useEffect(() => {
     fetch("/data/stats.json", { cache: "no-store" })
       .then((r) => r.json())
       .then(setStats)
-      .catch(() => {});
-    fetch("/data/feed.json", { cache: "no-store" })
-      .then((r) => r.json())
-      .then(setFeed)
       .catch(() => {});
   }, []);
 
@@ -113,25 +103,6 @@ export default function StatsCounter() {
                   Pipeline is running — new locations surface daily
                 </span>
               </div>
-
-              {/* Recent Finds Feed */}
-              {feed.length > 0 && (
-                <div className="mb-8">
-                  <p className="text-xs font-semibold text-gray-500 uppercase tracking-[0.15em] mb-3">
-                    Recent Finds
-                  </p>
-                  <ul className="space-y-2">
-                    {feed.map((entry, i) => (
-                      <li key={i} className="flex gap-2.5 text-left">
-                        <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full bg-emerald-500/60" />
-                        <span className="text-sm text-gray-400 leading-snug">
-                          {entry.text}
-                        </span>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
 
               {/* Secondary stats row */}
               <div className="grid grid-cols-3 gap-4 pt-6 border-t border-gray-800">
