@@ -17,7 +17,7 @@ export default function Home() {
             The Epstein Atlas
           </h1>
           <p className="text-lg sm:text-xl text-gray-400 mb-2">
-            An interactive map of confirmed Jeffrey Epstein locations
+            An interactive map of Jeffrey Epstein locations
           </p>
           <p className="text-sm text-gray-600 mb-10">
             Built from public government records. Every pin links to its source document.
@@ -74,7 +74,12 @@ export default function Home() {
           </div>
 
           {/* Atlas Engine */}
-          <div className="mt-10 p-6 bg-gray-900 border border-gray-800 rounded-xl text-left">
+          <a
+            href="https://corners.world"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block mt-10 p-6 bg-gray-900 border border-gray-800 rounded-xl text-left hover:border-gray-700 hover:bg-gray-900/80 transition-colors"
+          >
             <h2 className="text-sm font-semibold text-gray-300 mb-1.5">
               Built with Corners Engine
             </h2>
@@ -82,7 +87,7 @@ export default function Home() {
               A pipeline for turning document dumps into navigable maps.
               Bring your own corpus — FOIA responses, court filings, corporate records.
             </p>
-          </div>
+          </a>
         </div>
       </main>
 
