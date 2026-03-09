@@ -104,7 +104,7 @@ export default function AtlasMap({
       cinemaTimerRef.current = setTimeout(() => {
         if (!cinemaActiveRef.current) return;
         onCinemaDeselectRef.current?.();
-        map.current?.flyTo({ center: [-20, 0], zoom: 1.5, bearing: 0, pitch: 0, duration: 2500, essential: true });
+        map.current?.flyTo({ center: [-20, 25], zoom: 2.8, bearing: 0, pitch: 0, duration: 2500, essential: true });
 
         // Resume spinning, then loop again
         cinemaTimerRef.current = setTimeout(() => {
@@ -144,22 +144,17 @@ export default function AtlasMap({
     canvas?.addEventListener("wheel", handleInteraction, { once: true, passive: true });
     document.addEventListener("keydown", handleInteraction, { once: true });
 
-    // Fly to full-globe overview first so both poles are in frame
-    map.current?.flyTo({ center: [-20, 0], zoom: 1.5, bearing: 0, pitch: 0, duration: 1800, essential: true });
-
+    // Start spinning immediately — increment longitude for correct globe axis
     const spin = () => {
       if (!cinemaActiveRef.current || !map.current) return;
       const c = map.current.getCenter();
       map.current.setCenter([(c.lng + 0.08) % 360, c.lat]);
       spinRafRef.current = requestAnimationFrame(spin);
     };
+    spinRafRef.current = requestAnimationFrame(spin);
 
-    // Start spinning after fly-in settles; first pin visit 3s after that
-    cinemaTimerRef.current = setTimeout(() => {
-      if (!cinemaActiveRef.current) return;
-      spinRafRef.current = requestAnimationFrame(spin);
-      cinemaTimerRef.current = setTimeout(() => cinemaLoopRef.current(), 3000);
-    }, 1900);
+    // First pin visit after 3s of globe spin
+    cinemaTimerRef.current = setTimeout(() => cinemaLoopRef.current(), 3000);
 
     return () => {
       stopCinema();
@@ -260,7 +255,7 @@ export default function AtlasMap({
           : "mapbox://styles/mapbox/light-v11",
       center: [-72, 30],
       zoom: 3.5,
-      minZoom: 1,
+      minZoom: 2,
       maxZoom: 18,
       attributionControl: true,
     });
