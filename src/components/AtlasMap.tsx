@@ -125,14 +125,11 @@ export default function AtlasMap({
     if (cinemaTimerRef.current) { clearTimeout(cinemaTimerRef.current); cinemaTimerRef.current = null; }
     if (spinRafRef.current) { cancelAnimationFrame(spinRafRef.current); spinRafRef.current = null; }
     onCinemaDeselectRef.current?.();
-    try { localStorage.setItem("atlas_cinema_seen", "1"); } catch { /* ignore */ }
+    // cinemaActiveRef = false is enough — no persistent storage needed
   }, []);
 
   useEffect(() => {
     if (!mapReady) return;
-    let seen = false;
-    try { seen = !!localStorage.getItem("atlas_cinema_seen"); } catch { /* ignore */ }
-    if (seen) return;
 
     cinemaActiveRef.current = true;
     const canvas = map.current?.getCanvas();
