@@ -188,6 +188,7 @@ export default function MapPage() {
           data={filteredData}
           onFeatureClick={handleFeatureClick}
           onLocationClick={handleLocationClick}
+          onCinemaDeselect={() => setSelectedFeature(null)}
         />
 
         {/* Zero-results overlay */}

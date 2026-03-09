@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useCallback } from "react";
+import { useEffect, useRef, useCallback, useState } from "react";
 import mapboxgl from "mapbox-gl";
 import type { GeoJSONFeatureCollection, GeoJSONFeature } from "@/lib/types";
 import { inferQualityTier } from "@/lib/data";
@@ -9,6 +9,7 @@ interface AtlasMapProps {
   data: GeoJSONFeatureCollection;
   onFeatureClick: (feature: GeoJSONFeature) => void;
   onLocationClick: (locationName: string, features: GeoJSONFeature[]) => void;
+  onCinemaDeselect?: () => void;
   dateRange?: [string | null, string | null];
   mapStyle?: "light" | "satellite";
 }
@@ -50,12 +51,116 @@ export default function AtlasMap({
   data,
   onFeatureClick,
   onLocationClick,
+  onCinemaDeselect,
   dateRange,
   mapStyle = "light",
 }: AtlasMapProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<mapboxgl.Map | null>(null);
   const popup = useRef<mapboxgl.Popup | null>(null);
+
+  // ── Cinema mode ──────────────────────────────────────────────────────────
+  const [mapReady, setMapReady] = useState(false);
+  const cinemaActiveRef = useRef(false);
+  const cinemaTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const spinRafRef = useRef<number | null>(null);
+  const dataRef = useRef(data);
+  const onFeatureClickRef = useRef(onFeatureClick);
+  const onCinemaDeselectRef = useRef(onCinemaDeselect);
+  const cinemaLoopRef = useRef<() => void>(() => {});
+
+  useEffect(() => { dataRef.current = data; }, [data]);
+  useEffect(() => { onFeatureClickRef.current = onFeatureClick; }, [onFeatureClick]);
+  useEffect(() => { onCinemaDeselectRef.current = onCinemaDeselect; }, [onCinemaDeselect]);
+
+  // Keep cinemaLoopRef current every render (safe — just a ref assignment)
+  cinemaLoopRef.current = () => {
+    if (!cinemaActiveRef.current || !map.current) return;
+
+    // Stop spinning while flying
+    if (spinRafRef.current) { cancelAnimationFrame(spinRafRef.current); spinRafRef.current = null; }
+
+    // Pick a random well-evidenced pin
+    const eligible = dataRef.current.features.filter(
+      (f) => f.geometry.type === "Point" && (f.properties?.event_count ?? 0) >= 2
+    );
+    if (!eligible.length) return;
+    const feature = eligible[Math.floor(Math.random() * eligible.length)];
+    const [lng, lat] = (feature.geometry as { type: "Point"; coordinates: [number, number] }).coordinates;
+
+    // Fly in
+    map.current.flyTo({ center: [lng, lat], zoom: 9 + Math.random() * 2, duration: 2500, essential: true });
+
+    // Open sidebar after landing
+    cinemaTimerRef.current = setTimeout(() => {
+      if (!cinemaActiveRef.current) return;
+      onFeatureClickRef.current(feature);
+
+      // Close + zoom out after displaying
+      cinemaTimerRef.current = setTimeout(() => {
+        if (!cinemaActiveRef.current) return;
+        onCinemaDeselectRef.current?.();
+        map.current?.flyTo({ center: [-20, 25], zoom: 2.8, duration: 2500, essential: true });
+
+        // Resume spinning, then loop again
+        cinemaTimerRef.current = setTimeout(() => {
+          if (!cinemaActiveRef.current || !map.current) return;
+          const spin = () => {
+            if (!cinemaActiveRef.current || !map.current) return;
+            map.current.setBearing((map.current.getBearing() + 0.04) % 360);
+            spinRafRef.current = requestAnimationFrame(spin);
+          };
+          spinRafRef.current = requestAnimationFrame(spin);
+          cinemaTimerRef.current = setTimeout(() => cinemaLoopRef.current(), 3000);
+        }, 2600);
+      }, 3800);
+    }, 2700);
+  };
+
+  const stopCinema = useCallback(() => {
+    if (!cinemaActiveRef.current) return;
+    cinemaActiveRef.current = false;
+    if (cinemaTimerRef.current) { clearTimeout(cinemaTimerRef.current); cinemaTimerRef.current = null; }
+    if (spinRafRef.current) { cancelAnimationFrame(spinRafRef.current); spinRafRef.current = null; }
+    onCinemaDeselectRef.current?.();
+    try { localStorage.setItem("atlas_cinema_seen", "1"); } catch { /* ignore */ }
+  }, []);
+
+  useEffect(() => {
+    if (!mapReady) return;
+    let seen = false;
+    try { seen = !!localStorage.getItem("atlas_cinema_seen"); } catch { /* ignore */ }
+    if (seen) return;
+
+    cinemaActiveRef.current = true;
+    const canvas = map.current?.getCanvas();
+
+    const handleInteraction = () => stopCinema();
+    canvas?.addEventListener("mousedown", handleInteraction, { once: true });
+    canvas?.addEventListener("touchstart", handleInteraction, { once: true, passive: true });
+    canvas?.addEventListener("wheel", handleInteraction, { once: true, passive: true });
+    document.addEventListener("keydown", handleInteraction, { once: true });
+
+    // Start spinning immediately
+    const spin = () => {
+      if (!cinemaActiveRef.current || !map.current) return;
+      map.current.setBearing((map.current.getBearing() + 0.04) % 360);
+      spinRafRef.current = requestAnimationFrame(spin);
+    };
+    spinRafRef.current = requestAnimationFrame(spin);
+
+    // First pin visit after 3s of globe spin
+    cinemaTimerRef.current = setTimeout(() => cinemaLoopRef.current(), 3000);
+
+    return () => {
+      stopCinema();
+      canvas?.removeEventListener("mousedown", handleInteraction);
+      canvas?.removeEventListener("touchstart", handleInteraction);
+      canvas?.removeEventListener("wheel", handleInteraction);
+      document.removeEventListener("keydown", handleInteraction);
+    };
+  }, [mapReady, stopCinema]);
+  // ── End cinema mode ───────────────────────────────────────────────────────
 
   const initMap = useCallback(() => {
     if (!mapContainer.current || map.current) return;
@@ -411,6 +516,9 @@ export default function AtlasMap({
       map.current.on("mouseleave", "clusters", () => {
         if (map.current) map.current.getCanvas().style.cursor = "";
       });
+
+      // Signal that the map is ready for cinema mode
+      setMapReady(true);
     });
   }, [data, mapStyle, onFeatureClick, onLocationClick]);
 
