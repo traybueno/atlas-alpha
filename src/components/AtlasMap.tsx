@@ -88,8 +88,8 @@ export default function AtlasMap({
     const feature = eligible[Math.floor(Math.random() * eligible.length)];
     const [lng, lat] = (feature.geometry as { type: "Point"; coordinates: [number, number] }).coordinates;
 
-    // Fly in
-    map.current.flyTo({ center: [lng, lat], zoom: 9 + Math.random() * 2, duration: 2500, essential: true });
+    // Fly in — zoom 13 guarantees we're past clusterMaxZoom (10) and see individual pins
+    map.current.flyTo({ center: [lng, lat], zoom: 13, bearing: 0, pitch: 0, duration: 2500, essential: true });
 
     // Open sidebar after landing
     cinemaTimerRef.current = setTimeout(() => {
@@ -100,14 +100,16 @@ export default function AtlasMap({
       cinemaTimerRef.current = setTimeout(() => {
         if (!cinemaActiveRef.current) return;
         onCinemaDeselectRef.current?.();
-        map.current?.flyTo({ center: [-20, 25], zoom: 2.8, duration: 2500, essential: true });
+        map.current?.flyTo({ center: [-20, 25], zoom: 2.8, bearing: 0, pitch: 0, duration: 2500, essential: true });
 
         // Resume spinning, then loop again
         cinemaTimerRef.current = setTimeout(() => {
           if (!cinemaActiveRef.current || !map.current) return;
+          // Spin by incrementing center longitude — correct globe axis (east-west rotation)
           const spin = () => {
             if (!cinemaActiveRef.current || !map.current) return;
-            map.current.setBearing((map.current.getBearing() + 0.04) % 360);
+            const c = map.current.getCenter();
+            map.current.setCenter([(c.lng + 0.08) % 360, c.lat]);
             spinRafRef.current = requestAnimationFrame(spin);
           };
           spinRafRef.current = requestAnimationFrame(spin);
@@ -141,10 +143,11 @@ export default function AtlasMap({
     canvas?.addEventListener("wheel", handleInteraction, { once: true, passive: true });
     document.addEventListener("keydown", handleInteraction, { once: true });
 
-    // Start spinning immediately
+    // Start spinning immediately — increment longitude for correct globe axis
     const spin = () => {
       if (!cinemaActiveRef.current || !map.current) return;
-      map.current.setBearing((map.current.getBearing() + 0.04) % 360);
+      const c = map.current.getCenter();
+      map.current.setCenter([(c.lng + 0.08) % 360, c.lat]);
       spinRafRef.current = requestAnimationFrame(spin);
     };
     spinRafRef.current = requestAnimationFrame(spin);
