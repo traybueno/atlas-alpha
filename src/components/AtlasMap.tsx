@@ -10,6 +10,7 @@ interface AtlasMapProps {
   onFeatureClick: (feature: GeoJSONFeature) => void;
   onLocationClick: (locationName: string, features: GeoJSONFeature[]) => void;
   onCinemaDeselect?: () => void;
+  selectedFeatureId?: string;
   dateRange?: [string | null, string | null];
   mapStyle?: "light" | "satellite";
 }
@@ -52,6 +53,7 @@ export default function AtlasMap({
   onFeatureClick,
   onLocationClick,
   onCinemaDeselect,
+  selectedFeatureId,
   dateRange,
   mapStyle = "light",
 }: AtlasMapProps) {
@@ -91,10 +93,12 @@ export default function AtlasMap({
     // Fly in — zoom 13 guarantees we're past clusterMaxZoom (10) and see individual pins
     map.current.flyTo({ center: [lng, lat], zoom: 13, bearing: 0, pitch: 0, duration: 2500, essential: true });
 
-    // Open sidebar after landing
+    // Open sidebar after landing + ripple at the pin
     cinemaTimerRef.current = setTimeout(() => {
       if (!cinemaActiveRef.current) return;
       onFeatureClickRef.current(feature);
+      const projected = map.current?.project([lng, lat]);
+      if (projected) triggerRippleRef.current(projected);
 
       // Close + zoom out after displaying
       cinemaTimerRef.current = setTimeout(() => {
@@ -161,6 +165,76 @@ export default function AtlasMap({
     };
   }, [mapReady, stopCinema]);
   // ── End cinema mode ───────────────────────────────────────────────────────
+
+  // ── Selected-pin highlight ─────────────────────────────────────────────────
+  // Ripple trigger — stored in a ref so map click handlers can call it without
+  // being in their dependency list
+  const triggerRippleRef = useRef<(point: { x: number; y: number }) => void>(() => {});
+  triggerRippleRef.current = (point: { x: number; y: number }) => {
+    if (!mapContainer.current) return;
+    const el = document.createElement("div");
+    el.className = "pin-ripple";
+    el.style.left = `${point.x}px`;
+    el.style.top = `${point.y}px`;
+    mapContainer.current.appendChild(el);
+    setTimeout(() => el.remove(), 650);
+  };
+
+  // Update map paint whenever the selected feature changes
+  useEffect(() => {
+    if (!map.current || !mapReady) return;
+    const selId = selectedFeatureId ?? "__none__";
+    const SEL_FILL   = "#ffffff";
+    const SEL_STROKE = "#3b82f6";   // blue-500 — pops against all pin colours
+    const SEL_SW     = 3.5;
+
+    try {
+      // ── unclustered-point ──────────────────────────────────────────────
+      map.current.setPaintProperty("unclustered-point", "circle-color", [
+        "case", ["==", ["get", "id"], selId], SEL_FILL,
+        ["interpolate", ["linear"], ["get", "confidence"],
+          0.4, "#f97316", 0.6, "#eab308", 0.8, "#22c55e"],
+      ]);
+      map.current.setPaintProperty("unclustered-point", "circle-stroke-color", [
+        "case", ["==", ["get", "id"], selId], SEL_STROKE, "#ffffff",
+      ]);
+      map.current.setPaintProperty("unclustered-point", "circle-stroke-width", [
+        "case", ["==", ["get", "id"], selId], SEL_SW, 2,
+      ]);
+      map.current.setPaintProperty("unclustered-point", "circle-radius", [
+        "case", ["==", ["get", "id"], selId],
+        ["interpolate", ["linear"], ["get", "event_count"], 1, 9, 10, 13, 50, 19, 100, 25],
+        ["interpolate", ["linear"], ["get", "event_count"], 1, 6, 10, 10, 50, 16, 100, 22],
+      ]);
+
+      // ── unclustered-point-implied ──────────────────────────────────────
+      map.current.setPaintProperty("unclustered-point-implied", "circle-color", [
+        "case", ["==", ["get", "id"], selId], SEL_FILL,
+        ["interpolate", ["linear"], ["get", "confidence"],
+          0.2, "#fbbf24", 0.5, "#f59e0b", 0.8, "#d97706"],
+      ]);
+      map.current.setPaintProperty("unclustered-point-implied", "circle-stroke-color", [
+        "case", ["==", ["get", "id"], selId], SEL_STROKE, "#fbbf24",
+      ]);
+      map.current.setPaintProperty("unclustered-point-implied", "circle-stroke-width", [
+        "case", ["==", ["get", "id"], selId], SEL_SW, 2,
+      ]);
+
+      // ── unclustered-point-minimal ──────────────────────────────────────
+      map.current.setPaintProperty("unclustered-point-minimal", "circle-color", [
+        "case", ["==", ["get", "id"], selId], SEL_FILL, "#9ca3af",
+      ]);
+      map.current.setPaintProperty("unclustered-point-minimal", "circle-stroke-color", [
+        "case", ["==", ["get", "id"], selId], SEL_STROKE, "#d1d5db",
+      ]);
+      map.current.setPaintProperty("unclustered-point-minimal", "circle-stroke-width", [
+        "case", ["==", ["get", "id"], selId], SEL_SW, 1,
+      ]);
+    } catch {
+      // Layers not yet added (map not fully loaded); no-op
+    }
+  }, [selectedFeatureId, mapReady]);
+  // ── End selected-pin highlight ─────────────────────────────────────────────
 
   const initMap = useCallback(() => {
     if (!mapContainer.current || map.current) return;
@@ -395,6 +469,7 @@ export default function AtlasMap({
       // Click on implied point → open detail
       map.current.on("click", "unclustered-point-implied", (e) => {
         if (!e.features?.length) return;
+        triggerRippleRef.current(e.point);
         const feature = e.features[0];
         if (feature.properties) {
           onFeatureClick(deserializeMapboxFeature(feature));
@@ -404,6 +479,7 @@ export default function AtlasMap({
       // Click on minimal point → open detail
       map.current.on("click", "unclustered-point-minimal", (e) => {
         if (!e.features?.length) return;
+        triggerRippleRef.current(e.point);
         const feature = e.features[0];
         if (feature.properties) {
           onFeatureClick(deserializeMapboxFeature(feature));
@@ -413,6 +489,7 @@ export default function AtlasMap({
       // Click on point → open detail
       map.current.on("click", "unclustered-point", (e) => {
         if (!e.features?.length) return;
+        triggerRippleRef.current(e.point);
         const feature = e.features[0];
         if (feature.properties) {
           onFeatureClick(deserializeMapboxFeature(feature));
