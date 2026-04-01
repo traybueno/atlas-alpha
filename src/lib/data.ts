@@ -116,6 +116,9 @@ export function filterFeatures(
 
     if (needsEventFilter) {
       const matchingEvents = events.filter((event) => {
+        // Hard exclude: unrelated events never appear on map regardless of filters
+        if (event.epstein_nexus === 'unrelated') return false;
+
         // People filter: does this event mention any selected person?
         if (hasPeopleFilter) {
           const eventPeopleNames = (event.people || []).map((ep) =>
@@ -164,11 +167,29 @@ export function filterFeatures(
       };
       acc.push(cloned);
     } else if (hasSearch && locationLevelSearchMatch) {
-      // Location-level search match → include with ALL events
-      acc.push(f);
+      // Location-level search match → include with all non-unrelated events
+      const cleanEvents = events.filter((e) => e.epstein_nexus !== 'unrelated');
+      if (cleanEvents.length === 0) return acc;
+      if (cleanEvents.length !== events.length) {
+        acc.push({
+          ...f,
+          properties: { ...p, events: cleanEvents, event_count: cleanEvents.length },
+        });
+      } else {
+        acc.push(f);
+      }
     } else if (!hasSearch && !hasPeopleFilter && !hasNexusFilter) {
-      // No filters active → include everything
-      acc.push(f);
+      // No filters active → include everything except unrelated events
+      const cleanEvents = events.filter((e) => e.epstein_nexus !== 'unrelated');
+      if (cleanEvents.length === 0) return acc;
+      if (cleanEvents.length !== events.length) {
+        acc.push({
+          ...f,
+          properties: { ...p, events: cleanEvents, event_count: cleanEvents.length },
+        });
+      } else {
+        acc.push(f);
+      }
     }
 
     return acc;
